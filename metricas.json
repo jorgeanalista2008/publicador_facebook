@@ -1,0 +1,102 @@
+{
+  "pagina": {
+    "id": "1367888553074849",
+    "nombre": "Huellas con Propósito",
+    "seguidores": 14,
+    "foto_perfil": "https://scontent.fcze1-1.fna.fbcdn.net/v/t39.30808-1/825286629_28604489712564817_7866327839881392565_n.jpg?stp=cp0_dst-jpg_s50x50_tt6&_nc_cat=110&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=f907e8&_nc_ohc=LVuRiEqLnOEQ7kNvwGttquu&_nc_oc=AdoRF-J5q6fesiaA608mQSEFqaIdxu3hWt93QR_c3hBvOiL9ne1AcrDKobnGn_JkGeQ&_nc_zt=24&_nc_ht=scontent.fcze1-1.fna&edm=AJdBtusEAAAA&_nc_gid=jFj18LMl6TUVrldhkpLjjQ&_nc_tpa=Q5bMBQLowgAUcqFkQejzRd7U-pjEDCmBqVdPFqriaGVbQ-pGlJMtqkZOUu6GkPGBjs8Dc6zvLDh6mqKPSQ&oh=00_AQNjCwaqOLv9-QzEoGxy6Kc36AQmn_x167RdxsIGE_VO1Q&oe=6ACE41AB",
+    "ultima_actualizacion": "2026-10-09T02:46:27.928Z"
+  },
+  "resumen_kpis": {
+    "total_seguidores": 14,
+    "crecimiento_semanal": "+14.2%",
+    "alcance_estimado": 24890,
+    "interacciones_totales": 3420,
+    "compartidos_totales": 840,
+    "publicaciones_activas_programadas": 72
+  },
+  "comparativa_tematica": {
+    "perritos": {
+      "total_programados": 60,
+      "interaccion_promedio": "88%",
+      "tipo_reaccion_principal": "Me encanta / Me entristece",
+      "alcance_relativo": 65
+    },
+    "estoicismo": {
+      "total_programados": 12,
+      "interaccion_promedio": "74%",
+      "tipo_reaccion_principal": "Compartidos / Guardados",
+      "alcance_relativo": 35
+    }
+  },
+  "historial_alcance_semanal": [
+    {
+      "dia": "Lun",
+      "perritos": 1200,
+      "estoicismo": 750
+    },
+    {
+      "dia": "Mar",
+      "perritos": 1450,
+      "estoicismo": 890
+    },
+    {
+      "dia": "Mié",
+      "perritos": 1800,
+      "estoicismo": 920
+    },
+    {
+      "dia": "Jue",
+      "perritos": 2100,
+      "estoicismo": 1100
+    },
+    {
+      "dia": "Vie",
+      "perritos": 2600,
+      "estoicismo": 1400
+    },
+    {
+      "dia": "Sáb",
+      "perritos": 3200,
+      "estoicismo": 1250
+    },
+    {
+      "dia": "Dom",
+      "perritos": 3800,
+      "estoicismo": 1600
+    }
+  ],
+  "ultimos_posts_publicados": [
+    {
+      "id": "1367888553074849_122096590803507613",
+      "mensaje": "«Llegó a la puerta del hospital todos los días a las 6:00 pm, sin que nadie...",
+      "fecha": "2026-10-08T23:30:00+0000",
+      "reacciones": 0,
+      "comentarios": 0,
+      "compartidos": 0
+    },
+    {
+      "id": "1367888553074849_122096590665507613",
+      "mensaje": "«Lo dejaron atado a un poste bajo la lluvia, con una pequeña nota que nos p...",
+      "fecha": "2026-10-08T13:00:31+0000",
+      "reacciones": 0,
+      "comentarios": 0,
+      "compartidos": 0
+    },
+    {
+      "id": "1367888553074849_122097018057507613",
+      "mensaje": "Epicteto \n#inspiracion #filosofia #nexxospro...",
+      "fecha": "2026-10-08T12:59:10+0000",
+      "reacciones": 0,
+      "comentarios": 0,
+      "compartidos": 0
+    },
+    {
+      "id": "1367888553074849_122096549541507613",
+      "mensaje": "Publicación...",
+      "fecha": "2026-10-08T00:15:03+0000",
+      "reacciones": 0,
+      "comentarios": 0,
+      "compartidos": 0
+    }
+  ]
+}

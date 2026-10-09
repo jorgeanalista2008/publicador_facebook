@@ -32,8 +32,15 @@ jobs:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
         run: node publicador.js
 
+      - name: Actualizar métricas de Facebook
+        env:
+          META_ACCESS_TOKEN: ${{ secrets.META_ACCESS_TOKEN }}
+          PAGE_ID: ${{ secrets.PAGE_ID }}
+        run: node metricas.js
+
       - name: Guardar estado actualizado en el repositorio
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
-          commit_message: "Actualizar estado de publicaciones programadas [skip ci]"
-          file_pattern: "noviembre/publicaciones.json"
+          commit_message: "Actualizar estado de publicaciones y metricas [skip ci]"
+          file_pattern: "noviembre/publicaciones.json metricas.json"
+
