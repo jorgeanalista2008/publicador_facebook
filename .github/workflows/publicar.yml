@@ -1,0 +1,38 @@
+name: Programador Automático de Facebook
+
+on:
+  schedule:
+    # Se ejecuta automáticamente todos los días a las 12:00 UTC (08:00 AM hora local)
+    - cron: '0 12 * * *'
+  # Permite ejecutarlo manualmente en cualquier momento desde la pestaña "Actions" de GitHub
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  publicar:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Clonar repositorio
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Configurar Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+
+      - name: Ejecutar publicador de Facebook
+        env:
+          META_ACCESS_TOKEN: ${{ secrets.META_ACCESS_TOKEN }}
+          PAGE_ID: ${{ secrets.PAGE_ID }}
+        run: node publicador.js
+
+      - name: Guardar estado actualizado en el repositorio
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "Actualizar estado de publicaciones programadas [skip ci]"
+          file_pattern: "noviembre/publicaciones.json"

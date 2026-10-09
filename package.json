@@ -1,0 +1,13 @@
+{
+  "name": "publicador-facebook-node",
+  "version": "1.0.0",
+  "description": "Publicador y programador automático de contenido para Facebook en Node.js con GitHub Actions",
+  "type": "module",
+  "main": "publicador.js",
+  "scripts": {
+    "start": "node publicador.js"
+  },
+  "keywords": ["facebook", "meta", "scheduler", "automation", "github-actions"],
+  "author": "Jorge Flores",
+  "license": "MIT"
+}
