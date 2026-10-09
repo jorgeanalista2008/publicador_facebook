@@ -250,13 +250,18 @@
           <tr class="hover:bg-slate-900/40 transition">
             <td class="py-3 px-4 font-medium text-slate-200">
               <span class="line-clamp-2">${p.mensaje}</span>
-              <span class="text-[10px] text-slate-500">${new Date(p.fecha).toLocaleDateString()}</span>
+              <div class="flex items-center gap-3 mt-1">
+                <span class="text-[10px] text-slate-400 font-mono">📅 ${new Date(p.fecha).toLocaleString('es-ES', { day: '2-digit', month: 'short', hour: '2-digit', minute: '2-digit' })}</span>
+                <a href="https://www.facebook.com/${p.id}" target="_blank" class="text-[11px] text-brand-400 hover:text-brand-300 hover:underline font-semibold flex items-center gap-0.5">
+                  Ver en Facebook ↗
+                </a>
+              </div>
             </td>
-            <td class="py-3 px-4 text-center font-bold text-pink-400">${p.reacciones}</td>
-            <td class="py-3 px-4 text-center text-brand-400">${p.comentarios}</td>
-            <td class="py-3 px-4 text-center text-amber-400">${p.compartidos}</td>
+            <td class="py-3 px-4 text-center font-bold text-pink-400 text-sm">${p.reacciones}</td>
+            <td class="py-3 px-4 text-center font-bold text-brand-400 text-sm">${p.comentarios}</td>
+            <td class="py-3 px-4 text-center font-bold text-amber-400 text-sm">${p.compartidos}</td>
             <td class="py-3 px-4 text-right">
-              <span class="bg-emerald-500/10 text-emerald-400 border border-emerald-500/20 text-[10px] px-2 py-0.5 rounded-full">Publicado</span>
+              <span class="bg-emerald-500/10 text-emerald-400 border border-emerald-500/20 text-[10px] px-2.5 py-1 rounded-full font-medium">Publicado</span>
             </td>
           </tr>
         `).join('');
