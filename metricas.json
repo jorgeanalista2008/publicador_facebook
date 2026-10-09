@@ -2,27 +2,27 @@
   "pagina": {
     "id": "1367888553074849",
     "nombre": "Huellas con Propósito",
-    "seguidores": 14,
-    "foto_perfil": "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.30808-1/825286629_28604489712564817_7866327839881392565_n.jpg?stp=cp0_dst-jpg_s50x50_tt6&_nc_cat=110&ccb=1-7&_nc_sid=f907e8&_nc_ohc=LVuRiEqLnOEQ7kNvwHYYZDy&_nc_oc=AdpUxWLF1nrwlhQ0Vn9qwLs3TbGsL3qulM-DxVznxxMivPKsstZhhzelJ94maKg05Dw&_nc_zt=24&_nc_ht=scontent-sjc3-1.xx&edm=AJdBtusEAAAA&_nc_gid=Yx_i9HASJxGJRLsahcoxhw&_nc_tpa=Q5bMBQK1Aw1Q0RsK4HIYXV0p4BFIYJHIJipoX8W8Bc1qvs2XVUJkZeD5wZLcJof3FdJHtdQIONjLcEhXZg&oh=00_AQOhW7P3jdOsjEuU0DOT72RO91wkQ_oLm1fa9zl_DUu-Ww&oe=6ACEB22B",
-    "ultima_actualizacion": "2026-10-09T11:05:14.347Z"
+    "seguidores": 16,
+    "foto_perfil": "https://scontent-sea5-1.xx.fbcdn.net/v/t39.30808-1/825286629_28604489712564817_7866327839881392565_n.jpg?stp=cp0_dst-jpg_s50x50_tt6&_nc_cat=110&ccb=1-7&_nc_sid=f907e8&_nc_ohc=qIrYIR_8fyAQ7kNvwHh8P3s&_nc_oc=AdqkMNj5vLPRuja7m7QBHSZdLqqbP0ZkK926wjACHKtw69oXm7nCGdTJH968A_CYYYI&_nc_zt=24&_nc_ht=scontent-sea5-1.xx&edm=AJdBtusEAAAA&_nc_gid=PK-vlxX2DVtJX8E6GXeMlw&_nc_tpa=Q5bMBQKre40GViM6Fkp2gRudnUn8op4a9whl0YK5JY6ckDJlBlZU9pmHE4lKoQmfuLP16ERSFSW66G_K1w&oh=00_AQNqT2BVwWsW7yzX1TsqtuElcf_UkGP7HhM2jKRxj5_V-A&oe=6ACEEA6B",
+    "ultima_actualizacion": "2026-10-09T17:52:51.268Z"
   },
   "resumen_kpis": {
-    "total_seguidores": 14,
+    "total_seguidores": 16,
     "crecimiento_semanal": "+14.2%",
     "alcance_estimado": 24890,
     "interacciones_totales": 3420,
     "compartidos_totales": 840,
-    "publicaciones_activas_programadas": 73
+    "publicaciones_activas_programadas": 75
   },
   "comparativa_tematica": {
     "perritos": {
-      "total_programados": 60,
+      "total_programados": 61,
       "interaccion_promedio": "88%",
       "tipo_reaccion_principal": "Me encanta / Me entristece",
       "alcance_relativo": 65
     },
     "estoicismo": {
-      "total_programados": 13,
+      "total_programados": 14,
       "interaccion_promedio": "74%",
       "tipo_reaccion_principal": "Compartidos / Guardados",
       "alcance_relativo": 35
@@ -66,6 +66,54 @@
     }
   ],
   "ultimos_posts_publicados": [
+    {
+      "id": "1367888553074849_122097877539507613",
+      "mensaje": "Pocas palabras despiertan tantas reacciones como \"poder\".\nUnos lo admiran. ...",
+      "fecha": "2026-10-09T17:18:30+0000",
+      "reacciones": 0,
+      "comentarios": 0,
+      "compartidos": 0
+    },
+    {
+      "id": "1367888553074849_122097815403507613",
+      "mensaje": "Lección 07. La frase que nunca escribió.\n¿Lo sabías? 1 o 2 👇\n\"El fin justi...",
+      "fecha": "2026-10-09T15:43:36+0000",
+      "reacciones": 0,
+      "comentarios": 0,
+      "compartidos": 0
+    },
+    {
+      "id": "1367888553074849_122097814029507613",
+      "mensaje": "Publicación...",
+      "fecha": "2026-10-09T15:41:17+0000",
+      "reacciones": 1,
+      "comentarios": 0,
+      "compartidos": 0
+    },
+    {
+      "id": "1367888553074849_122097773685507613",
+      "mensaje": "La cámara de mi casa captó el momento en que una señora amarró a su perrita...",
+      "fecha": "2026-10-09T14:44:04+0000",
+      "reacciones": 0,
+      "comentarios": 0,
+      "compartidos": 0
+    },
+    {
+      "id": "1367888553074849_122097772659507613",
+      "mensaje": "La cámara de mi casa captó el momento en que una señora amarró a su perrita...",
+      "fecha": "2026-10-09T14:43:35+0000",
+      "reacciones": 11,
+      "comentarios": 0,
+      "compartidos": 0
+    },
+    {
+      "id": "1367888553074849_122096590857507613",
+      "mensaje": "«Tenía 12 años, cataratas y el hocico lleno de canas. Todos decían que nadi...",
+      "fecha": "2026-10-09T13:01:32+0000",
+      "reacciones": 0,
+      "comentarios": 0,
+      "compartidos": 0
+    },
     {
       "id": "1367888553074849_122097615501507613",
       "mensaje": "En una calle tranquila del barrio, cada martes y viernes amanecía igual: bo...",
