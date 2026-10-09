@@ -2,21 +2,21 @@
   "pagina": {
     "id": "1367888553074849",
     "nombre": "Huellas con Propósito",
-    "seguidores": 16,
-    "foto_perfil": "https://scontent-sea5-1.xx.fbcdn.net/v/t39.30808-1/825286629_28604489712564817_7866327839881392565_n.jpg?stp=cp0_dst-jpg_s50x50_tt6&_nc_cat=110&ccb=1-7&_nc_sid=f907e8&_nc_ohc=qIrYIR_8fyAQ7kNvwHh8P3s&_nc_oc=AdqkMNj5vLPRuja7m7QBHSZdLqqbP0ZkK926wjACHKtw69oXm7nCGdTJH968A_CYYYI&_nc_zt=24&_nc_ht=scontent-sea5-1.xx&edm=AJdBtusEAAAA&_nc_gid=PK-vlxX2DVtJX8E6GXeMlw&_nc_tpa=Q5bMBQKre40GViM6Fkp2gRudnUn8op4a9whl0YK5JY6ckDJlBlZU9pmHE4lKoQmfuLP16ERSFSW66G_K1w&oh=00_AQNqT2BVwWsW7yzX1TsqtuElcf_UkGP7HhM2jKRxj5_V-A&oe=6ACEEA6B",
-    "ultima_actualizacion": "2026-10-09T17:52:51.268Z"
+    "seguidores": 18,
+    "foto_perfil": "https://scontent-iad3-1.xx.fbcdn.net/v/t39.30808-1/825286629_28604489712564817_7866327839881392565_n.jpg?stp=cp0_dst-jpg_s50x50_tt6&_nc_cat=110&ccb=1-7&_nc_sid=f907e8&_nc_ohc=qIrYIR_8fyAQ7kNvwF1KAbH&_nc_oc=AdpvvmIukjaaEKjXFmFYJclddzIRBGZxbbhXg3Tnf986E_GpXjNcSNJLZWI2kylHc9g&_nc_zt=24&_nc_ht=scontent-iad3-1.xx&edm=AJdBtusEAAAA&_nc_gid=Huf-3Zg3Xk7H76rrvh_IXw&_nc_tpa=Q5bMBQJ2xlQG3N0LP9wbXoMTOvropaUk0KOGThCN4bSJQWIqKlg1X_N-KuF8cRrX1AYY6z59S7fNw9CoMA&oh=00_AQNZ464MJOVkNQpRGsKdgfR97eO8NoPGuX0cpY8iOso0aA&oe=6ACF5AEB",
+    "ultima_actualizacion": "2026-10-09T23:46:42.866Z"
   },
   "resumen_kpis": {
-    "total_seguidores": 16,
+    "total_seguidores": 18,
     "crecimiento_semanal": "+14.2%",
     "alcance_estimado": 24890,
     "interacciones_totales": 3420,
     "compartidos_totales": 840,
-    "publicaciones_activas_programadas": 75
+    "publicaciones_activas_programadas": 76
   },
   "comparativa_tematica": {
     "perritos": {
-      "total_programados": 61,
+      "total_programados": 62,
       "interaccion_promedio": "88%",
       "tipo_reaccion_principal": "Me encanta / Me entristece",
       "alcance_relativo": 65
@@ -67,6 +67,14 @@
   ],
   "ultimos_posts_publicados": [
     {
+      "id": "1367888553074849_122096590905507613",
+      "mensaje": "«En este pueblo nadie sabía de quién era, pero todos los días a las 7:45 am...",
+      "fecha": "2026-10-09T23:30:00+0000",
+      "reacciones": 0,
+      "comentarios": 0,
+      "compartidos": 0
+    },
+    {
       "id": "1367888553074849_122097877539507613",
       "mensaje": "Pocas palabras despiertan tantas reacciones como \"poder\".\nUnos lo admiran. ...",
       "fecha": "2026-10-09T17:18:30+0000",
@@ -102,7 +110,7 @@
       "id": "1367888553074849_122097772659507613",
       "mensaje": "La cámara de mi casa captó el momento en que una señora amarró a su perrita...",
       "fecha": "2026-10-09T14:43:35+0000",
-      "reacciones": 11,
+      "reacciones": 13,
       "comentarios": 0,
       "compartidos": 0
     },
