@@ -25,12 +25,19 @@ jobs:
         with:
           node-version: '22'
 
-      - name: Ejecutar publicador de Facebook
+      - name: Ejecutar publicador de Facebook (Huellas con Propósito)
         env:
           META_ACCESS_TOKEN: ${{ secrets.META_ACCESS_TOKEN }}
           PAGE_ID: ${{ secrets.PAGE_ID }}
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
         run: node publicador.js
+
+      - name: Ejecutar publicador de Facebook (Metalidad de Acero)
+        env:
+          META_ACCESS_TOKEN_ACERO: ${{ secrets.META_ACCESS_TOKEN_ACERO }}
+          PAGE_ID_ACERO: ${{ secrets.PAGE_ID_ACERO }}
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+        run: node programar_mentalidad_acero.js
 
       - name: Ejecutar Community Manager IA (Responder Comentarios)
         env:
@@ -39,16 +46,18 @@ jobs:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
         run: node respondedor_comentarios.js
 
-      - name: Actualizar métricas de Facebook
+      - name: Actualizar métricas de Facebook (Multi-Página)
         env:
           META_ACCESS_TOKEN: ${{ secrets.META_ACCESS_TOKEN }}
           PAGE_ID: ${{ secrets.PAGE_ID }}
+          META_ACCESS_TOKEN_ACERO: ${{ secrets.META_ACCESS_TOKEN_ACERO }}
+          PAGE_ID_ACERO: ${{ secrets.PAGE_ID_ACERO }}
         run: node metricas.js
 
       - name: Guardar estado actualizado en el repositorio
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
-          commit_message: "Actualizar publicaciones, respuestas IA y metricas [skip ci]"
-          file_pattern: "noviembre/publicaciones.json metricas.json historial_comentarios.json"
+          commit_message: "Actualizar publicaciones multi-pagina, respuestas IA y metricas [skip ci]"
+          file_pattern: "noviembre/publicaciones.json mentalidad_de_acero/publicaciones.json metricas.json historial_comentarios.json"
 
 

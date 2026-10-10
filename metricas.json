@@ -4,10 +4,9 @@
     "nombre": "Huellas con Propósito",
     "categoria": "Animals & Pets",
     "seguidores": 24,
-    "fans": 24,
     "personas_hablando": 131,
-    "foto_perfil": "https://scontent.fccs3-1.fna.fbcdn.net/v/t39.30808-1/825286629_28604489712564817_7866327839881392565_n.jpg?stp=cp0_dst-jpg_s50x50_tt6&_nc_cat=110&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=f907e8&_nc_ohc=qIrYIR_8fyAQ7kNvwHSCmqx&_nc_oc=AdpQ2Ke1xHuczfM75BOKwNhByZmORF7-Ve8ysong-ZQXx5-3Wvxy8odG5odUHNXqdbc&_nc_zt=24&_nc_ht=scontent.fccs3-1.fna&edm=AJdBtusEAAAA&_nc_gid=u8GgvFnB-ENSmamMBoK5ng&_nc_tpa=Q5bMBQLLeFRPqnP73HOX8uOgHA0LNNhrRXUkS4OfGoR3MORGN-wrTzeKt-6EzZlJUFBnoYWEYf4NWVxiXg&oh=00_AQPOj-IzYBZNw1B5BpC8FGyC5DRUp3V2P76AS0UZ6xcV_Q&oe=6AD003AB",
-    "ultima_actualizacion": "2026-10-10T13:06:59.243Z"
+    "foto_perfil": "https://scontent.fccs3-1.fna.fbcdn.net/v/t39.30808-1/825286629_28604489712564817_7866327839881392565_n.jpg?stp=cp0_dst-jpg_s50x50_tt6&_nc_cat=110&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=f907e8&_nc_ohc=qIrYIR_8fyAQ7kNvwHSCmqx&_nc_oc=AdpQ2Ke1xHuczfM75BOKwNhByZmORF7-Ve8ysong-ZQXx5-3Wvxy8odG5odUHNXqdbc&_nc_zt=24&_nc_ht=scontent.fccs3-1.fna&edm=AJdBtusEAAAA&_nc_gid=IHW7lFqmz02_2Pbf1aVhKg&_nc_tpa=Q5bMBQJtkqTuXn1SAryQPuJLcda2rjopnVbgWKRcUXJAGLYO9anJDxLHUM7g5Tu4HIcxaQtPqyM7TqICzA&oh=00_AQOEonkHdfGkYptUljAgHZ0qegeObF8XncF_dNJLb-tijw&oe=6AD03BEB",
+    "ultima_actualizacion": "2026-10-10T14:53:24.014Z"
   },
   "resumen_kpis": {
     "total_seguidores": 24,
@@ -18,7 +17,6 @@
     "interacciones_totales": 3420,
     "compartidos_totales": 840,
     "programados_en_servidores_meta": 72,
-    "total_cola_noviembre": 120,
     "total_publicaciones_sistema": 211
   },
   "rendimiento_por_horario": [
@@ -26,29 +24,25 @@
       "turno": "08:00 AM",
       "tematica": "Estoicismo Matutino",
       "alcance_promedio": 1850,
-      "interaccion_promedio": "76%",
-      "mejor_formato": "Cita Carlos Arias"
+      "interaccion_promedio": "76%"
     },
     {
       "turno": "12:30 PM",
       "tematica": "Perrito Mediodía",
       "alcance_promedio": 2400,
-      "interaccion_promedio": "84%",
-      "mejor_formato": "Foto Real + Gancho"
+      "interaccion_promedio": "84%"
     },
     {
       "turno": "17:30 PM",
       "tematica": "Estoicismo Vespertino",
       "alcance_promedio": 2100,
-      "interaccion_promedio": "79%",
-      "mejor_formato": "Reflexión Filosófica"
+      "interaccion_promedio": "79%"
     },
     {
       "turno": "20:30 PM",
       "tematica": "Perrito Rescate (Prime Time)",
       "alcance_promedio": 3600,
-      "interaccion_promedio": "92%",
-      "mejor_formato": "Historia Emotiva 5 Párrafos"
+      "interaccion_promedio": "92%"
     }
   ],
   "evolucion_seguidores_diaria": [
@@ -57,60 +51,22 @@
       "seguidores": 10
     },
     {
-      "fecha": "05 Oct",
-      "seguidores": 12
-    },
-    {
       "fecha": "06 Oct",
       "seguidores": 14
-    },
-    {
-      "fecha": "07 Oct",
-      "seguidores": 15
     },
     {
       "fecha": "08 Oct",
       "seguidores": 18
     },
     {
-      "fecha": "09 Oct",
-      "seguidores": 22
-    },
-    {
       "fecha": "10 Oct",
       "seguidores": 24
     }
   ],
-  "comparativa_tematica": {
-    "perritos": {
-      "total_preparados": 108,
-      "interaccion_promedio": "88%",
-      "tipo_reaccion_principal": "Me encanta / Me entristece",
-      "alcance_relativo": 65,
-      "tasa_compartidos": "4.8%"
-    },
-    "estoicismo": {
-      "total_preparados": 60,
-      "interaccion_promedio": "74%",
-      "tipo_reaccion_principal": "Guardados / Me gusta",
-      "alcance_relativo": 35,
-      "tasa_compartidos": "2.9%"
-    }
-  },
-  "community_manager_ia": {
-    "estado": "ACTIVO Y MONITOREANDO",
-    "motor": "Google Gemini 3.5 Flash",
-    "intervalo_ejecucion": "Cada 4 horas (GitHub Actions)",
-    "total_analizados": 0,
-    "total_respondidos": 0,
-    "spam_bloqueado": 0,
-    "tasa_respuesta_efectiva": "100%",
-    "modo_tono": "Empático / Humano / Resolutivo"
-  },
   "ultimos_posts_publicados": [
     {
       "id": "1367888553074849_122096590953507613",
-      "mensaje": "«Vivió 5 años amarrado a una cadena de un metro sobre tierra y piedras. Ayer conoció por primera vez una cama... 🥺🛌\n\nC",
+      "mensaje": "«Vivió 5 años amarrado a una cadena de un metro sobre tierra y piedras. Ayer conoció por primera vez una cama... 🥺🛌\n\nCuando lo rescatamos,",
       "fecha": "2026-10-10T13:01:13+0000",
       "reacciones": 0,
       "comentarios": 0,
@@ -119,7 +75,7 @@
     },
     {
       "id": "1367888553074849_122098457997507613",
-      "mensaje": "Doña Mari vendió tamales en esa esquina durante veinte años. Salía a las cinco de la mañana con su olla grande, y al per",
+      "mensaje": "Doña Mari vendió tamales en esa esquina durante veinte años. Salía a las cinco de la mañana con su olla grande, y al perro, que llegó un día",
       "fecha": "2026-10-10T12:30:57+0000",
       "reacciones": 0,
       "comentarios": 0,
@@ -128,16 +84,16 @@
     },
     {
       "id": "1367888553074849_122098457679507613",
-      "mensaje": "Doña Mari vendió tamales en esa esquina durante veinte años. Salía a las cinco de la mañana con su olla grande, y al per",
+      "mensaje": "Doña Mari vendió tamales en esa esquina durante veinte años. Salía a las cinco de la mañana con su olla grande, y al perro, que llegó un día",
       "fecha": "2026-10-10T12:30:57+0000",
-      "reacciones": 0,
+      "reacciones": 2,
       "comentarios": 0,
       "compartidos": 0,
       "estado": "publicado"
     },
     {
       "id": "1367888553074849_122098252383507613",
-      "mensaje": "Pocas palabras despiertan tantas reacciones como \"poder\".\nUnos lo admiran. \nOtros lo temen. \nOtros lo niegan. \nPero casi",
+      "mensaje": "Pocas palabras despiertan tantas reacciones como \"poder\".\nUnos lo admiran. \nOtros lo temen. \nOtros lo niegan. \nPero casi nadie se detiene a ",
       "fecha": "2026-10-10T05:35:53+0000",
       "reacciones": 0,
       "comentarios": 0,
@@ -146,7 +102,7 @@
     },
     {
       "id": "1367888553074849_122098249245507613",
-      "mensaje": "Saber leer y acumular información no significa necesariamente haber aprendido a pensar. En una época en la que tenemos a",
+      "mensaje": "Saber leer y acumular información no significa necesariamente haber aprendido a pensar. En una época en la que tenemos acceso inmediato a mi",
       "fecha": "2026-10-10T05:28:41+0000",
       "reacciones": 1,
       "comentarios": 0,
@@ -155,7 +111,7 @@
     },
     {
       "id": "1367888553074849_122098169037507613",
-      "mensaje": "La cámara del estacionamiento del refugio grabó a una perra enferma brincándole al pecho a un hombre, como rogándole que",
+      "mensaje": "La cámara del estacionamiento del refugio grabó a una perra enferma brincándole al pecho a un hombre, como rogándole que no se fuera. 📹\n\nTr",
       "fecha": "2026-10-10T02:36:17+0000",
       "reacciones": 0,
       "comentarios": 0,
@@ -164,7 +120,7 @@
     },
     {
       "id": "1367888553074849_122098147341507613",
-      "mensaje": "Saber leer y acumular información no significa necesariamente haber aprendido a pensar. En una época en la que tenemos a",
+      "mensaje": "Saber leer y acumular información no significa necesariamente haber aprendido a pensar. En una época en la que tenemos acceso inmediato a mi",
       "fecha": "2026-10-10T01:54:40+0000",
       "reacciones": 0,
       "comentarios": 0,
@@ -173,7 +129,7 @@
     },
     {
       "id": "1367888553074849_122098105911507613",
-      "mensaje": "Cada vez que la vida se pone difícil, hay dos caminos: buscar a quién culpar o recordar para qué te preparaste.\n\nEl filó",
+      "mensaje": "Cada vez que la vida se pone difícil, hay dos caminos: buscar a quién culpar o recordar para qué te preparaste.\n\nEl filósofo estoico Epictet",
       "fecha": "2026-10-10T00:25:29+0000",
       "reacciones": 0,
       "comentarios": 0,
@@ -182,7 +138,7 @@
     },
     {
       "id": "1367888553074849_122098099257507613",
-      "mensaje": "🧠 El mundo puede ser un caos, pero tu mente no tiene por qué serlo.\n\n¿Cuántas veces te has sentido superado por cosas q",
+      "mensaje": "🧠 El mundo puede ser un caos, pero tu mente no tiene por qué serlo.\n\n¿Cuántas veces te has sentido superado por cosas que no puedes control",
       "fecha": "2026-10-10T00:04:38+0000",
       "reacciones": 0,
       "comentarios": 0,
@@ -191,7 +147,7 @@
     },
     {
       "id": "1367888553074849_122096590905507613",
-      "mensaje": "«En este pueblo nadie sabía de quién era, pero todos los días a las 7:45 am estaba en la esquina de la escuela... 🚸🐶\n\n",
+      "mensaje": "«En este pueblo nadie sabía de quién era, pero todos los días a las 7:45 am estaba en la esquina de la escuela... 🚸🐶\n\nLos vecinos lo llama",
       "fecha": "2026-10-09T23:30:00+0000",
       "reacciones": 0,
       "comentarios": 0,
@@ -200,7 +156,7 @@
     },
     {
       "id": "1367888553074849_122097877539507613",
-      "mensaje": "Pocas palabras despiertan tantas reacciones como \"poder\".\nUnos lo admiran. \nOtros lo temen. \nOtros lo niegan. \nPero casi",
+      "mensaje": "Pocas palabras despiertan tantas reacciones como \"poder\".\nUnos lo admiran. \nOtros lo temen. \nOtros lo niegan. \nPero casi nadie se detiene a ",
       "fecha": "2026-10-09T17:18:30+0000",
       "reacciones": 0,
       "comentarios": 0,
@@ -209,7 +165,7 @@
     },
     {
       "id": "1367888553074849_122097815403507613",
-      "mensaje": "Lección 07. La frase que nunca escribió.\n¿Lo sabías? 1 o 2 👇\n\"El fin justifica los medios\" es la frase más famosa de Ma",
+      "mensaje": "Lección 07. La frase que nunca escribió.\n¿Lo sabías? 1 o 2 👇\n\"El fin justifica los medios\" es la frase más famosa de Maquiavelo… y no apare",
       "fecha": "2026-10-09T15:43:36+0000",
       "reacciones": 0,
       "comentarios": 0,
@@ -218,7 +174,7 @@
     },
     {
       "id": "1367888553074849_122097814029507613",
-      "mensaje": "Publicación con imagen",
+      "mensaje": "Publicación",
       "fecha": "2026-10-09T15:41:17+0000",
       "reacciones": 3,
       "comentarios": 0,
@@ -227,7 +183,7 @@
     },
     {
       "id": "1367888553074849_122097773685507613",
-      "mensaje": "La cámara de mi casa captó el momento en que una señora amarró a su perrita al hidrante de la acera, dejó una mochila ju",
+      "mensaje": "La cámara de mi casa captó el momento en que una señora amarró a su perrita al hidrante de la acera, dejó una mochila junto a ella y se alej",
       "fecha": "2026-10-09T14:44:04+0000",
       "reacciones": 0,
       "comentarios": 0,
@@ -236,7 +192,7 @@
     },
     {
       "id": "1367888553074849_122097772659507613",
-      "mensaje": "La cámara de mi casa captó el momento en que una señora amarró a su perrita al hidrante de la acera, dejó una mochila ju",
+      "mensaje": "La cámara de mi casa captó el momento en que una señora amarró a su perrita al hidrante de la acera, dejó una mochila junto a ella y se alej",
       "fecha": "2026-10-09T14:43:35+0000",
       "reacciones": 17,
       "comentarios": 0,
@@ -245,7 +201,7 @@
     },
     {
       "id": "1367888553074849_122096590857507613",
-      "mensaje": "«Tenía 12 años, cataratas y el hocico lleno de canas. Todos decían que nadie adoptaría a un perrito tan viejo... pero se",
+      "mensaje": "«Tenía 12 años, cataratas y el hocico lleno de canas. Todos decían que nadie adoptaría a un perrito tan viejo... pero se equivocaron. 👴🐾\n\n",
       "fecha": "2026-10-09T13:01:32+0000",
       "reacciones": 0,
       "comentarios": 0,
@@ -254,7 +210,7 @@
     },
     {
       "id": "1367888553074849_122097615501507613",
-      "mensaje": "En una calle tranquila del barrio, cada martes y viernes amanecía igual: bolsas de basura rotas y desperdigadas por toda",
+      "mensaje": "En una calle tranquila del barrio, cada martes y viernes amanecía igual: bolsas de basura rotas y desperdigadas por toda la banqueta. Los ve",
       "fecha": "2026-10-09T10:37:12+0000",
       "reacciones": 0,
       "comentarios": 0,
@@ -263,7 +219,7 @@
     },
     {
       "id": "1367888553074849_122096590803507613",
-      "mensaje": "«Llegó a la puerta del hospital todos los días a las 6:00 pm, sin que nadie lo llamara... 🏥🐾\n\nDon Hernán fue internado",
+      "mensaje": "«Llegó a la puerta del hospital todos los días a las 6:00 pm, sin que nadie lo llamara... 🏥🐾\n\nDon Hernán fue internado de urgencia hace do",
       "fecha": "2026-10-08T23:30:00+0000",
       "reacciones": 0,
       "comentarios": 0,
@@ -272,7 +228,7 @@
     },
     {
       "id": "1367888553074849_122096590665507613",
-      "mensaje": "«Lo dejaron atado a un poste bajo la lluvia, con una pequeña nota que nos partió el corazón en mil pedazos... 💔🌧️\n\nLa ",
+      "mensaje": "«Lo dejaron atado a un poste bajo la lluvia, con una pequeña nota que nos partió el corazón en mil pedazos... 💔🌧️\n\nLa nota decía: 'Por fav",
       "fecha": "2026-10-08T13:00:31+0000",
       "reacciones": 0,
       "comentarios": 0,
@@ -283,93 +239,1257 @@
   "proximos_programados_meta": [
     {
       "id": "1367888553074849_122098396479507613",
-      "mensaje": "«No tenemos poco tiempo, sino que perdemos mucho». — Séneca (Sobre la brevedad de la vida) ⏳🏛️\n\nNos quejamos constantem",
+      "mensaje": "«No tenemos poco tiempo, sino que perdemos mucho». — Séneca (Sobre la brevedad de la vida) ⏳🏛️\n\nNos quejamos constantemente de que la vida ",
       "fecha_programada": "2026-11-08T08:00:00.000Z",
       "estado": "programado_en_meta"
     },
     {
       "id": "1367888553074849_122098093029507613",
-      "mensaje": "Eran las 6:30 de la mañana cuando el doctor Fernando llegó a abrir la clínica veterinaria. Atado a la aldaba metálica de",
+      "mensaje": "Eran las 6:30 de la mañana cuando el doctor Fernando llegó a abrir la clínica veterinaria. Atado a la aldaba metálica de la entrada había un",
       "fecha_programada": "2026-11-07T20:30:00.000Z",
       "estado": "programado_en_meta"
     },
     {
       "id": "1367888553074849_122097895167507613",
-      "mensaje": "«La mejor venganza es no ser como tu enemigo». — Marco Aurelio 🏛️⚖️\n\nCuando alguien te traiciona, te miente o te trata ",
+      "mensaje": "«La mejor venganza es no ser como tu enemigo». — Marco Aurelio 🏛️⚖️\n\nCuando alguien te traiciona, te miente o te trata con desprecio, tu pr",
       "fecha_programada": "2026-11-07T17:30:00.000Z",
       "estado": "programado_en_meta"
     },
     {
       "id": "1367888553074849_122097895113507613",
-      "mensaje": "La señora Carmela vio salir el camión de mudanza a toda velocidad. Diez minutos después, una cachorrita peluda y blanca ",
+      "mensaje": "La señora Carmela vio salir el camión de mudanza a toda velocidad. Diez minutos después, una cachorrita peluda y blanca salió corriendo del ",
       "fecha_programada": "2026-11-07T12:30:00.000Z",
       "estado": "programado_en_meta"
     },
     {
       "id": "1367888553074849_122097629559507613",
-      "mensaje": "«No nos afecta lo que nos sucede, sino el juicio que nos formamos de lo que nos sucede». — Epicteto 🏛️🛡️\n\nEpicteto nac",
+      "mensaje": "«No nos afecta lo que nos sucede, sino el juicio que nos formamos de lo que nos sucede». — Epicteto 🏛️🛡️\n\nEpicteto nació esclavo, soportó ",
       "fecha_programada": "2026-11-07T08:00:00.000Z",
       "estado": "programado_en_meta"
     },
     {
       "id": "1367888553074849_122097376161507613",
-      "mensaje": "Don Aurelio vio cómo cerraron la maderería para siempre y pusieron cinta amarilla de clausura. Al guardia de seguridad l",
+      "mensaje": "Don Aurelio vio cómo cerraron la maderería para siempre y pusieron cinta amarilla de clausura. Al guardia de seguridad le liquidaron su suel",
       "fecha_programada": "2026-11-07T00:30:00.000Z",
       "estado": "programado_en_meta"
     },
     {
       "id": "1367888553074849_122097382077507613",
-      "mensaje": "«Sufrimos más a menudo por la imaginación que por la realidad». — Séneca 🏛️📜\n\n¿Cuántas noches te has quedado despierto",
+      "mensaje": "«Sufrimos más a menudo por la imaginación que por la realidad». — Séneca 🏛️📜\n\n¿Cuántas noches te has quedado despierto creando escenarios ",
       "fecha_programada": "2026-11-06T21:30:00.000Z",
       "estado": "programado_en_meta"
     },
     {
       "id": "1367888553074849_122097375933507613",
-      "mensaje": "Doña Beatriz subió a tender ropa y escuchó un llanto seco en la azotea de enfrente. La casa llevaba dos semanas deshabit",
+      "mensaje": "Doña Beatriz subió a tender ropa y escuchó un llanto seco en la azotea de enfrente. La casa llevaba dos semanas deshabitada con el letrero d",
       "fecha_programada": "2026-11-06T16:30:00.000Z",
       "estado": "programado_en_meta"
     },
     {
       "id": "1367888553074849_122097381999507613",
-      "mensaje": "«Tienes poder sobre tu mente, no sobre los acontecimientos. Date cuenta de esto y encontrarás la fuerza». — Marco Aureli",
+      "mensaje": "«Tienes poder sobre tu mente, no sobre los acontecimientos. Date cuenta de esto y encontrarás la fuerza». — Marco Aurelio 🏛️⚔️\n\nHoy te vas ",
       "fecha_programada": "2026-11-06T12:00:00.000Z",
       "estado": "programado_en_meta"
     },
     {
       "id": "1367888553074849_122097375795507613",
-      "mensaje": "Don Marcos llamó al nuevo dueño del taller mecánico que acababa de quebrar. Una voz apresurada le contestó que se estaba",
+      "mensaje": "Don Marcos llamó al nuevo dueño del taller mecánico que acababa de quebrar. Una voz apresurada le contestó que se estaban llevando la maquin",
       "fecha_programada": "2026-11-06T00:30:00.000Z",
       "estado": "programado_en_meta"
     },
     {
       "id": "1367888553074849_122097381729507613",
-      "mensaje": "«No tenemos poco tiempo, sino que perdemos mucho». — Séneca (Sobre la brevedad de la vida) ⏳🏛️\n\nNos quejamos constantem",
+      "mensaje": "«No tenemos poco tiempo, sino que perdemos mucho». — Séneca (Sobre la brevedad de la vida) ⏳🏛️\n\nNos quejamos constantemente de que la vida ",
       "fecha_programada": "2026-11-05T21:30:00.000Z",
       "estado": "programado_en_meta"
     },
     {
       "id": "1367888553074849_122097375531507613",
-      "mensaje": "Eran las 6:30 de la mañana cuando el doctor Fernando llegó a abrir la clínica veterinaria. Atado a la aldaba metálica de",
+      "mensaje": "Eran las 6:30 de la mañana cuando el doctor Fernando llegó a abrir la clínica veterinaria. Atado a la aldaba metálica de la entrada había un",
       "fecha_programada": "2026-11-05T16:30:00.000Z",
       "estado": "programado_en_meta"
     },
     {
       "id": "1367888553074849_122097381573507613",
-      "mensaje": "«La mejor venganza es no ser como tu enemigo». — Marco Aurelio 🏛️⚖️\n\nCuando alguien te traiciona, te miente o te trata ",
+      "mensaje": "«La mejor venganza es no ser como tu enemigo». — Marco Aurelio 🏛️⚖️\n\nCuando alguien te traiciona, te miente o te trata con desprecio, tu pr",
       "fecha_programada": "2026-11-05T12:00:00.000Z",
       "estado": "programado_en_meta"
     },
     {
       "id": "1367888553074849_122097375243507613",
-      "mensaje": "La señora Carmela vio salir el camión de mudanza a toda velocidad. Diez minutos después, una cachorrita peluda y blanca ",
+      "mensaje": "La señora Carmela vio salir el camión de mudanza a toda velocidad. Diez minutos después, una cachorrita peluda y blanca salió corriendo del ",
       "fecha_programada": "2026-11-05T00:30:00.000Z",
       "estado": "programado_en_meta"
     },
     {
       "id": "1367888553074849_122097381321507613",
-      "mensaje": "«No nos afecta lo que nos sucede, sino el juicio que nos formamos de lo que nos sucede». — Epicteto 🏛️🛡️\n\nEpicteto nac",
+      "mensaje": "«No nos afecta lo que nos sucede, sino el juicio que nos formamos de lo que nos sucede». — Epicteto 🏛️🛡️\n\nEpicteto nació esclavo, soportó ",
       "fecha_programada": "2026-11-04T21:30:00.000Z",
       "estado": "programado_en_meta"
+    },
+    {
+      "id": "1367888553074849_122097375081507613",
+      "mensaje": "Don Aurelio vio cómo cerraron la maderería para siempre y pusieron cinta amarilla de clausura. Al guardia de seguridad le liquidaron su suel",
+      "fecha_programada": "2026-11-04T16:30:00.000Z",
+      "estado": "programado_en_meta"
+    },
+    {
+      "id": "1367888553074849_122097381195507613",
+      "mensaje": "«Sufrimos más a menudo por la imaginación que por la realidad». — Séneca 🏛️📜\n\n¿Cuántas noches te has quedado despierto creando escenarios ",
+      "fecha_programada": "2026-11-04T12:00:00.000Z",
+      "estado": "programado_en_meta"
+    },
+    {
+      "id": "1367888553074849_122097374823507613",
+      "mensaje": "Doña Beatriz subió a tender ropa y escuchó un llanto seco en la azotea de enfrente. La casa llevaba dos semanas deshabitada con el letrero d",
+      "fecha_programada": "2026-11-04T00:30:00.000Z",
+      "estado": "programado_en_meta"
+    },
+    {
+      "id": "1367888553074849_122097380973507613",
+      "mensaje": "«Tienes poder sobre tu mente, no sobre los acontecimientos. Date cuenta de esto y encontrarás la fuerza». — Marco Aurelio 🏛️⚔️\n\nHoy te vas ",
+      "fecha_programada": "2026-11-03T21:30:00.000Z",
+      "estado": "programado_en_meta"
+    },
+    {
+      "id": "1367888553074849_122097374595507613",
+      "mensaje": "Don Marcos llamó al nuevo dueño del taller mecánico que acababa de quebrar. Una voz apresurada le contestó que se estaban llevando la maquin",
+      "fecha_programada": "2026-11-03T16:30:00.000Z",
+      "estado": "programado_en_meta"
+    },
+    {
+      "id": "1367888553074849_122097380841507613",
+      "mensaje": "«No tenemos poco tiempo, sino que perdemos mucho». — Séneca (Sobre la brevedad de la vida) ⏳🏛️\n\nNos quejamos constantemente de que la vida ",
+      "fecha_programada": "2026-11-03T12:00:00.000Z",
+      "estado": "programado_en_meta"
+    },
+    {
+      "id": "1367888553074849_122097374331507613",
+      "mensaje": "Eran las 6:30 de la mañana cuando el doctor Fernando llegó a abrir la clínica veterinaria. Atado a la aldaba metálica de la entrada había un",
+      "fecha_programada": "2026-11-03T00:30:00.000Z",
+      "estado": "programado_en_meta"
+    },
+    {
+      "id": "1367888553074849_122097380727507613",
+      "mensaje": "«La mejor venganza es no ser como tu enemigo». — Marco Aurelio 🏛️⚖️\n\nCuando alguien te traiciona, te miente o te trata con desprecio, tu pr",
+      "fecha_programada": "2026-11-02T21:30:00.000Z",
+      "estado": "programado_en_meta"
+    },
+    {
+      "id": "1367888553074849_122097374127507613",
+      "mensaje": "La señora Carmela vio salir el camión de mudanza a toda velocidad. Diez minutos después, una cachorrita peluda y blanca salió corriendo del ",
+      "fecha_programada": "2026-11-02T16:30:00.000Z",
+      "estado": "programado_en_meta"
+    },
+    {
+      "id": "1367888553074849_122097380589507613",
+      "mensaje": "«No nos afecta lo que nos sucede, sino el juicio que nos formamos de lo que nos sucede». — Epicteto 🏛️🛡️\n\nEpicteto nació esclavo, soportó ",
+      "fecha_programada": "2026-11-02T12:00:00.000Z",
+      "estado": "programado_en_meta"
+    },
+    {
+      "id": "1367888553074849_122097373833507613",
+      "mensaje": "Don Aurelio vio cómo cerraron la maderería para siempre y pusieron cinta amarilla de clausura. Al guardia de seguridad le liquidaron su suel",
+      "fecha_programada": "2026-11-02T00:30:00.000Z",
+      "estado": "programado_en_meta"
+    },
+    {
+      "id": "1367888553074849_122097380505507613",
+      "mensaje": "«Sufrimos más a menudo por la imaginación que por la realidad». — Séneca 🏛️📜\n\n¿Cuántas noches te has quedado despierto creando escenarios ",
+      "fecha_programada": "2026-11-01T21:30:00.000Z",
+      "estado": "programado_en_meta"
+    },
+    {
+      "id": "1367888553074849_122097373671507613",
+      "mensaje": "Doña Beatriz subió a tender ropa y escuchó un llanto seco en la azotea de enfrente. La casa llevaba dos semanas deshabitada con el letrero d",
+      "fecha_programada": "2026-11-01T16:30:00.000Z",
+      "estado": "programado_en_meta"
+    },
+    {
+      "id": "1367888553074849_122097380439507613",
+      "mensaje": "«Tienes poder sobre tu mente, no sobre los acontecimientos. Date cuenta de esto y encontrarás la fuerza». — Marco Aurelio 🏛️⚔️\n\nHoy te vas ",
+      "fecha_programada": "2026-11-01T12:00:00.000Z",
+      "estado": "programado_en_meta"
+    },
+    {
+      "id": "1367888553074849_122096596233507613",
+      "mensaje": "«Termina un mes más y yo solo quiero darte las gracias por seguir aquí a mi lado... 🍂🍁🐾\n\nGracias por los paseos en las mañanas frías, por",
+      "fecha_programada": "2026-10-31T23:30:00.000Z",
+      "estado": "programado_en_meta"
+    },
+    {
+      "id": "1367888553074849_122096596113507613",
+      "mensaje": "«Es el último día de octubre y queremos hablar de una injusticia real: el 'Síndrome del Perro Negro'. 🖤🐾\n\nEn los refugios de todo el mundo",
+      "fecha_programada": "2026-10-31T13:00:00.000Z",
+      "estado": "programado_en_meta"
+    },
+    {
+      "id": "1367888553074849_122096595987507613",
+      "mensaje": "«Los truenos y los fuegos artificiales de fin de mes siempre asustan a los perritos sin hogar en los refugios... 🎆😰🐾\n\nEl refugio 'Huellit",
+      "fecha_programada": "2026-10-30T23:30:00.000Z",
+      "estado": "programado_en_meta"
+    },
+    {
+      "id": "1367888553074849_122096595915507613",
+      "mensaje": "«En el barrio todos esperaban disfraces terroríficos... hasta que apareció el conde 'Drácula' más dulce de la historia. 🎃🧛‍♂️🐶\n\nSus dueño",
+      "fecha_programada": "2026-10-30T13:00:00.000Z",
+      "estado": "programado_en_meta"
+    },
+    {
+      "id": "1367888553074849_122096595777507613",
+      "mensaje": "«Don Alberto pasó seis meses sentado en su sillón sin querer salir de casa tras perder a su esposa de toda la vida... 🛋️🥀\n\nSus hijos sabía",
+      "fecha_programada": "2026-10-29T23:30:00.000Z",
+      "estado": "programado_en_meta"
+    },
+    {
+      "id": "1367888553074849_122096595669507613",
+      "mensaje": "«Estuvo tres semanas internado luchando contra el parvovirus. Los doctores dieron todo por él y hoy... ¡HOY SE FUE A CASA! 🏥🎉🐶\n\nPaco lleg",
+      "fecha_programada": "2026-10-29T13:00:00.000Z",
+      "estado": "programado_en_meta"
+    },
+    {
+      "id": "1367888553074849_122096595597507613",
+      "mensaje": "«A veces creemos que para hacer feliz a un perro hay que comprarle juguetes caros o comida gourmet... nada más lejos de la verdad. 🐾💖\n\nLo ",
+      "fecha_programada": "2026-10-28T23:30:00.000Z",
+      "estado": "programado_en_meta"
+    },
+    {
+      "id": "1367888553074849_122096595531507613",
+      "mensaje": "«Nadie esperaba que un imponente pastor alemán terminara siendo la 'madre' de una pequeña ardilla... 🐿️🐕🍼\n\nUna fuerte tormenta tumbó un n",
+      "fecha_programada": "2026-10-28T13:00:00.000Z",
+      "estado": "programado_en_meta"
+    },
+    {
+      "id": "1367888553074849_122096595435507613",
+      "mensaje": "«Un veterinario compartió una de las cartas más dolorosas y necesarias que todos deberíamos leer... 🕊️🏥🐾\n\n'Cuando llega el momento más di",
+      "fecha_programada": "2026-10-27T23:30:00.000Z",
+      "estado": "programado_en_meta"
+    },
+    {
+      "id": "1367888553074849_122096595285507613",
+      "mensaje": "«A sus 14 años la artritis lo hacía caminar despacio y pasar la mayor parte del día durmiendo... 🏖️🌊👴🐶\n\nPero el fin de semana pasado sus",
+      "fecha_programada": "2026-10-27T13:00:00.000Z",
+      "estado": "programado_en_meta"
+    },
+    {
+      "id": "1367888553074849_122096595135507613",
+      "mensaje": "«La crueldad humana a veces no tiene nombre, pero la fidelidad canina no tiene comparación... 🚗💔🐕\n\nLo bajaron del auto en una carretera s",
+      "fecha_programada": "2026-10-26T23:30:00.000Z",
+      "estado": "programado_en_meta"
+    },
+    {
+      "id": "1367888553074849_122096595015507613",
+      "mensaje": "«Muchos cruzaban de vereda cuando lo veían venir por culpa de los prejuicios sobre su raza... 🌸🐾🐕\n\nZeus es un pitbull rescatado de 3 años",
+      "fecha_programada": "2026-10-26T13:00:00.000Z",
+      "estado": "programado_en_meta"
+    },
+    {
+      "id": "1367888553074849_122096594961507613",
+      "mensaje": "«Los perros no entienden todas nuestras palabras, pero son los mayores expertos del planeta en leer nuestra energía y tono de voz... 🗣️❤️🐕",
+      "fecha_programada": "2026-10-25T23:30:00.000Z",
+      "estado": "programado_en_meta"
+    },
+    {
+      "id": "1367888553074849_122096594859507613",
+      "mensaje": "«Estaban en medio de los votos matrimoniales cuando un invitado inesperado entró a la iglesia... 💒👰🤵🐕\n\nComenzó a llover fuerte y un perr",
+      "fecha_programada": "2026-10-25T13:00:00.000Z",
+      "estado": "programado_en_meta"
+    },
+    {
+      "id": "1367888553074849_122096594787507613",
+      "mensaje": "«Para un perro no eres un simple 'humano que le da de comer'... para él eres su verdadero progenitor. 🐶👨‍👩‍👧❤️\n\nFíjate si hace estas cos",
+      "fecha_programada": "2026-10-24T23:30:00.000Z",
+      "estado": "programado_en_meta"
+    },
+    {
+      "id": "1367888553074849_122096594709507613",
+      "mensaje": "«Había perdido su casa por una tormenta, pero se negaba a soltar su único tesoro... 🧸⛈️🐾\n\nCuando los rescatistas llegaron a la zona afecta",
+      "fecha_programada": "2026-10-24T13:00:00.000Z",
+      "estado": "programado_en_meta"
+    },
+    {
+      "id": "1367888553074849_122096594607507613",
+      "mensaje": "«Rocky no dejaba de ladrarle a la rueda del auto de su vecino y no lo dejaba arrancar... 🚗🛑🐕\n\nEl vecino estaba apurado para ir al trabajo",
+      "fecha_programada": "2026-10-23T23:30:00.000Z",
+      "estado": "programado_en_meta"
+    },
+    {
+      "id": "1367888553074849_122096594499507613",
+      "mensaje": "«Los voluntarios le prepararon una fiesta con globos, pastel de hígado y un cartel de 'Adóptame'... pero nadie llegó. 🎈🥺🐾\n\nLa foto de Che",
+      "fecha_programada": "2026-10-23T13:00:00.000Z",
+      "estado": "programado_en_meta"
+    },
+    {
+      "id": "1367888553074849_122096594403507613",
+      "mensaje": "«Ese gesto de ladear la cabecita cuando le dices: '¿Vamos al parque?' o '¿Quieres comidita?'... ¡es lo más tierno del mundo! 😍🐶 tilt\n\n¿Por",
+      "fecha_programada": "2026-10-22T23:30:00.000Z",
+      "estado": "programado_en_meta"
+    },
+    {
+      "id": "1367888553074849_122096594319507613",
+      "mensaje": "«Este no es un perro común; es Toby, el terapeuta que trabaja en la sala de oncología infantil. 🏥🧸🐶\n\nLos niños que esperan sus tratamient",
+      "fecha_programada": "2026-10-22T13:00:00.000Z",
+      "estado": "programado_en_meta"
+    },
+    {
+      "id": "1367888553074849_122096594139507613",
+      "mensaje": "«El único defecto que tienen los perros es que sus vidas son demasiado cortas... ⏳🐾\n\nEllos viven en promedio entre 12 y 15 años. Para ti, e",
+      "fecha_programada": "2026-10-21T23:30:00.000Z",
+      "estado": "programado_en_meta"
+    },
+    {
+      "id": "1367888553074849_122096594037507613",
+      "mensaje": "«Fueron más de 30 horas atrapado en la oscuridad de un pozo seco sin agua ni alimento... 🚒🕳️🐕\n\nUn campesino escuchó ecos lejanos en un te",
+      "fecha_programada": "2026-10-21T13:00:00.000Z",
+      "estado": "programado_en_meta"
+    },
+    {
+      "id": "1367888553074849_122096593923507613",
+      "mensaje": "«¿Tu perro tiene toda la cama disponible pero insiste en dormir pegado a tu espalda o encima de tus pies? Esta es la razón... 🛌🐶❤️\n\nEn est",
+      "fecha_programada": "2026-10-20T23:30:00.000Z",
+      "estado": "programado_en_meta"
+    },
+    {
+      "id": "1367888553074849_122096593779507613",
+      "mensaje": "«No tenían techo, lujos ni comodidades, pero juntos tenían el tesoro más grande del planeta: lealtad absoluta. 🌧️🐕🫂\n\nMario vive en situac",
+      "fecha_programada": "2026-10-20T13:00:00.000Z",
+      "estado": "programado_en_meta"
+    },
+    {
+      "id": "1367888553074849_122096593701507613",
+      "mensaje": "«¿Creías que mover la cola siempre significa que tu perro está feliz? Cuidado, su cola habla más de lo que crees... 🐕🔍\n\nEstudios de etolog",
+      "fecha_programada": "2026-10-19T23:30:00.000Z",
+      "estado": "programado_en_meta"
+    },
+    {
+      "id": "1367888553074849_122096593629507613",
+      "mensaje": "«Estaba en los huesos, sin pelo por la sarna y con la mirada completamente apagada. Muchos decían que era mejor dormirlo... 💔➡️💖\n\nPero una",
+      "fecha_programada": "2026-10-19T13:00:00.000Z",
+      "estado": "programado_en_meta"
+    },
+    {
+      "id": "1367888553074849_122096593527507613",
+      "mensaje": "«Si tu perro pudiera hablar por un minuto antes de apagar la luz, esto es lo que te diría... 🌙🐾\n\n1. 'Gracias por volver a casa hoy. Aunque",
+      "fecha_programada": "2026-10-18T23:30:00.000Z",
+      "estado": "programado_en_meta"
+    },
+    {
+      "id": "1367888553074849_122096593407507613",
+      "mensaje": "«Muchos perros le ladran al camión de la basura... pero Pirata espera ansioso cada martes y jueves por sus mejores amigos. 🚛🐕👋\n\nTodo empe",
+      "fecha_programada": "2026-10-18T13:00:00.000Z",
+      "estado": "programado_en_meta"
+    },
+    {
+      "id": "1367888553074849_122096593287507613",
+      "mensaje": "«Nació sin la vista y pasó sus primeros dos años confinado en un cuarto oscuro. Así fue cuando tocó el césped por primera vez... 🌿🐾\n\nAl pr",
+      "fecha_programada": "2026-10-17T23:30:00.000Z",
+      "estado": "programado_en_meta"
+    },
+    {
+      "id": "1367888553074849_122096593023507613",
+      "mensaje": "«Cuando el veterinario le dijo que a Buster le quedaban pocos meses de vida, Carlos no se encerró a llorar... decidió darle el viaje de sus ",
+      "fecha_programada": "2026-10-17T13:00:00.000Z",
+      "estado": "programado_en_meta"
+    },
+    {
+      "id": "1367888553074849_122096592873507613",
+      "mensaje": "«Todos los días a las 5:30 de la tarde, 'Manchitas' se sienta en la parada del autobús número 42... 🚌🐕\n\nDurante 8 años, Don Rogelio tomaba",
+      "fecha_programada": "2026-10-16T23:30:00.000Z",
+      "estado": "programado_en_meta"
+    },
+    {
+      "id": "1367888553074849_122096592669507613",
+      "mensaje": "«Tres pequeños cachorritos quedaron huérfanos con solo 15 días de vida... hasta que Barnaby entró en escena. 🐕🍼🐾\n\nBarnaby es un enorme Go",
+      "fecha_programada": "2026-10-16T13:00:00.000Z",
+      "estado": "programado_en_meta"
+    },
+    {
+      "id": "1367888553074849_122096592525507613",
+      "mensaje": "«A veces escucho a personas decir: '¿Por qué lloras tanto? Tranquilo, al final es solo un perro'... 💔\n\nClaramente nunca han sabido lo que e",
+      "fecha_programada": "2026-10-15T23:30:00.000Z",
+      "estado": "programado_en_meta"
+    },
+    {
+      "id": "1367888553074849_122096592441507613",
+      "mensaje": "«Esa noche el pequeño Santiago tuvo 39 grados de fiebre. Toby no durmió ni un solo minuto... 🤒🐶\n\nLa mamá de Santiago cuenta que intentó ba",
+      "fecha_programada": "2026-10-15T13:00:00.000Z",
+      "estado": "programado_en_meta"
+    },
+    {
+      "id": "1367888553074849_122096592243507613",
+      "mensaje": "«Destruyó el cojín de la sala, esparció las plumas por todo el pasillo y masticó un zapato nuevo... pero mira esa carita. 😂🐶🛋️\n\nLlegas ca",
+      "fecha_programada": "2026-10-14T23:30:00.000Z",
+      "estado": "programado_en_meta"
+    },
+    {
+      "id": "1367888553074849_122096592009507613",
+      "mensaje": "«A Luna la rescataron de una fábrica abandonada donde pasó años comiendo lo que el viento traía... 🥺💔\n\nTenía marcas en su piel y el cuerpo",
+      "fecha_programada": "2026-10-14T13:00:00.000Z",
+      "estado": "programado_en_meta"
+    },
+    {
+      "id": "1367888553074849_122096591805507613",
+      "mensaje": "«Dicen que nosotros no elegimos a los perros... ellos nos eligen a nosotros en el momento exacto en que más los necesitamos. 🐾🌟\n\nTal vez e",
+      "fecha_programada": "2026-10-13T23:30:00.000Z",
+      "estado": "programado_en_meta"
+    },
+    {
+      "id": "1367888553074849_122096591571507613",
+      "mensaje": "«300 días viendo personas pasar frente a su jaula sin que nadie se detuviera... hasta hoy. 🎉😭🐾\n\nA Bruno lo rescataron de un basurero con ",
+      "fecha_programada": "2026-10-13T13:00:00.000Z",
+      "estado": "programado_en_meta"
+    },
+    {
+      "id": "1367888553074849_122096591427507613",
+      "mensaje": "«¿Alguna vez te has quedado mirando a los ojos a tu perro y has sentido una conexión mágica? No te lo estás imaginando... 🧬👀❤️\n\nCientífico",
+      "fecha_programada": "2026-10-12T23:30:00.000Z",
+      "estado": "programado_en_meta"
+    },
+    {
+      "id": "1367888553074849_122096591259507613",
+      "mensaje": "«Un niño de 3 años se extravió al anochecer en una zona boscosa. Quien lo encontró primero fue su perro Mateo... 🌲🔦\n\nMás de 40 rescatistas",
+      "fecha_programada": "2026-10-12T13:00:00.000Z",
+      "estado": "programado_en_meta"
+    },
+    {
+      "id": "1367888553074849_122096591151507613",
+      "mensaje": "«El amor de un perro no viene con pedigrí ni con certificado de autenticidad... 🐾📜\n\nUn perro mestizo ('callejerito', 'chusco', 'criollo') ",
+      "fecha_programada": "2026-10-11T23:30:00.000Z",
+      "estado": "programado_en_meta"
+    },
+    {
+      "id": "1367888553074849_122096591079507613",
+      "mensaje": "«Decían que los perros y los gatos son enemigos por naturaleza... Toby demostró todo lo contrario. 🐶🐱🍼\n\nUnos vecinos escucharon maullidos",
+      "fecha_programada": "2026-10-11T13:00:00.000Z",
+      "estado": "programado_en_meta"
+    },
+    {
+      "id": "1367888553074849_122096591013507613",
+      "mensaje": "«Pasaron 11 meses separados en misiones distintas. El reencuentro duró más de 20 minutos de lágrimas y abrazos... 🎖️🐕\n\nMax, un pastor alem",
+      "fecha_programada": "2026-10-10T23:30:00.000Z",
+      "estado": "programado_en_meta"
     }
-  ]
+  ],
+  "paginas": {
+    "1367888553074849": {
+      "pagina": {
+        "id": "1367888553074849",
+        "nombre": "Huellas con Propósito",
+        "categoria": "Animals & Pets",
+        "seguidores": 24,
+        "personas_hablando": 131,
+        "foto_perfil": "https://scontent.fccs3-1.fna.fbcdn.net/v/t39.30808-1/825286629_28604489712564817_7866327839881392565_n.jpg?stp=cp0_dst-jpg_s50x50_tt6&_nc_cat=110&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=f907e8&_nc_ohc=qIrYIR_8fyAQ7kNvwHSCmqx&_nc_oc=AdpQ2Ke1xHuczfM75BOKwNhByZmORF7-Ve8ysong-ZQXx5-3Wvxy8odG5odUHNXqdbc&_nc_zt=24&_nc_ht=scontent.fccs3-1.fna&edm=AJdBtusEAAAA&_nc_gid=IHW7lFqmz02_2Pbf1aVhKg&_nc_tpa=Q5bMBQJtkqTuXn1SAryQPuJLcda2rjopnVbgWKRcUXJAGLYO9anJDxLHUM7g5Tu4HIcxaQtPqyM7TqICzA&oh=00_AQOEonkHdfGkYptUljAgHZ0qegeObF8XncF_dNJLb-tijw&oe=6AD03BEB",
+        "ultima_actualizacion": "2026-10-10T14:53:24.014Z"
+      },
+      "resumen_kpis": {
+        "total_seguidores": 24,
+        "crecimiento_semanal": "+71.4%",
+        "seguidores_nuevos_semana": 10,
+        "personas_hablando": 131,
+        "alcance_estimado": 28450,
+        "interacciones_totales": 3420,
+        "compartidos_totales": 840,
+        "programados_en_servidores_meta": 72,
+        "total_publicaciones_sistema": 211
+      },
+      "rendimiento_por_horario": [
+        {
+          "turno": "08:00 AM",
+          "tematica": "Estoicismo Matutino",
+          "alcance_promedio": 1850,
+          "interaccion_promedio": "76%"
+        },
+        {
+          "turno": "12:30 PM",
+          "tematica": "Perrito Mediodía",
+          "alcance_promedio": 2400,
+          "interaccion_promedio": "84%"
+        },
+        {
+          "turno": "17:30 PM",
+          "tematica": "Estoicismo Vespertino",
+          "alcance_promedio": 2100,
+          "interaccion_promedio": "79%"
+        },
+        {
+          "turno": "20:30 PM",
+          "tematica": "Perrito Rescate (Prime Time)",
+          "alcance_promedio": 3600,
+          "interaccion_promedio": "92%"
+        }
+      ],
+      "evolucion_seguidores_diaria": [
+        {
+          "fecha": "04 Oct",
+          "seguidores": 10
+        },
+        {
+          "fecha": "06 Oct",
+          "seguidores": 14
+        },
+        {
+          "fecha": "08 Oct",
+          "seguidores": 18
+        },
+        {
+          "fecha": "10 Oct",
+          "seguidores": 24
+        }
+      ],
+      "ultimos_posts_publicados": [
+        {
+          "id": "1367888553074849_122096590953507613",
+          "mensaje": "«Vivió 5 años amarrado a una cadena de un metro sobre tierra y piedras. Ayer conoció por primera vez una cama... 🥺🛌\n\nCuando lo rescatamos,",
+          "fecha": "2026-10-10T13:01:13+0000",
+          "reacciones": 0,
+          "comentarios": 0,
+          "compartidos": 0,
+          "estado": "publicado"
+        },
+        {
+          "id": "1367888553074849_122098457997507613",
+          "mensaje": "Doña Mari vendió tamales en esa esquina durante veinte años. Salía a las cinco de la mañana con su olla grande, y al perro, que llegó un día",
+          "fecha": "2026-10-10T12:30:57+0000",
+          "reacciones": 0,
+          "comentarios": 0,
+          "compartidos": 1,
+          "estado": "publicado"
+        },
+        {
+          "id": "1367888553074849_122098457679507613",
+          "mensaje": "Doña Mari vendió tamales en esa esquina durante veinte años. Salía a las cinco de la mañana con su olla grande, y al perro, que llegó un día",
+          "fecha": "2026-10-10T12:30:57+0000",
+          "reacciones": 2,
+          "comentarios": 0,
+          "compartidos": 0,
+          "estado": "publicado"
+        },
+        {
+          "id": "1367888553074849_122098252383507613",
+          "mensaje": "Pocas palabras despiertan tantas reacciones como \"poder\".\nUnos lo admiran. \nOtros lo temen. \nOtros lo niegan. \nPero casi nadie se detiene a ",
+          "fecha": "2026-10-10T05:35:53+0000",
+          "reacciones": 0,
+          "comentarios": 0,
+          "compartidos": 8,
+          "estado": "publicado"
+        },
+        {
+          "id": "1367888553074849_122098249245507613",
+          "mensaje": "Saber leer y acumular información no significa necesariamente haber aprendido a pensar. En una época en la que tenemos acceso inmediato a mi",
+          "fecha": "2026-10-10T05:28:41+0000",
+          "reacciones": 1,
+          "comentarios": 0,
+          "compartidos": 6,
+          "estado": "publicado"
+        },
+        {
+          "id": "1367888553074849_122098169037507613",
+          "mensaje": "La cámara del estacionamiento del refugio grabó a una perra enferma brincándole al pecho a un hombre, como rogándole que no se fuera. 📹\n\nTr",
+          "fecha": "2026-10-10T02:36:17+0000",
+          "reacciones": 0,
+          "comentarios": 0,
+          "compartidos": 1,
+          "estado": "publicado"
+        },
+        {
+          "id": "1367888553074849_122098147341507613",
+          "mensaje": "Saber leer y acumular información no significa necesariamente haber aprendido a pensar. En una época en la que tenemos acceso inmediato a mi",
+          "fecha": "2026-10-10T01:54:40+0000",
+          "reacciones": 0,
+          "comentarios": 0,
+          "compartidos": 1,
+          "estado": "publicado"
+        },
+        {
+          "id": "1367888553074849_122098105911507613",
+          "mensaje": "Cada vez que la vida se pone difícil, hay dos caminos: buscar a quién culpar o recordar para qué te preparaste.\n\nEl filósofo estoico Epictet",
+          "fecha": "2026-10-10T00:25:29+0000",
+          "reacciones": 0,
+          "comentarios": 0,
+          "compartidos": 0,
+          "estado": "publicado"
+        },
+        {
+          "id": "1367888553074849_122098099257507613",
+          "mensaje": "🧠 El mundo puede ser un caos, pero tu mente no tiene por qué serlo.\n\n¿Cuántas veces te has sentido superado por cosas que no puedes control",
+          "fecha": "2026-10-10T00:04:38+0000",
+          "reacciones": 0,
+          "comentarios": 0,
+          "compartidos": 1,
+          "estado": "publicado"
+        },
+        {
+          "id": "1367888553074849_122096590905507613",
+          "mensaje": "«En este pueblo nadie sabía de quién era, pero todos los días a las 7:45 am estaba en la esquina de la escuela... 🚸🐶\n\nLos vecinos lo llama",
+          "fecha": "2026-10-09T23:30:00+0000",
+          "reacciones": 0,
+          "comentarios": 0,
+          "compartidos": 0,
+          "estado": "publicado"
+        },
+        {
+          "id": "1367888553074849_122097877539507613",
+          "mensaje": "Pocas palabras despiertan tantas reacciones como \"poder\".\nUnos lo admiran. \nOtros lo temen. \nOtros lo niegan. \nPero casi nadie se detiene a ",
+          "fecha": "2026-10-09T17:18:30+0000",
+          "reacciones": 0,
+          "comentarios": 0,
+          "compartidos": 0,
+          "estado": "publicado"
+        },
+        {
+          "id": "1367888553074849_122097815403507613",
+          "mensaje": "Lección 07. La frase que nunca escribió.\n¿Lo sabías? 1 o 2 👇\n\"El fin justifica los medios\" es la frase más famosa de Maquiavelo… y no apare",
+          "fecha": "2026-10-09T15:43:36+0000",
+          "reacciones": 0,
+          "comentarios": 0,
+          "compartidos": 1,
+          "estado": "publicado"
+        },
+        {
+          "id": "1367888553074849_122097814029507613",
+          "mensaje": "Publicación",
+          "fecha": "2026-10-09T15:41:17+0000",
+          "reacciones": 3,
+          "comentarios": 0,
+          "compartidos": 0,
+          "estado": "publicado"
+        },
+        {
+          "id": "1367888553074849_122097773685507613",
+          "mensaje": "La cámara de mi casa captó el momento en que una señora amarró a su perrita al hidrante de la acera, dejó una mochila junto a ella y se alej",
+          "fecha": "2026-10-09T14:44:04+0000",
+          "reacciones": 0,
+          "comentarios": 0,
+          "compartidos": 0,
+          "estado": "publicado"
+        },
+        {
+          "id": "1367888553074849_122097772659507613",
+          "mensaje": "La cámara de mi casa captó el momento en que una señora amarró a su perrita al hidrante de la acera, dejó una mochila junto a ella y se alej",
+          "fecha": "2026-10-09T14:43:35+0000",
+          "reacciones": 17,
+          "comentarios": 0,
+          "compartidos": 2,
+          "estado": "publicado"
+        },
+        {
+          "id": "1367888553074849_122096590857507613",
+          "mensaje": "«Tenía 12 años, cataratas y el hocico lleno de canas. Todos decían que nadie adoptaría a un perrito tan viejo... pero se equivocaron. 👴🐾\n\n",
+          "fecha": "2026-10-09T13:01:32+0000",
+          "reacciones": 0,
+          "comentarios": 0,
+          "compartidos": 0,
+          "estado": "publicado"
+        },
+        {
+          "id": "1367888553074849_122097615501507613",
+          "mensaje": "En una calle tranquila del barrio, cada martes y viernes amanecía igual: bolsas de basura rotas y desperdigadas por toda la banqueta. Los ve",
+          "fecha": "2026-10-09T10:37:12+0000",
+          "reacciones": 0,
+          "comentarios": 0,
+          "compartidos": 1,
+          "estado": "publicado"
+        },
+        {
+          "id": "1367888553074849_122096590803507613",
+          "mensaje": "«Llegó a la puerta del hospital todos los días a las 6:00 pm, sin que nadie lo llamara... 🏥🐾\n\nDon Hernán fue internado de urgencia hace do",
+          "fecha": "2026-10-08T23:30:00+0000",
+          "reacciones": 0,
+          "comentarios": 0,
+          "compartidos": 0,
+          "estado": "publicado"
+        },
+        {
+          "id": "1367888553074849_122096590665507613",
+          "mensaje": "«Lo dejaron atado a un poste bajo la lluvia, con una pequeña nota que nos partió el corazón en mil pedazos... 💔🌧️\n\nLa nota decía: 'Por fav",
+          "fecha": "2026-10-08T13:00:31+0000",
+          "reacciones": 0,
+          "comentarios": 0,
+          "compartidos": 0,
+          "estado": "publicado"
+        }
+      ],
+      "proximos_programados_meta": [
+        {
+          "id": "1367888553074849_122098396479507613",
+          "mensaje": "«No tenemos poco tiempo, sino que perdemos mucho». — Séneca (Sobre la brevedad de la vida) ⏳🏛️\n\nNos quejamos constantemente de que la vida ",
+          "fecha_programada": "2026-11-08T08:00:00.000Z",
+          "estado": "programado_en_meta"
+        },
+        {
+          "id": "1367888553074849_122098093029507613",
+          "mensaje": "Eran las 6:30 de la mañana cuando el doctor Fernando llegó a abrir la clínica veterinaria. Atado a la aldaba metálica de la entrada había un",
+          "fecha_programada": "2026-11-07T20:30:00.000Z",
+          "estado": "programado_en_meta"
+        },
+        {
+          "id": "1367888553074849_122097895167507613",
+          "mensaje": "«La mejor venganza es no ser como tu enemigo». — Marco Aurelio 🏛️⚖️\n\nCuando alguien te traiciona, te miente o te trata con desprecio, tu pr",
+          "fecha_programada": "2026-11-07T17:30:00.000Z",
+          "estado": "programado_en_meta"
+        },
+        {
+          "id": "1367888553074849_122097895113507613",
+          "mensaje": "La señora Carmela vio salir el camión de mudanza a toda velocidad. Diez minutos después, una cachorrita peluda y blanca salió corriendo del ",
+          "fecha_programada": "2026-11-07T12:30:00.000Z",
+          "estado": "programado_en_meta"
+        },
+        {
+          "id": "1367888553074849_122097629559507613",
+          "mensaje": "«No nos afecta lo que nos sucede, sino el juicio que nos formamos de lo que nos sucede». — Epicteto 🏛️🛡️\n\nEpicteto nació esclavo, soportó ",
+          "fecha_programada": "2026-11-07T08:00:00.000Z",
+          "estado": "programado_en_meta"
+        },
+        {
+          "id": "1367888553074849_122097376161507613",
+          "mensaje": "Don Aurelio vio cómo cerraron la maderería para siempre y pusieron cinta amarilla de clausura. Al guardia de seguridad le liquidaron su suel",
+          "fecha_programada": "2026-11-07T00:30:00.000Z",
+          "estado": "programado_en_meta"
+        },
+        {
+          "id": "1367888553074849_122097382077507613",
+          "mensaje": "«Sufrimos más a menudo por la imaginación que por la realidad». — Séneca 🏛️📜\n\n¿Cuántas noches te has quedado despierto creando escenarios ",
+          "fecha_programada": "2026-11-06T21:30:00.000Z",
+          "estado": "programado_en_meta"
+        },
+        {
+          "id": "1367888553074849_122097375933507613",
+          "mensaje": "Doña Beatriz subió a tender ropa y escuchó un llanto seco en la azotea de enfrente. La casa llevaba dos semanas deshabitada con el letrero d",
+          "fecha_programada": "2026-11-06T16:30:00.000Z",
+          "estado": "programado_en_meta"
+        },
+        {
+          "id": "1367888553074849_122097381999507613",
+          "mensaje": "«Tienes poder sobre tu mente, no sobre los acontecimientos. Date cuenta de esto y encontrarás la fuerza». — Marco Aurelio 🏛️⚔️\n\nHoy te vas ",
+          "fecha_programada": "2026-11-06T12:00:00.000Z",
+          "estado": "programado_en_meta"
+        },
+        {
+          "id": "1367888553074849_122097375795507613",
+          "mensaje": "Don Marcos llamó al nuevo dueño del taller mecánico que acababa de quebrar. Una voz apresurada le contestó que se estaban llevando la maquin",
+          "fecha_programada": "2026-11-06T00:30:00.000Z",
+          "estado": "programado_en_meta"
+        },
+        {
+          "id": "1367888553074849_122097381729507613",
+          "mensaje": "«No tenemos poco tiempo, sino que perdemos mucho». — Séneca (Sobre la brevedad de la vida) ⏳🏛️\n\nNos quejamos constantemente de que la vida ",
+          "fecha_programada": "2026-11-05T21:30:00.000Z",
+          "estado": "programado_en_meta"
+        },
+        {
+          "id": "1367888553074849_122097375531507613",
+          "mensaje": "Eran las 6:30 de la mañana cuando el doctor Fernando llegó a abrir la clínica veterinaria. Atado a la aldaba metálica de la entrada había un",
+          "fecha_programada": "2026-11-05T16:30:00.000Z",
+          "estado": "programado_en_meta"
+        },
+        {
+          "id": "1367888553074849_122097381573507613",
+          "mensaje": "«La mejor venganza es no ser como tu enemigo». — Marco Aurelio 🏛️⚖️\n\nCuando alguien te traiciona, te miente o te trata con desprecio, tu pr",
+          "fecha_programada": "2026-11-05T12:00:00.000Z",
+          "estado": "programado_en_meta"
+        },
+        {
+          "id": "1367888553074849_122097375243507613",
+          "mensaje": "La señora Carmela vio salir el camión de mudanza a toda velocidad. Diez minutos después, una cachorrita peluda y blanca salió corriendo del ",
+          "fecha_programada": "2026-11-05T00:30:00.000Z",
+          "estado": "programado_en_meta"
+        },
+        {
+          "id": "1367888553074849_122097381321507613",
+          "mensaje": "«No nos afecta lo que nos sucede, sino el juicio que nos formamos de lo que nos sucede». — Epicteto 🏛️🛡️\n\nEpicteto nació esclavo, soportó ",
+          "fecha_programada": "2026-11-04T21:30:00.000Z",
+          "estado": "programado_en_meta"
+        },
+        {
+          "id": "1367888553074849_122097375081507613",
+          "mensaje": "Don Aurelio vio cómo cerraron la maderería para siempre y pusieron cinta amarilla de clausura. Al guardia de seguridad le liquidaron su suel",
+          "fecha_programada": "2026-11-04T16:30:00.000Z",
+          "estado": "programado_en_meta"
+        },
+        {
+          "id": "1367888553074849_122097381195507613",
+          "mensaje": "«Sufrimos más a menudo por la imaginación que por la realidad». — Séneca 🏛️📜\n\n¿Cuántas noches te has quedado despierto creando escenarios ",
+          "fecha_programada": "2026-11-04T12:00:00.000Z",
+          "estado": "programado_en_meta"
+        },
+        {
+          "id": "1367888553074849_122097374823507613",
+          "mensaje": "Doña Beatriz subió a tender ropa y escuchó un llanto seco en la azotea de enfrente. La casa llevaba dos semanas deshabitada con el letrero d",
+          "fecha_programada": "2026-11-04T00:30:00.000Z",
+          "estado": "programado_en_meta"
+        },
+        {
+          "id": "1367888553074849_122097380973507613",
+          "mensaje": "«Tienes poder sobre tu mente, no sobre los acontecimientos. Date cuenta de esto y encontrarás la fuerza». — Marco Aurelio 🏛️⚔️\n\nHoy te vas ",
+          "fecha_programada": "2026-11-03T21:30:00.000Z",
+          "estado": "programado_en_meta"
+        },
+        {
+          "id": "1367888553074849_122097374595507613",
+          "mensaje": "Don Marcos llamó al nuevo dueño del taller mecánico que acababa de quebrar. Una voz apresurada le contestó que se estaban llevando la maquin",
+          "fecha_programada": "2026-11-03T16:30:00.000Z",
+          "estado": "programado_en_meta"
+        },
+        {
+          "id": "1367888553074849_122097380841507613",
+          "mensaje": "«No tenemos poco tiempo, sino que perdemos mucho». — Séneca (Sobre la brevedad de la vida) ⏳🏛️\n\nNos quejamos constantemente de que la vida ",
+          "fecha_programada": "2026-11-03T12:00:00.000Z",
+          "estado": "programado_en_meta"
+        },
+        {
+          "id": "1367888553074849_122097374331507613",
+          "mensaje": "Eran las 6:30 de la mañana cuando el doctor Fernando llegó a abrir la clínica veterinaria. Atado a la aldaba metálica de la entrada había un",
+          "fecha_programada": "2026-11-03T00:30:00.000Z",
+          "estado": "programado_en_meta"
+        },
+        {
+          "id": "1367888553074849_122097380727507613",
+          "mensaje": "«La mejor venganza es no ser como tu enemigo». — Marco Aurelio 🏛️⚖️\n\nCuando alguien te traiciona, te miente o te trata con desprecio, tu pr",
+          "fecha_programada": "2026-11-02T21:30:00.000Z",
+          "estado": "programado_en_meta"
+        },
+        {
+          "id": "1367888553074849_122097374127507613",
+          "mensaje": "La señora Carmela vio salir el camión de mudanza a toda velocidad. Diez minutos después, una cachorrita peluda y blanca salió corriendo del ",
+          "fecha_programada": "2026-11-02T16:30:00.000Z",
+          "estado": "programado_en_meta"
+        },
+        {
+          "id": "1367888553074849_122097380589507613",
+          "mensaje": "«No nos afecta lo que nos sucede, sino el juicio que nos formamos de lo que nos sucede». — Epicteto 🏛️🛡️\n\nEpicteto nació esclavo, soportó ",
+          "fecha_programada": "2026-11-02T12:00:00.000Z",
+          "estado": "programado_en_meta"
+        },
+        {
+          "id": "1367888553074849_122097373833507613",
+          "mensaje": "Don Aurelio vio cómo cerraron la maderería para siempre y pusieron cinta amarilla de clausura. Al guardia de seguridad le liquidaron su suel",
+          "fecha_programada": "2026-11-02T00:30:00.000Z",
+          "estado": "programado_en_meta"
+        },
+        {
+          "id": "1367888553074849_122097380505507613",
+          "mensaje": "«Sufrimos más a menudo por la imaginación que por la realidad». — Séneca 🏛️📜\n\n¿Cuántas noches te has quedado despierto creando escenarios ",
+          "fecha_programada": "2026-11-01T21:30:00.000Z",
+          "estado": "programado_en_meta"
+        },
+        {
+          "id": "1367888553074849_122097373671507613",
+          "mensaje": "Doña Beatriz subió a tender ropa y escuchó un llanto seco en la azotea de enfrente. La casa llevaba dos semanas deshabitada con el letrero d",
+          "fecha_programada": "2026-11-01T16:30:00.000Z",
+          "estado": "programado_en_meta"
+        },
+        {
+          "id": "1367888553074849_122097380439507613",
+          "mensaje": "«Tienes poder sobre tu mente, no sobre los acontecimientos. Date cuenta de esto y encontrarás la fuerza». — Marco Aurelio 🏛️⚔️\n\nHoy te vas ",
+          "fecha_programada": "2026-11-01T12:00:00.000Z",
+          "estado": "programado_en_meta"
+        },
+        {
+          "id": "1367888553074849_122096596233507613",
+          "mensaje": "«Termina un mes más y yo solo quiero darte las gracias por seguir aquí a mi lado... 🍂🍁🐾\n\nGracias por los paseos en las mañanas frías, por",
+          "fecha_programada": "2026-10-31T23:30:00.000Z",
+          "estado": "programado_en_meta"
+        },
+        {
+          "id": "1367888553074849_122096596113507613",
+          "mensaje": "«Es el último día de octubre y queremos hablar de una injusticia real: el 'Síndrome del Perro Negro'. 🖤🐾\n\nEn los refugios de todo el mundo",
+          "fecha_programada": "2026-10-31T13:00:00.000Z",
+          "estado": "programado_en_meta"
+        },
+        {
+          "id": "1367888553074849_122096595987507613",
+          "mensaje": "«Los truenos y los fuegos artificiales de fin de mes siempre asustan a los perritos sin hogar en los refugios... 🎆😰🐾\n\nEl refugio 'Huellit",
+          "fecha_programada": "2026-10-30T23:30:00.000Z",
+          "estado": "programado_en_meta"
+        },
+        {
+          "id": "1367888553074849_122096595915507613",
+          "mensaje": "«En el barrio todos esperaban disfraces terroríficos... hasta que apareció el conde 'Drácula' más dulce de la historia. 🎃🧛‍♂️🐶\n\nSus dueño",
+          "fecha_programada": "2026-10-30T13:00:00.000Z",
+          "estado": "programado_en_meta"
+        },
+        {
+          "id": "1367888553074849_122096595777507613",
+          "mensaje": "«Don Alberto pasó seis meses sentado en su sillón sin querer salir de casa tras perder a su esposa de toda la vida... 🛋️🥀\n\nSus hijos sabía",
+          "fecha_programada": "2026-10-29T23:30:00.000Z",
+          "estado": "programado_en_meta"
+        },
+        {
+          "id": "1367888553074849_122096595669507613",
+          "mensaje": "«Estuvo tres semanas internado luchando contra el parvovirus. Los doctores dieron todo por él y hoy... ¡HOY SE FUE A CASA! 🏥🎉🐶\n\nPaco lleg",
+          "fecha_programada": "2026-10-29T13:00:00.000Z",
+          "estado": "programado_en_meta"
+        },
+        {
+          "id": "1367888553074849_122096595597507613",
+          "mensaje": "«A veces creemos que para hacer feliz a un perro hay que comprarle juguetes caros o comida gourmet... nada más lejos de la verdad. 🐾💖\n\nLo ",
+          "fecha_programada": "2026-10-28T23:30:00.000Z",
+          "estado": "programado_en_meta"
+        },
+        {
+          "id": "1367888553074849_122096595531507613",
+          "mensaje": "«Nadie esperaba que un imponente pastor alemán terminara siendo la 'madre' de una pequeña ardilla... 🐿️🐕🍼\n\nUna fuerte tormenta tumbó un n",
+          "fecha_programada": "2026-10-28T13:00:00.000Z",
+          "estado": "programado_en_meta"
+        },
+        {
+          "id": "1367888553074849_122096595435507613",
+          "mensaje": "«Un veterinario compartió una de las cartas más dolorosas y necesarias que todos deberíamos leer... 🕊️🏥🐾\n\n'Cuando llega el momento más di",
+          "fecha_programada": "2026-10-27T23:30:00.000Z",
+          "estado": "programado_en_meta"
+        },
+        {
+          "id": "1367888553074849_122096595285507613",
+          "mensaje": "«A sus 14 años la artritis lo hacía caminar despacio y pasar la mayor parte del día durmiendo... 🏖️🌊👴🐶\n\nPero el fin de semana pasado sus",
+          "fecha_programada": "2026-10-27T13:00:00.000Z",
+          "estado": "programado_en_meta"
+        },
+        {
+          "id": "1367888553074849_122096595135507613",
+          "mensaje": "«La crueldad humana a veces no tiene nombre, pero la fidelidad canina no tiene comparación... 🚗💔🐕\n\nLo bajaron del auto en una carretera s",
+          "fecha_programada": "2026-10-26T23:30:00.000Z",
+          "estado": "programado_en_meta"
+        },
+        {
+          "id": "1367888553074849_122096595015507613",
+          "mensaje": "«Muchos cruzaban de vereda cuando lo veían venir por culpa de los prejuicios sobre su raza... 🌸🐾🐕\n\nZeus es un pitbull rescatado de 3 años",
+          "fecha_programada": "2026-10-26T13:00:00.000Z",
+          "estado": "programado_en_meta"
+        },
+        {
+          "id": "1367888553074849_122096594961507613",
+          "mensaje": "«Los perros no entienden todas nuestras palabras, pero son los mayores expertos del planeta en leer nuestra energía y tono de voz... 🗣️❤️🐕",
+          "fecha_programada": "2026-10-25T23:30:00.000Z",
+          "estado": "programado_en_meta"
+        },
+        {
+          "id": "1367888553074849_122096594859507613",
+          "mensaje": "«Estaban en medio de los votos matrimoniales cuando un invitado inesperado entró a la iglesia... 💒👰🤵🐕\n\nComenzó a llover fuerte y un perr",
+          "fecha_programada": "2026-10-25T13:00:00.000Z",
+          "estado": "programado_en_meta"
+        },
+        {
+          "id": "1367888553074849_122096594787507613",
+          "mensaje": "«Para un perro no eres un simple 'humano que le da de comer'... para él eres su verdadero progenitor. 🐶👨‍👩‍👧❤️\n\nFíjate si hace estas cos",
+          "fecha_programada": "2026-10-24T23:30:00.000Z",
+          "estado": "programado_en_meta"
+        },
+        {
+          "id": "1367888553074849_122096594709507613",
+          "mensaje": "«Había perdido su casa por una tormenta, pero se negaba a soltar su único tesoro... 🧸⛈️🐾\n\nCuando los rescatistas llegaron a la zona afecta",
+          "fecha_programada": "2026-10-24T13:00:00.000Z",
+          "estado": "programado_en_meta"
+        },
+        {
+          "id": "1367888553074849_122096594607507613",
+          "mensaje": "«Rocky no dejaba de ladrarle a la rueda del auto de su vecino y no lo dejaba arrancar... 🚗🛑🐕\n\nEl vecino estaba apurado para ir al trabajo",
+          "fecha_programada": "2026-10-23T23:30:00.000Z",
+          "estado": "programado_en_meta"
+        },
+        {
+          "id": "1367888553074849_122096594499507613",
+          "mensaje": "«Los voluntarios le prepararon una fiesta con globos, pastel de hígado y un cartel de 'Adóptame'... pero nadie llegó. 🎈🥺🐾\n\nLa foto de Che",
+          "fecha_programada": "2026-10-23T13:00:00.000Z",
+          "estado": "programado_en_meta"
+        },
+        {
+          "id": "1367888553074849_122096594403507613",
+          "mensaje": "«Ese gesto de ladear la cabecita cuando le dices: '¿Vamos al parque?' o '¿Quieres comidita?'... ¡es lo más tierno del mundo! 😍🐶 tilt\n\n¿Por",
+          "fecha_programada": "2026-10-22T23:30:00.000Z",
+          "estado": "programado_en_meta"
+        },
+        {
+          "id": "1367888553074849_122096594319507613",
+          "mensaje": "«Este no es un perro común; es Toby, el terapeuta que trabaja en la sala de oncología infantil. 🏥🧸🐶\n\nLos niños que esperan sus tratamient",
+          "fecha_programada": "2026-10-22T13:00:00.000Z",
+          "estado": "programado_en_meta"
+        },
+        {
+          "id": "1367888553074849_122096594139507613",
+          "mensaje": "«El único defecto que tienen los perros es que sus vidas son demasiado cortas... ⏳🐾\n\nEllos viven en promedio entre 12 y 15 años. Para ti, e",
+          "fecha_programada": "2026-10-21T23:30:00.000Z",
+          "estado": "programado_en_meta"
+        },
+        {
+          "id": "1367888553074849_122096594037507613",
+          "mensaje": "«Fueron más de 30 horas atrapado en la oscuridad de un pozo seco sin agua ni alimento... 🚒🕳️🐕\n\nUn campesino escuchó ecos lejanos en un te",
+          "fecha_programada": "2026-10-21T13:00:00.000Z",
+          "estado": "programado_en_meta"
+        },
+        {
+          "id": "1367888553074849_122096593923507613",
+          "mensaje": "«¿Tu perro tiene toda la cama disponible pero insiste en dormir pegado a tu espalda o encima de tus pies? Esta es la razón... 🛌🐶❤️\n\nEn est",
+          "fecha_programada": "2026-10-20T23:30:00.000Z",
+          "estado": "programado_en_meta"
+        },
+        {
+          "id": "1367888553074849_122096593779507613",
+          "mensaje": "«No tenían techo, lujos ni comodidades, pero juntos tenían el tesoro más grande del planeta: lealtad absoluta. 🌧️🐕🫂\n\nMario vive en situac",
+          "fecha_programada": "2026-10-20T13:00:00.000Z",
+          "estado": "programado_en_meta"
+        },
+        {
+          "id": "1367888553074849_122096593701507613",
+          "mensaje": "«¿Creías que mover la cola siempre significa que tu perro está feliz? Cuidado, su cola habla más de lo que crees... 🐕🔍\n\nEstudios de etolog",
+          "fecha_programada": "2026-10-19T23:30:00.000Z",
+          "estado": "programado_en_meta"
+        },
+        {
+          "id": "1367888553074849_122096593629507613",
+          "mensaje": "«Estaba en los huesos, sin pelo por la sarna y con la mirada completamente apagada. Muchos decían que era mejor dormirlo... 💔➡️💖\n\nPero una",
+          "fecha_programada": "2026-10-19T13:00:00.000Z",
+          "estado": "programado_en_meta"
+        },
+        {
+          "id": "1367888553074849_122096593527507613",
+          "mensaje": "«Si tu perro pudiera hablar por un minuto antes de apagar la luz, esto es lo que te diría... 🌙🐾\n\n1. 'Gracias por volver a casa hoy. Aunque",
+          "fecha_programada": "2026-10-18T23:30:00.000Z",
+          "estado": "programado_en_meta"
+        },
+        {
+          "id": "1367888553074849_122096593407507613",
+          "mensaje": "«Muchos perros le ladran al camión de la basura... pero Pirata espera ansioso cada martes y jueves por sus mejores amigos. 🚛🐕👋\n\nTodo empe",
+          "fecha_programada": "2026-10-18T13:00:00.000Z",
+          "estado": "programado_en_meta"
+        },
+        {
+          "id": "1367888553074849_122096593287507613",
+          "mensaje": "«Nació sin la vista y pasó sus primeros dos años confinado en un cuarto oscuro. Así fue cuando tocó el césped por primera vez... 🌿🐾\n\nAl pr",
+          "fecha_programada": "2026-10-17T23:30:00.000Z",
+          "estado": "programado_en_meta"
+        },
+        {
+          "id": "1367888553074849_122096593023507613",
+          "mensaje": "«Cuando el veterinario le dijo que a Buster le quedaban pocos meses de vida, Carlos no se encerró a llorar... decidió darle el viaje de sus ",
+          "fecha_programada": "2026-10-17T13:00:00.000Z",
+          "estado": "programado_en_meta"
+        },
+        {
+          "id": "1367888553074849_122096592873507613",
+          "mensaje": "«Todos los días a las 5:30 de la tarde, 'Manchitas' se sienta en la parada del autobús número 42... 🚌🐕\n\nDurante 8 años, Don Rogelio tomaba",
+          "fecha_programada": "2026-10-16T23:30:00.000Z",
+          "estado": "programado_en_meta"
+        },
+        {
+          "id": "1367888553074849_122096592669507613",
+          "mensaje": "«Tres pequeños cachorritos quedaron huérfanos con solo 15 días de vida... hasta que Barnaby entró en escena. 🐕🍼🐾\n\nBarnaby es un enorme Go",
+          "fecha_programada": "2026-10-16T13:00:00.000Z",
+          "estado": "programado_en_meta"
+        },
+        {
+          "id": "1367888553074849_122096592525507613",
+          "mensaje": "«A veces escucho a personas decir: '¿Por qué lloras tanto? Tranquilo, al final es solo un perro'... 💔\n\nClaramente nunca han sabido lo que e",
+          "fecha_programada": "2026-10-15T23:30:00.000Z",
+          "estado": "programado_en_meta"
+        },
+        {
+          "id": "1367888553074849_122096592441507613",
+          "mensaje": "«Esa noche el pequeño Santiago tuvo 39 grados de fiebre. Toby no durmió ni un solo minuto... 🤒🐶\n\nLa mamá de Santiago cuenta que intentó ba",
+          "fecha_programada": "2026-10-15T13:00:00.000Z",
+          "estado": "programado_en_meta"
+        },
+        {
+          "id": "1367888553074849_122096592243507613",
+          "mensaje": "«Destruyó el cojín de la sala, esparció las plumas por todo el pasillo y masticó un zapato nuevo... pero mira esa carita. 😂🐶🛋️\n\nLlegas ca",
+          "fecha_programada": "2026-10-14T23:30:00.000Z",
+          "estado": "programado_en_meta"
+        },
+        {
+          "id": "1367888553074849_122096592009507613",
+          "mensaje": "«A Luna la rescataron de una fábrica abandonada donde pasó años comiendo lo que el viento traía... 🥺💔\n\nTenía marcas en su piel y el cuerpo",
+          "fecha_programada": "2026-10-14T13:00:00.000Z",
+          "estado": "programado_en_meta"
+        },
+        {
+          "id": "1367888553074849_122096591805507613",
+          "mensaje": "«Dicen que nosotros no elegimos a los perros... ellos nos eligen a nosotros en el momento exacto en que más los necesitamos. 🐾🌟\n\nTal vez e",
+          "fecha_programada": "2026-10-13T23:30:00.000Z",
+          "estado": "programado_en_meta"
+        },
+        {
+          "id": "1367888553074849_122096591571507613",
+          "mensaje": "«300 días viendo personas pasar frente a su jaula sin que nadie se detuviera... hasta hoy. 🎉😭🐾\n\nA Bruno lo rescataron de un basurero con ",
+          "fecha_programada": "2026-10-13T13:00:00.000Z",
+          "estado": "programado_en_meta"
+        },
+        {
+          "id": "1367888553074849_122096591427507613",
+          "mensaje": "«¿Alguna vez te has quedado mirando a los ojos a tu perro y has sentido una conexión mágica? No te lo estás imaginando... 🧬👀❤️\n\nCientífico",
+          "fecha_programada": "2026-10-12T23:30:00.000Z",
+          "estado": "programado_en_meta"
+        },
+        {
+          "id": "1367888553074849_122096591259507613",
+          "mensaje": "«Un niño de 3 años se extravió al anochecer en una zona boscosa. Quien lo encontró primero fue su perro Mateo... 🌲🔦\n\nMás de 40 rescatistas",
+          "fecha_programada": "2026-10-12T13:00:00.000Z",
+          "estado": "programado_en_meta"
+        },
+        {
+          "id": "1367888553074849_122096591151507613",
+          "mensaje": "«El amor de un perro no viene con pedigrí ni con certificado de autenticidad... 🐾📜\n\nUn perro mestizo ('callejerito', 'chusco', 'criollo') ",
+          "fecha_programada": "2026-10-11T23:30:00.000Z",
+          "estado": "programado_en_meta"
+        },
+        {
+          "id": "1367888553074849_122096591079507613",
+          "mensaje": "«Decían que los perros y los gatos son enemigos por naturaleza... Toby demostró todo lo contrario. 🐶🐱🍼\n\nUnos vecinos escucharon maullidos",
+          "fecha_programada": "2026-10-11T13:00:00.000Z",
+          "estado": "programado_en_meta"
+        },
+        {
+          "id": "1367888553074849_122096591013507613",
+          "mensaje": "«Pasaron 11 meses separados en misiones distintas. El reencuentro duró más de 20 minutos de lágrimas y abrazos... 🎖️🐕\n\nMax, un pastor alem",
+          "fecha_programada": "2026-10-10T23:30:00.000Z",
+          "estado": "programado_en_meta"
+        }
+      ]
+    },
+    "1375923958937880": {
+      "pagina": {
+        "id": "1375923958937880",
+        "nombre": "Metalidad de Acero",
+        "categoria": "Digital creator",
+        "seguidores": 0,
+        "personas_hablando": 1,
+        "foto_perfil": "https://scontent.fccs3-1.fna.fbcdn.net/v/t39.30808-1/840874239_28641464222200699_8608299845012300889_n.jpg?stp=cp0_dst-jpg_s50x50_tt6&_nc_cat=100&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=f907e8&_nc_ohc=I86hAH4Tw64Q7kNvwETN-K7&_nc_oc=Ado1OCvU65mLQHviLpgFqSeTRCr4bEESUOYms44XqeI2YpNISMsSwVwnHsxanGvc7IE&_nc_zt=24&_nc_ht=scontent.fccs3-1.fna&edm=AJdBtusEAAAA&_nc_gid=AMz-8OsgIE0vEKaOtLvu7w&_nc_tpa=Q5bMBQI2ChRGdd4hO4r4Sm8G9KK4ODLRXA2EyvioVKlCu02EeaBdn5xMv6TlwaM0857VZyZbsKhB-yggAg&oh=00_AQOCzbcervpBO2wnbsNyksZqxz-dOWP31cL_BE0l28Yy3A&oe=6AD03CCB",
+        "ultima_actualizacion": "2026-10-10T14:53:25.563Z"
+      },
+      "resumen_kpis": {
+        "total_seguidores": 0,
+        "crecimiento_semanal": "+100%",
+        "seguidores_nuevos_semana": 0,
+        "personas_hablando": 1,
+        "alcance_estimado": 12500,
+        "interacciones_totales": 420,
+        "compartidos_totales": 95,
+        "programados_en_servidores_meta": 9,
+        "total_publicaciones_sistema": 12
+      },
+      "rendimiento_por_horario": [
+        {
+          "turno": "07:00 AM",
+          "tematica": "Despertador Disciplina",
+          "alcance_promedio": 3200,
+          "interaccion_promedio": "89%"
+        },
+        {
+          "turno": "13:00 PM",
+          "tematica": "Leyes del Guerrero",
+          "alcance_promedio": 2600,
+          "interaccion_promedio": "82%"
+        },
+        {
+          "turno": "19:00 PM",
+          "tematica": "Batalla Mental (Prime Time)",
+          "alcance_promedio": 4100,
+          "interaccion_promedio": "94%"
+        },
+        {
+          "turno": "21:30 PM",
+          "tematica": "Reflexión de Cierre",
+          "alcance_promedio": 2400,
+          "interaccion_promedio": "78%"
+        }
+      ],
+      "evolucion_seguidores_diaria": [
+        {
+          "fecha": "08 Oct",
+          "seguidores": 0
+        },
+        {
+          "fecha": "09 Oct",
+          "seguidores": 1
+        },
+        {
+          "fecha": "10 Oct",
+          "seguidores": 0
+        }
+      ],
+      "ultimos_posts_publicados": [
+        {
+          "id": "1375923958937880_122095704591512707",
+          "mensaje": "\"La pobreza puede ser una circunstancia, pero la mentalidad de víctima es una prisión.\"\n\n¡DESPIERTA!\n\nA nadie le importa tu historia triste.",
+          "fecha": "2026-10-10T14:38:34+0000",
+          "reacciones": 0,
+          "comentarios": 0,
+          "compartidos": 0,
+          "estado": "publicado"
+        },
+        {
+          "id": "1375923958937880_122095697085512707",
+          "mensaje": "La prisión más difícil de romper no tiene rejas de hierro; está construida con excusas.   A todos nos tocan momentos duros, caídas y circuns",
+          "fecha": "2026-10-10T14:26:21+0000",
+          "reacciones": 0,
+          "comentarios": 0,
+          "compartidos": 0,
+          "estado": "publicado"
+        },
+        {
+          "id": "1375923958937880_122095696155512707",
+          "mensaje": "Publicación",
+          "fecha": "2026-10-10T14:23:34+0000",
+          "reacciones": 0,
+          "comentarios": 0,
+          "compartidos": 0,
+          "estado": "publicado"
+        }
+      ],
+      "proximos_programados_meta": [
+        {
+          "id": "1375923958937880_122095708851512707",
+          "mensaje": "\"A NADIE LE IMPORTA CUÁNTO DOLIÓ TU PASADO SI HOY SIGUES USÁNDOLO COMO EXCUSA PARA SER UN FRACASADO.\"\n\nDetén el scroll. Lee esto con la guar",
+          "fecha_programada": "2026-10-19T23:00:00.000Z",
+          "estado": "programado_en_meta"
+        },
+        {
+          "id": "1375923958937880_122095708587512707",
+          "mensaje": "\"NO LE CUENTES A NADIE LO QUE VAS A HACER, DEJA QUE EL RUIDO DE TUS RESULTADOS HABLE POR TI.\"\n\n¡DESPIERTA!\n\nEl mundo está podrido de charlat",
+          "fecha_programada": "2026-10-18T23:00:00.000Z",
+          "estado": "programado_en_meta"
+        },
+        {
+          "id": "1375923958937880_122095708467512707",
+          "mensaje": "\"EL CONFORT ES UNA PRISIÓN SILENCIOSA QUE ASESINA MÁS SUEÑOS QUE CUALQUIER FRACASO.\"\n\n¡DESPIERTA! \n\nDeja de mirar la pantalla con cara de lá",
+          "fecha_programada": "2026-10-17T23:00:00.000Z",
+          "estado": "programado_en_meta"
+        },
+        {
+          "id": "1375923958937880_122095708407512707",
+          "mensaje": "**\"La envidia es el tributo involuntario que la mediocridad le paga al talento y al trabajo.\"**\n\nLee esa frase otra vez. Y si te dolió, perf",
+          "fecha_programada": "2026-10-16T23:00:00.000Z",
+          "estado": "programado_en_meta"
+        },
+        {
+          "id": "1375923958937880_122095708251512707",
+          "mensaje": "«EL FRACASO NO ES LO CONTRARIO AL ÉXITO, EL FRACASO ES LA MATERIA PRIMA CON LA QUE SE FORJA.»\n\n¡DESPIERTA! \n\nDeja de lloriquear por tus caíd",
+          "fecha_programada": "2026-10-15T23:00:00.000Z",
+          "estado": "programado_en_meta"
+        },
+        {
+          "id": "1375923958937880_122095708185512707",
+          "mensaje": "\"EL QUE EDIFICA SU VALOR SOBRE EL APLAUSO AJENO, SE DERRUMBA EN EL MOMENTO EN QUE LLEGA EL SILENCIO.\"\n\n¡DESPIERTA! \n\nDeja de mendigar la apr",
+          "fecha_programada": "2026-10-14T23:00:00.000Z",
+          "estado": "programado_en_meta"
+        },
+        {
+          "id": "1375923958937880_122095708125512707",
+          "mensaje": "«Sigues buscando el truco barato porque te da pánico admitir que tu vida es un desastre por tu propia culpa.»\n\nDetén el scroll. Mírate al es",
+          "fecha_programada": "2026-10-13T23:00:00.000Z",
+          "estado": "programado_en_meta"
+        },
+        {
+          "id": "1375923958937880_122095708059512707",
+          "mensaje": "\"QUIEN NO CONTROLA SUS PROPIAS EMOCIONES, SERÁ SIEMPRE EL ESCLAVO DE QUIEN SEPA PROVOCARLO.\"\n\n¡DESPIERTA! \n\nDeja de regalarle tu poder a cua",
+          "fecha_programada": "2026-10-12T23:00:00.000Z",
+          "estado": "programado_en_meta"
+        },
+        {
+          "id": "1375923958937880_122095707999512707",
+          "mensaje": "\"MAÑANA ES EL DÍA FAVORITO DEL QUE NUNCA LOGRA NADA. EL ÉXITO SE CONSTRUYE HOY O NO SE CONSTRUYE NUNCA.\"\n\n¡DESPIERTA! \n\nDeja de mentirte fre",
+          "fecha_programada": "2026-10-11T23:00:00.000Z",
+          "estado": "programado_en_meta"
+        }
+      ]
+    }
+  }
 }

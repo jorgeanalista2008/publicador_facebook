@@ -60,8 +60,14 @@
       </div>
     </div>
 
-    <!-- PESTAÑAS DE NAVEGACIÓN -->
+    <!-- PESTAÑAS DE NAVEGACIÓN Y SELECTOR MULTI-PÁGINA -->
     <div class="flex items-center gap-3 flex-wrap">
+      <!-- SELECTOR DE PÁGINAS -->
+      <select id="selector-pagina" onchange="cambiarPagina(this.value)" class="bg-slate-900/90 border border-brand-500/40 text-xs rounded-xl px-3.5 py-2 text-white focus:outline-none focus:border-brand-400 font-bold cursor-pointer shadow-lg">
+        <option value="1367888553074849">🐾 Huellas con Propósito</option>
+        <option value="1375923958937880">⚔️ Metalidad de Acero</option>
+      </select>
+
       <div class="flex bg-slate-900/90 border border-border rounded-xl p-1 text-xs font-semibold">
         <button onclick="cambiarTab('metricas')" id="tab-btn-metricas" class="px-4 py-2 rounded-lg bg-brand-500 text-slate-950 font-bold transition flex items-center gap-1.5">
           📊 Métricas y Rendimiento
@@ -530,7 +536,24 @@
       renderTablaPosts(filtrados);
     }
 
+    let chartHorarios = null;
+    let chartSeg = null;
+    let chartDona = null;
+    let paginaActualId = '1367888553074849';
+
+    function cambiarPagina(id) {
+      paginaActualId = id;
+      if (globalData && globalData.paginas && globalData.paginas[id]) {
+        renderDashboard(globalData.paginas[id]);
+      }
+      cargarCalendario();
+    }
+
     function initCharts(data) {
+      if (chartHorarios) { chartHorarios.destroy(); chartHorarios = null; }
+      if (chartSeg) { chartSeg.destroy(); chartSeg = null; }
+      if (chartDona) { chartDona.destroy(); chartDona = null; }
+
       // 1. Chart Horarios (Bar Chart con 4 turnos)
       const horarios = data.rendimiento_por_horario || [
         { turno: "08:00 AM", alcance_promedio: 1850 },
@@ -540,7 +563,7 @@
       ];
 
       const ctxHorarios = document.getElementById('chart-horarios').getContext('2d');
-      new Chart(ctxHorarios, {
+      chartHorarios = new Chart(ctxHorarios, {
         type: 'bar',
         data: {
           labels: horarios.map(h => h.turno + ' (' + (h.tematica ? h.tematica.split(' ')[0] : '') + ')'),
@@ -572,7 +595,7 @@
       ];
 
       const ctxSeg = document.getElementById('chart-seguidores').getContext('2d');
-      new Chart(ctxSeg, {
+      chartSeg = new Chart(ctxSeg, {
         type: 'line',
         data: {
           labels: evo.map(e => e.fecha),
@@ -600,10 +623,12 @@
 
       // 3. Chart Temática (Doughnut)
       const ctxDona = document.getElementById('chart-dona').getContext('2d');
-      new Chart(ctxDona, {
+      chartDona = new Chart(ctxDona, {
         type: 'doughnut',
         data: {
-          labels: ['Perritos (65%)', 'Estoicismo (35%)'],
+          labels: paginaActualId === '1375923958937880' 
+            ? ['Batallas Mentales (70%)', 'Leyes de Acero (30%)'] 
+            : ['Perritos (65%)', 'Estoicismo (35%)'],
           datasets: [{
             data: [65, 35],
             backgroundColor: ['#34d399', '#c084fc'],
@@ -621,28 +646,57 @@
 
     async function cargarCalendario() {
       try {
-        const res = await fetch('noviembre/publicaciones.json');
+        const url = paginaActualId === '1375923958937880' 
+          ? 'mentalidad_de_acero/publicaciones.json' 
+          : 'noviembre/publicaciones.json';
+
+        const res = await fetch(url);
         if (!res.ok) return;
         const posts = await res.json();
         const grid = document.getElementById('grid-calendario');
-        grid.innerHTML = posts.slice(0, 36).map(p => `
-          <div class="cal-card bg-card border border-border rounded-xl p-4 flex flex-col justify-between" data-tipo="${p.tipo}">
-            <div>
-              <div class="flex justify-between items-center text-xs mb-2">
-                <span class="text-brand-400 font-bold">${p.fecha}</span>
-                <span class="bg-amber-500/10 text-amber-400 border border-amber-500/20 px-2 py-0.5 rounded font-mono font-semibold">${p.hora}</span>
+
+        if (paginaActualId === '1375923958937880') {
+          grid.innerHTML = posts.map(p => `
+            <div class="cal-card bg-card border border-border rounded-xl p-4 flex flex-col justify-between" data-tipo="mentalidad">
+              <div>
+                <div class="flex justify-between items-center text-xs mb-2">
+                  <span class="text-amber-400 font-bold">${p.fecha}</span>
+                  <span class="bg-amber-500/10 text-amber-400 border border-amber-500/20 px-2 py-0.5 rounded font-mono font-semibold">${p.hora}</span>
+                </div>
+                <span class="text-[10px] font-bold uppercase tracking-wider px-2 py-0.5 rounded bg-purple-500/10 text-purple-400 border border-purple-500/20">
+                  ⚔️ ${p.arquetipo || 'Mentalidad de Acero'}
+                </span>
+                <h4 class="font-bold text-sm text-white mt-2 mb-2 line-clamp-2">${p.titulo}</h4>
+                <p class="text-xs text-slate-400 line-clamp-3">${p.texto}</p>
               </div>
-              <span class="text-[10px] font-bold uppercase tracking-wider px-2 py-0.5 rounded ${p.tipo === 'perrito' ? 'bg-emerald-500/10 text-emerald-400 border border-emerald-500/20' : 'bg-purple-500/10 text-purple-400 border border-purple-500/20'}">
-                ${p.tipo === 'perrito' ? '🐶 Perrito de Barrio' : '🏛️ Filosofía Estoica'}
-              </span>
-              <h4 class="font-bold text-sm text-white mt-2 mb-2 line-clamp-2">${p.titulo}</h4>
-              <p class="text-xs text-slate-400 line-clamp-3">${p.texto}</p>
+              <div class="mt-4 flex gap-2">
+                <button onclick="navigator.clipboard.writeText(\`${p.texto.replace(/`/g, '')}\`); alert('Texto copiado al portapapeles');" class="flex-1 py-1.5 bg-slate-900 hover:bg-slate-800 text-xs font-semibold rounded text-slate-300 border border-border transition">
+                  📋 Copiar Texto
+                </button>
+                ${p.post_id ? `<a href="https://www.facebook.com/${p.post_id}" target="_blank" class="px-3 py-1.5 bg-brand-500/10 hover:bg-brand-500/20 text-brand-400 border border-brand-500/30 text-xs font-semibold rounded transition flex items-center gap-1">Ver en FB ↗</a>` : ''}
+              </div>
             </div>
-            <button onclick="navigator.clipboard.writeText(\`${p.texto.replace(/`/g, '')}\`); alert('Texto copiado al portapapeles');" class="mt-4 w-full py-1.5 bg-slate-900 hover:bg-slate-800 text-xs font-semibold rounded text-slate-300 border border-border transition">
-              📋 Copiar Texto
-            </button>
-          </div>
-        `).join('');
+          `).join('');
+        } else {
+          grid.innerHTML = posts.slice(0, 36).map(p => `
+            <div class="cal-card bg-card border border-border rounded-xl p-4 flex flex-col justify-between" data-tipo="${p.tipo}">
+              <div>
+                <div class="flex justify-between items-center text-xs mb-2">
+                  <span class="text-brand-400 font-bold">${p.fecha}</span>
+                  <span class="bg-amber-500/10 text-amber-400 border border-amber-500/20 px-2 py-0.5 rounded font-mono font-semibold">${p.hora}</span>
+                </div>
+                <span class="text-[10px] font-bold uppercase tracking-wider px-2 py-0.5 rounded ${p.tipo === 'perrito' ? 'bg-emerald-500/10 text-emerald-400 border border-emerald-500/20' : 'bg-purple-500/10 text-purple-400 border border-purple-500/20'}">
+                  ${p.tipo === 'perrito' ? '🐶 Perrito de Barrio' : '🏛️ Filosofía Estoica'}
+                </span>
+                <h4 class="font-bold text-sm text-white mt-2 mb-2 line-clamp-2">${p.titulo}</h4>
+                <p class="text-xs text-slate-400 line-clamp-3">${p.texto}</p>
+              </div>
+              <button onclick="navigator.clipboard.writeText(\`${p.texto.replace(/`/g, '')}\`); alert('Texto copiado al portapapeles');" class="mt-4 w-full py-1.5 bg-slate-900 hover:bg-slate-800 text-xs font-semibold rounded text-slate-300 border border-border transition">
+                📋 Copiar Texto
+              </button>
+            </div>
+          `).join('');
+        }
       } catch (e) {}
     }
 
