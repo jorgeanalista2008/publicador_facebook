@@ -3,8 +3,8 @@
     "id": "1367888553074849",
     "nombre": "Huellas con Propósito",
     "seguidores": 22,
-    "foto_perfil": "https://scontent-iad3-1.xx.fbcdn.net/v/t39.30808-1/825286629_28604489712564817_7866327839881392565_n.jpg?stp=cp0_dst-jpg_s50x50_tt6&_nc_cat=110&ccb=1-7&_nc_sid=f907e8&_nc_ohc=qIrYIR_8fyAQ7kNvwGJ9fUb&_nc_oc=Adp1SswGxzNFedUkTbsuEK--fFw87u7pJih5rVQaBpwIm_2bsoP6hAj2ipLN_DOJfDg&_nc_zt=24&_nc_ht=scontent-iad3-1.xx&edm=AJdBtusEAAAA&_nc_gid=hO6UnRyfkJpSrc0woWppfw&_nc_tpa=Q5bMBQJPF6GyXACgRZGFzP_G5WHQPiKJUH6auCqIcv2OzmizstN3ItJaOp93OY2aDcmXf_xSAeIZR_qNsg&oh=00_AQMWByxUhgqidWeIigrOAGAVSsqACQHSvwYeRrMeXaul3g&oe=6ACF932B",
-    "ultima_actualizacion": "2026-10-10T03:58:09.645Z"
+    "foto_perfil": "https://scontent-iad3-1.xx.fbcdn.net/v/t39.30808-1/825286629_28604489712564817_7866327839881392565_n.jpg?stp=cp0_dst-jpg_s50x50_tt6&_nc_cat=110&ccb=1-7&_nc_sid=f907e8&_nc_ohc=qIrYIR_8fyAQ7kNvwEWV3Hr&_nc_oc=AdqWJbQnA1w4D-jsIwcb6ZWSOTqdlOzXannah1gTBgqgkk1pOa2TMK7obAWeDn4Lwlo&_nc_zt=24&_nc_ht=scontent-iad3-1.xx&edm=AJdBtusEAAAA&_nc_gid=FGCpTd-27_hFEQZghYm__g&_nc_tpa=Q5bMBQLxVY4PpM57VVsX2-x_wQCcjxIF1AZ2_dFsgA6J3__JkxnBPeeX8ZSc8s3envVd5KHHlCNGPhucCA&oh=00_AQMWF_1zpY3q3EsXUdxnykdPwk_D0YfTFJ-b-5EQnItwtA&oe=6ACFCB6B",
+    "ultima_actualizacion": "2026-10-10T10:28:37.136Z"
   },
   "resumen_kpis": {
     "total_seguidores": 22,
@@ -12,7 +12,7 @@
     "alcance_estimado": 24890,
     "interacciones_totales": 3420,
     "compartidos_totales": 840,
-    "publicaciones_activas_programadas": 76
+    "publicaciones_activas_programadas": 77
   },
   "comparativa_tematica": {
     "perritos": {
@@ -22,7 +22,7 @@
       "alcance_relativo": 65
     },
     "estoicismo": {
-      "total_programados": 14,
+      "total_programados": 15,
       "interaccion_promedio": "74%",
       "tipo_reaccion_principal": "Compartidos / Guardados",
       "alcance_relativo": 35
@@ -66,6 +66,22 @@
     }
   ],
   "ultimos_posts_publicados": [
+    {
+      "id": "1367888553074849_122098252383507613",
+      "mensaje": "Pocas palabras despiertan tantas reacciones como \"poder\".\nUnos lo admiran. ...",
+      "fecha": "2026-10-10T05:35:53+0000",
+      "reacciones": 0,
+      "comentarios": 0,
+      "compartidos": 8
+    },
+    {
+      "id": "1367888553074849_122098249245507613",
+      "mensaje": "Saber leer y acumular información no significa necesariamente haber aprendi...",
+      "fecha": "2026-10-10T05:28:41+0000",
+      "reacciones": 1,
+      "comentarios": 0,
+      "compartidos": 6
+    },
     {
       "id": "1367888553074849_122098169037507613",
       "mensaje": "La cámara del estacionamiento del refugio grabó a una perra enferma brincán...",
@@ -120,7 +136,7 @@
       "fecha": "2026-10-09T15:43:36+0000",
       "reacciones": 0,
       "comentarios": 0,
-      "compartidos": 1
+      "compartidos": 0
     },
     {
       "id": "1367888553074849_122097814029507613",
@@ -158,22 +174,6 @@
       "id": "1367888553074849_122097615501507613",
       "mensaje": "En una calle tranquila del barrio, cada martes y viernes amanecía igual: bo...",
       "fecha": "2026-10-09T10:37:12+0000",
-      "reacciones": 0,
-      "comentarios": 0,
-      "compartidos": 0
-    },
-    {
-      "id": "1367888553074849_122096590803507613",
-      "mensaje": "«Llegó a la puerta del hospital todos los días a las 6:00 pm, sin que nadie...",
-      "fecha": "2026-10-08T23:30:00+0000",
-      "reacciones": 0,
-      "comentarios": 0,
-      "compartidos": 0
-    },
-    {
-      "id": "1367888553074849_122096590665507613",
-      "mensaje": "«Lo dejaron atado a un poste bajo la lluvia, con una pequeña nota que nos p...",
-      "fecha": "2026-10-08T13:00:31+0000",
       "reacciones": 0,
       "comentarios": 0,
       "compartidos": 0
