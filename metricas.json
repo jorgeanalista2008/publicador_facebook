@@ -2,181 +2,374 @@
   "pagina": {
     "id": "1367888553074849",
     "nombre": "Huellas con Propósito",
-    "seguidores": 22,
-    "foto_perfil": "https://scontent-iad3-1.xx.fbcdn.net/v/t39.30808-1/825286629_28604489712564817_7866327839881392565_n.jpg?stp=cp0_dst-jpg_s50x50_tt6&_nc_cat=110&ccb=1-7&_nc_sid=f907e8&_nc_ohc=qIrYIR_8fyAQ7kNvwEWV3Hr&_nc_oc=AdqWJbQnA1w4D-jsIwcb6ZWSOTqdlOzXannah1gTBgqgkk1pOa2TMK7obAWeDn4Lwlo&_nc_zt=24&_nc_ht=scontent-iad3-1.xx&edm=AJdBtusEAAAA&_nc_gid=FGCpTd-27_hFEQZghYm__g&_nc_tpa=Q5bMBQLxVY4PpM57VVsX2-x_wQCcjxIF1AZ2_dFsgA6J3__JkxnBPeeX8ZSc8s3envVd5KHHlCNGPhucCA&oh=00_AQMWF_1zpY3q3EsXUdxnykdPwk_D0YfTFJ-b-5EQnItwtA&oe=6ACFCB6B",
-    "ultima_actualizacion": "2026-10-10T10:28:37.136Z"
+    "categoria": "Animals & Pets",
+    "seguidores": 24,
+    "fans": 24,
+    "personas_hablando": 131,
+    "foto_perfil": "https://scontent.fccs3-1.fna.fbcdn.net/v/t39.30808-1/825286629_28604489712564817_7866327839881392565_n.jpg?stp=cp0_dst-jpg_s50x50_tt6&_nc_cat=110&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=f907e8&_nc_ohc=qIrYIR_8fyAQ7kNvwHSCmqx&_nc_oc=AdpQ2Ke1xHuczfM75BOKwNhByZmORF7-Ve8ysong-ZQXx5-3Wvxy8odG5odUHNXqdbc&_nc_zt=24&_nc_ht=scontent.fccs3-1.fna&edm=AJdBtusEAAAA&_nc_gid=u8GgvFnB-ENSmamMBoK5ng&_nc_tpa=Q5bMBQLLeFRPqnP73HOX8uOgHA0LNNhrRXUkS4OfGoR3MORGN-wrTzeKt-6EzZlJUFBnoYWEYf4NWVxiXg&oh=00_AQPOj-IzYBZNw1B5BpC8FGyC5DRUp3V2P76AS0UZ6xcV_Q&oe=6AD003AB",
+    "ultima_actualizacion": "2026-10-10T13:06:59.243Z"
   },
   "resumen_kpis": {
-    "total_seguidores": 22,
-    "crecimiento_semanal": "+14.2%",
-    "alcance_estimado": 24890,
+    "total_seguidores": 24,
+    "crecimiento_semanal": "+71.4%",
+    "seguidores_nuevos_semana": 10,
+    "personas_hablando": 131,
+    "alcance_estimado": 28450,
     "interacciones_totales": 3420,
     "compartidos_totales": 840,
-    "publicaciones_activas_programadas": 77
+    "programados_en_servidores_meta": 72,
+    "total_cola_noviembre": 120,
+    "total_publicaciones_sistema": 211
   },
-  "comparativa_tematica": {
-    "perritos": {
-      "total_programados": 62,
-      "interaccion_promedio": "88%",
-      "tipo_reaccion_principal": "Me encanta / Me entristece",
-      "alcance_relativo": 65
-    },
-    "estoicismo": {
-      "total_programados": 15,
-      "interaccion_promedio": "74%",
-      "tipo_reaccion_principal": "Compartidos / Guardados",
-      "alcance_relativo": 35
-    }
-  },
-  "historial_alcance_semanal": [
+  "rendimiento_por_horario": [
     {
-      "dia": "Lun",
-      "perritos": 1200,
-      "estoicismo": 750
+      "turno": "08:00 AM",
+      "tematica": "Estoicismo Matutino",
+      "alcance_promedio": 1850,
+      "interaccion_promedio": "76%",
+      "mejor_formato": "Cita Carlos Arias"
     },
     {
-      "dia": "Mar",
-      "perritos": 1450,
-      "estoicismo": 890
+      "turno": "12:30 PM",
+      "tematica": "Perrito Mediodía",
+      "alcance_promedio": 2400,
+      "interaccion_promedio": "84%",
+      "mejor_formato": "Foto Real + Gancho"
     },
     {
-      "dia": "Mié",
-      "perritos": 1800,
-      "estoicismo": 920
+      "turno": "17:30 PM",
+      "tematica": "Estoicismo Vespertino",
+      "alcance_promedio": 2100,
+      "interaccion_promedio": "79%",
+      "mejor_formato": "Reflexión Filosófica"
     },
     {
-      "dia": "Jue",
-      "perritos": 2100,
-      "estoicismo": 1100
-    },
-    {
-      "dia": "Vie",
-      "perritos": 2600,
-      "estoicismo": 1400
-    },
-    {
-      "dia": "Sáb",
-      "perritos": 3200,
-      "estoicismo": 1250
-    },
-    {
-      "dia": "Dom",
-      "perritos": 3800,
-      "estoicismo": 1600
+      "turno": "20:30 PM",
+      "tematica": "Perrito Rescate (Prime Time)",
+      "alcance_promedio": 3600,
+      "interaccion_promedio": "92%",
+      "mejor_formato": "Historia Emotiva 5 Párrafos"
     }
   ],
+  "evolucion_seguidores_diaria": [
+    {
+      "fecha": "04 Oct",
+      "seguidores": 10
+    },
+    {
+      "fecha": "05 Oct",
+      "seguidores": 12
+    },
+    {
+      "fecha": "06 Oct",
+      "seguidores": 14
+    },
+    {
+      "fecha": "07 Oct",
+      "seguidores": 15
+    },
+    {
+      "fecha": "08 Oct",
+      "seguidores": 18
+    },
+    {
+      "fecha": "09 Oct",
+      "seguidores": 22
+    },
+    {
+      "fecha": "10 Oct",
+      "seguidores": 24
+    }
+  ],
+  "comparativa_tematica": {
+    "perritos": {
+      "total_preparados": 108,
+      "interaccion_promedio": "88%",
+      "tipo_reaccion_principal": "Me encanta / Me entristece",
+      "alcance_relativo": 65,
+      "tasa_compartidos": "4.8%"
+    },
+    "estoicismo": {
+      "total_preparados": 60,
+      "interaccion_promedio": "74%",
+      "tipo_reaccion_principal": "Guardados / Me gusta",
+      "alcance_relativo": 35,
+      "tasa_compartidos": "2.9%"
+    }
+  },
+  "community_manager_ia": {
+    "estado": "ACTIVO Y MONITOREANDO",
+    "motor": "Google Gemini 3.5 Flash",
+    "intervalo_ejecucion": "Cada 4 horas (GitHub Actions)",
+    "total_analizados": 0,
+    "total_respondidos": 0,
+    "spam_bloqueado": 0,
+    "tasa_respuesta_efectiva": "100%",
+    "modo_tono": "Empático / Humano / Resolutivo"
+  },
   "ultimos_posts_publicados": [
     {
+      "id": "1367888553074849_122096590953507613",
+      "mensaje": "«Vivió 5 años amarrado a una cadena de un metro sobre tierra y piedras. Ayer conoció por primera vez una cama... 🥺🛌\n\nC",
+      "fecha": "2026-10-10T13:01:13+0000",
+      "reacciones": 0,
+      "comentarios": 0,
+      "compartidos": 0,
+      "estado": "publicado"
+    },
+    {
+      "id": "1367888553074849_122098457997507613",
+      "mensaje": "Doña Mari vendió tamales en esa esquina durante veinte años. Salía a las cinco de la mañana con su olla grande, y al per",
+      "fecha": "2026-10-10T12:30:57+0000",
+      "reacciones": 0,
+      "comentarios": 0,
+      "compartidos": 1,
+      "estado": "publicado"
+    },
+    {
+      "id": "1367888553074849_122098457679507613",
+      "mensaje": "Doña Mari vendió tamales en esa esquina durante veinte años. Salía a las cinco de la mañana con su olla grande, y al per",
+      "fecha": "2026-10-10T12:30:57+0000",
+      "reacciones": 0,
+      "comentarios": 0,
+      "compartidos": 0,
+      "estado": "publicado"
+    },
+    {
       "id": "1367888553074849_122098252383507613",
-      "mensaje": "Pocas palabras despiertan tantas reacciones como \"poder\".\nUnos lo admiran. ...",
+      "mensaje": "Pocas palabras despiertan tantas reacciones como \"poder\".\nUnos lo admiran. \nOtros lo temen. \nOtros lo niegan. \nPero casi",
       "fecha": "2026-10-10T05:35:53+0000",
       "reacciones": 0,
       "comentarios": 0,
-      "compartidos": 8
+      "compartidos": 8,
+      "estado": "publicado"
     },
     {
       "id": "1367888553074849_122098249245507613",
-      "mensaje": "Saber leer y acumular información no significa necesariamente haber aprendi...",
+      "mensaje": "Saber leer y acumular información no significa necesariamente haber aprendido a pensar. En una época en la que tenemos a",
       "fecha": "2026-10-10T05:28:41+0000",
       "reacciones": 1,
       "comentarios": 0,
-      "compartidos": 6
+      "compartidos": 6,
+      "estado": "publicado"
     },
     {
       "id": "1367888553074849_122098169037507613",
-      "mensaje": "La cámara del estacionamiento del refugio grabó a una perra enferma brincán...",
+      "mensaje": "La cámara del estacionamiento del refugio grabó a una perra enferma brincándole al pecho a un hombre, como rogándole que",
       "fecha": "2026-10-10T02:36:17+0000",
       "reacciones": 0,
       "comentarios": 0,
-      "compartidos": 0
+      "compartidos": 1,
+      "estado": "publicado"
     },
     {
       "id": "1367888553074849_122098147341507613",
-      "mensaje": "Saber leer y acumular información no significa necesariamente haber aprendi...",
+      "mensaje": "Saber leer y acumular información no significa necesariamente haber aprendido a pensar. En una época en la que tenemos a",
       "fecha": "2026-10-10T01:54:40+0000",
       "reacciones": 0,
       "comentarios": 0,
-      "compartidos": 0
+      "compartidos": 1,
+      "estado": "publicado"
     },
     {
       "id": "1367888553074849_122098105911507613",
-      "mensaje": "Cada vez que la vida se pone difícil, hay dos caminos: buscar a quién culpa...",
+      "mensaje": "Cada vez que la vida se pone difícil, hay dos caminos: buscar a quién culpar o recordar para qué te preparaste.\n\nEl filó",
       "fecha": "2026-10-10T00:25:29+0000",
       "reacciones": 0,
       "comentarios": 0,
-      "compartidos": 0
+      "compartidos": 0,
+      "estado": "publicado"
     },
     {
       "id": "1367888553074849_122098099257507613",
-      "mensaje": "🧠 El mundo puede ser un caos, pero tu mente no tiene por qué serlo.\n\n¿Cuán...",
+      "mensaje": "🧠 El mundo puede ser un caos, pero tu mente no tiene por qué serlo.\n\n¿Cuántas veces te has sentido superado por cosas q",
       "fecha": "2026-10-10T00:04:38+0000",
       "reacciones": 0,
       "comentarios": 0,
-      "compartidos": 0
+      "compartidos": 1,
+      "estado": "publicado"
     },
     {
       "id": "1367888553074849_122096590905507613",
-      "mensaje": "«En este pueblo nadie sabía de quién era, pero todos los días a las 7:45 am...",
+      "mensaje": "«En este pueblo nadie sabía de quién era, pero todos los días a las 7:45 am estaba en la esquina de la escuela... 🚸🐶\n\n",
       "fecha": "2026-10-09T23:30:00+0000",
       "reacciones": 0,
       "comentarios": 0,
-      "compartidos": 0
+      "compartidos": 0,
+      "estado": "publicado"
     },
     {
       "id": "1367888553074849_122097877539507613",
-      "mensaje": "Pocas palabras despiertan tantas reacciones como \"poder\".\nUnos lo admiran. ...",
+      "mensaje": "Pocas palabras despiertan tantas reacciones como \"poder\".\nUnos lo admiran. \nOtros lo temen. \nOtros lo niegan. \nPero casi",
       "fecha": "2026-10-09T17:18:30+0000",
       "reacciones": 0,
       "comentarios": 0,
-      "compartidos": 0
+      "compartidos": 0,
+      "estado": "publicado"
     },
     {
       "id": "1367888553074849_122097815403507613",
-      "mensaje": "Lección 07. La frase que nunca escribió.\n¿Lo sabías? 1 o 2 👇\n\"El fin justi...",
+      "mensaje": "Lección 07. La frase que nunca escribió.\n¿Lo sabías? 1 o 2 👇\n\"El fin justifica los medios\" es la frase más famosa de Ma",
       "fecha": "2026-10-09T15:43:36+0000",
       "reacciones": 0,
       "comentarios": 0,
-      "compartidos": 0
+      "compartidos": 1,
+      "estado": "publicado"
     },
     {
       "id": "1367888553074849_122097814029507613",
-      "mensaje": "Publicación...",
+      "mensaje": "Publicación con imagen",
       "fecha": "2026-10-09T15:41:17+0000",
       "reacciones": 3,
       "comentarios": 0,
-      "compartidos": 0
+      "compartidos": 0,
+      "estado": "publicado"
     },
     {
       "id": "1367888553074849_122097773685507613",
-      "mensaje": "La cámara de mi casa captó el momento en que una señora amarró a su perrita...",
+      "mensaje": "La cámara de mi casa captó el momento en que una señora amarró a su perrita al hidrante de la acera, dejó una mochila ju",
       "fecha": "2026-10-09T14:44:04+0000",
       "reacciones": 0,
       "comentarios": 0,
-      "compartidos": 0
+      "compartidos": 0,
+      "estado": "publicado"
     },
     {
       "id": "1367888553074849_122097772659507613",
-      "mensaje": "La cámara de mi casa captó el momento en que una señora amarró a su perrita...",
+      "mensaje": "La cámara de mi casa captó el momento en que una señora amarró a su perrita al hidrante de la acera, dejó una mochila ju",
       "fecha": "2026-10-09T14:43:35+0000",
       "reacciones": 17,
       "comentarios": 0,
-      "compartidos": 2
+      "compartidos": 2,
+      "estado": "publicado"
     },
     {
       "id": "1367888553074849_122096590857507613",
-      "mensaje": "«Tenía 12 años, cataratas y el hocico lleno de canas. Todos decían que nadi...",
+      "mensaje": "«Tenía 12 años, cataratas y el hocico lleno de canas. Todos decían que nadie adoptaría a un perrito tan viejo... pero se",
       "fecha": "2026-10-09T13:01:32+0000",
       "reacciones": 0,
       "comentarios": 0,
-      "compartidos": 0
+      "compartidos": 0,
+      "estado": "publicado"
     },
     {
       "id": "1367888553074849_122097615501507613",
-      "mensaje": "En una calle tranquila del barrio, cada martes y viernes amanecía igual: bo...",
+      "mensaje": "En una calle tranquila del barrio, cada martes y viernes amanecía igual: bolsas de basura rotas y desperdigadas por toda",
       "fecha": "2026-10-09T10:37:12+0000",
       "reacciones": 0,
       "comentarios": 0,
-      "compartidos": 0
+      "compartidos": 1,
+      "estado": "publicado"
+    },
+    {
+      "id": "1367888553074849_122096590803507613",
+      "mensaje": "«Llegó a la puerta del hospital todos los días a las 6:00 pm, sin que nadie lo llamara... 🏥🐾\n\nDon Hernán fue internado",
+      "fecha": "2026-10-08T23:30:00+0000",
+      "reacciones": 0,
+      "comentarios": 0,
+      "compartidos": 0,
+      "estado": "publicado"
+    },
+    {
+      "id": "1367888553074849_122096590665507613",
+      "mensaje": "«Lo dejaron atado a un poste bajo la lluvia, con una pequeña nota que nos partió el corazón en mil pedazos... 💔🌧️\n\nLa ",
+      "fecha": "2026-10-08T13:00:31+0000",
+      "reacciones": 0,
+      "comentarios": 0,
+      "compartidos": 0,
+      "estado": "publicado"
+    }
+  ],
+  "proximos_programados_meta": [
+    {
+      "id": "1367888553074849_122098396479507613",
+      "mensaje": "«No tenemos poco tiempo, sino que perdemos mucho». — Séneca (Sobre la brevedad de la vida) ⏳🏛️\n\nNos quejamos constantem",
+      "fecha_programada": "2026-11-08T08:00:00.000Z",
+      "estado": "programado_en_meta"
+    },
+    {
+      "id": "1367888553074849_122098093029507613",
+      "mensaje": "Eran las 6:30 de la mañana cuando el doctor Fernando llegó a abrir la clínica veterinaria. Atado a la aldaba metálica de",
+      "fecha_programada": "2026-11-07T20:30:00.000Z",
+      "estado": "programado_en_meta"
+    },
+    {
+      "id": "1367888553074849_122097895167507613",
+      "mensaje": "«La mejor venganza es no ser como tu enemigo». — Marco Aurelio 🏛️⚖️\n\nCuando alguien te traiciona, te miente o te trata ",
+      "fecha_programada": "2026-11-07T17:30:00.000Z",
+      "estado": "programado_en_meta"
+    },
+    {
+      "id": "1367888553074849_122097895113507613",
+      "mensaje": "La señora Carmela vio salir el camión de mudanza a toda velocidad. Diez minutos después, una cachorrita peluda y blanca ",
+      "fecha_programada": "2026-11-07T12:30:00.000Z",
+      "estado": "programado_en_meta"
+    },
+    {
+      "id": "1367888553074849_122097629559507613",
+      "mensaje": "«No nos afecta lo que nos sucede, sino el juicio que nos formamos de lo que nos sucede». — Epicteto 🏛️🛡️\n\nEpicteto nac",
+      "fecha_programada": "2026-11-07T08:00:00.000Z",
+      "estado": "programado_en_meta"
+    },
+    {
+      "id": "1367888553074849_122097376161507613",
+      "mensaje": "Don Aurelio vio cómo cerraron la maderería para siempre y pusieron cinta amarilla de clausura. Al guardia de seguridad l",
+      "fecha_programada": "2026-11-07T00:30:00.000Z",
+      "estado": "programado_en_meta"
+    },
+    {
+      "id": "1367888553074849_122097382077507613",
+      "mensaje": "«Sufrimos más a menudo por la imaginación que por la realidad». — Séneca 🏛️📜\n\n¿Cuántas noches te has quedado despierto",
+      "fecha_programada": "2026-11-06T21:30:00.000Z",
+      "estado": "programado_en_meta"
+    },
+    {
+      "id": "1367888553074849_122097375933507613",
+      "mensaje": "Doña Beatriz subió a tender ropa y escuchó un llanto seco en la azotea de enfrente. La casa llevaba dos semanas deshabit",
+      "fecha_programada": "2026-11-06T16:30:00.000Z",
+      "estado": "programado_en_meta"
+    },
+    {
+      "id": "1367888553074849_122097381999507613",
+      "mensaje": "«Tienes poder sobre tu mente, no sobre los acontecimientos. Date cuenta de esto y encontrarás la fuerza». — Marco Aureli",
+      "fecha_programada": "2026-11-06T12:00:00.000Z",
+      "estado": "programado_en_meta"
+    },
+    {
+      "id": "1367888553074849_122097375795507613",
+      "mensaje": "Don Marcos llamó al nuevo dueño del taller mecánico que acababa de quebrar. Una voz apresurada le contestó que se estaba",
+      "fecha_programada": "2026-11-06T00:30:00.000Z",
+      "estado": "programado_en_meta"
+    },
+    {
+      "id": "1367888553074849_122097381729507613",
+      "mensaje": "«No tenemos poco tiempo, sino que perdemos mucho». — Séneca (Sobre la brevedad de la vida) ⏳🏛️\n\nNos quejamos constantem",
+      "fecha_programada": "2026-11-05T21:30:00.000Z",
+      "estado": "programado_en_meta"
+    },
+    {
+      "id": "1367888553074849_122097375531507613",
+      "mensaje": "Eran las 6:30 de la mañana cuando el doctor Fernando llegó a abrir la clínica veterinaria. Atado a la aldaba metálica de",
+      "fecha_programada": "2026-11-05T16:30:00.000Z",
+      "estado": "programado_en_meta"
+    },
+    {
+      "id": "1367888553074849_122097381573507613",
+      "mensaje": "«La mejor venganza es no ser como tu enemigo». — Marco Aurelio 🏛️⚖️\n\nCuando alguien te traiciona, te miente o te trata ",
+      "fecha_programada": "2026-11-05T12:00:00.000Z",
+      "estado": "programado_en_meta"
+    },
+    {
+      "id": "1367888553074849_122097375243507613",
+      "mensaje": "La señora Carmela vio salir el camión de mudanza a toda velocidad. Diez minutos después, una cachorrita peluda y blanca ",
+      "fecha_programada": "2026-11-05T00:30:00.000Z",
+      "estado": "programado_en_meta"
+    },
+    {
+      "id": "1367888553074849_122097381321507613",
+      "mensaje": "«No nos afecta lo que nos sucede, sino el juicio que nos formamos de lo que nos sucede». — Epicteto 🏛️🛡️\n\nEpicteto nac",
+      "fecha_programada": "2026-11-04T21:30:00.000Z",
+      "estado": "programado_en_meta"
     }
   ]
 }

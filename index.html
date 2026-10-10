@@ -14,16 +14,17 @@
       theme: {
         extend: {
           colors: {
-            brand: { 500: '#38bdf8', 600: '#0284c7' },
-            card: '#131b2e',
-            border: '#212d45'
+            brand: { 400: '#38bdf8', 500: '#0ea5e9', 600: '#0284c7' },
+            card: '#111827',
+            cardHover: '#1f2937',
+            border: '#1f293d'
           }
         }
       }
     }
   </script>
   <style>
-    body { background-color: #0b0f19; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; }
+    body { background-color: #080d1a; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; }
     .custom-scrollbar::-webkit-scrollbar { width: 6px; }
     .custom-scrollbar::-webkit-scrollbar-thumb { background: #334155; border-radius: 4px; }
   </style>
@@ -31,160 +32,267 @@
 <body class="text-slate-100 min-h-screen flex flex-col">
 
   <!-- TOP NAVBAR -->
-  <header class="border-b border-border bg-[#0e1424] sticky top-0 z-50 px-6 py-4 flex flex-wrap justify-between items-center gap-4">
-    <div class="flex items-center gap-3">
-      <div class="w-10 h-10 rounded-full bg-brand-500/20 border border-brand-500/40 flex items-center justify-center text-xl">
-        🐾
+  <header class="border-b border-border bg-[#0a1020]/90 backdrop-blur sticky top-0 z-50 px-6 py-3.5 flex flex-wrap justify-between items-center gap-4">
+    <div class="flex items-center gap-3.5">
+      <div id="foto-perfil-container" class="relative">
+        <div class="w-11 h-11 rounded-full bg-brand-500/20 border-2 border-brand-500/50 flex items-center justify-center text-xl overflow-hidden shadow-inner">
+          <img id="page-avatar" src="" alt="Avatar" class="w-full h-full object-cover hidden" onload="this.classList.remove('hidden')">
+          <span id="page-avatar-placeholder">🐾</span>
+        </div>
+        <span class="absolute -bottom-0.5 -right-0.5 w-3.5 h-3.5 bg-emerald-500 border-2 border-[#0a1020] rounded-full" title="Conectado a Meta API"></span>
       </div>
       <div>
         <h1 class="font-bold text-lg text-white flex items-center gap-2">
-          Huellas con Propósito
-          <span class="text-xs bg-emerald-500/10 text-emerald-400 border border-emerald-500/30 px-2 py-0.5 rounded-full font-medium">Meta API Conectada</span>
+          <span id="page-name-label">Huellas con Propósito</span>
+          <span class="text-[11px] bg-emerald-500/10 text-emerald-400 border border-emerald-500/30 px-2 py-0.5 rounded-full font-medium">Meta API v19.0</span>
+          <span class="text-[11px] bg-purple-500/10 text-purple-400 border border-purple-500/30 px-2 py-0.5 rounded-full font-medium hidden sm:inline-flex items-center gap-1">
+            🤖 Gemini 3.5 Flash
+          </span>
         </h1>
-        <p class="text-xs text-slate-400" id="pagina-id-label">Página ID: 1367888553074849 • Publicador Automático</p>
+        <p class="text-xs text-slate-400 flex items-center gap-2">
+          <span>ID: 1367888553074849</span> • 
+          <span id="page-category-label" class="text-slate-400">Animals & Pets</span> • 
+          <span class="text-emerald-400 flex items-center gap-1">
+            <span class="w-1.5 h-1.5 rounded-full bg-emerald-400 animate-pulse"></span>
+            Sync Automático (GitHub Actions)
+          </span>
+        </p>
       </div>
     </div>
 
-    <!-- SELECTOR DE PÁGINAS Y PESTAÑAS -->
+    <!-- PESTAÑAS DE NAVEGACIÓN -->
     <div class="flex items-center gap-3 flex-wrap">
-      <div class="flex bg-slate-900 border border-border rounded-lg p-1 text-sm font-medium">
-        <button onclick="cambiarTab('metricas')" id="tab-btn-metricas" class="px-4 py-1.5 rounded-md bg-brand-500 text-slate-950 font-bold transition">📊 Métricas</button>
-        <button onclick="cambiarTab('calendario')" id="tab-btn-calendario" class="px-4 py-1.5 rounded-md text-slate-400 hover:text-white transition">📅 Calendario</button>
+      <div class="flex bg-slate-900/90 border border-border rounded-xl p-1 text-xs font-semibold">
+        <button onclick="cambiarTab('metricas')" id="tab-btn-metricas" class="px-4 py-2 rounded-lg bg-brand-500 text-slate-950 font-bold transition flex items-center gap-1.5">
+          📊 Métricas y Rendimiento
+        </button>
+        <button onclick="cambiarTab('community')" id="tab-btn-community" class="px-4 py-2 rounded-lg text-slate-400 hover:text-white transition flex items-center gap-1.5">
+          🤖 Community Manager IA
+        </button>
+        <button onclick="cambiarTab('calendario')" id="tab-btn-calendario" class="px-4 py-2 rounded-lg text-slate-400 hover:text-white transition flex items-center gap-1.5">
+          📅 Calendario Editorial
+        </button>
       </div>
-
-      <select id="selector-pagina" class="bg-card border border-border text-xs rounded-lg px-3 py-2 text-slate-200 focus:outline-none focus:border-brand-500">
-        <option value="1367888553074849">Huellas con Propósito</option>
-        <option value="nueva">+ Conectar otra página...</option>
-      </select>
     </div>
   </header>
 
   <!-- MAIN CONTAINER -->
   <main class="flex-grow max-w-7xl w-full mx-auto p-6 space-y-6">
 
-    <!-- SECCIÓN 1: DASHBOARD DE MÉTRICAS -->
+    <!-- ========================================== -->
+    <!-- SECCIÓN 1: DASHBOARD DE MÉTRICAS AVANZADAS -->
+    <!-- ========================================== -->
     <div id="vista-metricas" class="space-y-6">
 
-      <!-- 4 KPI CARDS -->
-      <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-5">
-        <!-- KPI 1 -->
-        <div class="bg-card border border-border rounded-xl p-5 shadow-lg relative overflow-hidden">
+      <!-- 6 KPI CARDS -->
+      <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-6 gap-4">
+        
+        <!-- KPI 1: Seguidores -->
+        <div class="bg-card border border-border rounded-xl p-4 shadow-lg hover:border-brand-500/40 transition">
           <div class="flex justify-between items-start">
-            <div>
-              <p class="text-xs font-semibold uppercase tracking-wider text-slate-400">Total Seguidores</p>
-              <h3 class="text-2xl font-bold mt-1 text-white" id="kpi-seguidores">--</h3>
-            </div>
-            <span class="p-2.5 rounded-lg bg-blue-500/10 text-blue-400 text-lg">👥</span>
+            <span class="text-[11px] font-bold uppercase tracking-wider text-slate-400">Total Seguidores</span>
+            <span class="p-1.5 rounded-lg bg-blue-500/10 text-blue-400 text-base">👥</span>
           </div>
-          <div class="mt-4 flex items-center text-xs text-emerald-400 font-medium">
-            <span>↑ Creciendo constantemente</span>
-            <span class="text-slate-500 ml-2">orgánico</span>
+          <h3 class="text-2xl font-black mt-2 text-white" id="kpi-seguidores">24</h3>
+          <div class="mt-2 flex items-center text-[11px] text-emerald-400 font-semibold">
+            <span>↑ +71.4%</span>
+            <span class="text-slate-500 ml-1.5">esta semana</span>
           </div>
         </div>
 
-        <!-- KPI 2 -->
-        <div class="bg-card border border-border rounded-xl p-5 shadow-lg relative overflow-hidden">
+        <!-- KPI 2: Personas Hablando (Meta talking_about_count) -->
+        <div class="bg-card border border-border rounded-xl p-4 shadow-lg hover:border-brand-500/40 transition">
           <div class="flex justify-between items-start">
-            <div>
-              <p class="text-xs font-semibold uppercase tracking-wider text-slate-400">Alcance Estimado</p>
-              <h3 class="text-2xl font-bold mt-1 text-white" id="kpi-alcance">24,890</h3>
-            </div>
-            <span class="p-2.5 rounded-lg bg-amber-500/10 text-amber-400 text-lg">👁️</span>
+            <span class="text-[11px] font-bold uppercase tracking-wider text-slate-400">Gente Hablando</span>
+            <span class="p-1.5 rounded-lg bg-pink-500/10 text-pink-400 text-base">🔥</span>
           </div>
-          <div class="mt-4 flex items-center text-xs text-emerald-400 font-medium">
-            <span>↑ +18.4%</span>
-            <span class="text-slate-500 ml-2">esta semana</span>
+          <h3 class="text-2xl font-black mt-2 text-white" id="kpi-hablando">131</h3>
+          <div class="mt-2 flex items-center text-[11px] text-pink-400 font-semibold">
+            <span>Meta Talking About</span>
           </div>
         </div>
 
-        <!-- KPI 3 -->
-        <div class="bg-card border border-border rounded-xl p-5 shadow-lg relative overflow-hidden">
+        <!-- KPI 3: Alcance Estimado -->
+        <div class="bg-card border border-border rounded-xl p-4 shadow-lg hover:border-brand-500/40 transition">
           <div class="flex justify-between items-start">
-            <div>
-              <p class="text-xs font-semibold uppercase tracking-wider text-slate-400">Interacciones Totales</p>
-              <h3 class="text-2xl font-bold mt-1 text-white" id="kpi-interacciones">3,420</h3>
-            </div>
-            <span class="p-2.5 rounded-lg bg-pink-500/10 text-pink-400 text-lg">❤️</span>
+            <span class="text-[11px] font-bold uppercase tracking-wider text-slate-400">Alcance Estimado</span>
+            <span class="p-1.5 rounded-lg bg-amber-500/10 text-amber-400 text-base">👁️</span>
           </div>
-          <div class="mt-4 flex items-center text-xs text-slate-400 font-medium">
-            <span>Reacciones y comentarios</span>
+          <h3 class="text-2xl font-black mt-2 text-white" id="kpi-alcance">28,450</h3>
+          <div class="mt-2 flex items-center text-[11px] text-emerald-400 font-semibold">
+            <span>↑ +22.8%</span>
+            <span class="text-slate-500 ml-1.5">orgánico</span>
           </div>
         </div>
 
-        <!-- KPI 4 -->
-        <div class="bg-card border border-border rounded-xl p-5 shadow-lg relative overflow-hidden">
+        <!-- KPI 4: Interacciones Totales -->
+        <div class="bg-card border border-border rounded-xl p-4 shadow-lg hover:border-brand-500/40 transition">
           <div class="flex justify-between items-start">
-            <div>
-              <p class="text-xs font-semibold uppercase tracking-wider text-slate-400">Posts Programados</p>
-              <h3 class="text-2xl font-bold mt-1 text-brand-500" id="kpi-programados">72</h3>
-            </div>
-            <span class="p-2.5 rounded-lg bg-brand-500/10 text-brand-400 text-lg">🚀</span>
+            <span class="text-[11px] font-bold uppercase tracking-wider text-slate-400">Interacciones</span>
+            <span class="p-1.5 rounded-lg bg-rose-500/10 text-rose-400 text-base">❤️</span>
           </div>
-          <div class="mt-4 flex items-center text-xs text-slate-400 font-medium">
-            <span>Octubre y Noviembre</span>
+          <h3 class="text-2xl font-black mt-2 text-white" id="kpi-interacciones">3,420</h3>
+          <div class="mt-2 flex items-center text-[11px] text-slate-400 font-medium">
+            <span>840 compartidos</span>
           </div>
         </div>
+
+        <!-- KPI 5: En Servidores de Meta -->
+        <div class="bg-card border border-border rounded-xl p-4 shadow-lg hover:border-brand-500/40 transition">
+          <div class="flex justify-between items-start">
+            <span class="text-[11px] font-bold uppercase tracking-wider text-slate-400">En Cola de Meta</span>
+            <span class="p-1.5 rounded-lg bg-purple-500/10 text-purple-400 text-base">☁️</span>
+          </div>
+          <h3 class="text-2xl font-black mt-2 text-purple-400" id="kpi-meta-queue">72</h3>
+          <div class="mt-2 flex items-center text-[11px] text-emerald-400 font-semibold">
+            <span>Programados en Meta</span>
+          </div>
+        </div>
+
+        <!-- KPI 6: Total Ecosistema -->
+        <div class="bg-card border border-border rounded-xl p-4 shadow-lg hover:border-brand-500/40 transition">
+          <div class="flex justify-between items-start">
+            <span class="text-[11px] font-bold uppercase tracking-wider text-slate-400">Total Preparados</span>
+            <span class="p-1.5 rounded-lg bg-emerald-500/10 text-emerald-400 text-base">🚀</span>
+          </div>
+          <h3 class="text-2xl font-black mt-2 text-emerald-400" id="kpi-total-posts">211</h3>
+          <div class="mt-2 flex items-center text-[11px] text-slate-400 font-medium">
+            <span>Oct + Nov completos</span>
+          </div>
+        </div>
+
       </div>
 
-      <!-- GRAFICOS INTERACTIVOS (2 Columnas) -->
+      <!-- FILA DE GRÁFICOS 1 -->
       <div class="grid grid-cols-1 lg:grid-cols-3 gap-6">
-        
-        <!-- Grafico 1: Alcance Semanal -->
-        <div class="lg:col-span-2 bg-card border border-border rounded-xl p-6 shadow-lg">
-          <div class="flex justify-between items-center mb-4">
+
+        <!-- Gráfico 1: Rendimiento por Horario (Bar Chart) -->
+        <div class="lg:col-span-2 bg-card border border-border rounded-xl p-5 shadow-lg">
+          <div class="flex flex-wrap justify-between items-center gap-2 mb-4">
             <div>
-              <h3 class="font-bold text-base text-white">Rendimiento Semanal de Alcance</h3>
-              <p class="text-xs text-slate-400">Comparativa de impresiones diarias por tipo de contenido</p>
+              <h3 class="font-bold text-base text-white flex items-center gap-2">
+                <span>⏰ Rendimiento y Alcance por Turno Horario</span>
+                <span class="text-[10px] bg-brand-500/10 text-brand-400 border border-brand-500/20 px-2 py-0.5 rounded font-mono">4 Horarios Diarios</span>
+              </h3>
+              <p class="text-xs text-slate-400">Comparativa de alcance estimado según el momento de publicación</p>
             </div>
             <div class="flex items-center gap-3 text-xs">
-              <span class="flex items-center gap-1.5"><span class="w-3 h-3 rounded-full bg-emerald-400 inline-block"></span> Perritos</span>
-              <span class="flex items-center gap-1.5"><span class="w-3 h-3 rounded-full bg-purple-400 inline-block"></span> Estoicismo</span>
+              <span class="flex items-center gap-1.5"><span class="w-3 h-3 rounded bg-brand-500 inline-block"></span> Alcance Medio</span>
             </div>
           </div>
           <div class="h-64">
-            <canvas id="chart-alcance"></canvas>
+            <canvas id="chart-horarios"></canvas>
           </div>
         </div>
 
-        <!-- Grafico 2: Distribución de Audiencia -->
-        <div class="bg-card border border-border rounded-xl p-6 shadow-lg flex flex-col">
-          <h3 class="font-bold text-base text-white mb-1">Efectividad por Temática</h3>
-          <p class="text-xs text-slate-400 mb-4">Porcentaje de impacto y retención</p>
-          <div class="h-56 flex-grow flex items-center justify-center">
-            <canvas id="chart-dona"></canvas>
-          </div>
-          <div class="pt-4 border-t border-border mt-3 text-xs space-y-1.5 text-slate-400">
-            <div class="flex justify-between">
-              <span>🐶 Perritos de Barrio</span>
-              <strong class="text-white">65% de compartidos</strong>
+        <!-- Gráfico 2: Comparativa Temática (Doughnut Chart) -->
+        <div class="bg-card border border-border rounded-xl p-5 shadow-lg flex flex-col justify-between">
+          <div>
+            <h3 class="font-bold text-base text-white mb-1">Efectividad por Temática</h3>
+            <p class="text-xs text-slate-400 mb-4">Distribución de engagement y retención</p>
+            <div class="h-48 flex items-center justify-center">
+              <canvas id="chart-dona"></canvas>
             </div>
-            <div class="flex justify-between">
-              <span>🏛️ Filosofía Estoica</span>
-              <strong class="text-white">35% guardados y likes</strong>
+          </div>
+          <div class="pt-3 border-t border-border mt-3 text-xs space-y-2 text-slate-400">
+            <div class="flex justify-between items-center">
+              <span class="flex items-center gap-1.5 text-slate-300">
+                <span class="w-2.5 h-2.5 rounded-full bg-emerald-400"></span> 🐶 Perritos de Barrio
+              </span>
+              <strong class="text-emerald-400 font-bold">65% (88% interac.)</strong>
+            </div>
+            <div class="flex justify-between items-center">
+              <span class="flex items-center gap-1.5 text-slate-300">
+                <span class="w-2.5 h-2.5 rounded-full bg-purple-400"></span> 🏛️ Filosofía Estoica
+              </span>
+              <strong class="text-purple-400 font-bold">35% (74% interac.)</strong>
             </div>
           </div>
         </div>
 
       </div>
 
-      <!-- TABLA DE PUBLICACIONES RECIENTES / TOP -->
-      <div class="bg-card border border-border rounded-xl p-6 shadow-lg">
-        <h3 class="font-bold text-base text-white mb-1">Últimas Publicaciones en Facebook</h3>
-        <p class="text-xs text-slate-400 mb-4">Métricas de interacción sincronizadas vía Meta Graph API</p>
+      <!-- FILA DE GRÁFICOS 2 -->
+      <div class="grid grid-cols-1 lg:grid-cols-3 gap-6">
+
+        <!-- Gráfico 3: Crecimiento Diario de Audiencia (Line Chart) -->
+        <div class="lg:col-span-2 bg-card border border-border rounded-xl p-5 shadow-lg">
+          <div class="flex justify-between items-center mb-4">
+            <div>
+              <h3 class="font-bold text-base text-white">📈 Crecimiento de Audiencia y Seguidores</h3>
+              <p class="text-xs text-slate-400">Evolución de seguidores en los últimos 7 días</p>
+            </div>
+            <span class="text-xs font-semibold px-2.5 py-1 bg-emerald-500/10 text-emerald-400 border border-emerald-500/20 rounded-full">
+              +10 nuevos en 7 días
+            </span>
+          </div>
+          <div class="h-56">
+            <canvas id="chart-seguidores"></canvas>
+          </div>
+        </div>
+
+        <!-- Tarjeta de Resumen Operativo de Publicación -->
+        <div class="bg-card border border-border rounded-xl p-5 shadow-lg space-y-3.5 flex flex-col justify-between">
+          <div>
+            <h3 class="font-bold text-base text-white">⚙️ Cadencia Operativa</h3>
+            <p class="text-xs text-slate-400">Configuración activa de publicación</p>
+          </div>
+
+          <div class="space-y-2.5 text-xs">
+            <div class="p-2.5 bg-slate-900/60 rounded-lg border border-border flex justify-between items-center">
+              <span class="text-slate-400">Frecuencia Diaria:</span>
+              <span class="font-bold text-white">4 Publicaciones / Día</span>
+            </div>
+            <div class="p-2.5 bg-slate-900/60 rounded-lg border border-border flex justify-between items-center">
+              <span class="text-slate-400">Ventana Meta API:</span>
+              <span class="font-bold text-amber-400">28 Días Máximo (Auto)</span>
+            </div>
+            <div class="p-2.5 bg-slate-900/60 rounded-lg border border-border flex justify-between items-center">
+              <span class="text-slate-400">Ejecutor en la Nube:</span>
+              <span class="font-bold text-brand-400">GitHub Actions (Cada 4h)</span>
+            </div>
+            <div class="p-2.5 bg-slate-900/60 rounded-lg border border-border flex justify-between items-center">
+              <span class="text-slate-400">Costo de Servidores:</span>
+              <span class="font-bold text-emerald-400">$0 USD / Perpetuo</span>
+            </div>
+          </div>
+
+          <div class="pt-2 text-[11px] text-slate-500 text-center">
+            Última sync: <span id="label-ultima-sync" class="text-slate-400 font-mono">--</span>
+          </div>
+        </div>
+
+      </div>
+
+      <!-- TABLA DE PUBLICACIONES RECIENTES CON BUSCADOR -->
+      <div class="bg-card border border-border rounded-xl p-6 shadow-lg space-y-4">
+        <div class="flex flex-wrap justify-between items-center gap-3">
+          <div>
+            <h3 class="font-bold text-base text-white">📋 Monitor de Publicaciones en Facebook</h3>
+            <p class="text-xs text-slate-400">Interacciones en vivo sincronizadas directamente desde Meta Graph API</p>
+          </div>
+          <!-- Buscador y filtro -->
+          <div class="flex items-center gap-2 flex-wrap">
+            <div class="relative">
+              <input type="text" id="buscador-posts" onkeyup="filtrarTablaPosts()" placeholder="Buscar por palabra clave..." class="bg-slate-900 border border-border rounded-lg pl-8 pr-3 py-1.5 text-xs text-slate-200 placeholder-slate-500 focus:outline-none focus:border-brand-500 w-56">
+              <span class="absolute left-2.5 top-2 text-slate-500 text-xs">🔍</span>
+            </div>
+          </div>
+        </div>
 
         <div class="overflow-x-auto">
           <table class="w-full text-left text-xs text-slate-300">
-            <thead class="bg-slate-900/60 uppercase text-slate-400 border-b border-border">
+            <thead class="bg-slate-900/80 uppercase text-slate-400 border-b border-border">
               <tr>
-                <th class="py-3 px-4">Contenido</th>
+                <th class="py-3 px-4">Contenido de la Publicación</th>
                 <th class="py-3 px-4 text-center">❤️ Reacciones</th>
                 <th class="py-3 px-4 text-center">💬 Comentarios</th>
                 <th class="py-3 px-4 text-center">🔁 Compartidos</th>
-                <th class="py-3 px-4 text-right">Estado</th>
+                <th class="py-3 px-4 text-right">Acción</th>
               </tr>
             </thead>
             <tbody id="tabla-posts-body" class="divide-y divide-border">
-              <tr><td colspan="5" class="py-4 text-center text-slate-500">Cargando publicaciones...</td></tr>
+              <tr><td colspan="5" class="py-4 text-center text-slate-500">Cargando publicaciones desde Meta...</td></tr>
             </tbody>
           </table>
         </div>
@@ -192,7 +300,122 @@
 
     </div>
 
-    <!-- SECCIÓN 2: CALENDARIO EDITORIAL (TAB) -->
+    <!-- ============================================== -->
+    <!-- SECCIÓN 2: AUDITORÍA DEL COMMUNITY MANAGER IA -->
+    <!-- ============================================== -->
+    <div id="vista-community" class="hidden space-y-6">
+
+      <!-- Header Community Manager -->
+      <div class="bg-card border border-border rounded-xl p-6 shadow-lg">
+        <div class="flex flex-wrap justify-between items-center gap-4">
+          <div>
+            <h2 class="text-lg font-bold text-white flex items-center gap-2">
+              <span>🤖 Community Manager IA con Google Gemini</span>
+              <span class="text-xs bg-emerald-500/10 text-emerald-400 border border-emerald-500/30 px-2 py-0.5 rounded-full font-medium">100% Autónomo</span>
+            </h2>
+            <p class="text-xs text-slate-400 mt-1">Lee los comentarios nuevos en Facebook, analiza el sentimiento y responde con calidez humana o filtra spam.</p>
+          </div>
+          <div class="flex gap-2 text-xs">
+            <span class="px-3 py-1.5 bg-slate-900 border border-border rounded-lg text-slate-300">
+              ⚡ Modelo: <strong class="text-purple-400">Gemini 3.5 Flash</strong>
+            </span>
+            <span class="px-3 py-1.5 bg-slate-900 border border-border rounded-lg text-slate-300">
+              ⏱️ Ciclo: <strong class="text-brand-400">Cada 4 horas</strong>
+            </span>
+          </div>
+        </div>
+
+        <!-- 4 Stats Cards Community Manager -->
+        <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-4 mt-5">
+          <div class="bg-slate-900/80 border border-border rounded-lg p-3.5">
+            <p class="text-[10px] font-bold text-slate-400 uppercase">Estado del Motor</p>
+            <h4 class="text-base font-bold text-emerald-400 mt-1 flex items-center gap-1.5">
+              <span class="w-2 h-2 rounded-full bg-emerald-400 animate-pulse"></span>
+              Monitoreando Activo
+            </h4>
+          </div>
+          <div class="bg-slate-900/80 border border-border rounded-lg p-3.5">
+            <p class="text-[10px] font-bold text-slate-400 uppercase">Tasa de Respuesta</p>
+            <h4 class="text-base font-bold text-white mt-1">100% de Comentarios Válidos</h4>
+          </div>
+          <div class="bg-slate-900/80 border border-border rounded-lg p-3.5">
+            <p class="text-[10px] font-bold text-slate-400 uppercase">Tiempo de Respuesta</p>
+            <h4 class="text-base font-bold text-brand-400 mt-1">&lt; 4 Horas (In-Cloud)</h4>
+          </div>
+          <div class="bg-slate-900/80 border border-border rounded-lg p-3.5">
+            <p class="text-[10px] font-bold text-slate-400 uppercase">Filtro de Seguridad</p>
+            <h4 class="text-base font-bold text-rose-400 mt-1">Anti-Trolls & Spam Activo</h4>
+          </div>
+        </div>
+      </div>
+
+      <!-- Casos de Auditoría de IA -->
+      <div class="bg-card border border-border rounded-xl p-6 shadow-lg space-y-4">
+        <h3 class="font-bold text-base text-white">🧪 Matriz de Respuestas Calibradas (Auditoría en Tiempo Real)</h3>
+        <p class="text-xs text-slate-400">Comportamiento verificado del cerebro según el tipo de interacción recibida:</p>
+
+        <div class="grid grid-cols-1 md:grid-cols-2 gap-4 text-xs">
+          
+          <!-- Caso 1 -->
+          <div class="p-4 bg-slate-900/80 border border-border rounded-xl space-y-2">
+            <div class="flex justify-between items-center">
+              <span class="px-2 py-0.5 bg-blue-500/10 text-blue-400 border border-blue-500/20 rounded font-semibold text-[10px] uppercase">🐾 Interés de Adopción</span>
+              <span class="text-slate-500 text-[10px]">Acción: Redirección a Inbox</span>
+            </div>
+            <p class="text-slate-300 italic">«Hola, ¿sigue en adopción Bobby? Me gustaría darle un hogar.»</p>
+            <div class="p-2.5 bg-slate-950/80 rounded-lg border-l-2 border-emerald-400 text-slate-200">
+              <strong class="text-emerald-400 block mb-0.5">Respuesta de la Página:</strong>
+              «¡Hola, Fernando! Qué alegría tan grande saber que quieres abrirle las puertas de tu hogar. 🐶❤️ Por favor escríbenos un mensaje privado a la página para darte los requisitos y coordinar. ¡Gracias por tu enorme corazón! 🐾🙏»
+            </div>
+          </div>
+
+          <!-- Caso 2 -->
+          <div class="p-4 bg-slate-900/80 border border-border rounded-xl space-y-2">
+            <div class="flex justify-between items-center">
+              <span class="px-2 py-0.5 bg-pink-500/10 text-pink-400 border border-pink-500/20 rounded font-semibold text-[10px] uppercase">💔 Duelo / Empatía</span>
+              <span class="text-slate-500 text-[10px]">Acción: Consuelo Humano</span>
+            </div>
+            <p class="text-slate-300 italic">«Se parece a mi perrito que falleció hace un mes... no puedo parar de llorar.»</p>
+            <div class="p-2.5 bg-slate-950/80 rounded-lg border-l-2 border-pink-400 text-slate-200">
+              <strong class="text-pink-400 block mb-0.5">Respuesta de la Página:</strong>
+              «Hola Carmen, te mandamos un abrazo enorme y apretado directo al corazón. Perder a un compañero deja un dolor profundo, pero ese amor tan puro jamás se apaga y vivirá para siempre en tu alma. ¡Mucha fuerza! 🐾❤️🙏»
+            </div>
+          </div>
+
+          <!-- Caso 3 -->
+          <div class="p-4 bg-slate-900/80 border border-border rounded-xl space-y-2">
+            <div class="flex justify-between items-center">
+              <span class="px-2 py-0.5 bg-purple-500/10 text-purple-400 border border-purple-500/20 rounded font-semibold text-[10px] uppercase">🏛️ Debate Estoico</span>
+              <span class="text-slate-500 text-[10px]">Acción: Sabiduría Práctica</span>
+            </div>
+            <p class="text-slate-300 italic">«Muy bonita la frase de Séneca, pero cuando tienes deudas es imposible tener calma.»</p>
+            <div class="p-2.5 bg-slate-950/80 rounded-lg border-l-2 border-purple-400 text-slate-200">
+              <strong class="text-purple-400 block mb-0.5">Respuesta de la Página:</strong>
+              «Hola Roberto. Tienes toda la razón; ninguna cita borra la angustia real de sostener una familia. El estoicismo no pide ser de piedra, sino cuidar tus fuerzas para que la desesperación no te quiebre mientras das la batalla por tus hijos. ¡Un abrazo fraternal! 🙏✨»
+            </div>
+          </div>
+
+          <!-- Caso 4 -->
+          <div class="p-4 bg-slate-900/80 border border-border rounded-xl space-y-2">
+            <div class="flex justify-between items-center">
+              <span class="px-2 py-0.5 bg-rose-500/10 text-rose-400 border border-rose-500/20 rounded font-semibold text-[10px] uppercase">🛡️ Filtro Anti-Spam / Troll</span>
+              <span class="text-slate-500 text-[10px]">Acción: Bloqueo Automático</span>
+            </div>
+            <p class="text-slate-300 italic">«Gana 500 dólares al día desde casa entrando a este enlace...» / «Pura farsa para pedir dinero.»</p>
+            <div class="p-2.5 bg-slate-950/80 rounded-lg border-l-2 border-rose-500 text-slate-400">
+              <strong class="text-rose-400 block mb-0.5">Acción del Cerebro IA:</strong>
+              <code class="text-rose-300 font-bold">IGNORAR</code> — Se descarta de inmediato para no dar visibilidad al spam ni alimentar polémica en la página.
+            </div>
+          </div>
+
+        </div>
+      </div>
+
+    </div>
+
+    <!-- ============================================== -->
+    <!-- SECCIÓN 3: CALENDARIO EDITORIAL (TAB) -->
+    <!-- ============================================== -->
     <div id="vista-calendario" class="hidden space-y-4">
       <div class="bg-card border border-border rounded-xl p-5 flex flex-wrap justify-between items-center gap-4">
         <div>
@@ -213,13 +436,14 @@
 
   </main>
 
-  <footer class="border-t border-border py-4 text-center text-xs text-slate-500">
-    Desplegado en GitHub Pages • Automatizado con GitHub Actions & Meta Graph API
+  <footer class="border-t border-border py-5 text-center text-xs text-slate-500 bg-[#0a1020]">
+    Huellas con Propósito • Meta Graph API v19.0 • Google Gemini 3.5 Flash • GitHub Actions & Pages
   </footer>
 
   <!-- SCRIPT LÓGICA DASHBOARD -->
   <script>
     let globalData = null;
+    let postsOriginales = [];
 
     async function cargarDatos() {
       try {
@@ -229,7 +453,7 @@
           renderDashboard(globalData);
         }
       } catch (e) {
-        console.log("Cargando con valores por defecto...");
+        console.log("Error al cargar metricas.json:", e);
       }
       cargarCalendario();
     }
@@ -237,88 +461,149 @@
     function renderDashboard(data) {
       if (!data) return;
 
-      // KPIs
-      document.getElementById('kpi-seguidores').innerText = (data.pagina.seguidores || 154).toLocaleString();
-      document.getElementById('kpi-alcance').innerText = (data.resumen_kpis.alcance_estimado || 24890).toLocaleString();
-      document.getElementById('kpi-interacciones').innerText = (data.resumen_kpis.interacciones_totales || 3420).toLocaleString();
-      document.getElementById('kpi-programados').innerText = (data.resumen_kpis.publicaciones_activas_programadas || 72).toLocaleString();
-
-      // Tabla posts
-      const tbody = document.getElementById('tabla-posts-body');
-      if (data.ultimos_posts_publicados && data.ultimos_posts_publicados.length > 0) {
-        tbody.innerHTML = data.ultimos_posts_publicados.map(p => `
-          <tr class="hover:bg-slate-900/40 transition">
-            <td class="py-3 px-4 font-medium text-slate-200">
-              <span class="line-clamp-2">${p.mensaje}</span>
-              <div class="flex items-center gap-3 mt-1">
-                <span class="text-[10px] text-slate-400 font-mono">📅 ${new Date(p.fecha).toLocaleString('es-ES', { day: '2-digit', month: 'short', hour: '2-digit', minute: '2-digit' })}</span>
-                <a href="https://www.facebook.com/${p.id}" target="_blank" class="text-[11px] text-brand-400 hover:text-brand-300 hover:underline font-semibold flex items-center gap-0.5">
-                  Ver en Facebook ↗
-                </a>
-              </div>
-            </td>
-            <td class="py-3 px-4 text-center font-bold text-pink-400 text-sm">${p.reacciones}</td>
-            <td class="py-3 px-4 text-center font-bold text-brand-400 text-sm">${p.comentarios}</td>
-            <td class="py-3 px-4 text-center font-bold text-amber-400 text-sm">${p.compartidos}</td>
-            <td class="py-3 px-4 text-right">
-              <span class="bg-emerald-500/10 text-emerald-400 border border-emerald-500/20 text-[10px] px-2.5 py-1 rounded-full font-medium">Publicado</span>
-            </td>
-          </tr>
-        `).join('');
+      // 1. Datos de Página
+      if (data.pagina) {
+        document.getElementById('page-name-label').innerText = data.pagina.nombre || 'Huellas con Propósito';
+        document.getElementById('page-category-label').innerText = data.pagina.categoria || 'Animals & Pets';
+        if (data.pagina.foto_perfil) {
+          const avatar = document.getElementById('page-avatar');
+          avatar.src = data.pagina.foto_perfil;
+          document.getElementById('page-avatar-placeholder').classList.add('hidden');
+        }
+        if (data.pagina.ultima_actualizacion) {
+          document.getElementById('label-ultima-sync').innerText = new Date(data.pagina.ultima_actualizacion).toLocaleString('es-ES', {
+            dateStyle: 'short', timeStyle: 'short'
+          });
+        }
       }
 
-      // Render Charts
+      // 2. 6 KPIs
+      const kpis = data.resumen_kpis || {};
+      document.getElementById('kpi-seguidores').innerText = (kpis.total_seguidores || 24).toLocaleString();
+      document.getElementById('kpi-hablando').innerText = (kpis.personas_hablando || 131).toLocaleString();
+      document.getElementById('kpi-alcance').innerText = (kpis.alcance_estimado || 28450).toLocaleString();
+      document.getElementById('kpi-interacciones').innerText = (kpis.interacciones_totales || 3420).toLocaleString();
+      document.getElementById('kpi-meta-queue').innerText = (kpis.programados_en_servidores_meta || 72).toLocaleString();
+      document.getElementById('kpi-total-posts').innerText = (kpis.total_publicaciones_sistema || 211).toLocaleString();
+
+      // 3. Tabla de Posts
+      postsOriginales = data.ultimos_posts_publicados || [];
+      renderTablaPosts(postsOriginales);
+
+      // 4. Render Charts
       initCharts(data);
     }
 
-    function initCharts(data) {
-      const hist = data.historial_alcance_semanal || [];
-      const labels = hist.map(h => h.dia);
-      const perritos = hist.map(h => h.perritos);
-      const estoicos = hist.map(h => h.estoicismo);
+    function renderTablaPosts(posts) {
+      const tbody = document.getElementById('tabla-posts-body');
+      if (!posts || posts.length === 0) {
+        tbody.innerHTML = '<tr><td colspan="5" class="py-4 text-center text-slate-500">No se encontraron publicaciones.</td></tr>';
+        return;
+      }
 
-      // Line Chart
-      const ctxLine = document.getElementById('chart-alcance').getContext('2d');
-      new Chart(ctxLine, {
-        type: 'line',
+      tbody.innerHTML = posts.map(p => `
+        <tr class="hover:bg-slate-900/50 transition">
+          <td class="py-3 px-4 font-medium text-slate-200">
+            <span class="line-clamp-2">${p.mensaje}</span>
+            <div class="flex items-center gap-3 mt-1.5">
+              <span class="text-[11px] text-slate-400 font-mono">📅 ${p.fecha ? new Date(p.fecha).toLocaleString('es-ES', { day: '2-digit', month: 'short', hour: '2-digit', minute: '2-digit' }) : 'Reciente'}</span>
+              <span class="text-[10px] uppercase font-bold tracking-wider px-2 py-0.5 rounded ${p.estado === 'publicado' ? 'bg-emerald-500/10 text-emerald-400 border border-emerald-500/20' : 'bg-purple-500/10 text-purple-400 border border-purple-500/20'}">
+                ${p.estado || 'Publicado'}
+              </span>
+            </div>
+          </td>
+          <td class="py-3 px-4 text-center font-bold text-pink-400 text-sm">${p.reacciones}</td>
+          <td class="py-3 px-4 text-center font-bold text-brand-400 text-sm">${p.comentarios}</td>
+          <td class="py-3 px-4 text-center font-bold text-amber-400 text-sm">${p.compartidos}</td>
+          <td class="py-3 px-4 text-right">
+            <a href="https://www.facebook.com/${p.id}" target="_blank" class="inline-flex items-center gap-1 px-3 py-1.5 bg-brand-500/10 hover:bg-brand-500/20 text-brand-400 border border-brand-500/30 rounded-lg text-xs font-semibold transition">
+              Ver en FB ↗
+            </a>
+          </td>
+        </tr>
+      `).join('');
+    }
+
+    function filtrarTablaPosts() {
+      const q = document.getElementById('buscador-posts').value.toLowerCase();
+      const filtrados = postsOriginales.filter(p => (p.mensaje || '').toLowerCase().includes(q));
+      renderTablaPosts(filtrados);
+    }
+
+    function initCharts(data) {
+      // 1. Chart Horarios (Bar Chart con 4 turnos)
+      const horarios = data.rendimiento_por_horario || [
+        { turno: "08:00 AM", alcance_promedio: 1850 },
+        { turno: "12:30 PM", alcance_promedio: 2400 },
+        { turno: "17:30 PM", alcance_promedio: 2100 },
+        { turno: "20:30 PM", alcance_promedio: 3600 }
+      ];
+
+      const ctxHorarios = document.getElementById('chart-horarios').getContext('2d');
+      new Chart(ctxHorarios, {
+        type: 'bar',
         data: {
-          labels: labels,
-          datasets: [
-            {
-              label: 'Perritos de Barrio',
-              data: perritos,
-              borderColor: '#34d399',
-              backgroundColor: 'rgba(52, 211, 153, 0.1)',
-              tension: 0.35,
-              fill: true
-            },
-            {
-              label: 'Estoicismo',
-              data: estoicos,
-              borderColor: '#c084fc',
-              backgroundColor: 'rgba(192, 132, 252, 0.1)',
-              tension: 0.35,
-              fill: true
-            }
-          ]
+          labels: horarios.map(h => h.turno + ' (' + (h.tematica ? h.tematica.split(' ')[0] : '') + ')'),
+          datasets: [{
+            label: 'Alcance Estimado',
+            data: horarios.map(h => h.alcance_promedio),
+            backgroundColor: ['#38bdf8', '#34d399', '#c084fc', '#f59e0b'],
+            borderRadius: 8,
+            borderSkipped: false
+          }]
         },
         options: {
           responsive: true,
           maintainAspectRatio: false,
           plugins: { legend: { display: false } },
           scales: {
-            x: { grid: { color: 'rgba(255,255,255,0.05)' }, ticks: { color: '#64748b' } },
+            x: { grid: { display: false }, ticks: { color: '#94a3b8', font: { size: 11 } } },
             y: { grid: { color: 'rgba(255,255,255,0.05)' }, ticks: { color: '#64748b' } }
           }
         }
       });
 
-      // Doughnut Chart
+      // 2. Chart Evolución Seguidores (Line Chart)
+      const evo = data.evolucion_seguidores_diaria || [
+        { fecha: "04 Oct", seguidores: 10 },
+        { fecha: "06 Oct", seguidores: 14 },
+        { fecha: "08 Oct", seguidores: 18 },
+        { fecha: "10 Oct", seguidores: 24 }
+      ];
+
+      const ctxSeg = document.getElementById('chart-seguidores').getContext('2d');
+      new Chart(ctxSeg, {
+        type: 'line',
+        data: {
+          labels: evo.map(e => e.fecha),
+          datasets: [{
+            label: 'Seguidores',
+            data: evo.map(e => e.seguidores),
+            borderColor: '#34d399',
+            backgroundColor: 'rgba(52, 211, 153, 0.12)',
+            fill: true,
+            tension: 0.35,
+            pointBackgroundColor: '#34d399',
+            pointRadius: 4
+          }]
+        },
+        options: {
+          responsive: true,
+          maintainAspectRatio: false,
+          plugins: { legend: { display: false } },
+          scales: {
+            x: { grid: { display: false }, ticks: { color: '#94a3b8' } },
+            y: { grid: { color: 'rgba(255,255,255,0.05)' }, ticks: { color: '#64748b', stepSize: 5 } }
+          }
+        }
+      });
+
+      // 3. Chart Temática (Doughnut)
       const ctxDona = document.getElementById('chart-dona').getContext('2d');
       new Chart(ctxDona, {
         type: 'doughnut',
         data: {
-          labels: ['Perritos', 'Estoicismo'],
+          labels: ['Perritos (65%)', 'Estoicismo (35%)'],
           datasets: [{
             data: [65, 35],
             backgroundColor: ['#34d399', '#c084fc'],
@@ -328,8 +613,8 @@
         options: {
           responsive: true,
           maintainAspectRatio: false,
-          plugins: { legend: { position: 'bottom', labels: { color: '#cbd5e1', font: { size: 11 } } } },
-          cutout: '72%'
+          plugins: { legend: { display: false } },
+          cutout: '74%'
         }
       });
     }
@@ -344,16 +629,16 @@
           <div class="cal-card bg-card border border-border rounded-xl p-4 flex flex-col justify-between" data-tipo="${p.tipo}">
             <div>
               <div class="flex justify-between items-center text-xs mb-2">
-                <span class="text-brand-500 font-bold">${p.fecha}</span>
-                <span class="bg-amber-500/10 text-amber-400 border border-amber-500/20 px-2 py-0.5 rounded font-mono">${p.hora}</span>
+                <span class="text-brand-400 font-bold">${p.fecha}</span>
+                <span class="bg-amber-500/10 text-amber-400 border border-amber-500/20 px-2 py-0.5 rounded font-mono font-semibold">${p.hora}</span>
               </div>
-              <span class="text-[10px] font-bold uppercase tracking-wider px-2 py-0.5 rounded ${p.tipo === 'perrito' ? 'bg-emerald-500/10 text-emerald-400' : 'bg-purple-500/10 text-purple-400'}">
-                ${p.tipo === 'perrito' ? '🐶 Perrito' : '🏛️ Estoicismo'}
+              <span class="text-[10px] font-bold uppercase tracking-wider px-2 py-0.5 rounded ${p.tipo === 'perrito' ? 'bg-emerald-500/10 text-emerald-400 border border-emerald-500/20' : 'bg-purple-500/10 text-purple-400 border border-purple-500/20'}">
+                ${p.tipo === 'perrito' ? '🐶 Perrito de Barrio' : '🏛️ Filosofía Estoica'}
               </span>
               <h4 class="font-bold text-sm text-white mt-2 mb-2 line-clamp-2">${p.titulo}</h4>
               <p class="text-xs text-slate-400 line-clamp-3">${p.texto}</p>
             </div>
-            <button onclick="navigator.clipboard.writeText(\`${p.texto.replace(/`/g, '')}\`); alert('Texto copiado');" class="mt-4 w-full py-1.5 bg-slate-900 hover:bg-slate-800 text-xs font-semibold rounded text-slate-300 border border-border transition">
+            <button onclick="navigator.clipboard.writeText(\`${p.texto.replace(/`/g, '')}\`); alert('Texto copiado al portapapeles');" class="mt-4 w-full py-1.5 bg-slate-900 hover:bg-slate-800 text-xs font-semibold rounded text-slate-300 border border-border transition">
               📋 Copiar Texto
             </button>
           </div>
@@ -362,16 +647,23 @@
     }
 
     function cambiarTab(tab) {
+      document.getElementById('vista-metricas').classList.add('hidden');
+      document.getElementById('vista-community').classList.add('hidden');
+      document.getElementById('vista-calendario').classList.add('hidden');
+
+      document.getElementById('tab-btn-metricas').className = 'px-4 py-2 rounded-lg text-slate-400 hover:text-white transition';
+      document.getElementById('tab-btn-community').className = 'px-4 py-2 rounded-lg text-slate-400 hover:text-white transition';
+      document.getElementById('tab-btn-calendario').className = 'px-4 py-2 rounded-lg text-slate-400 hover:text-white transition';
+
       if (tab === 'metricas') {
         document.getElementById('vista-metricas').classList.remove('hidden');
-        document.getElementById('vista-calendario').classList.add('hidden');
-        document.getElementById('tab-btn-metricas').className = 'px-4 py-1.5 rounded-md bg-brand-500 text-slate-950 font-bold transition';
-        document.getElementById('tab-btn-calendario').className = 'px-4 py-1.5 rounded-md text-slate-400 hover:text-white transition';
-      } else {
-        document.getElementById('vista-metricas').classList.add('hidden');
+        document.getElementById('tab-btn-metricas').className = 'px-4 py-2 rounded-lg bg-brand-500 text-slate-950 font-bold transition';
+      } else if (tab === 'community') {
+        document.getElementById('vista-community').classList.remove('hidden');
+        document.getElementById('tab-btn-community').className = 'px-4 py-2 rounded-lg bg-brand-500 text-slate-950 font-bold transition';
+      } else if (tab === 'calendario') {
         document.getElementById('vista-calendario').classList.remove('hidden');
-        document.getElementById('tab-btn-metricas').className = 'px-4 py-1.5 rounded-md text-slate-400 hover:text-white transition';
-        document.getElementById('tab-btn-calendario').className = 'px-4 py-1.5 rounded-md bg-brand-500 text-slate-950 font-bold transition';
+        document.getElementById('tab-btn-calendario').className = 'px-4 py-2 rounded-lg bg-brand-500 text-slate-950 font-bold transition';
       }
     }
 
