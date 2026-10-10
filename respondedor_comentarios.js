@@ -1,17 +1,22 @@
 /**
- * AUTO COMMUNITY MANAGER IA - HUELLAS CON PROPÓSITO
- * --------------------------------------------------
- * 1. Lee comentarios nuevos en las publicaciones de Facebook.
- * 2. Analiza el sentimiento e intención con Google Gemini.
- * 3. Si es spam o insultos, lo ignora automáticamente.
- * 4. Si es una persona real, responde con calidez humana, empatía y su nombre.
- * 5. Registra el historial para no repetir respuestas.
+ * AUTO COMMUNITY MANAGER IA MULTI-PÁGINA
+ * ---------------------------------------
+ * Gestiona y responde comentarios de forma autónoma con IA personalizada para cada página:
+ * 1. Huellas con Propósito -> Persona empática, amorosa con los perritos y sabiduría estoica.
+ * 2. Metalidad de Acero    -> Mentor implacable de disciplina, superación y cero victimismo.
+ * 
+ * Reglas de funcionamiento:
+ * - Detecta y filtra SPAM o insultos de inmediato ("IGNORAR").
+ * - Saluda al usuario por su nombre.
+ * - Respuestas de 1 a 3 frases dinámicas para el algoritmo de Facebook.
+ * - Registra en historial_comentarios.json para evitar duplicados.
+ * - Pausa de 2s entre respuestas para respetar límites de Meta.
  */
 
 import fs from 'fs';
 import path from 'path';
 import { fileURLToPath } from 'url';
-import { analizarYResponderComentarioIA } from './cerebro_ia.js';
+import { analizarYResponderComentarioIA, analizarYResponderComentarioAceroIA } from './cerebro_ia.js';
 
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
@@ -19,15 +24,40 @@ const __dirname = path.dirname(__filename);
 const CONFIG_PATH = path.join(__dirname, 'config.json');
 const HISTORIAL_PATH = path.join(__dirname, 'historial_comentarios.json');
 
-function cargarCredenciales() {
-  let token = process.env.META_ACCESS_TOKEN;
-  let pageId = process.env.PAGE_ID;
+const PAGINAS = [
+  {
+    clave: 'huellas_con_proposito',
+    nombre: 'Huellas con Propósito',
+    idEnvKey: 'PAGE_ID',
+    tokenEnvKey: 'META_ACCESS_TOKEN',
+    responderFn: analizarYResponderComentarioIA
+  },
+  {
+    clave: 'mentalidad_de_acero',
+    nombre: 'Metalidad de Acero',
+    idEnvKey: 'PAGE_ID_ACERO',
+    tokenEnvKey: 'META_ACCESS_TOKEN_ACERO',
+    responderFn: analizarYResponderComentarioAceroIA
+  }
+];
 
-  if (!token || !pageId) {
-    if (fs.existsSync(CONFIG_PATH)) {
+function cargarCredenciales(pagCfg) {
+  let token = process.env[pagCfg.tokenEnvKey];
+  let pageId = process.env[pagCfg.idEnvKey];
+
+  if ((!token || !pageId) && fs.existsSync(CONFIG_PATH)) {
+    try {
       const cfg = JSON.parse(fs.readFileSync(CONFIG_PATH, 'utf-8'));
-      token = token || cfg.ACCESS_TOKEN;
-      pageId = pageId || cfg.PAGE_OR_PROFILE_ID;
+      if (cfg.PAGINAS && cfg.PAGINAS[pagCfg.clave]) {
+        token = token || cfg.PAGINAS[pagCfg.clave].token;
+        pageId = pageId || cfg.PAGINAS[pagCfg.clave].id;
+      }
+      if (pagCfg.clave === 'huellas_con_proposito') {
+        token = token || cfg.ACCESS_TOKEN;
+        pageId = pageId || cfg.PAGE_OR_PROFILE_ID;
+      }
+    } catch (e) {
+      console.warn(`Aviso al leer config.json: ${e.message}`);
     }
   }
 
@@ -51,16 +81,17 @@ function guardarHistorial(historial) {
 
 const sleep = (ms) => new Promise((resolve) => setTimeout(resolve, ms));
 
-async function responderComentarios() {
-  const { token, pageId } = cargarCredenciales();
+async function procesarComentariosPagina(pagCfg, historial) {
+  console.log('\n' + '='.repeat(60));
+  console.log(`🤖 COMMUNITY MANAGER IA: ${pagCfg.nombre.toUpperCase()}`);
+  console.log('='.repeat(60));
+
+  const { token, pageId } = cargarCredenciales(pagCfg);
 
   if (!token || !pageId) {
-    console.error('❌ Falta META_ACCESS_TOKEN o PAGE_ID');
-    return;
+    console.warn(`⚠️ Credenciales no encontradas para ${pagCfg.nombre}. Omitiendo.`);
+    return 0;
   }
-
-  const historial = cargarHistorial();
-  console.log(`🤖 Iniciando Community Manager IA para la página ID: ${pageId}...`);
 
   // 1. Obtener los últimos 10 posts publicados
   let posts = [];
@@ -72,16 +103,16 @@ async function responderComentarios() {
     if (resPosts.ok && dataPosts.data) {
       posts = dataPosts.data;
     } else {
-      console.error('❌ Error al consultar posts:', dataPosts);
-      return;
+      console.error(`❌ Error al consultar posts en ${pagCfg.nombre}:`, dataPosts);
+      return 0;
     }
   } catch (err) {
-    console.error('❌ Error de red consultando posts:', err.message);
-    return;
+    console.error(`❌ Error de red consultando posts de ${pagCfg.nombre}:`, err.message);
+    return 0;
   }
 
-  console.log(`📋 Analizando comentarios en ${posts.length} publicaciones recientes...`);
-  let totalRespondidos = 0;
+  console.log(`📋 Analizando comentarios en ${posts.length} publicaciones recientes de ${pagCfg.nombre}...`);
+  let respondidosPagina = 0;
 
   for (const post of posts) {
     try {
@@ -110,21 +141,22 @@ async function responderComentarios() {
         const yaRespondidoPorPagina = replies.some((r) => r.from?.id === pageId);
         if (yaRespondidoPorPagina) {
           historial[commentId] = {
+            pagina: pagCfg.nombre,
             estado: 'ya_respondido_en_facebook',
             fecha: new Date().toISOString()
           };
           continue;
         }
 
-        // Si no hay texto (solo sticker sin mensaje), omitir o saludar breve
+        // Si no hay texto (solo sticker sin mensaje), omitir
         if (!mensaje) continue;
 
-        console.log(`\n💬 Comentario nuevo de ${autorNombre}: "${mensaje}"`);
+        console.log(`\n💬 [${pagCfg.nombre}] Nuevo comentario de ${autorNombre}: "${mensaje}"`);
 
-        // 3. Analizar y redactar con Gemini
+        // 3. Analizar y redactar con el cerebro IA especializado de esta página
         let respuestaIA = '';
         try {
-          respuestaIA = await analizarYResponderComentarioIA(autorNombre, mensaje, post.message || '');
+          respuestaIA = await pagCfg.responderFn(autorNombre, mensaje, post.message || '');
         } catch (e) {
           console.error(`⚠️ Error al generar respuesta con Gemini:`, e.message);
           continue;
@@ -133,6 +165,7 @@ async function responderComentarios() {
         if (!respuestaIA || respuestaIA.toUpperCase().includes('IGNORAR')) {
           console.log(`🛑 Cerebro IA clasificó como SPAM / IGNORAR.`);
           historial[commentId] = {
+            pagina: pagCfg.nombre,
             estado: 'ignorado',
             usuario: autorNombre,
             comentario: mensaje,
@@ -143,7 +176,7 @@ async function responderComentarios() {
         }
 
         // 4. Publicar la respuesta en Facebook
-        console.log(`🤖 Respuesta redactada: "${respuestaIA}"`);
+        console.log(`🤖 Respuesta IA redactada: "${respuestaIA}"`);
         try {
           const bodyData = new URLSearchParams();
           bodyData.append('message', respuestaIA);
@@ -158,6 +191,7 @@ async function responderComentarios() {
           if (resPublicar.ok && dataPub.id) {
             console.log(`✅ ¡Respuesta publicada en Facebook! ID: ${dataPub.id}`);
             historial[commentId] = {
+              pagina: pagCfg.nombre,
               estado: 'respondido',
               reply_id: dataPub.id,
               usuario: autorNombre,
@@ -166,8 +200,8 @@ async function responderComentarios() {
               fecha: new Date().toISOString()
             };
             guardarHistorial(historial);
-            totalRespondidos++;
-            await sleep(2000); // 2 segundos de pausa entre respuestas para no saturar la API
+            respondidosPagina++;
+            await sleep(2500); // 2.5s entre respuestas para respetar rate limit
           } else {
             console.error(`❌ Error de Meta al publicar respuesta:`, dataPub);
           }
@@ -180,8 +214,30 @@ async function responderComentarios() {
     }
   }
 
-  guardarHistorial(historial);
-  console.log(`\n🏁 Proceso completado. Comentarios respondidos en esta ejecución: ${totalRespondidos}`);
+  console.log(`🏁 Respuestas completadas para ${pagCfg.nombre}: ${respondidosPagina}`);
+  return respondidosPagina;
 }
 
-responderComentarios();
+async function main() {
+  console.log('='.repeat(65));
+  console.log('🚀 INICIANDO COMMUNITY MANAGER IA MULTI-PÁGINA');
+  console.log('='.repeat(65));
+
+  const historial = cargarHistorial();
+  let totalRespondidos = 0;
+
+  for (const pag of PAGINAS) {
+    const r = await procesarComentariosPagina(pag, historial);
+    totalRespondidos += r;
+  }
+
+  guardarHistorial(historial);
+  console.log('\n' + '='.repeat(65));
+  console.log(`🎉 FIN DEL PROCESO: Total comentarios respondidos en todas las páginas: ${totalRespondidos}`);
+  console.log('='.repeat(65));
+}
+
+main().catch(err => {
+  console.error('Error fatal en Community Manager:', err);
+  process.exit(1);
+});

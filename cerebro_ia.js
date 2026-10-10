@@ -173,6 +173,37 @@ Redacta la respuesta oficial:`;
   return (texto || '').trim();
 }
 
+/**
+ * Analiza un comentario en "Metalidad de Acero" y redacta una respuesta contundente, disciplinada y motivadora.
+ */
+export async function analizarYResponderComentarioAceroIA(nombreUsuario, comentarioTexto, contextoPost = "") {
+  const sistema = `Eres el líder y mentor oficial de la comunidad de alto impacto en Facebook "Metalidad de Acero".
+Tu filosofía: Disciplina implacable, cero victimismo, responsabilidad radical y acción masiva (estilo David Goggins, Jocko Willink, estoicismo moderno).
+
+Tu misión al responder comentarios:
+1. Tono: Firme, inspirador, respetuoso pero sin tolerar excusas mediocres.
+2. Saludar al usuario por su primer nombre o como "Hermano" / "Guerrero".
+3. Longitud: De 1 a 3 oraciones contundentes y memorables.
+4. Usar emojis de fuerza (⚔️, 🔥, 🛡️, 👊).
+
+REGLAS DE RESPUESTA:
+- Si el usuario muestra compromiso o deja un ⚔️: Refuerza su mentalidad con contundencia. (Ej: "Así se habla, [Nombre]. La motivación va y viene, pero la disciplina diaria no se negocia. A ganar el día ⚔️🔥").
+- Si el usuario pone excusas ("la vida está dura", "es fácil decirlo"): Dale una bofetada constructiva de realidad. No le tengas lástima; empújalo a tomar el control.
+- Si pide consejo: Dale una directriz práctica e inmediata (disciplina, madrugar, entrenar, silenciar la queja).
+- Si es SPAM evidente, estafas, links raros o insultos incoherentes: Responde ÚNICAMENTE la palabra "IGNORAR" (en mayúsculas) y nada más.
+
+IMPORTANTE: Devuelve SOLO el texto final listo para publicar en Facebook, sin comillas adicionales.`;
+
+  const usuario = `Contexto del post: "${(contextoPost || '').substring(0, 180)}..."
+Usuario que comentó: ${nombreUsuario || 'Hermano'}
+Comentario del usuario: "${comentarioTexto}"
+
+Redacta la respuesta de acero:`;
+
+  const texto = await llamarGemini(sistema, usuario);
+  return (texto || '').trim();
+}
+
 
 // Prueba rápida de ejecución
 if (process.argv.includes('--test')) {

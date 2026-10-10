@@ -1,10 +1,10 @@
-name: Programador Automático de Facebook
+name: Programador Automático de Facebook Multi-Página
 
 on:
   schedule:
-    # Se ejecuta automáticamente cada 4 horas para revisar comentarios y programar contenido
+    # Se ejecuta automáticamente cada 4 horas para revisar comentarios, actualizar métricas y programar contenido
     - cron: '0 0,4,8,12,16,20 * * *'
-  # Permite ejecutarlo manualmente en cualquier momento desde la pestaña "Actions" de GitHub
+  # Permite ejecución manual en cualquier momento desde la pestaña "Actions" de GitHub
   workflow_dispatch:
 
 permissions:
@@ -25,28 +25,25 @@ jobs:
         with:
           node-version: '22'
 
-      - name: Ejecutar publicador de Facebook (Huellas con Propósito)
+      - name: 🚀 Publicador Automático Multi-Página (Huellas & Metalidad de Acero)
         env:
           META_ACCESS_TOKEN: ${{ secrets.META_ACCESS_TOKEN }}
           PAGE_ID: ${{ secrets.PAGE_ID }}
-          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
-        run: node publicador.js
-
-      - name: Ejecutar publicador de Facebook (Metalidad de Acero)
-        env:
           META_ACCESS_TOKEN_ACERO: ${{ secrets.META_ACCESS_TOKEN_ACERO }}
           PAGE_ID_ACERO: ${{ secrets.PAGE_ID_ACERO }}
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
-        run: node programar_mentalidad_acero.js
+        run: node publicador.js
 
-      - name: Ejecutar Community Manager IA (Responder Comentarios)
+      - name: 🤖 Community Manager IA Multi-Página (Respuestas Inteligentes a Comentarios)
         env:
           META_ACCESS_TOKEN: ${{ secrets.META_ACCESS_TOKEN }}
           PAGE_ID: ${{ secrets.PAGE_ID }}
+          META_ACCESS_TOKEN_ACERO: ${{ secrets.META_ACCESS_TOKEN_ACERO }}
+          PAGE_ID_ACERO: ${{ secrets.PAGE_ID_ACERO }}
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
         run: node respondedor_comentarios.js
 
-      - name: Actualizar métricas de Facebook (Multi-Página)
+      - name: 📊 Extractor de Métricas Multi-Página (Dashboard)
         env:
           META_ACCESS_TOKEN: ${{ secrets.META_ACCESS_TOKEN }}
           PAGE_ID: ${{ secrets.PAGE_ID }}
@@ -54,10 +51,8 @@ jobs:
           PAGE_ID_ACERO: ${{ secrets.PAGE_ID_ACERO }}
         run: node metricas.js
 
-      - name: Guardar estado actualizado en el repositorio
+      - name: 💾 Guardar estado actualizado en el repositorio
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
-          commit_message: "Actualizar publicaciones multi-pagina, respuestas IA y metricas [skip ci]"
+          commit_message: "Actualización automática: cola de publicaciones, métricas e historial [skip ci]"
           file_pattern: "noviembre/publicaciones.json mentalidad_de_acero/publicaciones.json metricas.json historial_comentarios.json"
-
-
