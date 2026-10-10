@@ -361,7 +361,10 @@
     "titulo": "Mentalidad Errónea: EL DERROTADO POR LA PÉRDIDA vs Mentalidad de Acero",
     "texto": "\"A VECES SE GANA, A VECES SE APRENDE; PERO UN HOMBRE DE ACERO NUNCA SE DECLARA DERROTADO.\"\n\nEl éxito es para los que asumen el 100% de responsabilidad y no se rinden jamás.\n\n#MentalidadDeAcero #Disciplina",
     "imagen": "mentalidad_de_acero/imagenes/post_29_el_derrotado_por_la_perdida.jpg",
-    "estado": "pendiente"
+    "estado": "programado",
+    "post_id": "122095941465512707",
+    "meta_post_id": "122095941465512707",
+    "fecha_programada_unix": 1794078000
   },
   {
     "id": 30,
