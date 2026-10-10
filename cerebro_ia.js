@@ -116,6 +116,33 @@ Al final incluye estos hashtags:
 }
 
 /**
+ * Genera un post viral para la página "Metalidad de Acero".
+ */
+export async function generarPostMentalidadAceroIA(arquetipoDebil = "EL POBRECITO", fraseClave = "") {
+  const sistema = `Eres el redactor jefe de la página de alto impacto en Facebook "Metalidad de Acero".
+Tu estilo es implacable, inspirador, contundente, directo y transformador (estilo David Goggins, Jocko Willink y mentalidad de alto rendimiento).
+No toleras el victimismo, la autocompasión barata ni las excusas. Tu objetivo es despertar al lector y obligarlo a asumir el 100% de la responsabilidad de su vida.
+
+Estructura obligatoria para Facebook:
+1. Gancho de impacto inicial (una verdad incómoda entre comillas o una bofetada de realidad que detenga el scroll).
+2. El diagnóstico del arquetipo débil (${arquetipoDebil}): Por qué quejarse y buscar lástima destruye al hombre y lo encadena a la mediocridad.
+3. El cambio de paradigma: Nadie vendrá a salvarte. El dolor es inevitable, pero usarlo como combustible es una decisión de acero.
+4. Las 4 Reglas de Acero (listadas con emojis ⚔️ o 🔥): Lecciones prácticas, sin rodeos, para aplicar hoy mismo.
+5. Cierre contundente y Llamado a la Acción (CTA): Pedir que guarden el post para cuando flaqueen, compartan con quien necesite despertar y dejen un ⚔️ en los comentarios.
+6. Hashtags oficiales:
+#MentalidadDeAcero #Disciplina #CrecimientoPersonal #SinExcusas #Enfoque #HombresDeAcero #Superacion`;
+
+  const usuario = `Tema del post: Contraste entre la Mentalidad Errónea (${arquetipoDebil}) y la Mentalidad de Acero.
+${fraseClave ? `Frase central del post: "${fraseClave}"` : ''}
+
+Redacta el texto completo, con ritmo rápido, párrafos cortos y máxima contundencia:`;
+
+  const texto = await llamarGemini(sistema, usuario);
+  return texto;
+}
+
+
+/**
  * Analiza un comentario de un usuario en Facebook y redacta una respuesta humana y empática.
  */
 export async function analizarYResponderComentarioIA(nombreUsuario, comentarioTexto, contextoPost = "") {
