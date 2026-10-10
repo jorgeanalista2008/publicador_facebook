@@ -2,12 +2,12 @@
   "pagina": {
     "id": "1367888553074849",
     "nombre": "Huellas con Propósito",
-    "seguidores": 18,
-    "foto_perfil": "https://scontent-iad3-1.xx.fbcdn.net/v/t39.30808-1/825286629_28604489712564817_7866327839881392565_n.jpg?stp=cp0_dst-jpg_s50x50_tt6&_nc_cat=110&ccb=1-7&_nc_sid=f907e8&_nc_ohc=qIrYIR_8fyAQ7kNvwF1KAbH&_nc_oc=AdpvvmIukjaaEKjXFmFYJclddzIRBGZxbbhXg3Tnf986E_GpXjNcSNJLZWI2kylHc9g&_nc_zt=24&_nc_ht=scontent-iad3-1.xx&edm=AJdBtusEAAAA&_nc_gid=Huf-3Zg3Xk7H76rrvh_IXw&_nc_tpa=Q5bMBQJ2xlQG3N0LP9wbXoMTOvropaUk0KOGThCN4bSJQWIqKlg1X_N-KuF8cRrX1AYY6z59S7fNw9CoMA&oh=00_AQNZ464MJOVkNQpRGsKdgfR97eO8NoPGuX0cpY8iOso0aA&oe=6ACF5AEB",
-    "ultima_actualizacion": "2026-10-09T23:46:42.866Z"
+    "seguidores": 22,
+    "foto_perfil": "https://scontent-iad3-1.xx.fbcdn.net/v/t39.30808-1/825286629_28604489712564817_7866327839881392565_n.jpg?stp=cp0_dst-jpg_s50x50_tt6&_nc_cat=110&ccb=1-7&_nc_sid=f907e8&_nc_ohc=qIrYIR_8fyAQ7kNvwGJ9fUb&_nc_oc=Adp1SswGxzNFedUkTbsuEK--fFw87u7pJih5rVQaBpwIm_2bsoP6hAj2ipLN_DOJfDg&_nc_zt=24&_nc_ht=scontent-iad3-1.xx&edm=AJdBtusEAAAA&_nc_gid=hO6UnRyfkJpSrc0woWppfw&_nc_tpa=Q5bMBQJPF6GyXACgRZGFzP_G5WHQPiKJUH6auCqIcv2OzmizstN3ItJaOp93OY2aDcmXf_xSAeIZR_qNsg&oh=00_AQMWByxUhgqidWeIigrOAGAVSsqACQHSvwYeRrMeXaul3g&oe=6ACF932B",
+    "ultima_actualizacion": "2026-10-10T03:58:09.645Z"
   },
   "resumen_kpis": {
-    "total_seguidores": 18,
+    "total_seguidores": 22,
     "crecimiento_semanal": "+14.2%",
     "alcance_estimado": 24890,
     "interacciones_totales": 3420,
@@ -67,6 +67,38 @@
   ],
   "ultimos_posts_publicados": [
     {
+      "id": "1367888553074849_122098169037507613",
+      "mensaje": "La cámara del estacionamiento del refugio grabó a una perra enferma brincán...",
+      "fecha": "2026-10-10T02:36:17+0000",
+      "reacciones": 0,
+      "comentarios": 0,
+      "compartidos": 0
+    },
+    {
+      "id": "1367888553074849_122098147341507613",
+      "mensaje": "Saber leer y acumular información no significa necesariamente haber aprendi...",
+      "fecha": "2026-10-10T01:54:40+0000",
+      "reacciones": 0,
+      "comentarios": 0,
+      "compartidos": 0
+    },
+    {
+      "id": "1367888553074849_122098105911507613",
+      "mensaje": "Cada vez que la vida se pone difícil, hay dos caminos: buscar a quién culpa...",
+      "fecha": "2026-10-10T00:25:29+0000",
+      "reacciones": 0,
+      "comentarios": 0,
+      "compartidos": 0
+    },
+    {
+      "id": "1367888553074849_122098099257507613",
+      "mensaje": "🧠 El mundo puede ser un caos, pero tu mente no tiene por qué serlo.\n\n¿Cuán...",
+      "fecha": "2026-10-10T00:04:38+0000",
+      "reacciones": 0,
+      "comentarios": 0,
+      "compartidos": 0
+    },
+    {
       "id": "1367888553074849_122096590905507613",
       "mensaje": "«En este pueblo nadie sabía de quién era, pero todos los días a las 7:45 am...",
       "fecha": "2026-10-09T23:30:00+0000",
@@ -88,13 +120,13 @@
       "fecha": "2026-10-09T15:43:36+0000",
       "reacciones": 0,
       "comentarios": 0,
-      "compartidos": 0
+      "compartidos": 1
     },
     {
       "id": "1367888553074849_122097814029507613",
       "mensaje": "Publicación...",
       "fecha": "2026-10-09T15:41:17+0000",
-      "reacciones": 1,
+      "reacciones": 3,
       "comentarios": 0,
       "compartidos": 0
     },
@@ -110,9 +142,9 @@
       "id": "1367888553074849_122097772659507613",
       "mensaje": "La cámara de mi casa captó el momento en que una señora amarró a su perrita...",
       "fecha": "2026-10-09T14:43:35+0000",
-      "reacciones": 13,
+      "reacciones": 17,
       "comentarios": 0,
-      "compartidos": 0
+      "compartidos": 2
     },
     {
       "id": "1367888553074849_122096590857507613",
@@ -142,14 +174,6 @@
       "id": "1367888553074849_122096590665507613",
       "mensaje": "«Lo dejaron atado a un poste bajo la lluvia, con una pequeña nota que nos p...",
       "fecha": "2026-10-08T13:00:31+0000",
-      "reacciones": 0,
-      "comentarios": 0,
-      "compartidos": 0
-    },
-    {
-      "id": "1367888553074849_122096549541507613",
-      "mensaje": "Publicación...",
-      "fecha": "2026-10-08T00:15:03+0000",
       "reacciones": 0,
       "comentarios": 0,
       "compartidos": 0
