@@ -374,7 +374,10 @@
     "titulo": "Mentalidad Errónea: EL ESCLAVO DEL PLACER BARATO vs Mentalidad de Acero",
     "texto": "\"EL PLACER INMEDIATO TE DESTRUYE; LA RECOMPENSA TARDÍA TE TRANSFORMA.\"\n\nEl éxito es para los que asumen el 100% de responsabilidad y no se rinden jamás.\n\n#MentalidadDeAcero #Disciplina",
     "imagen": "mentalidad_de_acero/imagenes/post_30_el_esclavo_del_placer_barato.jpg",
-    "estado": "pendiente"
+    "estado": "programado",
+    "post_id": "122096724003512707",
+    "meta_post_id": "122096724003512707",
+    "fecha_programada_unix": 1794164400
   },
   {
     "id": 31,
