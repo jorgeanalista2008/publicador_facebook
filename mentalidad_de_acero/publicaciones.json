@@ -387,7 +387,10 @@
     "titulo": "Mentalidad Errónea: EL FINGIDOR DE OCUPACIÓN vs Mentalidad de Acero",
     "texto": "\"ESTAR OCUPADO NO ES ESTAR AVANZANDO; EL MOVIMIENTO SIN IMPACTO ES SOLO ILUSIÓN.\"\n\nEl éxito es para los que asumen el 100% de responsabilidad y no se rinden jamás.\n\n#MentalidadDeAcero #Disciplina",
     "imagen": "mentalidad_de_acero/imagenes/post_31_el_fingidor_de_ocupacion.jpg",
-    "estado": "pendiente"
+    "estado": "programado",
+    "post_id": "122097449037512707",
+    "meta_post_id": "122097449037512707",
+    "fecha_programada_unix": 1794250800
   },
   {
     "id": 32,
