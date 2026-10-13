@@ -4,20 +4,24 @@
     "nombre": "Huellas con Propósito",
     "categoria": "Animals & Pets",
     "seguidores": 27,
+    "seguidos": 3,
     "personas_hablando": 180,
-    "foto_perfil": "https://scontent.fccs3-1.fna.fbcdn.net/v/t39.30808-1/825286629_28604489712564817_7866327839881392565_n.jpg?stp=cp0_dst-jpg_s50x50_tt6&_nc_cat=110&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=f907e8&_nc_ohc=c9Bcs-quLs0Q7kNvwHOfaAm&_nc_oc=AdoU-BJMxxl5Hi6zqzXnbkZawc55el-Wo6xau8t_2J0W4eGyI6tp4Oh7ADqTSkb7cmo&_nc_zt=24&_nc_ht=scontent.fccs3-1.fna&edm=AJdBtusEAAAA&_nc_gid=PFMPj2E1qXxoCSGgZJ8e8A&_nc_tpa=Q5bMBQK3FtvjxqC3Gwk8Uf5bZLXgtuGu84B8zGlNUTjclLrDGcd5pnPkcB-CQGZJqJJ2S8Rhuvk6PqT-6Q&oh=00_AQM62CHP4-v8QQsWxXwsFlpqOD4yuON82IwEpar1Ll4UXw&oe=6AD34F6B",
-    "ultima_actualizacion": "2026-10-13T00:56:30.466Z"
+    "foto_perfil": "https://scontent.fccs3-2.fna.fbcdn.net/v/t39.30808-1/825286629_28604489712564817_7866327839881392565_n.jpg?stp=dst-jpg_s200x200_tt6&_nc_cat=110&ccb=1-7&_nc_sid=f907e8&_nc_ohc=c9Bcs-quLs0Q7kNvwHOfaAm&_nc_oc=AdoU-BJMxxl5Hi6zqzXnbkZawc55el-Wo6xau8t_2J0W4eGyI6tp4Oh7ADqTSkb7cmo&_nc_zt=24&_nc_ht=scontent.fccs3-2.fna&edm=AJdBtusEAAAA&_nc_gid=y0kKmptw5sVdmgbJ4uBrSA&_nc_tpa=Q5bMBQKKOOKRD71yu0bsrTkP4KE69J-2_smi-d-x2mLzgsj4AirLBicv_IlSRzI5hDy4DKqtahBJ-sLt1g&oh=00_AQPuakdZjgjzrPhwPHNiEY3XkMJnm2S8IYEpHhG6ErCQXA&oe=6AD387AB",
+    "ultima_actualizacion": "2026-10-13T02:56:29.423Z"
   },
   "resumen_kpis": {
     "total_seguidores": 27,
-    "crecimiento_semanal": "+71.4%",
-    "seguidores_nuevos_semana": 10,
+    "seguidores_detalle": "27 seguidores • 3 seguidos",
+    "crecimiento_semanal": "+35%",
+    "seguidores_nuevos_semana": 7,
     "personas_hablando": 180,
-    "alcance_estimado": 28450,
-    "interacciones_totales": 3420,
-    "compartidos_totales": 840,
+    "alcance_estimado": 486,
+    "interacciones_totales": 24,
+    "reacciones_totales": 5,
+    "comentarios_totales": 0,
+    "compartidos_totales": 19,
     "programados_en_servidores_meta": 74,
-    "total_publicaciones_sistema": 211
+    "total_publicaciones_sistema": 120
   },
   "rendimiento_por_horario": [
     {
@@ -47,23 +51,41 @@
   ],
   "evolucion_seguidores_diaria": [
     {
-      "fecha": "04 Oct",
-      "seguidores": 10
-    },
-    {
       "fecha": "06 Oct",
-      "seguidores": 14
+      "seguidores": 15
     },
     {
       "fecha": "08 Oct",
-      "seguidores": 18
+      "seguidores": 20
     },
     {
       "fecha": "10 Oct",
+      "seguidores": 24
+    },
+    {
+      "fecha": "12 Oct",
       "seguidores": 27
     }
   ],
   "ultimos_posts_publicados": [
+    {
+      "id": "1367888553074849_122100675033507613",
+      "mensaje": "¡Despierta! Mañana es el día favorito del que nunca logra nada. El procrastinador es un cobarde que vive negociando con su propia mediocrida",
+      "fecha": "2026-10-13T02:45:27+0000",
+      "reacciones": 0,
+      "comentarios": 0,
+      "compartidos": 0,
+      "estado": "publicado"
+    },
+    {
+      "id": "1367888553074849_122100674067507613",
+      "mensaje": "La pobreza puede ser una circunstancia, pero la mentalidad de víctima es una prisión. #MentalidadDeAcero #Reels",
+      "fecha": "2026-10-13T02:43:48+0000",
+      "reacciones": 0,
+      "comentarios": 0,
+      "compartidos": 0,
+      "estado": "publicado"
+    },
     {
       "id": "1367888553074849_122096591427507613",
       "mensaje": "«¿Alguna vez te has quedado mirando a los ojos a tu perro y has sentido una conexión mágica? No te lo estás imaginando... 🧬👀❤️\n\nCientífico",
@@ -224,6 +246,33 @@
       "reacciones": 0,
       "comentarios": 0,
       "compartidos": 1,
+      "estado": "publicado"
+    },
+    {
+      "id": "1367888553074849_122098105911507613",
+      "mensaje": "Cada vez que la vida se pone difícil, hay dos caminos: buscar a quién culpar o recordar para qué te preparaste.\n\nEl filósofo estoico Epictet",
+      "fecha": "2026-10-10T00:25:29+0000",
+      "reacciones": 0,
+      "comentarios": 0,
+      "compartidos": 0,
+      "estado": "publicado"
+    },
+    {
+      "id": "1367888553074849_122098099257507613",
+      "mensaje": "🧠 El mundo puede ser un caos, pero tu mente no tiene por qué serlo.\n\n¿Cuántas veces te has sentido superado por cosas que no puedes control",
+      "fecha": "2026-10-10T00:04:38+0000",
+      "reacciones": 0,
+      "comentarios": 0,
+      "compartidos": 1,
+      "estado": "publicado"
+    },
+    {
+      "id": "1367888553074849_122096590905507613",
+      "mensaje": "«En este pueblo nadie sabía de quién era, pero todos los días a las 7:45 am estaba en la esquina de la escuela... 🚸🐶\n\nLos vecinos lo llama",
+      "fecha": "2026-10-09T23:30:00+0000",
+      "reacciones": 0,
+      "comentarios": 0,
+      "compartidos": 0,
       "estado": "publicado"
     }
   ],
@@ -678,8 +727,8 @@
     "username": "huellasconproposito26",
     "name": "Huellas con propósito",
     "followers": 1,
-    "media_count": 2,
-    "picture": "https://scontent.fccs3-1.fna.fbcdn.net/v/t51.82787-15/846964896_18127515184894503_9206256640984781246_n.jpg?_nc_cat=104&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=7d201b&_nc_ohc=KOUC1jaBY3YQ7kNvwHMjw_V&_nc_oc=AdrCFv9QVTniRs7YCr1DucoTCVCpIDN1nf9YsK-JyldmIlqNiWv42wOCKc8vjpGdacE&_nc_zt=23&_nc_ht=scontent.fccs3-1.fna&edm=AJ-jyNUEAAAA&_nc_gid=hllSG7UaxKW5zc535L9ewQ&oh=00_AQPyhS95xcl5EnABESqVCtZPgSvJszLhc3BfZ8qShmXbgw&oe=6AD35A6E"
+    "media_count": 3,
+    "picture": "https://scontent.fccs3-1.fna.fbcdn.net/v/t51.82787-15/846964896_18127515184894503_9206256640984781246_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=7d201b&_nc_ohc=KOUC1jaBY3YQ7kNvwHMjw_V&_nc_oc=AdrCFv9QVTniRs7YCr1DucoTCVCpIDN1nf9YsK-JyldmIlqNiWv42wOCKc8vjpGdacE&_nc_zt=23&_nc_ht=scontent.fccs3-1.fna&edm=AJ-jyNUEAAAA&_nc_gid=_MompXC9hxdKswPD0-JPyA&oh=00_AQO2OzF727hfIypqnwe4Y9oKkg1h_-DrhuQNyTfQJXrU1A&oe=6AD35A6E"
   },
   "paginas": {
     "1367888553074849": {
@@ -688,20 +737,24 @@
         "nombre": "Huellas con Propósito",
         "categoria": "Animals & Pets",
         "seguidores": 27,
+        "seguidos": 3,
         "personas_hablando": 180,
-        "foto_perfil": "https://scontent.fccs3-1.fna.fbcdn.net/v/t39.30808-1/825286629_28604489712564817_7866327839881392565_n.jpg?stp=cp0_dst-jpg_s50x50_tt6&_nc_cat=110&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=f907e8&_nc_ohc=c9Bcs-quLs0Q7kNvwHOfaAm&_nc_oc=AdoU-BJMxxl5Hi6zqzXnbkZawc55el-Wo6xau8t_2J0W4eGyI6tp4Oh7ADqTSkb7cmo&_nc_zt=24&_nc_ht=scontent.fccs3-1.fna&edm=AJdBtusEAAAA&_nc_gid=PFMPj2E1qXxoCSGgZJ8e8A&_nc_tpa=Q5bMBQK3FtvjxqC3Gwk8Uf5bZLXgtuGu84B8zGlNUTjclLrDGcd5pnPkcB-CQGZJqJJ2S8Rhuvk6PqT-6Q&oh=00_AQM62CHP4-v8QQsWxXwsFlpqOD4yuON82IwEpar1Ll4UXw&oe=6AD34F6B",
-        "ultima_actualizacion": "2026-10-13T00:56:30.466Z"
+        "foto_perfil": "https://scontent.fccs3-2.fna.fbcdn.net/v/t39.30808-1/825286629_28604489712564817_7866327839881392565_n.jpg?stp=dst-jpg_s200x200_tt6&_nc_cat=110&ccb=1-7&_nc_sid=f907e8&_nc_ohc=c9Bcs-quLs0Q7kNvwHOfaAm&_nc_oc=AdoU-BJMxxl5Hi6zqzXnbkZawc55el-Wo6xau8t_2J0W4eGyI6tp4Oh7ADqTSkb7cmo&_nc_zt=24&_nc_ht=scontent.fccs3-2.fna&edm=AJdBtusEAAAA&_nc_gid=y0kKmptw5sVdmgbJ4uBrSA&_nc_tpa=Q5bMBQKKOOKRD71yu0bsrTkP4KE69J-2_smi-d-x2mLzgsj4AirLBicv_IlSRzI5hDy4DKqtahBJ-sLt1g&oh=00_AQPuakdZjgjzrPhwPHNiEY3XkMJnm2S8IYEpHhG6ErCQXA&oe=6AD387AB",
+        "ultima_actualizacion": "2026-10-13T02:56:29.423Z"
       },
       "resumen_kpis": {
         "total_seguidores": 27,
-        "crecimiento_semanal": "+71.4%",
-        "seguidores_nuevos_semana": 10,
+        "seguidores_detalle": "27 seguidores • 3 seguidos",
+        "crecimiento_semanal": "+35%",
+        "seguidores_nuevos_semana": 7,
         "personas_hablando": 180,
-        "alcance_estimado": 28450,
-        "interacciones_totales": 3420,
-        "compartidos_totales": 840,
+        "alcance_estimado": 486,
+        "interacciones_totales": 24,
+        "reacciones_totales": 5,
+        "comentarios_totales": 0,
+        "compartidos_totales": 19,
         "programados_en_servidores_meta": 74,
-        "total_publicaciones_sistema": 211
+        "total_publicaciones_sistema": 120
       },
       "rendimiento_por_horario": [
         {
@@ -731,23 +784,41 @@
       ],
       "evolucion_seguidores_diaria": [
         {
-          "fecha": "04 Oct",
-          "seguidores": 10
-        },
-        {
           "fecha": "06 Oct",
-          "seguidores": 14
+          "seguidores": 15
         },
         {
           "fecha": "08 Oct",
-          "seguidores": 18
+          "seguidores": 20
         },
         {
           "fecha": "10 Oct",
+          "seguidores": 24
+        },
+        {
+          "fecha": "12 Oct",
           "seguidores": 27
         }
       ],
       "ultimos_posts_publicados": [
+        {
+          "id": "1367888553074849_122100675033507613",
+          "mensaje": "¡Despierta! Mañana es el día favorito del que nunca logra nada. El procrastinador es un cobarde que vive negociando con su propia mediocrida",
+          "fecha": "2026-10-13T02:45:27+0000",
+          "reacciones": 0,
+          "comentarios": 0,
+          "compartidos": 0,
+          "estado": "publicado"
+        },
+        {
+          "id": "1367888553074849_122100674067507613",
+          "mensaje": "La pobreza puede ser una circunstancia, pero la mentalidad de víctima es una prisión. #MentalidadDeAcero #Reels",
+          "fecha": "2026-10-13T02:43:48+0000",
+          "reacciones": 0,
+          "comentarios": 0,
+          "compartidos": 0,
+          "estado": "publicado"
+        },
         {
           "id": "1367888553074849_122096591427507613",
           "mensaje": "«¿Alguna vez te has quedado mirando a los ojos a tu perro y has sentido una conexión mágica? No te lo estás imaginando... 🧬👀❤️\n\nCientífico",
@@ -908,6 +979,33 @@
           "reacciones": 0,
           "comentarios": 0,
           "compartidos": 1,
+          "estado": "publicado"
+        },
+        {
+          "id": "1367888553074849_122098105911507613",
+          "mensaje": "Cada vez que la vida se pone difícil, hay dos caminos: buscar a quién culpar o recordar para qué te preparaste.\n\nEl filósofo estoico Epictet",
+          "fecha": "2026-10-10T00:25:29+0000",
+          "reacciones": 0,
+          "comentarios": 0,
+          "compartidos": 0,
+          "estado": "publicado"
+        },
+        {
+          "id": "1367888553074849_122098099257507613",
+          "mensaje": "🧠 El mundo puede ser un caos, pero tu mente no tiene por qué serlo.\n\n¿Cuántas veces te has sentido superado por cosas que no puedes control",
+          "fecha": "2026-10-10T00:04:38+0000",
+          "reacciones": 0,
+          "comentarios": 0,
+          "compartidos": 1,
+          "estado": "publicado"
+        },
+        {
+          "id": "1367888553074849_122096590905507613",
+          "mensaje": "«En este pueblo nadie sabía de quién era, pero todos los días a las 7:45 am estaba en la esquina de la escuela... 🚸🐶\n\nLos vecinos lo llama",
+          "fecha": "2026-10-09T23:30:00+0000",
+          "reacciones": 0,
+          "comentarios": 0,
+          "compartidos": 0,
           "estado": "publicado"
         }
       ],
@@ -1362,73 +1460,82 @@
         "username": "huellasconproposito26",
         "name": "Huellas con propósito",
         "followers": 1,
-        "media_count": 2,
-        "picture": "https://scontent.fccs3-1.fna.fbcdn.net/v/t51.82787-15/846964896_18127515184894503_9206256640984781246_n.jpg?_nc_cat=104&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=7d201b&_nc_ohc=KOUC1jaBY3YQ7kNvwHMjw_V&_nc_oc=AdrCFv9QVTniRs7YCr1DucoTCVCpIDN1nf9YsK-JyldmIlqNiWv42wOCKc8vjpGdacE&_nc_zt=23&_nc_ht=scontent.fccs3-1.fna&edm=AJ-jyNUEAAAA&_nc_gid=hllSG7UaxKW5zc535L9ewQ&oh=00_AQPyhS95xcl5EnABESqVCtZPgSvJszLhc3BfZ8qShmXbgw&oe=6AD35A6E"
+        "media_count": 3,
+        "picture": "https://scontent.fccs3-1.fna.fbcdn.net/v/t51.82787-15/846964896_18127515184894503_9206256640984781246_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=7d201b&_nc_ohc=KOUC1jaBY3YQ7kNvwHMjw_V&_nc_oc=AdrCFv9QVTniRs7YCr1DucoTCVCpIDN1nf9YsK-JyldmIlqNiWv42wOCKc8vjpGdacE&_nc_zt=23&_nc_ht=scontent.fccs3-1.fna&edm=AJ-jyNUEAAAA&_nc_gid=_MompXC9hxdKswPD0-JPyA&oh=00_AQO2OzF727hfIypqnwe4Y9oKkg1h_-DrhuQNyTfQJXrU1A&oe=6AD35A6E"
       }
     },
     "1375923958937880": {
       "pagina": {
         "id": "1375923958937880",
         "nombre": "Metalidad de Acero",
-        "categoria": "Digital creator",
-        "seguidores": 0,
+        "categoria": "Creador(a) digital",
+        "seguidores": 7,
+        "seguidos": 0,
         "personas_hablando": 0,
         "foto_perfil": "",
-        "ultima_actualizacion": "2026-10-13T00:56:30.756Z"
+        "ultima_actualizacion": "2026-10-13T02:56:29.715Z"
       },
       "resumen_kpis": {
-        "total_seguidores": 0,
+        "total_seguidores": 7,
+        "seguidores_detalle": "7 seguidores • 0 seguidos",
         "crecimiento_semanal": "+100%",
-        "seguidores_nuevos_semana": 0,
+        "seguidores_nuevos_semana": 7,
         "personas_hablando": 0,
-        "alcance_estimado": 12500,
-        "interacciones_totales": 420,
-        "compartidos_totales": 95,
-        "programados_en_servidores_meta": 0,
-        "total_publicaciones_sistema": 0
+        "alcance_estimado": 150,
+        "interacciones_totales": 0,
+        "reacciones_totales": 0,
+        "comentarios_totales": 0,
+        "compartidos_totales": 0,
+        "programados_en_servidores_meta": 30,
+        "total_publicaciones_sistema": 52
       },
       "rendimiento_por_horario": [
         {
           "turno": "07:00 AM",
           "tematica": "Despertador Disciplina",
-          "alcance_promedio": 3200,
-          "interaccion_promedio": "89%"
+          "alcance_promedio": 1200,
+          "interaccion_promedio": "88%"
         },
         {
           "turno": "13:00 PM",
           "tematica": "Leyes del Guerrero",
-          "alcance_promedio": 2600,
-          "interaccion_promedio": "82%"
+          "alcance_promedio": 1600,
+          "interaccion_promedio": "85%"
         },
         {
           "turno": "19:00 PM",
           "tematica": "Batalla Mental (Prime Time)",
-          "alcance_promedio": 4100,
+          "alcance_promedio": 2100,
           "interaccion_promedio": "94%"
         },
         {
           "turno": "21:30 PM",
           "tematica": "Reflexión de Cierre",
-          "alcance_promedio": 2400,
-          "interaccion_promedio": "78%"
+          "alcance_promedio": 1400,
+          "interaccion_promedio": "80%"
         }
       ],
       "evolucion_seguidores_diaria": [
         {
           "fecha": "08 Oct",
-          "seguidores": 0
-        },
-        {
-          "fecha": "09 Oct",
           "seguidores": 1
         },
         {
+          "fecha": "09 Oct",
+          "seguidores": 3
+        },
+        {
           "fecha": "10 Oct",
-          "seguidores": 0
+          "seguidores": 5
+        },
+        {
+          "fecha": "12 Oct",
+          "seguidores": 7
         }
       ],
       "ultimos_posts_publicados": [],
-      "proximos_programados_meta": []
+      "proximos_programados_meta": [],
+      "instagram": null
     }
   }
 }

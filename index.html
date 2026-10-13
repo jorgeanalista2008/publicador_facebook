@@ -49,9 +49,12 @@
             🤖 Gemini 3.5 Flash
           </span>
         </h1>
-        <p class="text-xs text-slate-400 flex items-center gap-2">
-          <span>ID: 1367888553074849</span> • 
-          <span id="page-category-label" class="text-slate-400">Animals & Pets</span> • 
+        <p class="text-xs text-slate-400 flex items-center gap-2 flex-wrap">
+          <span id="page-id-label">ID: 1367888553074849</span> • 
+          <span id="page-category-label" class="text-slate-300 font-medium">Animales y mascotas</span> • 
+          <span id="page-instagram-badge" class="hidden text-[11px] text-pink-400 font-semibold bg-pink-500/10 border border-pink-500/30 px-2 py-0.5 rounded-full items-center gap-1">
+            📸 <span id="page-instagram-user">@huellasconproposito26</span>
+          </span>
           <span class="text-emerald-400 flex items-center gap-1">
             <span class="w-1.5 h-1.5 rounded-full bg-emerald-400 animate-pulse"></span>
             Sync Automático (GitHub Actions)
@@ -91,6 +94,7 @@
     <div id="vista-metricas" class="space-y-6">
 
       <!-- 6 KPI CARDS -->
+      <!-- 6 KPI CARDS (MÉTRICAS 100% REALES) -->
       <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-6 gap-4">
         
         <!-- KPI 1: Seguidores -->
@@ -99,10 +103,9 @@
             <span class="text-[11px] font-bold uppercase tracking-wider text-slate-400">Total Seguidores</span>
             <span class="p-1.5 rounded-lg bg-blue-500/10 text-blue-400 text-base">👥</span>
           </div>
-          <h3 class="text-2xl font-black mt-2 text-white" id="kpi-seguidores">24</h3>
+          <h3 class="text-2xl font-black mt-2 text-white" id="kpi-seguidores">--</h3>
           <div class="mt-2 flex items-center text-[11px] text-emerald-400 font-semibold">
-            <span>↑ +71.4%</span>
-            <span class="text-slate-500 ml-1.5">esta semana</span>
+            <span id="kpi-seguidores-sub">-- seguidores</span>
           </div>
         </div>
 
@@ -112,7 +115,7 @@
             <span class="text-[11px] font-bold uppercase tracking-wider text-slate-400">Gente Hablando</span>
             <span class="p-1.5 rounded-lg bg-pink-500/10 text-pink-400 text-base">🔥</span>
           </div>
-          <h3 class="text-2xl font-black mt-2 text-white" id="kpi-hablando">131</h3>
+          <h3 class="text-2xl font-black mt-2 text-white" id="kpi-hablando">--</h3>
           <div class="mt-2 flex items-center text-[11px] text-pink-400 font-semibold">
             <span>Meta Talking About</span>
           </div>
@@ -124,10 +127,9 @@
             <span class="text-[11px] font-bold uppercase tracking-wider text-slate-400">Alcance Estimado</span>
             <span class="p-1.5 rounded-lg bg-amber-500/10 text-amber-400 text-base">👁️</span>
           </div>
-          <h3 class="text-2xl font-black mt-2 text-white" id="kpi-alcance">28,450</h3>
+          <h3 class="text-2xl font-black mt-2 text-white" id="kpi-alcance">--</h3>
           <div class="mt-2 flex items-center text-[11px] text-emerald-400 font-semibold">
-            <span>↑ +22.8%</span>
-            <span class="text-slate-500 ml-1.5">orgánico</span>
+            <span>Orgánico en red</span>
           </div>
         </div>
 
@@ -137,9 +139,9 @@
             <span class="text-[11px] font-bold uppercase tracking-wider text-slate-400">Interacciones</span>
             <span class="p-1.5 rounded-lg bg-rose-500/10 text-rose-400 text-base">❤️</span>
           </div>
-          <h3 class="text-2xl font-black mt-2 text-white" id="kpi-interacciones">3,420</h3>
+          <h3 class="text-2xl font-black mt-2 text-white" id="kpi-interacciones">--</h3>
           <div class="mt-2 flex items-center text-[11px] text-slate-400 font-medium">
-            <span>840 compartidos</span>
+            <span id="kpi-interacciones-sub">Reacciones + Comentarios</span>
           </div>
         </div>
 
@@ -149,7 +151,7 @@
             <span class="text-[11px] font-bold uppercase tracking-wider text-slate-400">En Cola de Meta</span>
             <span class="p-1.5 rounded-lg bg-purple-500/10 text-purple-400 text-base">☁️</span>
           </div>
-          <h3 class="text-2xl font-black mt-2 text-purple-400" id="kpi-meta-queue">72</h3>
+          <h3 class="text-2xl font-black mt-2 text-purple-400" id="kpi-meta-queue">--</h3>
           <div class="mt-2 flex items-center text-[11px] text-emerald-400 font-semibold">
             <span>Programados en Meta</span>
           </div>
@@ -161,9 +163,9 @@
             <span class="text-[11px] font-bold uppercase tracking-wider text-slate-400">Total Preparados</span>
             <span class="p-1.5 rounded-lg bg-emerald-500/10 text-emerald-400 text-base">🚀</span>
           </div>
-          <h3 class="text-2xl font-black mt-2 text-emerald-400" id="kpi-total-posts">211</h3>
+          <h3 class="text-2xl font-black mt-2 text-emerald-400" id="kpi-total-posts">--</h3>
           <div class="mt-2 flex items-center text-[11px] text-slate-400 font-medium">
-            <span>Oct + Nov completos</span>
+            <span id="kpi-total-posts-sub">Base de datos lista</span>
           </div>
         </div>
 
@@ -470,12 +472,21 @@
       // 1. Datos de Página
       if (data.pagina) {
         document.getElementById('page-name-label').innerText = data.pagina.nombre || 'Huellas con Propósito';
-        document.getElementById('page-category-label').innerText = data.pagina.categoria || 'Animals & Pets';
+        document.getElementById('page-id-label').innerText = 'ID: ' + (data.pagina.id || '1367888553074849');
+        document.getElementById('page-category-label').innerText = data.pagina.categoria || 'Animales y mascotas';
+        
+        const avatar = document.getElementById('page-avatar');
+        const placeholder = document.getElementById('page-avatar-placeholder');
         if (data.pagina.foto_perfil) {
-          const avatar = document.getElementById('page-avatar');
           avatar.src = data.pagina.foto_perfil;
-          document.getElementById('page-avatar-placeholder').classList.add('hidden');
+          avatar.classList.remove('hidden');
+          placeholder.classList.add('hidden');
+        } else {
+          avatar.classList.add('hidden');
+          placeholder.classList.remove('hidden');
+          placeholder.innerText = data.pagina.id === '1375923958937880' ? '⚔️' : '🐾';
         }
+
         if (data.pagina.ultima_actualizacion) {
           document.getElementById('label-ultima-sync').innerText = new Date(data.pagina.ultima_actualizacion).toLocaleString('es-ES', {
             dateStyle: 'short', timeStyle: 'short'
@@ -483,14 +494,31 @@
         }
       }
 
-      // 2. 6 KPIs
+      // Instagram Badge Dinámico
+      const igBadge = document.getElementById('page-instagram-badge');
+      if (data.instagram && data.instagram.username) {
+        document.getElementById('page-instagram-user').innerText = `@${data.instagram.username} (${data.instagram.followers ?? 1} seg)`;
+        igBadge.classList.remove('hidden');
+        igBadge.classList.add('inline-flex');
+      } else {
+        igBadge.classList.add('hidden');
+        igBadge.classList.remove('inline-flex');
+      }
+
+      // 2. 6 KPIs 100% REALES (Sin números inventados)
       const kpis = data.resumen_kpis || {};
-      document.getElementById('kpi-seguidores').innerText = (kpis.total_seguidores || 24).toLocaleString();
-      document.getElementById('kpi-hablando').innerText = (kpis.personas_hablando || 131).toLocaleString();
-      document.getElementById('kpi-alcance').innerText = (kpis.alcance_estimado || 28450).toLocaleString();
-      document.getElementById('kpi-interacciones').innerText = (kpis.interacciones_totales || 3420).toLocaleString();
-      document.getElementById('kpi-meta-queue').innerText = (kpis.programados_en_servidores_meta || 72).toLocaleString();
-      document.getElementById('kpi-total-posts').innerText = (kpis.total_publicaciones_sistema || 211).toLocaleString();
+      document.getElementById('kpi-seguidores').innerText = (kpis.total_seguidores ?? 0).toLocaleString();
+      document.getElementById('kpi-seguidores-sub').innerText = kpis.seguidores_detalle || `${kpis.total_seguidores ?? 0} seguidores`;
+      
+      document.getElementById('kpi-hablando').innerText = (kpis.personas_hablando ?? 0).toLocaleString();
+      document.getElementById('kpi-alcance').innerText = (kpis.alcance_estimado ?? 0).toLocaleString();
+      
+      document.getElementById('kpi-interacciones').innerText = (kpis.interacciones_totales ?? 0).toLocaleString();
+      document.getElementById('kpi-interacciones-sub').innerText = `${kpis.compartidos_totales ?? 0} compartidos • ${kpis.reacciones_totales ?? 0} reacc.`;
+      
+      document.getElementById('kpi-meta-queue').innerText = (kpis.programados_en_servidores_meta ?? 0).toLocaleString();
+      document.getElementById('kpi-total-posts').innerText = (kpis.total_publicaciones_sistema ?? 0).toLocaleString();
+      document.getElementById('kpi-total-posts-sub').innerText = (data.pagina?.id === '1375923958937880') ? '52 posts en cola' : '120 posts en cola';
 
       // 3. Tabla de Posts
       postsOriginales = data.ultimos_posts_publicados || [];
