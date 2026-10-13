@@ -5,22 +5,22 @@
     "categoria": "Animals & Pets",
     "seguidores": 27,
     "seguidos": 3,
-    "personas_hablando": 216,
-    "foto_perfil": "https://scontent-lga3-1.xx.fbcdn.net/v/t39.30808-1/825286629_28604489712564817_7866327839881392565_n.jpg?stp=dst-jpg_s200x200_tt6&_nc_cat=110&ccb=1-7&_nc_sid=f907e8&_nc_ohc=c9Bcs-quLs0Q7kNvwHxbk2c&_nc_oc=AdqJOSJ_kDtHB3nIR_9ujqeJYdjcR_aGfJT2U6JVwUlGih7ppehSKQVpwq5DwpsJM-M&_nc_zt=24&_nc_ht=scontent-lga3-1.xx&edm=AJdBtusEAAAA&_nc_gid=rGVoxh6EYHFIOVnlMPDpwg&_nc_tpa=Q5bMBQJyR99wN0oreaZ1ojk4pE7Zg3Bopl-PhiX5XmNLDdnnhWdWUBA_prFQ9fFGii-vn7aN-mxq4KsFqw&oh=00_AQNjWTWKGZRHLlF8aetvzfsApX6llFlX9PZWwztRkiuTBA&oe=6AD4306B",
-    "ultima_actualizacion": "2026-10-13T15:31:03.788Z"
+    "personas_hablando": 217,
+    "foto_perfil": "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.30808-1/825286629_28604489712564817_7866327839881392565_n.jpg?stp=dst-jpg_s200x200_tt6&_nc_cat=110&ccb=1-7&_nc_sid=f907e8&_nc_ohc=c9Bcs-quLs0Q7kNvwHQ1-GX&_nc_oc=AdryuIoe5EeIZCYYKUFqXwmNuxQMV-gmfdkD1CHVbWIYISMjQWrA0rcdvHo-URoh73I&_nc_zt=24&_nc_ht=scontent-sjc3-1.xx&edm=AJdBtusEAAAA&_nc_gid=LT63j_8Xj2PFn5oQHl1mug&_nc_tpa=Q5bMBQJoJF-MtWvhtqe50OJ4cGdVfiVbMlgAj7HmUtk287y6qHr2BI755vEkXwsxKBKUR2mrwPcAcWb-EA&oh=00_AQOZ8_UQfGNIzIccg7DYYb_EtxV6tqCO3LcXKG32cel2FQ&oe=6AD468AB",
+    "ultima_actualizacion": "2026-10-13T20:57:19.810Z"
   },
   "resumen_kpis": {
     "total_seguidores": 27,
     "seguidores_detalle": "27 seguidores • 3 seguidos",
     "crecimiento_semanal": "+35%",
     "seguidores_nuevos_semana": 7,
-    "personas_hablando": 216,
+    "personas_hablando": 217,
     "alcance_estimado": 486,
     "interacciones_totales": 19,
     "reacciones_totales": 5,
     "comentarios_totales": 0,
     "compartidos_totales": 14,
-    "programados_en_servidores_meta": 75,
+    "programados_en_servidores_meta": 77,
     "total_publicaciones_sistema": 120
   },
   "rendimiento_por_horario": [
@@ -323,6 +323,20 @@
     }
   ],
   "proximos_programados_meta": [
+    {
+      "id": "1367888553074849_122101397901507613",
+      "url": "https://www.facebook.com/1367888553074849_122101397901507613",
+      "mensaje": "Don Marcos llamó al nuevo dueño del taller mecánico que acababa de quebrar. Una voz apresurada le contestó que se estaban llevando la maquin",
+      "fecha_programada": "2026-11-10T20:30:00.000Z",
+      "estado": "programado_en_meta"
+    },
+    {
+      "id": "1367888553074849_122101397823507613",
+      "url": "https://www.facebook.com/1367888553074849_122101397823507613",
+      "mensaje": "«No tenemos poco tiempo, sino que perdemos mucho». — Séneca (Sobre la brevedad de la vida) ⏳🏛️\n\nNos quejamos constantemente de que la vida ",
+      "fecha_programada": "2026-11-10T17:30:00.000Z",
+      "estado": "programado_en_meta"
+    },
     {
       "id": "1367888553074849_122101182177507613",
       "url": "https://www.facebook.com/1367888553074849_122101182177507613",
@@ -855,7 +869,7 @@
     "name": "Huellas con propósito",
     "followers": 1,
     "media_count": 3,
-    "picture": "https://scontent-lga3-3.xx.fbcdn.net/v/t51.82787-15/846964896_18127515184894503_9206256640984781246_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=7d201b&_nc_ohc=KOUC1jaBY3YQ7kNvwF9S5Xj&_nc_oc=AdqD2QnCsOr_A-lEKYqZKMDNpyI3etcxUDy0mn2kubsSrhyZqIR9hL964yLLXeFupzE&_nc_zt=23&_nc_ht=scontent-lga3-3.xx&edm=AJ-jyNUEAAAA&_nc_gid=NRY_wLFXev72w0i3jRigNw&oh=00_AQPpGSZy06mptREZygt-mN0j8LDF7id-lWX0BjLCcYeJHw&oe=6AD43B6E"
+    "picture": "https://scontent-sjc6-1.xx.fbcdn.net/v/t51.82787-15/846964896_18127515184894503_9206256640984781246_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=7d201b&_nc_ohc=KOUC1jaBY3YQ7kNvwHv_7sL&_nc_oc=AdqqUk69qfCuwtkYrRCIjeyZMdQ5I4OTUItXv_HoGGJjy8ObsN-jElnViyI3SDvuThA&_nc_zt=23&_nc_ht=scontent-sjc6-1.xx&edm=AJ-jyNUEAAAA&_nc_gid=jWhBwwWUFtTfKMAYzWSlqw&oh=00_AQNYSQ2iiCRaFeE95pNbzYLgUK1d9bp8SEG0BguC7A4lRQ&oe=6AD473AE"
   },
   "paginas": {
     "1367888553074849": {
@@ -865,22 +879,22 @@
         "categoria": "Animals & Pets",
         "seguidores": 27,
         "seguidos": 3,
-        "personas_hablando": 216,
-        "foto_perfil": "https://scontent-lga3-1.xx.fbcdn.net/v/t39.30808-1/825286629_28604489712564817_7866327839881392565_n.jpg?stp=dst-jpg_s200x200_tt6&_nc_cat=110&ccb=1-7&_nc_sid=f907e8&_nc_ohc=c9Bcs-quLs0Q7kNvwHxbk2c&_nc_oc=AdqJOSJ_kDtHB3nIR_9ujqeJYdjcR_aGfJT2U6JVwUlGih7ppehSKQVpwq5DwpsJM-M&_nc_zt=24&_nc_ht=scontent-lga3-1.xx&edm=AJdBtusEAAAA&_nc_gid=rGVoxh6EYHFIOVnlMPDpwg&_nc_tpa=Q5bMBQJyR99wN0oreaZ1ojk4pE7Zg3Bopl-PhiX5XmNLDdnnhWdWUBA_prFQ9fFGii-vn7aN-mxq4KsFqw&oh=00_AQNjWTWKGZRHLlF8aetvzfsApX6llFlX9PZWwztRkiuTBA&oe=6AD4306B",
-        "ultima_actualizacion": "2026-10-13T15:31:03.788Z"
+        "personas_hablando": 217,
+        "foto_perfil": "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.30808-1/825286629_28604489712564817_7866327839881392565_n.jpg?stp=dst-jpg_s200x200_tt6&_nc_cat=110&ccb=1-7&_nc_sid=f907e8&_nc_ohc=c9Bcs-quLs0Q7kNvwHQ1-GX&_nc_oc=AdryuIoe5EeIZCYYKUFqXwmNuxQMV-gmfdkD1CHVbWIYISMjQWrA0rcdvHo-URoh73I&_nc_zt=24&_nc_ht=scontent-sjc3-1.xx&edm=AJdBtusEAAAA&_nc_gid=LT63j_8Xj2PFn5oQHl1mug&_nc_tpa=Q5bMBQJoJF-MtWvhtqe50OJ4cGdVfiVbMlgAj7HmUtk287y6qHr2BI755vEkXwsxKBKUR2mrwPcAcWb-EA&oh=00_AQOZ8_UQfGNIzIccg7DYYb_EtxV6tqCO3LcXKG32cel2FQ&oe=6AD468AB",
+        "ultima_actualizacion": "2026-10-13T20:57:19.810Z"
       },
       "resumen_kpis": {
         "total_seguidores": 27,
         "seguidores_detalle": "27 seguidores • 3 seguidos",
         "crecimiento_semanal": "+35%",
         "seguidores_nuevos_semana": 7,
-        "personas_hablando": 216,
+        "personas_hablando": 217,
         "alcance_estimado": 486,
         "interacciones_totales": 19,
         "reacciones_totales": 5,
         "comentarios_totales": 0,
         "compartidos_totales": 14,
-        "programados_en_servidores_meta": 75,
+        "programados_en_servidores_meta": 77,
         "total_publicaciones_sistema": 120
       },
       "rendimiento_por_horario": [
@@ -1183,6 +1197,20 @@
         }
       ],
       "proximos_programados_meta": [
+        {
+          "id": "1367888553074849_122101397901507613",
+          "url": "https://www.facebook.com/1367888553074849_122101397901507613",
+          "mensaje": "Don Marcos llamó al nuevo dueño del taller mecánico que acababa de quebrar. Una voz apresurada le contestó que se estaban llevando la maquin",
+          "fecha_programada": "2026-11-10T20:30:00.000Z",
+          "estado": "programado_en_meta"
+        },
+        {
+          "id": "1367888553074849_122101397823507613",
+          "url": "https://www.facebook.com/1367888553074849_122101397823507613",
+          "mensaje": "«No tenemos poco tiempo, sino que perdemos mucho». — Séneca (Sobre la brevedad de la vida) ⏳🏛️\n\nNos quejamos constantemente de que la vida ",
+          "fecha_programada": "2026-11-10T17:30:00.000Z",
+          "estado": "programado_en_meta"
+        },
         {
           "id": "1367888553074849_122101182177507613",
           "url": "https://www.facebook.com/1367888553074849_122101182177507613",
@@ -1715,7 +1743,7 @@
         "name": "Huellas con propósito",
         "followers": 1,
         "media_count": 3,
-        "picture": "https://scontent-lga3-3.xx.fbcdn.net/v/t51.82787-15/846964896_18127515184894503_9206256640984781246_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=7d201b&_nc_ohc=KOUC1jaBY3YQ7kNvwF9S5Xj&_nc_oc=AdqD2QnCsOr_A-lEKYqZKMDNpyI3etcxUDy0mn2kubsSrhyZqIR9hL964yLLXeFupzE&_nc_zt=23&_nc_ht=scontent-lga3-3.xx&edm=AJ-jyNUEAAAA&_nc_gid=NRY_wLFXev72w0i3jRigNw&oh=00_AQPpGSZy06mptREZygt-mN0j8LDF7id-lWX0BjLCcYeJHw&oe=6AD43B6E"
+        "picture": "https://scontent-sjc6-1.xx.fbcdn.net/v/t51.82787-15/846964896_18127515184894503_9206256640984781246_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=7d201b&_nc_ohc=KOUC1jaBY3YQ7kNvwHv_7sL&_nc_oc=AdqqUk69qfCuwtkYrRCIjeyZMdQ5I4OTUItXv_HoGGJjy8ObsN-jElnViyI3SDvuThA&_nc_zt=23&_nc_ht=scontent-sjc6-1.xx&edm=AJ-jyNUEAAAA&_nc_gid=jWhBwwWUFtTfKMAYzWSlqw&oh=00_AQNYSQ2iiCRaFeE95pNbzYLgUK1d9bp8SEG0BguC7A4lRQ&oe=6AD473AE"
       }
     },
     "1375923958937880": {
@@ -1727,7 +1755,7 @@
         "seguidos": 0,
         "personas_hablando": 0,
         "foto_perfil": "",
-        "ultima_actualizacion": "2026-10-13T15:31:04.138Z"
+        "ultima_actualizacion": "2026-10-13T20:57:19.920Z"
       },
       "resumen_kpis": {
         "total_seguidores": 7,
@@ -1740,7 +1768,7 @@
         "reacciones_totales": 3,
         "comentarios_totales": 0,
         "compartidos_totales": 1,
-        "programados_en_servidores_meta": 28,
+        "programados_en_servidores_meta": 27,
         "total_publicaciones_sistema": 52
       },
       "rendimiento_por_horario": [
@@ -1831,16 +1859,20 @@
           "compartidos": 0,
           "tipo": "post",
           "estado": "publicado"
-        }
-      ],
-      "proximos_programados_meta": [
+        },
         {
           "id": "122095708125512707",
           "url": "https://www.facebook.com/122095708125512707",
-          "mensaje": "⏰ [Programado 2026-10-13 19:00] Mentalidad Errónea: EL BUSCADOR DE ATAJOS vs Mentalidad de Acero",
-          "fecha_programada": "2026-10-13T19:00:00Z",
-          "estado": "programado_en_meta"
-        },
+          "mensaje": "Mentalidad Errónea: EL BUSCADOR DE ATAJOS vs Mentalidad de Acero: «Sigues buscando el truco barato porque te da pánico admitir que tu vida es un desastre por tu propia culpa.»  Detén el ...",
+          "fecha": "2026-10-13T19:00:00.000Z",
+          "reacciones": 0,
+          "comentarios": 0,
+          "compartidos": 0,
+          "tipo": "post",
+          "estado": "publicado"
+        }
+      ],
+      "proximos_programados_meta": [
         {
           "id": "122095708185512707",
           "url": "https://www.facebook.com/122095708185512707",
