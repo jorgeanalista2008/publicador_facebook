@@ -276,13 +276,18 @@
       <div class="bg-card border border-border rounded-xl p-6 shadow-lg space-y-4">
         <div class="flex flex-wrap justify-between items-center gap-3">
           <div>
-            <h3 class="font-bold text-base text-white">📋 Monitor de Publicaciones en Facebook</h3>
-            <p class="text-xs text-slate-400">Interacciones en vivo sincronizadas directamente desde Meta Graph API</p>
+            <h3 class="font-bold text-base text-white">📋 Monitor de Publicaciones y Reels en Facebook</h3>
+            <p class="text-xs text-slate-400">Publicaciones en vivo y próximas programadas en los servidores de Meta</p>
           </div>
           <!-- Buscador y filtro -->
           <div class="flex items-center gap-2 flex-wrap">
+            <div class="flex bg-slate-900 border border-border rounded-lg p-0.5 text-xs font-semibold">
+              <button id="filtro-tipo-todos" onclick="cambiarFiltroPosts('todos')" class="px-2.5 py-1 rounded bg-brand-500 text-slate-950 font-bold transition">Todos</button>
+              <button id="filtro-tipo-publicados" onclick="cambiarFiltroPosts('publicados')" class="px-2.5 py-1 rounded text-slate-400 hover:text-white transition">Publicados</button>
+              <button id="filtro-tipo-programados" onclick="cambiarFiltroPosts('programados')" class="px-2.5 py-1 rounded text-slate-400 hover:text-white transition">En Cola Meta</button>
+            </div>
             <div class="relative">
-              <input type="text" id="buscador-posts" onkeyup="filtrarTablaPosts()" placeholder="Buscar por palabra clave..." class="bg-slate-900 border border-border rounded-lg pl-8 pr-3 py-1.5 text-xs text-slate-200 placeholder-slate-500 focus:outline-none focus:border-brand-500 w-56">
+              <input type="text" id="buscador-posts" onkeyup="filtrarTablaPosts()" placeholder="Buscar por palabra clave..." class="bg-slate-900 border border-border rounded-lg pl-8 pr-3 py-1.5 text-xs text-slate-200 placeholder-slate-500 focus:outline-none focus:border-brand-500 w-52">
               <span class="absolute left-2.5 top-2 text-slate-500 text-xs">🔍</span>
             </div>
           </div>
@@ -427,10 +432,10 @@
     <div id="vista-calendario" class="hidden space-y-4">
       <div class="bg-card border border-border rounded-xl p-5 flex flex-wrap justify-between items-center gap-4">
         <div>
-          <h2 class="text-lg font-bold text-white">Calendario de Publicaciones de Noviembre (120 Posts)</h2>
-          <p class="text-xs text-slate-400">4 turnos diarios automáticos: 08:00 AM, 12:30 PM, 17:30 PM y 20:30 PM</p>
+          <h2 id="titulo-calendario-header" class="text-lg font-bold text-white">Calendario de Publicaciones (120 Posts)</h2>
+          <p id="subtitulo-calendario-header" class="text-xs text-slate-400">4 turnos diarios automáticos: 08:00 AM, 12:30 PM, 17:30 PM y 20:30 PM</p>
         </div>
-        <div class="flex gap-2">
+        <div id="contenedor-filtros-cal" class="flex gap-2">
           <button onclick="filtrarCal('todos')" class="cal-filter-btn px-3 py-1.5 text-xs bg-brand-500 text-slate-950 font-bold rounded-lg">Todos</button>
           <button onclick="filtrarCal('perrito')" class="cal-filter-btn px-3 py-1.5 text-xs bg-slate-900 border border-border text-slate-300 hover:text-white rounded-lg">🐶 Perritos</button>
           <button onclick="filtrarCal('estoico')" class="cal-filter-btn px-3 py-1.5 text-xs bg-slate-900 border border-border text-slate-300 hover:text-white rounded-lg">🏛️ Estoicismo</button>
@@ -521,47 +526,101 @@
       document.getElementById('kpi-total-posts-sub').innerText = (data.pagina?.id === '1375923958937880') ? '52 posts en cola' : '120 posts en cola';
 
       // 3. Tabla de Posts
-      postsOriginales = data.ultimos_posts_publicados || [];
-      renderTablaPosts(postsOriginales);
+      const publicados = data.ultimos_posts_publicados || [];
+      const programados = data.proximos_programados_meta || [];
+      postsOriginales = [...publicados, ...programados];
+      filtroActualPosts = 'todos';
+      actualizarBotonesFiltro();
+      filtrarTablaPosts();
 
       // 4. Render Charts
       initCharts(data);
     }
 
-    function renderTablaPosts(posts) {
-      const tbody = document.getElementById('tabla-posts-body');
-      if (!posts || posts.length === 0) {
-        tbody.innerHTML = '<tr><td colspan="5" class="py-4 text-center text-slate-500">No se encontraron publicaciones.</td></tr>';
-        return;
-      }
+    let filtroActualPosts = 'todos';
 
-      tbody.innerHTML = posts.map(p => `
-        <tr class="hover:bg-slate-900/50 transition">
-          <td class="py-3 px-4 font-medium text-slate-200">
-            <span class="line-clamp-2">${p.mensaje}</span>
-            <div class="flex items-center gap-3 mt-1.5">
-              <span class="text-[11px] text-slate-400 font-mono">📅 ${p.fecha ? new Date(p.fecha).toLocaleString('es-ES', { day: '2-digit', month: 'short', hour: '2-digit', minute: '2-digit' }) : 'Reciente'}</span>
-              <span class="text-[10px] uppercase font-bold tracking-wider px-2 py-0.5 rounded ${p.estado === 'publicado' ? 'bg-emerald-500/10 text-emerald-400 border border-emerald-500/20' : 'bg-purple-500/10 text-purple-400 border border-purple-500/20'}">
-                ${p.estado || 'Publicado'}
-              </span>
-            </div>
-          </td>
-          <td class="py-3 px-4 text-center font-bold text-pink-400 text-sm">${p.reacciones}</td>
-          <td class="py-3 px-4 text-center font-bold text-brand-400 text-sm">${p.comentarios}</td>
-          <td class="py-3 px-4 text-center font-bold text-amber-400 text-sm">${p.compartidos}</td>
-          <td class="py-3 px-4 text-right">
-            <a href="https://www.facebook.com/${p.id}" target="_blank" class="inline-flex items-center gap-1 px-3 py-1.5 bg-brand-500/10 hover:bg-brand-500/20 text-brand-400 border border-brand-500/30 rounded-lg text-xs font-semibold transition">
-              Ver en FB ↗
-            </a>
-          </td>
-        </tr>
-      `).join('');
+    function cambiarFiltroPosts(tipo) {
+      filtroActualPosts = tipo;
+      actualizarBotonesFiltro();
+      filtrarTablaPosts();
+    }
+
+    function actualizarBotonesFiltro() {
+      const btnTodos = document.getElementById('filtro-tipo-todos');
+      const btnPub = document.getElementById('filtro-tipo-publicados');
+      const btnProg = document.getElementById('filtro-tipo-programados');
+      if (!btnTodos || !btnPub || !btnProg) return;
+
+      const actClass = 'px-2.5 py-1 rounded bg-brand-500 text-slate-950 font-bold transition';
+      const inactClass = 'px-2.5 py-1 rounded text-slate-400 hover:text-white transition';
+
+      btnTodos.className = filtroActualPosts === 'todos' ? actClass : inactClass;
+      btnPub.className = filtroActualPosts === 'publicados' ? actClass : inactClass;
+      btnProg.className = filtroActualPosts === 'programados' ? actClass : inactClass;
     }
 
     function filtrarTablaPosts() {
-      const q = document.getElementById('buscador-posts').value.toLowerCase();
-      const filtrados = postsOriginales.filter(p => (p.mensaje || '').toLowerCase().includes(q));
+      const q = (document.getElementById('buscador-posts')?.value || '').toLowerCase();
+      let filtrados = postsOriginales;
+
+      if (filtroActualPosts === 'publicados') {
+        filtrados = filtrados.filter(p => p.estado === 'publicado');
+      } else if (filtroActualPosts === 'programados') {
+        filtrados = filtrados.filter(p => p.estado === 'programado_en_meta' || p.estado === 'programado');
+      }
+
+      if (q) {
+        filtrados = filtrados.filter(p => (p.mensaje || '').toLowerCase().includes(q));
+      }
+
       renderTablaPosts(filtrados);
+    }
+
+    function renderTablaPosts(posts) {
+      const tbody = document.getElementById('tabla-posts-body');
+      if (!posts || posts.length === 0) {
+        tbody.innerHTML = '<tr><td colspan="5" class="py-6 text-center text-slate-500">No se encontraron publicaciones en esta sección.</td></tr>';
+        return;
+      }
+
+      tbody.innerHTML = posts.map(p => {
+        const urlFb = p.url || (p.id ? `https://www.facebook.com/${p.id}` : `https://www.facebook.com/${paginaActualId}`);
+        const esReel = p.tipo === 'reel' || p.mensaje?.includes('REEL');
+        const esProgramado = p.estado === 'programado_en_meta' || p.estado === 'programado';
+
+        let badgeHtml = '';
+        if (esReel) {
+          badgeHtml = '<span class="text-[10px] uppercase font-bold tracking-wider px-2 py-0.5 rounded bg-pink-500/10 text-pink-400 border border-pink-500/20">🎬 REEL EN VIVO</span>';
+        } else if (esProgramado) {
+          badgeHtml = '<span class="text-[10px] uppercase font-bold tracking-wider px-2 py-0.5 rounded bg-blue-500/10 text-blue-400 border border-blue-500/20">⏰ EN COLA META</span>';
+        } else {
+          badgeHtml = '<span class="text-[10px] uppercase font-bold tracking-wider px-2 py-0.5 rounded bg-emerald-500/10 text-emerald-400 border border-emerald-500/20">✅ PUBLICADO</span>';
+        }
+
+        const fechaLabel = p.fecha_programada 
+          ? `⏰ Programado: ${new Date(p.fecha_programada).toLocaleString('es-ES', { day: '2-digit', month: 'short', hour: '2-digit', minute: '2-digit' })}`
+          : `📅 ${p.fecha ? new Date(p.fecha).toLocaleString('es-ES', { day: '2-digit', month: 'short', hour: '2-digit', minute: '2-digit' }) : 'Reciente'}`;
+
+        return `
+          <tr class="hover:bg-slate-900/50 transition">
+            <td class="py-3 px-4 font-medium text-slate-200">
+              <span class="line-clamp-2">${p.mensaje}</span>
+              <div class="flex items-center gap-3 mt-1.5 flex-wrap">
+                <span class="text-[11px] text-slate-400 font-mono">${fechaLabel}</span>
+                ${badgeHtml}
+              </div>
+            </td>
+            <td class="py-3 px-4 text-center font-bold text-pink-400 text-sm">${p.reacciones ?? '-'}</td>
+            <td class="py-3 px-4 text-center font-bold text-brand-400 text-sm">${p.comentarios ?? '-'}</td>
+            <td class="py-3 px-4 text-center font-bold text-amber-400 text-sm">${p.compartidos ?? '-'}</td>
+            <td class="py-3 px-4 text-right">
+              <a href="${urlFb}" target="_blank" class="inline-flex items-center gap-1 px-3 py-1.5 bg-brand-500/10 hover:bg-brand-500/20 text-brand-400 border border-brand-500/30 rounded-lg text-xs font-semibold transition whitespace-nowrap">
+                ${esReel ? 'Ver Reel ↗' : 'Ver en FB ↗'}
+              </a>
+            </td>
+          </tr>
+        `;
+      }).join('');
     }
 
     let chartHorarios = null;
@@ -672,42 +731,109 @@
       });
     }
 
+    window.calendarioPosts = [];
+
+    function copiarTextoPost(idx) {
+      if (window.calendarioPosts && window.calendarioPosts[idx]) {
+        const txt = window.calendarioPosts[idx].texto || '';
+        navigator.clipboard.writeText(txt).then(() => {
+          alert('¡Texto copiado al portapapeles!');
+        }).catch(() => {
+          prompt('Copia el texto manualmente:', txt);
+        });
+      }
+    }
+
     async function cargarCalendario() {
       try {
-        const url = paginaActualId === '1375923958937880' 
+        const esAcero = paginaActualId === '1375923958937880';
+        const url = esAcero 
           ? 'mentalidad_de_acero/publicaciones.json' 
           : 'noviembre/publicaciones.json';
+
+        // 1. Títulos dinámicos
+        const tituloCal = document.getElementById('titulo-calendario-header');
+        const subCal = document.getElementById('subtitulo-calendario-header');
+        if (tituloCal && subCal) {
+          if (esAcero) {
+            tituloCal.innerText = 'Calendario Editorial Mentalidad de Acero (52 Publicaciones)';
+            subCal.innerText = '30 posts programados en Meta + 22 en cola de expansión temática';
+          } else {
+            tituloCal.innerText = 'Calendario de Publicaciones (120 Posts Perritos y Estoicismo)';
+            subCal.innerText = '4 turnos diarios automáticos: 08:00 AM, 12:30 PM, 17:30 PM y 20:30 PM';
+          }
+        }
+
+        // 2. Filtros de Categoría dinámicos
+        const contenedorFiltros = document.getElementById('contenedor-filtros-cal');
+        if (contenedorFiltros) {
+          if (esAcero) {
+            contenedorFiltros.innerHTML = `
+              <button onclick="filtrarCal('todos')" class="cal-filter-btn px-3 py-1.5 text-xs bg-brand-500 text-slate-950 font-bold rounded-lg">Todos</button>
+              <button onclick="filtrarCal('publicado')" class="cal-filter-btn px-3 py-1.5 text-xs bg-slate-900 border border-border text-slate-300 hover:text-white rounded-lg">✅ Publicados</button>
+              <button onclick="filtrarCal('programado')" class="cal-filter-btn px-3 py-1.5 text-xs bg-slate-900 border border-border text-slate-300 hover:text-white rounded-lg">⏰ En Meta</button>
+            `;
+          } else {
+            contenedorFiltros.innerHTML = `
+              <button onclick="filtrarCal('todos')" class="cal-filter-btn px-3 py-1.5 text-xs bg-brand-500 text-slate-950 font-bold rounded-lg">Todos</button>
+              <button onclick="filtrarCal('perrito')" class="cal-filter-btn px-3 py-1.5 text-xs bg-slate-900 border border-border text-slate-300 hover:text-white rounded-lg">🐶 Perritos</button>
+              <button onclick="filtrarCal('estoico')" class="cal-filter-btn px-3 py-1.5 text-xs bg-slate-900 border border-border text-slate-300 hover:text-white rounded-lg">🏛️ Estoicismo</button>
+            `;
+          }
+        }
 
         const res = await fetch(url);
         if (!res.ok) return;
         const posts = await res.json();
+        window.calendarioPosts = posts;
         const grid = document.getElementById('grid-calendario');
 
-        if (paginaActualId === '1375923958937880') {
-          grid.innerHTML = posts.map(p => `
-            <div class="cal-card bg-card border border-border rounded-xl p-4 flex flex-col justify-between" data-tipo="mentalidad">
-              <div>
-                <div class="flex justify-between items-center text-xs mb-2">
-                  <span class="text-amber-400 font-bold">${p.fecha}</span>
-                  <span class="bg-amber-500/10 text-amber-400 border border-amber-500/20 px-2 py-0.5 rounded font-mono font-semibold">${p.hora}</span>
+        if (esAcero) {
+          grid.innerHTML = posts.map((p, idx) => {
+            const esPub = p.estado === 'publicado';
+            const esProg = p.estado === 'programado';
+            const estadoBadge = esPub 
+              ? '<span class="bg-emerald-500/10 text-emerald-400 border border-emerald-500/20 px-2 py-0.5 rounded text-[10px] font-bold uppercase">✅ Publicado</span>'
+              : (esProg 
+                  ? '<span class="bg-blue-500/10 text-blue-400 border border-blue-500/20 px-2 py-0.5 rounded text-[10px] font-bold uppercase">⏰ En Meta</span>'
+                  : '<span class="bg-amber-500/10 text-amber-400 border border-amber-500/20 px-2 py-0.5 rounded text-[10px] font-bold uppercase">⏳ Pendiente</span>');
+
+            const imgHtml = p.imagen ? `
+              <div class="mb-3 rounded-lg overflow-hidden border border-border/50 bg-slate-900 aspect-video relative group">
+                <img src="${p.imagen}" alt="${p.arquetipo || 'Mentalidad'}" class="w-full h-full object-cover group-hover:scale-105 transition duration-300" loading="lazy" onerror="this.parentElement.style.display='none'">
+              </div>` : '';
+
+            const linkFb = p.post_id ? `<a href="https://www.facebook.com/${p.post_id}" target="_blank" class="px-3 py-1.5 bg-brand-500/10 hover:bg-brand-500/20 text-brand-400 border border-brand-500/30 text-xs font-semibold rounded transition flex items-center gap-1 whitespace-nowrap">Ver en FB ↗</a>` : '';
+
+            return `
+              <div class="cal-card bg-card border border-border rounded-xl p-4 flex flex-col justify-between hover:border-brand-500/40 transition" data-tipo="${p.estado || 'pendiente'}">
+                <div>
+                  ${imgHtml}
+                  <div class="flex justify-between items-center text-xs mb-2">
+                    <span class="text-amber-400 font-bold">${p.fecha}</span>
+                    <span class="bg-amber-500/10 text-amber-400 border border-amber-500/20 px-2 py-0.5 rounded font-mono font-semibold">${p.hora || '19:00'}</span>
+                  </div>
+                  <div class="flex items-center justify-between gap-2 mb-2">
+                    <span class="text-[10px] font-bold uppercase tracking-wider px-2 py-0.5 rounded bg-purple-500/10 text-purple-400 border border-purple-500/20 truncate">
+                      ⚔️ ${p.arquetipo || 'Mentalidad de Acero'}
+                    </span>
+                    ${estadoBadge}
+                  </div>
+                  <h4 class="font-bold text-sm text-white mt-1 mb-2 line-clamp-2">${p.titulo}</h4>
+                  <p class="text-xs text-slate-400 line-clamp-3">${p.texto}</p>
                 </div>
-                <span class="text-[10px] font-bold uppercase tracking-wider px-2 py-0.5 rounded bg-purple-500/10 text-purple-400 border border-purple-500/20">
-                  ⚔️ ${p.arquetipo || 'Mentalidad de Acero'}
-                </span>
-                <h4 class="font-bold text-sm text-white mt-2 mb-2 line-clamp-2">${p.titulo}</h4>
-                <p class="text-xs text-slate-400 line-clamp-3">${p.texto}</p>
+                <div class="mt-4 flex gap-2">
+                  <button onclick="copiarTextoPost(${idx})" class="flex-1 py-1.5 bg-slate-900 hover:bg-slate-800 text-xs font-semibold rounded text-slate-300 border border-border transition">
+                    📋 Copiar Texto
+                  </button>
+                  ${linkFb}
+                </div>
               </div>
-              <div class="mt-4 flex gap-2">
-                <button onclick="navigator.clipboard.writeText(\`${p.texto.replace(/`/g, '')}\`); alert('Texto copiado al portapapeles');" class="flex-1 py-1.5 bg-slate-900 hover:bg-slate-800 text-xs font-semibold rounded text-slate-300 border border-border transition">
-                  📋 Copiar Texto
-                </button>
-                ${p.post_id ? `<a href="https://www.facebook.com/${p.post_id}" target="_blank" class="px-3 py-1.5 bg-brand-500/10 hover:bg-brand-500/20 text-brand-400 border border-brand-500/30 text-xs font-semibold rounded transition flex items-center gap-1">Ver en FB ↗</a>` : ''}
-              </div>
-            </div>
-          `).join('');
+            `;
+          }).join('');
         } else {
-          grid.innerHTML = posts.slice(0, 36).map(p => `
-            <div class="cal-card bg-card border border-border rounded-xl p-4 flex flex-col justify-between" data-tipo="${p.tipo}">
+          grid.innerHTML = posts.slice(0, 36).map((p, idx) => `
+            <div class="cal-card bg-card border border-border rounded-xl p-4 flex flex-col justify-between hover:border-brand-500/40 transition" data-tipo="${p.tipo}">
               <div>
                 <div class="flex justify-between items-center text-xs mb-2">
                   <span class="text-brand-400 font-bold">${p.fecha}</span>
@@ -719,13 +845,15 @@
                 <h4 class="font-bold text-sm text-white mt-2 mb-2 line-clamp-2">${p.titulo}</h4>
                 <p class="text-xs text-slate-400 line-clamp-3">${p.texto}</p>
               </div>
-              <button onclick="navigator.clipboard.writeText(\`${p.texto.replace(/`/g, '')}\`); alert('Texto copiado al portapapeles');" class="mt-4 w-full py-1.5 bg-slate-900 hover:bg-slate-800 text-xs font-semibold rounded text-slate-300 border border-border transition">
+              <button onclick="copiarTextoPost(${idx})" class="mt-4 w-full py-1.5 bg-slate-900 hover:bg-slate-800 text-xs font-semibold rounded text-slate-300 border border-border transition">
                 📋 Copiar Texto
               </button>
             </div>
           `).join('');
         }
-      } catch (e) {}
+      } catch (e) {
+        console.error('Error cargando calendario:', e);
+      }
     }
 
     function cambiarTab(tab) {
@@ -757,6 +885,12 @@
           c.classList.add('hidden');
         }
       });
+      document.querySelectorAll('.cal-filter-btn').forEach(btn => {
+        btn.className = 'cal-filter-btn px-3 py-1.5 text-xs bg-slate-900 border border-border text-slate-300 hover:text-white rounded-lg';
+      });
+      if (window.event && window.event.target) {
+        window.event.target.className = 'cal-filter-btn px-3 py-1.5 text-xs bg-brand-500 text-slate-950 font-bold rounded-lg';
+      }
     }
 
     cargarDatos();

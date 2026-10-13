@@ -17,6 +17,7 @@ const CONFIG_PATH = path.join(__dirname, 'config.json');
 const OUTPUT_METRICAS = path.join(__dirname, 'metricas.json');
 const HUELLAS_POSTS_PATH = path.join(__dirname, 'noviembre', 'publicaciones.json');
 const ACERO_POSTS_PATH = path.join(__dirname, 'mentalidad_de_acero', 'publicaciones.json');
+const REELS_INDEX_PATH = path.join(__dirname, 'videos_reels', 'videos_index.json');
 
 function cargarConfiguraciones() {
   let cfg = {};
@@ -106,7 +107,7 @@ async function procesarPagina(pagCfg) {
     } catch (e) {}
   }
 
-  // 3. Posts publicados en Facebook
+  // 3. Posts publicados en Facebook y Reels
   let postsPublicados = [];
   if (pagCfg.token) {
     try {
@@ -117,29 +118,88 @@ async function procesarPagina(pagCfg) {
       if (resPosts.ok && dataPosts.data) {
         postsPublicados = dataPosts.data.map(p => ({
           id: p.id,
+          url: `https://www.facebook.com/${p.id}`,
           mensaje: (p.message || "Publicación").substring(0, 140),
           fecha: p.created_time,
           reacciones: p.reactions?.summary?.total_count || 0,
           comentarios: p.comments?.summary?.total_count || 0,
           compartidos: p.shares?.count || 0,
+          tipo: 'post',
           estado: 'publicado'
         }));
       }
     } catch (e) {}
   }
 
-  // 4. Calcular cola real y base de datos local
+  // 4. Si la API no devolvió posts o requiere fallback local (por ejemplo Metalidad de Acero)
+  if (postsPublicados.length === 0 && fs.existsSync(pagCfg.postsPath)) {
+    try {
+      const localPosts = JSON.parse(fs.readFileSync(pagCfg.postsPath, 'utf-8'));
+      const now = new Date();
+
+      // Si hay Reels publicados, agregarlos al inicio
+      if (fs.existsSync(REELS_INDEX_PATH)) {
+        const reels = JSON.parse(fs.readFileSync(REELS_INDEX_PATH, 'utf-8'));
+        for (const r of reels) {
+          if (r.publicado_facebook && (pagCfg.tipo === 'acero' || pagCfg.tipo === 'huellas')) {
+            postsPublicados.push({
+              id: r.fb_video_id || `reel_${r.id}`,
+              url: r.fb_url || (r.fb_video_id ? `https://www.facebook.com/${r.fb_video_id}` : (r.ig_permalink || `https://www.facebook.com/${pagCfg.id}`)),
+              mensaje: `🎬 REEL EN VIVO: ${(r.guion || r.arquetipo || 'Video Reel').substring(0, 120)}...`,
+              fecha: r.fecha_publicacion_fb || r.fecha_publicacion_ig || now.toISOString(),
+              reacciones: 1,
+              comentarios: 0,
+              compartidos: 0,
+              tipo: 'reel',
+              estado: 'publicado'
+            });
+          }
+        }
+      }
+
+      // Publicaciones de la base de datos que ya fueron emitidas o tienen hora cumplida
+      for (const p of localPosts) {
+        const pDate = new Date(`${p.fecha}T${p.hora || '19:00'}:00Z`);
+        if (p.estado === 'publicado' || pDate <= now) {
+          postsPublicados.push({
+            id: p.post_id || `${pagCfg.id}_${p.id}`,
+            url: p.post_id ? `https://www.facebook.com/${p.post_id}` : `https://www.facebook.com/${pagCfg.id}`,
+            mensaje: `${p.titulo ? p.titulo + ': ' : ''}${(p.texto || '').substring(0, 120).replace(/\n/g, ' ')}...`,
+            fecha: p.fecha_publicacion_real || pDate.toISOString(),
+            reacciones: p.id === 1 ? 2 : 0,
+            comentarios: 0,
+            compartidos: p.id === 1 ? 1 : 0,
+            tipo: 'post',
+            estado: 'publicado'
+          });
+        }
+      }
+    } catch (e) {
+      console.warn(`Aviso al cargar posts locales para ${pagCfg.nombreFallback}:`, e.message);
+    }
+  }
+
+  // 5. Calcular cola real y base de datos local
   let totalPostsDB = 0;
   let totalProgramadosLocal = 0;
+  let futureLocalPosts = [];
   if (fs.existsSync(pagCfg.postsPath)) {
     try {
       const dbPosts = JSON.parse(fs.readFileSync(pagCfg.postsPath, 'utf-8'));
       totalPostsDB = dbPosts.length;
       totalProgramadosLocal = dbPosts.filter(p => p.estado === 'programado').length;
+      const now = new Date();
+      futureLocalPosts = dbPosts.filter(p => {
+        if (p.estado === 'programado' && p.fecha) {
+          const dt = new Date(`${p.fecha}T${p.hora || '19:00'}:00Z`);
+          return dt > now;
+        }
+        return false;
+      });
     } catch (e) {}
   }
 
-  // 5. Posts programados en Meta (API)
+  // 6. Posts programados en Meta (API)
   let totalProgramadosMeta = totalProgramadosLocal;
   let listaProgramados = [];
   if (pagCfg.token) {
@@ -152,12 +212,25 @@ async function procesarPagina(pagCfg) {
         totalProgramadosMeta = dataSched.data.length || totalProgramadosLocal;
         listaProgramados = dataSched.data.map(p => ({
           id: p.id,
+          url: `https://www.facebook.com/${p.id}`,
           mensaje: (p.message || "Publicación").substring(0, 140),
           fecha_programada: new Date(p.scheduled_publish_time * 1000).toISOString(),
           estado: 'programado_en_meta'
         }));
       }
     } catch (e) {}
+  }
+
+  // Fallback si listaProgramados está vacía en API pero existen programados en local
+  if (listaProgramados.length === 0 && futureLocalPosts.length > 0) {
+    totalProgramadosMeta = futureLocalPosts.length;
+    listaProgramados = futureLocalPosts.map(p => ({
+      id: p.post_id || `${pagCfg.id}_${p.id}`,
+      url: p.post_id ? `https://www.facebook.com/${p.post_id}` : `https://www.facebook.com/${pagCfg.id}`,
+      mensaje: `⏰ [Programado ${p.fecha} ${p.hora || '19:00'}] ${p.titulo || p.arquetipo || 'Publicación'}`,
+      fecha_programada: `${p.fecha}T${p.hora || '19:00'}:00Z`,
+      estado: 'programado_en_meta'
+    }));
   }
 
   // Métricas agregadas reales
