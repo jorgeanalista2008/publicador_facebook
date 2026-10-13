@@ -5,22 +5,22 @@
     "categoria": "Animals & Pets",
     "seguidores": 27,
     "seguidos": 3,
-    "personas_hablando": 214,
-    "foto_perfil": "https://scontent-atl3-1.xx.fbcdn.net/v/t39.30808-1/825286629_28604489712564817_7866327839881392565_n.jpg?stp=dst-jpg_s200x200_tt6&_nc_cat=110&ccb=1-7&_nc_sid=f907e8&_nc_ohc=c9Bcs-quLs0Q7kNvwFyHDje&_nc_oc=AdqIMZtVJSQzXuV871FrCStxtLbYGrSSuoAvhyhVy-gwTytNGxDaFmfTs_YnkTH01_s&_nc_zt=24&_nc_ht=scontent-atl3-1.xx&edm=AJdBtusEAAAA&_nc_gid=lRBa_OQBNLXSw-QfN0WP8w&_nc_tpa=Q5bMBQIK9fI9veRRS1vPEU6IgPdvzOarK9WvxxM5KtU_40sQxz8ZlZM3Ui0uetExKkSUKcuUN7UdKSokeQ&oh=00_AQMeqkZUqkDWGeTWLwSQepZMQl6iq0crrRRiyD0h_H3w4A&oe=6AD387AB",
-    "ultima_actualizacion": "2026-10-13T05:06:51.700Z"
+    "personas_hablando": 216,
+    "foto_perfil": "https://scontent-lga3-1.xx.fbcdn.net/v/t39.30808-1/825286629_28604489712564817_7866327839881392565_n.jpg?stp=dst-jpg_s200x200_tt6&_nc_cat=110&ccb=1-7&_nc_sid=f907e8&_nc_ohc=c9Bcs-quLs0Q7kNvwHxbk2c&_nc_oc=AdqJOSJ_kDtHB3nIR_9ujqeJYdjcR_aGfJT2U6JVwUlGih7ppehSKQVpwq5DwpsJM-M&_nc_zt=24&_nc_ht=scontent-lga3-1.xx&edm=AJdBtusEAAAA&_nc_gid=rGVoxh6EYHFIOVnlMPDpwg&_nc_tpa=Q5bMBQJyR99wN0oreaZ1ojk4pE7Zg3Bopl-PhiX5XmNLDdnnhWdWUBA_prFQ9fFGii-vn7aN-mxq4KsFqw&oh=00_AQNjWTWKGZRHLlF8aetvzfsApX6llFlX9PZWwztRkiuTBA&oe=6AD4306B",
+    "ultima_actualizacion": "2026-10-13T15:31:03.788Z"
   },
   "resumen_kpis": {
     "total_seguidores": 27,
     "seguidores_detalle": "27 seguidores • 3 seguidos",
     "crecimiento_semanal": "+35%",
     "seguidores_nuevos_semana": 7,
-    "personas_hablando": 214,
+    "personas_hablando": 216,
     "alcance_estimado": 486,
     "interacciones_totales": 19,
     "reacciones_totales": 5,
     "comentarios_totales": 0,
     "compartidos_totales": 14,
-    "programados_en_servidores_meta": 74,
+    "programados_en_servidores_meta": 75,
     "total_publicaciones_sistema": 120
   },
   "rendimiento_por_horario": [
@@ -68,6 +68,28 @@
     }
   ],
   "ultimos_posts_publicados": [
+    {
+      "id": "1367888553074849_122096591571507613",
+      "url": "https://www.facebook.com/1367888553074849_122096591571507613",
+      "mensaje": "«300 días viendo personas pasar frente a su jaula sin que nadie se detuviera... hasta hoy. 🎉😭🐾\n\nA Bruno lo rescataron de un basurero con ",
+      "fecha": "2026-10-13T13:01:36+0000",
+      "reacciones": 0,
+      "comentarios": 0,
+      "compartidos": 0,
+      "tipo": "post",
+      "estado": "publicado"
+    },
+    {
+      "id": "1367888553074849_122100992805507613",
+      "url": "https://www.facebook.com/1367888553074849_122100992805507613",
+      "mensaje": "Publicación",
+      "fecha": "2026-10-13T10:58:20+0000",
+      "reacciones": 0,
+      "comentarios": 0,
+      "compartidos": 0,
+      "tipo": "post",
+      "estado": "publicado"
+    },
     {
       "id": "1367888553074849_122100675033507613",
       "url": "https://www.facebook.com/1367888553074849_122100675033507613",
@@ -298,31 +320,23 @@
       "compartidos": 0,
       "tipo": "post",
       "estado": "publicado"
-    },
-    {
-      "id": "1367888553074849_122098099257507613",
-      "url": "https://www.facebook.com/1367888553074849_122098099257507613",
-      "mensaje": "🧠 El mundo puede ser un caos, pero tu mente no tiene por qué serlo.\n\n¿Cuántas veces te has sentido superado por cosas que no puedes control",
-      "fecha": "2026-10-10T00:04:38+0000",
-      "reacciones": 0,
-      "comentarios": 0,
-      "compartidos": 0,
-      "tipo": "post",
-      "estado": "publicado"
-    },
-    {
-      "id": "1367888553074849_122096590905507613",
-      "url": "https://www.facebook.com/1367888553074849_122096590905507613",
-      "mensaje": "«En este pueblo nadie sabía de quién era, pero todos los días a las 7:45 am estaba en la esquina de la escuela... 🚸🐶\n\nLos vecinos lo llama",
-      "fecha": "2026-10-09T23:30:00+0000",
-      "reacciones": 0,
-      "comentarios": 0,
-      "compartidos": 0,
-      "tipo": "post",
-      "estado": "publicado"
     }
   ],
   "proximos_programados_meta": [
+    {
+      "id": "1367888553074849_122101182177507613",
+      "url": "https://www.facebook.com/1367888553074849_122101182177507613",
+      "mensaje": "Eran las 6:30 de la mañana cuando el doctor Fernando llegó a abrir la clínica veterinaria. Atado a la aldaba metálica de la entrada había un",
+      "fecha_programada": "2026-11-10T12:30:00.000Z",
+      "estado": "programado_en_meta"
+    },
+    {
+      "id": "1367888553074849_122101181973507613",
+      "url": "https://www.facebook.com/1367888553074849_122101181973507613",
+      "mensaje": "«La mejor venganza es no ser como tu enemigo». — Marco Aurelio 🏛️⚖️\n\nCuando alguien te traiciona, te miente o te trata con desprecio, tu pr",
+      "fecha_programada": "2026-11-10T08:00:00.000Z",
+      "estado": "programado_en_meta"
+    },
     {
       "id": "1367888553074849_122100459375507613",
       "url": "https://www.facebook.com/1367888553074849_122100459375507613",
@@ -833,13 +847,6 @@
       "mensaje": "«Dicen que nosotros no elegimos a los perros... ellos nos eligen a nosotros en el momento exacto en que más los necesitamos. 🐾🌟\n\nTal vez e",
       "fecha_programada": "2026-10-13T23:30:00.000Z",
       "estado": "programado_en_meta"
-    },
-    {
-      "id": "1367888553074849_122096591571507613",
-      "url": "https://www.facebook.com/1367888553074849_122096591571507613",
-      "mensaje": "«300 días viendo personas pasar frente a su jaula sin que nadie se detuviera... hasta hoy. 🎉😭🐾\n\nA Bruno lo rescataron de un basurero con ",
-      "fecha_programada": "2026-10-13T13:00:00.000Z",
-      "estado": "programado_en_meta"
     }
   ],
   "instagram": {
@@ -848,7 +855,7 @@
     "name": "Huellas con propósito",
     "followers": 1,
     "media_count": 3,
-    "picture": "https://scontent-atl3-2.xx.fbcdn.net/v/t51.82787-15/846964896_18127515184894503_9206256640984781246_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=7d201b&_nc_ohc=KOUC1jaBY3YQ7kNvwEW9-sP&_nc_oc=AdrGs56o5OvaE_6KFb5PwoxmkYOToD7tKC890Khu0cxbB82Te1Lll23FRWzAouNut6s&_nc_zt=23&_nc_ht=scontent-atl3-2.xx&edm=AJ-jyNUEAAAA&_nc_gid=wbW70sXdTv2sjaT-LyjA4g&oh=00_AQPZqPv4ZenyWbOw5VIWdExKOv0dRnDZQeAT_MER8h2W6w&oe=6AD392AE"
+    "picture": "https://scontent-lga3-3.xx.fbcdn.net/v/t51.82787-15/846964896_18127515184894503_9206256640984781246_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=7d201b&_nc_ohc=KOUC1jaBY3YQ7kNvwF9S5Xj&_nc_oc=AdqD2QnCsOr_A-lEKYqZKMDNpyI3etcxUDy0mn2kubsSrhyZqIR9hL964yLLXeFupzE&_nc_zt=23&_nc_ht=scontent-lga3-3.xx&edm=AJ-jyNUEAAAA&_nc_gid=NRY_wLFXev72w0i3jRigNw&oh=00_AQPpGSZy06mptREZygt-mN0j8LDF7id-lWX0BjLCcYeJHw&oe=6AD43B6E"
   },
   "paginas": {
     "1367888553074849": {
@@ -858,22 +865,22 @@
         "categoria": "Animals & Pets",
         "seguidores": 27,
         "seguidos": 3,
-        "personas_hablando": 214,
-        "foto_perfil": "https://scontent-atl3-1.xx.fbcdn.net/v/t39.30808-1/825286629_28604489712564817_7866327839881392565_n.jpg?stp=dst-jpg_s200x200_tt6&_nc_cat=110&ccb=1-7&_nc_sid=f907e8&_nc_ohc=c9Bcs-quLs0Q7kNvwFyHDje&_nc_oc=AdqIMZtVJSQzXuV871FrCStxtLbYGrSSuoAvhyhVy-gwTytNGxDaFmfTs_YnkTH01_s&_nc_zt=24&_nc_ht=scontent-atl3-1.xx&edm=AJdBtusEAAAA&_nc_gid=lRBa_OQBNLXSw-QfN0WP8w&_nc_tpa=Q5bMBQIK9fI9veRRS1vPEU6IgPdvzOarK9WvxxM5KtU_40sQxz8ZlZM3Ui0uetExKkSUKcuUN7UdKSokeQ&oh=00_AQMeqkZUqkDWGeTWLwSQepZMQl6iq0crrRRiyD0h_H3w4A&oe=6AD387AB",
-        "ultima_actualizacion": "2026-10-13T05:06:51.700Z"
+        "personas_hablando": 216,
+        "foto_perfil": "https://scontent-lga3-1.xx.fbcdn.net/v/t39.30808-1/825286629_28604489712564817_7866327839881392565_n.jpg?stp=dst-jpg_s200x200_tt6&_nc_cat=110&ccb=1-7&_nc_sid=f907e8&_nc_ohc=c9Bcs-quLs0Q7kNvwHxbk2c&_nc_oc=AdqJOSJ_kDtHB3nIR_9ujqeJYdjcR_aGfJT2U6JVwUlGih7ppehSKQVpwq5DwpsJM-M&_nc_zt=24&_nc_ht=scontent-lga3-1.xx&edm=AJdBtusEAAAA&_nc_gid=rGVoxh6EYHFIOVnlMPDpwg&_nc_tpa=Q5bMBQJyR99wN0oreaZ1ojk4pE7Zg3Bopl-PhiX5XmNLDdnnhWdWUBA_prFQ9fFGii-vn7aN-mxq4KsFqw&oh=00_AQNjWTWKGZRHLlF8aetvzfsApX6llFlX9PZWwztRkiuTBA&oe=6AD4306B",
+        "ultima_actualizacion": "2026-10-13T15:31:03.788Z"
       },
       "resumen_kpis": {
         "total_seguidores": 27,
         "seguidores_detalle": "27 seguidores • 3 seguidos",
         "crecimiento_semanal": "+35%",
         "seguidores_nuevos_semana": 7,
-        "personas_hablando": 214,
+        "personas_hablando": 216,
         "alcance_estimado": 486,
         "interacciones_totales": 19,
         "reacciones_totales": 5,
         "comentarios_totales": 0,
         "compartidos_totales": 14,
-        "programados_en_servidores_meta": 74,
+        "programados_en_servidores_meta": 75,
         "total_publicaciones_sistema": 120
       },
       "rendimiento_por_horario": [
@@ -921,6 +928,28 @@
         }
       ],
       "ultimos_posts_publicados": [
+        {
+          "id": "1367888553074849_122096591571507613",
+          "url": "https://www.facebook.com/1367888553074849_122096591571507613",
+          "mensaje": "«300 días viendo personas pasar frente a su jaula sin que nadie se detuviera... hasta hoy. 🎉😭🐾\n\nA Bruno lo rescataron de un basurero con ",
+          "fecha": "2026-10-13T13:01:36+0000",
+          "reacciones": 0,
+          "comentarios": 0,
+          "compartidos": 0,
+          "tipo": "post",
+          "estado": "publicado"
+        },
+        {
+          "id": "1367888553074849_122100992805507613",
+          "url": "https://www.facebook.com/1367888553074849_122100992805507613",
+          "mensaje": "Publicación",
+          "fecha": "2026-10-13T10:58:20+0000",
+          "reacciones": 0,
+          "comentarios": 0,
+          "compartidos": 0,
+          "tipo": "post",
+          "estado": "publicado"
+        },
         {
           "id": "1367888553074849_122100675033507613",
           "url": "https://www.facebook.com/1367888553074849_122100675033507613",
@@ -1151,31 +1180,23 @@
           "compartidos": 0,
           "tipo": "post",
           "estado": "publicado"
-        },
-        {
-          "id": "1367888553074849_122098099257507613",
-          "url": "https://www.facebook.com/1367888553074849_122098099257507613",
-          "mensaje": "🧠 El mundo puede ser un caos, pero tu mente no tiene por qué serlo.\n\n¿Cuántas veces te has sentido superado por cosas que no puedes control",
-          "fecha": "2026-10-10T00:04:38+0000",
-          "reacciones": 0,
-          "comentarios": 0,
-          "compartidos": 0,
-          "tipo": "post",
-          "estado": "publicado"
-        },
-        {
-          "id": "1367888553074849_122096590905507613",
-          "url": "https://www.facebook.com/1367888553074849_122096590905507613",
-          "mensaje": "«En este pueblo nadie sabía de quién era, pero todos los días a las 7:45 am estaba en la esquina de la escuela... 🚸🐶\n\nLos vecinos lo llama",
-          "fecha": "2026-10-09T23:30:00+0000",
-          "reacciones": 0,
-          "comentarios": 0,
-          "compartidos": 0,
-          "tipo": "post",
-          "estado": "publicado"
         }
       ],
       "proximos_programados_meta": [
+        {
+          "id": "1367888553074849_122101182177507613",
+          "url": "https://www.facebook.com/1367888553074849_122101182177507613",
+          "mensaje": "Eran las 6:30 de la mañana cuando el doctor Fernando llegó a abrir la clínica veterinaria. Atado a la aldaba metálica de la entrada había un",
+          "fecha_programada": "2026-11-10T12:30:00.000Z",
+          "estado": "programado_en_meta"
+        },
+        {
+          "id": "1367888553074849_122101181973507613",
+          "url": "https://www.facebook.com/1367888553074849_122101181973507613",
+          "mensaje": "«La mejor venganza es no ser como tu enemigo». — Marco Aurelio 🏛️⚖️\n\nCuando alguien te traiciona, te miente o te trata con desprecio, tu pr",
+          "fecha_programada": "2026-11-10T08:00:00.000Z",
+          "estado": "programado_en_meta"
+        },
         {
           "id": "1367888553074849_122100459375507613",
           "url": "https://www.facebook.com/1367888553074849_122100459375507613",
@@ -1686,13 +1707,6 @@
           "mensaje": "«Dicen que nosotros no elegimos a los perros... ellos nos eligen a nosotros en el momento exacto en que más los necesitamos. 🐾🌟\n\nTal vez e",
           "fecha_programada": "2026-10-13T23:30:00.000Z",
           "estado": "programado_en_meta"
-        },
-        {
-          "id": "1367888553074849_122096591571507613",
-          "url": "https://www.facebook.com/1367888553074849_122096591571507613",
-          "mensaje": "«300 días viendo personas pasar frente a su jaula sin que nadie se detuviera... hasta hoy. 🎉😭🐾\n\nA Bruno lo rescataron de un basurero con ",
-          "fecha_programada": "2026-10-13T13:00:00.000Z",
-          "estado": "programado_en_meta"
         }
       ],
       "instagram": {
@@ -1701,7 +1715,7 @@
         "name": "Huellas con propósito",
         "followers": 1,
         "media_count": 3,
-        "picture": "https://scontent-atl3-2.xx.fbcdn.net/v/t51.82787-15/846964896_18127515184894503_9206256640984781246_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=7d201b&_nc_ohc=KOUC1jaBY3YQ7kNvwEW9-sP&_nc_oc=AdrGs56o5OvaE_6KFb5PwoxmkYOToD7tKC890Khu0cxbB82Te1Lll23FRWzAouNut6s&_nc_zt=23&_nc_ht=scontent-atl3-2.xx&edm=AJ-jyNUEAAAA&_nc_gid=wbW70sXdTv2sjaT-LyjA4g&oh=00_AQPZqPv4ZenyWbOw5VIWdExKOv0dRnDZQeAT_MER8h2W6w&oe=6AD392AE"
+        "picture": "https://scontent-lga3-3.xx.fbcdn.net/v/t51.82787-15/846964896_18127515184894503_9206256640984781246_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=7d201b&_nc_ohc=KOUC1jaBY3YQ7kNvwF9S5Xj&_nc_oc=AdqD2QnCsOr_A-lEKYqZKMDNpyI3etcxUDy0mn2kubsSrhyZqIR9hL964yLLXeFupzE&_nc_zt=23&_nc_ht=scontent-lga3-3.xx&edm=AJ-jyNUEAAAA&_nc_gid=NRY_wLFXev72w0i3jRigNw&oh=00_AQPpGSZy06mptREZygt-mN0j8LDF7id-lWX0BjLCcYeJHw&oe=6AD43B6E"
       }
     },
     "1375923958937880": {
@@ -1713,7 +1727,7 @@
         "seguidos": 0,
         "personas_hablando": 0,
         "foto_perfil": "",
-        "ultima_actualizacion": "2026-10-13T05:06:51.898Z"
+        "ultima_actualizacion": "2026-10-13T15:31:04.138Z"
       },
       "resumen_kpis": {
         "total_seguidores": 7,
