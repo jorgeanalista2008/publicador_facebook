@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "arquetipo": "EL POBRECITO",
+    "archivo_video": "videos_reels/reel_post_1_el_pobrecito.mp4",
+    "archivo_audio": "videos_reels/audio_post_1.mp3",
+    "tamano_mb": 5.08,
+    "guion": "¡Despierta! La pobreza puede ser una circunstancia, pero la mentalidad de víctima es una prisión. A nadie le importan tus excusas. Cada vez que te quejas, le entregas el control de tu vida a tus circunstancias. Escúchame bien: Nadie vendrá a salvarte. El dolor es inevitable, pero el Hombre de Acero lo usa como combustible. Mata la queja en seco, asume el cien por ciento de la responsabilidad y sal a conquistar tu destino. Deja un acero en los comentarios si hoy rompes tus cadenas."
+  },
+  {
+    "id": 2,
+    "arquetipo": "EL PROCRASTINADOR",
+    "archivo_video": "videos_reels/reel_post_2_el_procrastinador.mp4",
+    "archivo_audio": "videos_reels/audio_post_2.mp3",
+    "tamano_mb": 5.31,
+    "guion": "¡Despierta! Mañana es el día favorito del que nunca logra nada. El procrastinador es un cobarde que vive negociando con su propia mediocridad. El éxito se construye hoy o no se construye nunca. Aplica la regla de la ejecución inmediata: si tienes que hacerlo, no lo pienses, actúa. Borra la palabra mañana de tu vocabulario y cumple la promesa que te hiciste frente al espejo. Toca dos veces la pantalla si hoy tomas el control de tu destino."
+  },
+  {
+    "id": 3,
+    "arquetipo": "EL FRÁGIL EMOCIONAL",
+    "archivo_video": "videos_reels/reel_post_3_el_frágil_emocional.mp4",
+    "archivo_audio": "videos_reels/audio_post_3.mp3",
+    "tamano_mb": 5.23,
+    "guion": "¡Despierta! Quien no controla sus emociones, será siempre el esclavo de quien sepa provocarlo. El frágil emocional se ofende por todo y vive mendigando aprobación ajena. Esa debilidad te destruye. Al mundo no le importa cómo te sientes hoy, al mundo le importan tus resultados. El Hombre de Acero no reacciona por impulso; domina su mente y ejecuta con frialdad. Forja una voluntad inquebrantable. Comenta un 'acero' si hoy blindas tu mente contra todo."
+  },
+  {
+    "id": 4,
+    "arquetipo": "EL BUSCADOR DE ATAJOS",
+    "archivo_video": "videos_reels/reel_post_4_el_buscador_de_atajos.mp4",
+    "archivo_audio": "videos_reels/audio_post_4.mp3",
+    "tamano_mb": 5.45,
+    "guion": "¡Despierta! Los atajos en la vida casi siempre conducen a los callejones sin salida de la mediocridad. Dejá de buscar el truco fácil. La caballería no viene a salvarte, eres tú contra ti mismo. El dolor es el peaje obligatorio hacia la grandeza. Abraza la incomodidad, ejecuta sin pedirle permiso a tus emociones y paga el precio completo por adelantado. Toca dos veces y comparte este video con quien necesite despertar hoy."
+  },
+  {
+    "id": 5,
+    "arquetipo": "EL ADICTO A VALIDACIÓN",
+    "archivo_video": "videos_reels/reel_post_5_el_adicto_a_validación.mp4",
+    "archivo_audio": "videos_reels/audio_post_5.mp3",
+    "tamano_mb": 4.81,
+    "guion": "¡Despierta! El que edifica su valor sobre el aplauso ajeno, se derrumba en cuanto llega el silencio. Deja de mendigar la aprobación de gente a la que no le importas. El Hombre de Acero no busca aplausos, busca resultados. Construye tu imperio en la oscuridad, en la soledad de la madrugada, donde nadie está mirando. Deja que tus hechos hablen por ti. Si estás listo para trabajar en silencio, deja tu like."
+  },
+  {
+    "id": 6,
+    "arquetipo": "EL ENEMIGO DEL FRACASO",
+    "archivo_video": "videos_reels/reel_post_6_el_enemigo_del_fracaso.mp4",
+    "archivo_audio": "videos_reels/audio_post_6.mp3",
+    "tamano_mb": 5.31,
+    "guion": "¡Despierta! El fracaso no es lo contrario al éxito, el fracaso es la materia prima con la que se forja la victoria. Deja de llorar por tus caídas. Cada error es solo información para volver a atacar con más fuerza. Asume el cien por ciento de la responsabilidad y acostúmbrate al fuego de la dificultad. La motivación es para débiles; la disciplina es levantarte y hacer el trabajo te guste o no. Toca dos veces si no te rindes jamás."
+  },
+  {
+    "id": 7,
+    "arquetipo": "EL ENVIDIOSO PASIVO",
+    "archivo_video": "videos_reels/reel_post_7_el_envidioso_pasivo.mp4",
+    "archivo_audio": "videos_reels/audio_post_7.mp3",
+    "tamano_mb": 4.78,
+    "guion": "¡Despierta! La envidia es el tributo involuntario que la mediocridad le rinde al talento y al trabajo. Mientras tú te quejas del éxito de otros, alguien más está entrenando en silencio y durmiendo menos. Muta el resentimiento en trabajo duro. Tu cuerpo, tu dinero y tu mente son el resultado directo de tus decisiones. Elige tu bando: espectador mediocre o conquistador de tu destino."
+  },
+  {
+    "id": 8,
+    "arquetipo": "EL AMANTE DEL CONFORT",
+    "archivo_video": "videos_reels/reel_post_8_el_amante_del_confort.mp4",
+    "archivo_audio": "videos_reels/audio_post_8.mp3",
+    "tamano_mb": 5.02,
+    "guion": "¡Despierta! El confort es una prisión silenciosa que asesina más sueños que cualquier fracaso. Estás vendiendo tu grandeza por la miseria de un sofá cómodo y una rutina blanda. El dolor del esfuerzo es temporal, pero el peso del arrepentimiento dura toda la vida. Abraza la incomodidad todos los días como si tu vida dependiera de ello. Porque así es. Toca dos veces si hoy sales de tu zona cómoda."
+  },
+  {
+    "id": 9,
+    "arquetipo": "EL HABLADOR DE PLANES",
+    "archivo_video": "videos_reels/reel_post_9_el_hablador_de_planes.mp4",
+    "archivo_audio": "videos_reels/audio_post_9.mp3",
+    "tamano_mb": 4.82,
+    "guion": "¡Despierta! No le cuentes a nadie lo que vas a hacer, deja que el ruido de tus resultados hable por ti. El mundo está lleno de tipos que inflan el pecho contando sus planes y a las dos semanas no hicieron nada. Calla la boca, trágate tus palabras y ejecuta en silencio. Que cuando salgas a la luz, la contundencia de tus actos retumbe tan fuerte que nadie pueda dudar. Comenta 'acero' si trabajas sin hacer ruido."
+  },
+  {
+    "id": 10,
+    "arquetipo": "EL ESCLAVO DEL PASADO",
+    "archivo_video": "videos_reels/reel_post_10_el_esclavo_del_pasado.mp4",
+    "archivo_audio": "videos_reels/audio_post_10.mp3",
+    "tamano_mb": 4.7,
+    "guion": "¡Despierta! A nadie le importa cuánto dolió tu pasado si hoy sigues usándolo como excusa para fracasar. Tu pasado fue tu campo de entrenamiento, no la condena perpetua de tu destino. Quema el traje de víctima. Si ya probaste el barro, nada que la vida te tire encima hoy puede intimidarte. Mata a tu viejo yo y forja al Hombre de Acero. Guarda este video para cuando flaquees."
+  }
+]
