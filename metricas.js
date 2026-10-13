@@ -76,6 +76,27 @@ async function procesarPagina(pageId, token, tipo) {
     }
   } catch (e) {}
 
+  // Instagram Business Account Data
+  let instagramInfo = null;
+  if (tipo === 'huellas') {
+    try {
+      const igRes = await fetch(
+        `https://graph.facebook.com/v19.0/17841426835073929?fields=id,username,name,followers_count,media_count,profile_picture_url&access_token=${token}`
+      );
+      const igData = await igRes.json();
+      if (igRes.ok && igData.id) {
+        instagramInfo = {
+          id: igData.id,
+          username: igData.username,
+          name: igData.name,
+          followers: igData.followers_count || 0,
+          media_count: igData.media_count || 0,
+          picture: igData.profile_picture_url || ""
+        };
+      }
+    } catch (e) {}
+  }
+
   // Posts publicados
   let postsPublicados = [];
   try {
@@ -187,7 +208,8 @@ async function procesarPagina(pageId, token, tipo) {
         { fecha: "10 Oct", seguidores: pageInfo.followers }
       ],
       ultimos_posts_publicados: postsPublicados,
-      proximos_programados_meta: listaProgramados
+      proximos_programados_meta: listaProgramados,
+      instagram: instagramInfo
     };
   }
 }
