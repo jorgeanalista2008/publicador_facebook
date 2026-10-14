@@ -8,13 +8,22 @@
       "permalink": "https://www.instagram.com/p/DedNp0BDpIG/",
       "fecha": "2026-10-14T01:33:59.706Z"
     },
+
     {
-      "tipo": "reel",
+      "tipo": "foto",
+      "post_id": 4,
+      "titulo": "«El vigilante nocturno que despidieron sin liquidación»",
+      "media_id": "18132852958664733",
+      "permalink": "https://www.instagram.com/p/DedR5SBjogA/",
+      "fecha": "2026-10-14T02:11:04.037Z"
+    },
+    {
+      "tipo": "reel_cinematico",
       "reel_id": 1,
-      "nombre_perrito": "Tinaco",
-      "media_id": "18127213669894817",
-      "permalink": "https://www.instagram.com/reel/DedNu1Eivum/",
-      "fecha": "2026-10-14T01:35:26.726Z"
+      "nombre_perrito": "Tinaco (Versión Cinemática Multi-Escena)",
+      "media_id": "18095272214445173",
+      "permalink": "https://www.instagram.com/reel/DedSAIKERIL/",
+      "fecha": "2026-10-14T02:12:22.738Z"
     }
   ],
   "ultimo_tipo": "reel"
