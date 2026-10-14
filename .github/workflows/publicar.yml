@@ -43,6 +43,12 @@ jobs:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
         run: node respondedor_comentarios.js
 
+      - name: 🐶 Publicador Automático de Instagram Perritos (@huellasconproposito26)
+        env:
+          META_ACCESS_TOKEN: ${{ secrets.META_ACCESS_TOKEN }}
+          PAGE_ID: ${{ secrets.PAGE_ID }}
+        run: node publicador_instagram_perritos.js --auto
+
       - name: 📊 Extractor de Métricas Multi-Página (Dashboard)
         env:
           META_ACCESS_TOKEN: ${{ secrets.META_ACCESS_TOKEN }}
@@ -55,4 +61,4 @@ jobs:
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
           commit_message: "Actualización automática: cola de publicaciones, métricas e historial [skip ci]"
-          file_pattern: "noviembre/publicaciones.json mentalidad_de_acero/publicaciones.json metricas.json historial_comentarios.json"
+          file_pattern: "noviembre/publicaciones.json mentalidad_de_acero/publicaciones.json metricas.json historial_comentarios.json instagram_perritos_historial.json videos_reels_perritos/reels_perritos_index.json"

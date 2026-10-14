@@ -6,8 +6,8 @@
     "seguidores": 27,
     "seguidos": 3,
     "personas_hablando": 217,
-    "foto_perfil": "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.30808-1/825286629_28604489712564817_7866327839881392565_n.jpg?stp=dst-jpg_s200x200_tt6&_nc_cat=110&ccb=1-7&_nc_sid=f907e8&_nc_ohc=c9Bcs-quLs0Q7kNvwHQ1-GX&_nc_oc=AdryuIoe5EeIZCYYKUFqXwmNuxQMV-gmfdkD1CHVbWIYISMjQWrA0rcdvHo-URoh73I&_nc_zt=24&_nc_ht=scontent-sjc3-1.xx&edm=AJdBtusEAAAA&_nc_gid=LT63j_8Xj2PFn5oQHl1mug&_nc_tpa=Q5bMBQJoJF-MtWvhtqe50OJ4cGdVfiVbMlgAj7HmUtk287y6qHr2BI755vEkXwsxKBKUR2mrwPcAcWb-EA&oh=00_AQOZ8_UQfGNIzIccg7DYYb_EtxV6tqCO3LcXKG32cel2FQ&oe=6AD468AB",
-    "ultima_actualizacion": "2026-10-13T20:57:19.810Z"
+    "foto_perfil": "https://scontent.fccs3-1.fna.fbcdn.net/v/t39.30808-1/825286629_28604489712564817_7866327839881392565_n.jpg?stp=dst-jpg_s200x200_tt6&_nc_cat=110&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=f907e8&_nc_ohc=c9Bcs-quLs0Q7kNvwHOfaAm&_nc_oc=AdoU-BJMxxl5Hi6zqzXnbkZawc55el-Wo6xau8t_2J0W4eGyI6tp4Oh7ADqTSkb7cmo&_nc_zt=24&_nc_ht=scontent.fccs3-1.fna&edm=AJdBtusEAAAA&_nc_gid=iCCbUbNl10sYQvEWXZ3kKQ&_nc_tpa=Q5bMBQJ8GVgSh68hXdrg7fZVCnl-vJcxHDGDs1JIfj0fTz-4tHpAH6AiNRw5fDSdUPtJ_ewyP1wBXQy3Mg&oh=00_AQPEQZfXGmmOOVYl26gzVAu_MqXaPoxIibz-dJiSjnFbpQ&oe=6AD4A0EB",
+    "ultima_actualizacion": "2026-10-14T01:35:42.461Z"
   },
   "resumen_kpis": {
     "total_seguidores": 27,
@@ -16,11 +16,11 @@
     "seguidores_nuevos_semana": 7,
     "personas_hablando": 217,
     "alcance_estimado": 486,
-    "interacciones_totales": 19,
+    "interacciones_totales": 22,
     "reacciones_totales": 5,
     "comentarios_totales": 0,
-    "compartidos_totales": 14,
-    "programados_en_servidores_meta": 77,
+    "compartidos_totales": 17,
+    "programados_en_servidores_meta": 76,
     "total_publicaciones_sistema": 120
   },
   "rendimiento_por_horario": [
@@ -68,6 +68,39 @@
     }
   ],
   "ultimos_posts_publicados": [
+    {
+      "id": "1367888553074849_122101475613507613",
+      "url": "https://www.facebook.com/1367888553074849_122101475613507613",
+      "mensaje": "En el condado de Jasper, Georgia, un perro temblaba bajo la lluvia fría, mirando los autos pasar sin que nadie se detuviera. Exhausto y dema",
+      "fecha": "2026-10-13T23:51:33+0000",
+      "reacciones": 0,
+      "comentarios": 0,
+      "compartidos": 0,
+      "tipo": "post",
+      "estado": "publicado"
+    },
+    {
+      "id": "1367888553074849_122101474395507613",
+      "url": "https://www.facebook.com/1367888553074849_122101474395507613",
+      "mensaje": "En el condado de Jasper, Georgia, un perro temblaba bajo la lluvia fría, mirando los autos pasar sin que nadie se detuviera. Exhausto y dema",
+      "fecha": "2026-10-13T23:49:48+0000",
+      "reacciones": 0,
+      "comentarios": 0,
+      "compartidos": 1,
+      "tipo": "post",
+      "estado": "publicado"
+    },
+    {
+      "id": "1367888553074849_122096591805507613",
+      "url": "https://www.facebook.com/1367888553074849_122096591805507613",
+      "mensaje": "«Dicen que nosotros no elegimos a los perros... ellos nos eligen a nosotros en el momento exacto en que más los necesitamos. 🐾🌟\n\nTal vez e",
+      "fecha": "2026-10-13T23:30:01+0000",
+      "reacciones": 0,
+      "comentarios": 0,
+      "compartidos": 0,
+      "tipo": "post",
+      "estado": "publicado"
+    },
     {
       "id": "1367888553074849_122096591571507613",
       "url": "https://www.facebook.com/1367888553074849_122096591571507613",
@@ -163,7 +196,7 @@
       "fecha": "2026-10-12T10:50:43+0000",
       "reacciones": 0,
       "comentarios": 0,
-      "compartidos": 0,
+      "compartidos": 1,
       "tipo": "post",
       "estado": "publicado"
     },
@@ -251,7 +284,7 @@
       "fecha": "2026-10-10T12:30:57+0000",
       "reacciones": 0,
       "comentarios": 0,
-      "compartidos": 0,
+      "compartidos": 1,
       "tipo": "post",
       "estado": "publicado"
     },
@@ -285,39 +318,6 @@
       "reacciones": 1,
       "comentarios": 0,
       "compartidos": 6,
-      "tipo": "post",
-      "estado": "publicado"
-    },
-    {
-      "id": "1367888553074849_122098169037507613",
-      "url": "https://www.facebook.com/1367888553074849_122098169037507613",
-      "mensaje": "La cámara del estacionamiento del refugio grabó a una perra enferma brincándole al pecho a un hombre, como rogándole que no se fuera. 📹\n\nTr",
-      "fecha": "2026-10-10T02:36:17+0000",
-      "reacciones": 0,
-      "comentarios": 0,
-      "compartidos": 0,
-      "tipo": "post",
-      "estado": "publicado"
-    },
-    {
-      "id": "1367888553074849_122098147341507613",
-      "url": "https://www.facebook.com/1367888553074849_122098147341507613",
-      "mensaje": "Saber leer y acumular información no significa necesariamente haber aprendido a pensar. En una época en la que tenemos acceso inmediato a mi",
-      "fecha": "2026-10-10T01:54:40+0000",
-      "reacciones": 0,
-      "comentarios": 0,
-      "compartidos": 0,
-      "tipo": "post",
-      "estado": "publicado"
-    },
-    {
-      "id": "1367888553074849_122098105911507613",
-      "url": "https://www.facebook.com/1367888553074849_122098105911507613",
-      "mensaje": "Cada vez que la vida se pone difícil, hay dos caminos: buscar a quién culpar o recordar para qué te preparaste.\n\nEl filósofo estoico Epictet",
-      "fecha": "2026-10-10T00:25:29+0000",
-      "reacciones": 0,
-      "comentarios": 0,
-      "compartidos": 0,
       "tipo": "post",
       "estado": "publicado"
     }
@@ -854,13 +854,6 @@
       "mensaje": "«A Luna la rescataron de una fábrica abandonada donde pasó años comiendo lo que el viento traía... 🥺💔\n\nTenía marcas en su piel y el cuerpo",
       "fecha_programada": "2026-10-14T13:00:00.000Z",
       "estado": "programado_en_meta"
-    },
-    {
-      "id": "1367888553074849_122096591805507613",
-      "url": "https://www.facebook.com/1367888553074849_122096591805507613",
-      "mensaje": "«Dicen que nosotros no elegimos a los perros... ellos nos eligen a nosotros en el momento exacto en que más los necesitamos. 🐾🌟\n\nTal vez e",
-      "fecha_programada": "2026-10-13T23:30:00.000Z",
-      "estado": "programado_en_meta"
     }
   ],
   "instagram": {
@@ -869,7 +862,7 @@
     "name": "Huellas con propósito",
     "followers": 1,
     "media_count": 3,
-    "picture": "https://scontent-sjc6-1.xx.fbcdn.net/v/t51.82787-15/846964896_18127515184894503_9206256640984781246_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=7d201b&_nc_ohc=KOUC1jaBY3YQ7kNvwHv_7sL&_nc_oc=AdqqUk69qfCuwtkYrRCIjeyZMdQ5I4OTUItXv_HoGGJjy8ObsN-jElnViyI3SDvuThA&_nc_zt=23&_nc_ht=scontent-sjc6-1.xx&edm=AJ-jyNUEAAAA&_nc_gid=jWhBwwWUFtTfKMAYzWSlqw&oh=00_AQNYSQ2iiCRaFeE95pNbzYLgUK1d9bp8SEG0BguC7A4lRQ&oe=6AD473AE"
+    "picture": "https://scontent.fccs3-1.fna.fbcdn.net/v/t51.82787-15/846964896_18127515184894503_9206256640984781246_n.jpg?_nc_cat=104&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=7d201b&_nc_ohc=KOUC1jaBY3YQ7kNvwHMjw_V&_nc_oc=AdrCFv9QVTniRs7YCr1DucoTCVCpIDN1nf9YsK-JyldmIlqNiWv42wOCKc8vjpGdacE&_nc_zt=23&_nc_ht=scontent.fccs3-1.fna&edm=AJ-jyNUEAAAA&_nc_gid=2kzeiVhsMDX5n_d9bpCTag&oh=00_AQOgui3n0N1oimJnNrs_WURRuCo4RfJGIAqZPVCB1FiVWQ&oe=6AD4ABEE"
   },
   "paginas": {
     "1367888553074849": {
@@ -880,8 +873,8 @@
         "seguidores": 27,
         "seguidos": 3,
         "personas_hablando": 217,
-        "foto_perfil": "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.30808-1/825286629_28604489712564817_7866327839881392565_n.jpg?stp=dst-jpg_s200x200_tt6&_nc_cat=110&ccb=1-7&_nc_sid=f907e8&_nc_ohc=c9Bcs-quLs0Q7kNvwHQ1-GX&_nc_oc=AdryuIoe5EeIZCYYKUFqXwmNuxQMV-gmfdkD1CHVbWIYISMjQWrA0rcdvHo-URoh73I&_nc_zt=24&_nc_ht=scontent-sjc3-1.xx&edm=AJdBtusEAAAA&_nc_gid=LT63j_8Xj2PFn5oQHl1mug&_nc_tpa=Q5bMBQJoJF-MtWvhtqe50OJ4cGdVfiVbMlgAj7HmUtk287y6qHr2BI755vEkXwsxKBKUR2mrwPcAcWb-EA&oh=00_AQOZ8_UQfGNIzIccg7DYYb_EtxV6tqCO3LcXKG32cel2FQ&oe=6AD468AB",
-        "ultima_actualizacion": "2026-10-13T20:57:19.810Z"
+        "foto_perfil": "https://scontent.fccs3-1.fna.fbcdn.net/v/t39.30808-1/825286629_28604489712564817_7866327839881392565_n.jpg?stp=dst-jpg_s200x200_tt6&_nc_cat=110&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=f907e8&_nc_ohc=c9Bcs-quLs0Q7kNvwHOfaAm&_nc_oc=AdoU-BJMxxl5Hi6zqzXnbkZawc55el-Wo6xau8t_2J0W4eGyI6tp4Oh7ADqTSkb7cmo&_nc_zt=24&_nc_ht=scontent.fccs3-1.fna&edm=AJdBtusEAAAA&_nc_gid=iCCbUbNl10sYQvEWXZ3kKQ&_nc_tpa=Q5bMBQJ8GVgSh68hXdrg7fZVCnl-vJcxHDGDs1JIfj0fTz-4tHpAH6AiNRw5fDSdUPtJ_ewyP1wBXQy3Mg&oh=00_AQPEQZfXGmmOOVYl26gzVAu_MqXaPoxIibz-dJiSjnFbpQ&oe=6AD4A0EB",
+        "ultima_actualizacion": "2026-10-14T01:35:42.461Z"
       },
       "resumen_kpis": {
         "total_seguidores": 27,
@@ -890,11 +883,11 @@
         "seguidores_nuevos_semana": 7,
         "personas_hablando": 217,
         "alcance_estimado": 486,
-        "interacciones_totales": 19,
+        "interacciones_totales": 22,
         "reacciones_totales": 5,
         "comentarios_totales": 0,
-        "compartidos_totales": 14,
-        "programados_en_servidores_meta": 77,
+        "compartidos_totales": 17,
+        "programados_en_servidores_meta": 76,
         "total_publicaciones_sistema": 120
       },
       "rendimiento_por_horario": [
@@ -942,6 +935,39 @@
         }
       ],
       "ultimos_posts_publicados": [
+        {
+          "id": "1367888553074849_122101475613507613",
+          "url": "https://www.facebook.com/1367888553074849_122101475613507613",
+          "mensaje": "En el condado de Jasper, Georgia, un perro temblaba bajo la lluvia fría, mirando los autos pasar sin que nadie se detuviera. Exhausto y dema",
+          "fecha": "2026-10-13T23:51:33+0000",
+          "reacciones": 0,
+          "comentarios": 0,
+          "compartidos": 0,
+          "tipo": "post",
+          "estado": "publicado"
+        },
+        {
+          "id": "1367888553074849_122101474395507613",
+          "url": "https://www.facebook.com/1367888553074849_122101474395507613",
+          "mensaje": "En el condado de Jasper, Georgia, un perro temblaba bajo la lluvia fría, mirando los autos pasar sin que nadie se detuviera. Exhausto y dema",
+          "fecha": "2026-10-13T23:49:48+0000",
+          "reacciones": 0,
+          "comentarios": 0,
+          "compartidos": 1,
+          "tipo": "post",
+          "estado": "publicado"
+        },
+        {
+          "id": "1367888553074849_122096591805507613",
+          "url": "https://www.facebook.com/1367888553074849_122096591805507613",
+          "mensaje": "«Dicen que nosotros no elegimos a los perros... ellos nos eligen a nosotros en el momento exacto en que más los necesitamos. 🐾🌟\n\nTal vez e",
+          "fecha": "2026-10-13T23:30:01+0000",
+          "reacciones": 0,
+          "comentarios": 0,
+          "compartidos": 0,
+          "tipo": "post",
+          "estado": "publicado"
+        },
         {
           "id": "1367888553074849_122096591571507613",
           "url": "https://www.facebook.com/1367888553074849_122096591571507613",
@@ -1037,7 +1063,7 @@
           "fecha": "2026-10-12T10:50:43+0000",
           "reacciones": 0,
           "comentarios": 0,
-          "compartidos": 0,
+          "compartidos": 1,
           "tipo": "post",
           "estado": "publicado"
         },
@@ -1125,7 +1151,7 @@
           "fecha": "2026-10-10T12:30:57+0000",
           "reacciones": 0,
           "comentarios": 0,
-          "compartidos": 0,
+          "compartidos": 1,
           "tipo": "post",
           "estado": "publicado"
         },
@@ -1159,39 +1185,6 @@
           "reacciones": 1,
           "comentarios": 0,
           "compartidos": 6,
-          "tipo": "post",
-          "estado": "publicado"
-        },
-        {
-          "id": "1367888553074849_122098169037507613",
-          "url": "https://www.facebook.com/1367888553074849_122098169037507613",
-          "mensaje": "La cámara del estacionamiento del refugio grabó a una perra enferma brincándole al pecho a un hombre, como rogándole que no se fuera. 📹\n\nTr",
-          "fecha": "2026-10-10T02:36:17+0000",
-          "reacciones": 0,
-          "comentarios": 0,
-          "compartidos": 0,
-          "tipo": "post",
-          "estado": "publicado"
-        },
-        {
-          "id": "1367888553074849_122098147341507613",
-          "url": "https://www.facebook.com/1367888553074849_122098147341507613",
-          "mensaje": "Saber leer y acumular información no significa necesariamente haber aprendido a pensar. En una época en la que tenemos acceso inmediato a mi",
-          "fecha": "2026-10-10T01:54:40+0000",
-          "reacciones": 0,
-          "comentarios": 0,
-          "compartidos": 0,
-          "tipo": "post",
-          "estado": "publicado"
-        },
-        {
-          "id": "1367888553074849_122098105911507613",
-          "url": "https://www.facebook.com/1367888553074849_122098105911507613",
-          "mensaje": "Cada vez que la vida se pone difícil, hay dos caminos: buscar a quién culpar o recordar para qué te preparaste.\n\nEl filósofo estoico Epictet",
-          "fecha": "2026-10-10T00:25:29+0000",
-          "reacciones": 0,
-          "comentarios": 0,
-          "compartidos": 0,
           "tipo": "post",
           "estado": "publicado"
         }
@@ -1728,13 +1721,6 @@
           "mensaje": "«A Luna la rescataron de una fábrica abandonada donde pasó años comiendo lo que el viento traía... 🥺💔\n\nTenía marcas en su piel y el cuerpo",
           "fecha_programada": "2026-10-14T13:00:00.000Z",
           "estado": "programado_en_meta"
-        },
-        {
-          "id": "1367888553074849_122096591805507613",
-          "url": "https://www.facebook.com/1367888553074849_122096591805507613",
-          "mensaje": "«Dicen que nosotros no elegimos a los perros... ellos nos eligen a nosotros en el momento exacto en que más los necesitamos. 🐾🌟\n\nTal vez e",
-          "fecha_programada": "2026-10-13T23:30:00.000Z",
-          "estado": "programado_en_meta"
         }
       ],
       "instagram": {
@@ -1743,7 +1729,7 @@
         "name": "Huellas con propósito",
         "followers": 1,
         "media_count": 3,
-        "picture": "https://scontent-sjc6-1.xx.fbcdn.net/v/t51.82787-15/846964896_18127515184894503_9206256640984781246_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=7d201b&_nc_ohc=KOUC1jaBY3YQ7kNvwHv_7sL&_nc_oc=AdqqUk69qfCuwtkYrRCIjeyZMdQ5I4OTUItXv_HoGGJjy8ObsN-jElnViyI3SDvuThA&_nc_zt=23&_nc_ht=scontent-sjc6-1.xx&edm=AJ-jyNUEAAAA&_nc_gid=jWhBwwWUFtTfKMAYzWSlqw&oh=00_AQNYSQ2iiCRaFeE95pNbzYLgUK1d9bp8SEG0BguC7A4lRQ&oe=6AD473AE"
+        "picture": "https://scontent.fccs3-1.fna.fbcdn.net/v/t51.82787-15/846964896_18127515184894503_9206256640984781246_n.jpg?_nc_cat=104&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=7d201b&_nc_ohc=KOUC1jaBY3YQ7kNvwHMjw_V&_nc_oc=AdrCFv9QVTniRs7YCr1DucoTCVCpIDN1nf9YsK-JyldmIlqNiWv42wOCKc8vjpGdacE&_nc_zt=23&_nc_ht=scontent.fccs3-1.fna&edm=AJ-jyNUEAAAA&_nc_gid=2kzeiVhsMDX5n_d9bpCTag&oh=00_AQOgui3n0N1oimJnNrs_WURRuCo4RfJGIAqZPVCB1FiVWQ&oe=6AD4ABEE"
       }
     },
     "1375923958937880": {
@@ -1755,7 +1741,7 @@
         "seguidos": 0,
         "personas_hablando": 0,
         "foto_perfil": "",
-        "ultima_actualizacion": "2026-10-13T20:57:19.920Z"
+        "ultima_actualizacion": "2026-10-14T01:35:42.759Z"
       },
       "resumen_kpis": {
         "total_seguidores": 7,
