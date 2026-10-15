@@ -20,8 +20,8 @@ async function main() {
     process.exit(1);
   }
 
-  // 1. Opcional: Borrar el reel antiguo de prueba de Tinaco si existe
-  const reelAntiguoId = '18127213669894817';
+  // 1. Eliminar la versión anterior estática de prueba
+  const reelAntiguoId = '18095272214445173';
   console.log(`🗑️ Eliminando Reel de prueba antiguo (${reelAntiguoId})...`);
   try {
     const delRes = await fetch(`https://graph.facebook.com/v19.0/${reelAntiguoId}?access_token=${token}`, {
