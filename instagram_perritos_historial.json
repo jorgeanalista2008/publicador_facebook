@@ -16,7 +16,6 @@
       "permalink": "https://www.instagram.com/p/DedR5SBjogA/",
       "fecha": "2026-10-14T02:11:04.037Z"
     },
-
     {
       "tipo": "reel_cinematico",
       "reel_id": 1,
@@ -24,7 +23,15 @@
       "media_id": "18134183707715498",
       "permalink": "https://www.instagram.com/reel/Def5Cf-j2aW/",
       "fecha": "2026-10-15T02:31:57.308Z"
+    },
+    {
+      "tipo": "foto",
+      "post_id": 6,
+      "titulo": "«Dijeron que se les olvidó subirlo a la mudanza»",
+      "media_id": "18429864322151200",
+      "permalink": "https://www.instagram.com/p/Def7dnBjFfn/",
+      "fecha": "2026-10-15T02:52:44.508Z"
     }
   ],
-  "ultimo_tipo": "reel"
+  "ultimo_tipo": "foto"
 }

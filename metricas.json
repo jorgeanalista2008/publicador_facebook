@@ -5,22 +5,22 @@
     "categoria": "Animals & Pets",
     "seguidores": 27,
     "seguidos": 3,
-    "personas_hablando": 217,
-    "foto_perfil": "https://scontent.fccs3-1.fna.fbcdn.net/v/t39.30808-1/825286629_28604489712564817_7866327839881392565_n.jpg?stp=dst-jpg_s200x200_tt6&_nc_cat=110&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=f907e8&_nc_ohc=c9Bcs-quLs0Q7kNvwHOfaAm&_nc_oc=AdoU-BJMxxl5Hi6zqzXnbkZawc55el-Wo6xau8t_2J0W4eGyI6tp4Oh7ADqTSkb7cmo&_nc_zt=24&_nc_ht=scontent.fccs3-1.fna&edm=AJdBtusEAAAA&_nc_gid=iCCbUbNl10sYQvEWXZ3kKQ&_nc_tpa=Q5bMBQJ8GVgSh68hXdrg7fZVCnl-vJcxHDGDs1JIfj0fTz-4tHpAH6AiNRw5fDSdUPtJ_ewyP1wBXQy3Mg&oh=00_AQPEQZfXGmmOOVYl26gzVAu_MqXaPoxIibz-dJiSjnFbpQ&oe=6AD4A0EB",
-    "ultima_actualizacion": "2026-10-14T01:35:42.461Z"
+    "personas_hablando": 229,
+    "foto_perfil": "https://scontent-iad3-1.xx.fbcdn.net/v/t39.30808-1/825286629_28604489712564817_7866327839881392565_n.jpg?stp=dst-jpg_s200x200_tt6&_nc_cat=110&ccb=1-7&_nc_sid=f907e8&_nc_ohc=c9Bcs-quLs0Q7kNvwFsi1oj&_nc_oc=AdpXbJNeWkcXdHLPEIr9T182S2IMPtRbN_zzjynL8Oyhi_piy44f68ZoKXNDB-FK22g&_nc_zt=24&_nc_ht=scontent-iad3-1.xx&edm=AJdBtusEAAAA&_nc_gid=3dGdr81AnEjkvgmAoPH44w&_nc_tpa=Q5bMBQJZC78OwkQx4e-VykaMxOlEhznVQ9GriQ_rhZPyGPhdZbzs0xOvnV72g-K97F5y0m5vxuZOitmPww&oh=00_AQPfJ9Mz-02JuscbUxontzD5IpMvlpOhu2b3Z74undAX_g&oe=6AD62AAB",
+    "ultima_actualizacion": "2026-10-15T02:52:46.326Z"
   },
   "resumen_kpis": {
     "total_seguidores": 27,
     "seguidores_detalle": "27 seguidores • 3 seguidos",
     "crecimiento_semanal": "+35%",
     "seguidores_nuevos_semana": 7,
-    "personas_hablando": 217,
+    "personas_hablando": 229,
     "alcance_estimado": 486,
-    "interacciones_totales": 22,
-    "reacciones_totales": 5,
+    "interacciones_totales": 4,
+    "reacciones_totales": 4,
     "comentarios_totales": 0,
-    "compartidos_totales": 17,
-    "programados_en_servidores_meta": 76,
+    "compartidos_totales": 0,
+    "programados_en_servidores_meta": 85,
     "total_publicaciones_sistema": 120
   },
   "rendimiento_por_horario": [
@@ -69,6 +69,39 @@
   ],
   "ultimos_posts_publicados": [
     {
+      "id": "1367888553074849_122096592243507613",
+      "url": "https://www.facebook.com/1367888553074849_122096592243507613",
+      "mensaje": "«Destruyó el cojín de la sala, esparció las plumas por todo el pasillo y masticó un zapato nuevo... pero mira esa carita. 😂🐶🛋️\n\nLlegas ca",
+      "fecha": "2026-10-14T23:30:01+0000",
+      "reacciones": 0,
+      "comentarios": 0,
+      "compartidos": 0,
+      "tipo": "post",
+      "estado": "publicado"
+    },
+    {
+      "id": "1367888553074849_122096592009507613",
+      "url": "https://www.facebook.com/1367888553074849_122096592009507613",
+      "mensaje": "«A Luna la rescataron de una fábrica abandonada donde pasó años comiendo lo que el viento traía... 🥺💔\n\nTenía marcas en su piel y el cuerpo",
+      "fecha": "2026-10-14T13:00:39+0000",
+      "reacciones": 0,
+      "comentarios": 0,
+      "compartidos": 0,
+      "tipo": "post",
+      "estado": "publicado"
+    },
+    {
+      "id": "1367888553074849_122101974693507613",
+      "url": "https://www.facebook.com/1367888553074849_122101974693507613",
+      "mensaje": "#empatia #triste 💔🐶 Su dueño se fue para siempre… Y rueditas se que quedó esperandole junto a su silla de ruedas. 🪽😭\n\nEn la esquina de l",
+      "fecha": "2026-10-14T12:50:22+0000",
+      "reacciones": 0,
+      "comentarios": 0,
+      "compartidos": 0,
+      "tipo": "post",
+      "estado": "publicado"
+    },
+    {
       "id": "1367888553074849_122101475613507613",
       "url": "https://www.facebook.com/1367888553074849_122101475613507613",
       "mensaje": "En el condado de Jasper, Georgia, un perro temblaba bajo la lluvia fría, mirando los autos pasar sin que nadie se detuviera. Exhausto y dema",
@@ -86,7 +119,7 @@
       "fecha": "2026-10-13T23:49:48+0000",
       "reacciones": 0,
       "comentarios": 0,
-      "compartidos": 1,
+      "compartidos": 0,
       "tipo": "post",
       "estado": "publicado"
     },
@@ -196,7 +229,7 @@
       "fecha": "2026-10-12T10:50:43+0000",
       "reacciones": 0,
       "comentarios": 0,
-      "compartidos": 1,
+      "compartidos": 0,
       "tipo": "post",
       "estado": "publicado"
     },
@@ -284,7 +317,7 @@
       "fecha": "2026-10-10T12:30:57+0000",
       "reacciones": 0,
       "comentarios": 0,
-      "compartidos": 1,
+      "compartidos": 0,
       "tipo": "post",
       "estado": "publicado"
     },
@@ -298,31 +331,86 @@
       "compartidos": 0,
       "tipo": "post",
       "estado": "publicado"
-    },
-    {
-      "id": "1367888553074849_122098252383507613",
-      "url": "https://www.facebook.com/1367888553074849_122098252383507613",
-      "mensaje": "Pocas palabras despiertan tantas reacciones como \"poder\".\nUnos lo admiran. \nOtros lo temen. \nOtros lo niegan. \nPero casi nadie se detiene a ",
-      "fecha": "2026-10-10T05:35:53+0000",
-      "reacciones": 0,
-      "comentarios": 0,
-      "compartidos": 8,
-      "tipo": "post",
-      "estado": "publicado"
-    },
-    {
-      "id": "1367888553074849_122098249245507613",
-      "url": "https://www.facebook.com/1367888553074849_122098249245507613",
-      "mensaje": "Saber leer y acumular información no significa necesariamente haber aprendido a pensar. En una época en la que tenemos acceso inmediato a mi",
-      "fecha": "2026-10-10T05:28:41+0000",
-      "reacciones": 1,
-      "comentarios": 0,
-      "compartidos": 6,
-      "tipo": "post",
-      "estado": "publicado"
     }
   ],
   "proximos_programados_meta": [
+    {
+      "id": "1367888553074849_122102521527507613",
+      "url": "https://www.facebook.com/1367888553074849_122102521527507613",
+      "mensaje": "Don Aurelio vio cómo cerraron la maderería para siempre y pusieron cinta amarilla de clausura. Al guardia de seguridad le liquidaron su suel",
+      "fecha_programada": "2026-11-11T20:30:00.000Z",
+      "estado": "programado_en_meta"
+    },
+    {
+      "id": "1367888553074849_122102426517507613",
+      "url": "https://www.facebook.com/1367888553074849_122102426517507613",
+      "mensaje": "Don Aurelio vio cómo cerraron la maderería para siempre y pusieron cinta amarilla de clausura. Al guardia de seguridad le liquidaron su suel",
+      "fecha_programada": "2026-11-11T20:30:00.000Z",
+      "estado": "programado_en_meta"
+    },
+    {
+      "id": "1367888553074849_122102521437507613",
+      "url": "https://www.facebook.com/1367888553074849_122102521437507613",
+      "mensaje": "«Sufrimos más a menudo por la imaginación que por la realidad». — Séneca 🏛️📜\n\n¿Cuántas noches te has quedado despierto creando escenarios ",
+      "fecha_programada": "2026-11-11T17:30:00.000Z",
+      "estado": "programado_en_meta"
+    },
+    {
+      "id": "1367888553074849_122102426379507613",
+      "url": "https://www.facebook.com/1367888553074849_122102426379507613",
+      "mensaje": "«Sufrimos más a menudo por la imaginación que por la realidad». — Séneca 🏛️📜\n\n¿Cuántas noches te has quedado despierto creando escenarios ",
+      "fecha_programada": "2026-11-11T17:30:00.000Z",
+      "estado": "programado_en_meta"
+    },
+    {
+      "id": "1367888553074849_122102521377507613",
+      "url": "https://www.facebook.com/1367888553074849_122102521377507613",
+      "mensaje": "Doña Beatriz subió a tender ropa y escuchó un llanto seco en la azotea de enfrente. La casa llevaba dos semanas deshabitada con el letrero d",
+      "fecha_programada": "2026-11-11T12:30:00.000Z",
+      "estado": "programado_en_meta"
+    },
+    {
+      "id": "1367888553074849_122102426325507613",
+      "url": "https://www.facebook.com/1367888553074849_122102426325507613",
+      "mensaje": "Doña Beatriz subió a tender ropa y escuchó un llanto seco en la azotea de enfrente. La casa llevaba dos semanas deshabitada con el letrero d",
+      "fecha_programada": "2026-11-11T12:30:00.000Z",
+      "estado": "programado_en_meta"
+    },
+    {
+      "id": "1367888553074849_122102187837507613",
+      "url": "https://www.facebook.com/1367888553074849_122102187837507613",
+      "mensaje": "Doña Beatriz subió a tender ropa y escuchó un llanto seco en la azotea de enfrente. La casa llevaba dos semanas deshabitada con el letrero d",
+      "fecha_programada": "2026-11-11T12:30:00.000Z",
+      "estado": "programado_en_meta"
+    },
+    {
+      "id": "1367888553074849_122102521305507613",
+      "url": "https://www.facebook.com/1367888553074849_122102521305507613",
+      "mensaje": "«Tienes poder sobre tu mente, no sobre los acontecimientos. Date cuenta de esto y encontrarás la fuerza». — Marco Aurelio 🏛️⚔️\n\nHoy te vas ",
+      "fecha_programada": "2026-11-11T08:00:00.000Z",
+      "estado": "programado_en_meta"
+    },
+    {
+      "id": "1367888553074849_122102426217507613",
+      "url": "https://www.facebook.com/1367888553074849_122102426217507613",
+      "mensaje": "«Tienes poder sobre tu mente, no sobre los acontecimientos. Date cuenta de esto y encontrarás la fuerza». — Marco Aurelio 🏛️⚔️\n\nHoy te vas ",
+      "fecha_programada": "2026-11-11T08:00:00.000Z",
+      "estado": "programado_en_meta"
+    },
+    {
+      "id": "1367888553074849_122102187657507613",
+      "url": "https://www.facebook.com/1367888553074849_122102187657507613",
+      "mensaje": "«Tienes poder sobre tu mente, no sobre los acontecimientos. Date cuenta de esto y encontrarás la fuerza». — Marco Aurelio 🏛️⚔️\n\nHoy te vas ",
+      "fecha_programada": "2026-11-11T08:00:00.000Z",
+      "estado": "programado_en_meta"
+    },
+    {
+      "id": "1367888553074849_122101815057507613",
+      "url": "https://www.facebook.com/1367888553074849_122101815057507613",
+      "mensaje": "«Tienes poder sobre tu mente, no sobre los acontecimientos. Date cuenta de esto y encontrarás la fuerza». — Marco Aurelio 🏛️⚔️\n\nHoy te vas ",
+      "fecha_programada": "2026-11-11T08:00:00.000Z",
+      "estado": "programado_en_meta"
+    },
     {
       "id": "1367888553074849_122101397901507613",
       "url": "https://www.facebook.com/1367888553074849_122101397901507613",
@@ -840,20 +928,6 @@
       "mensaje": "«Esa noche el pequeño Santiago tuvo 39 grados de fiebre. Toby no durmió ni un solo minuto... 🤒🐶\n\nLa mamá de Santiago cuenta que intentó ba",
       "fecha_programada": "2026-10-15T13:00:00.000Z",
       "estado": "programado_en_meta"
-    },
-    {
-      "id": "1367888553074849_122096592243507613",
-      "url": "https://www.facebook.com/1367888553074849_122096592243507613",
-      "mensaje": "«Destruyó el cojín de la sala, esparció las plumas por todo el pasillo y masticó un zapato nuevo... pero mira esa carita. 😂🐶🛋️\n\nLlegas ca",
-      "fecha_programada": "2026-10-14T23:30:00.000Z",
-      "estado": "programado_en_meta"
-    },
-    {
-      "id": "1367888553074849_122096592009507613",
-      "url": "https://www.facebook.com/1367888553074849_122096592009507613",
-      "mensaje": "«A Luna la rescataron de una fábrica abandonada donde pasó años comiendo lo que el viento traía... 🥺💔\n\nTenía marcas en su piel y el cuerpo",
-      "fecha_programada": "2026-10-14T13:00:00.000Z",
-      "estado": "programado_en_meta"
     }
   ],
   "instagram": {
@@ -861,8 +935,8 @@
     "username": "huellasconproposito26",
     "name": "Huellas con propósito",
     "followers": 1,
-    "media_count": 3,
-    "picture": "https://scontent.fccs3-1.fna.fbcdn.net/v/t51.82787-15/846964896_18127515184894503_9206256640984781246_n.jpg?_nc_cat=104&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=7d201b&_nc_ohc=KOUC1jaBY3YQ7kNvwHMjw_V&_nc_oc=AdrCFv9QVTniRs7YCr1DucoTCVCpIDN1nf9YsK-JyldmIlqNiWv42wOCKc8vjpGdacE&_nc_zt=23&_nc_ht=scontent.fccs3-1.fna&edm=AJ-jyNUEAAAA&_nc_gid=2kzeiVhsMDX5n_d9bpCTag&oh=00_AQOgui3n0N1oimJnNrs_WURRuCo4RfJGIAqZPVCB1FiVWQ&oe=6AD4ABEE"
+    "media_count": 5,
+    "picture": "https://scontent-iad3-1.xx.fbcdn.net/v/t51.82787-15/846964896_18127515184894503_9206256640984781246_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=7d201b&_nc_ohc=KOUC1jaBY3YQ7kNvwHclW3t&_nc_oc=AdrIOtiQH6MBa1DMhqlrWmjozyo2iF-Pn8SQCRmaAhauZdsulFb1YHb_b0bPw4pShXM&_nc_zt=23&_nc_ht=scontent-iad3-1.xx&edm=AJ-jyNUEAAAA&_nc_gid=M3IzMgDd-zFVwUpXFnyQaw&oh=00_AQO8gHyeLGyMbutPfxPj5g6gxPekL-onwYUq1AyvKV8whg&oe=6AD5FD6E"
   },
   "paginas": {
     "1367888553074849": {
@@ -872,22 +946,22 @@
         "categoria": "Animals & Pets",
         "seguidores": 27,
         "seguidos": 3,
-        "personas_hablando": 217,
-        "foto_perfil": "https://scontent.fccs3-1.fna.fbcdn.net/v/t39.30808-1/825286629_28604489712564817_7866327839881392565_n.jpg?stp=dst-jpg_s200x200_tt6&_nc_cat=110&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=f907e8&_nc_ohc=c9Bcs-quLs0Q7kNvwHOfaAm&_nc_oc=AdoU-BJMxxl5Hi6zqzXnbkZawc55el-Wo6xau8t_2J0W4eGyI6tp4Oh7ADqTSkb7cmo&_nc_zt=24&_nc_ht=scontent.fccs3-1.fna&edm=AJdBtusEAAAA&_nc_gid=iCCbUbNl10sYQvEWXZ3kKQ&_nc_tpa=Q5bMBQJ8GVgSh68hXdrg7fZVCnl-vJcxHDGDs1JIfj0fTz-4tHpAH6AiNRw5fDSdUPtJ_ewyP1wBXQy3Mg&oh=00_AQPEQZfXGmmOOVYl26gzVAu_MqXaPoxIibz-dJiSjnFbpQ&oe=6AD4A0EB",
-        "ultima_actualizacion": "2026-10-14T01:35:42.461Z"
+        "personas_hablando": 229,
+        "foto_perfil": "https://scontent-iad3-1.xx.fbcdn.net/v/t39.30808-1/825286629_28604489712564817_7866327839881392565_n.jpg?stp=dst-jpg_s200x200_tt6&_nc_cat=110&ccb=1-7&_nc_sid=f907e8&_nc_ohc=c9Bcs-quLs0Q7kNvwFsi1oj&_nc_oc=AdpXbJNeWkcXdHLPEIr9T182S2IMPtRbN_zzjynL8Oyhi_piy44f68ZoKXNDB-FK22g&_nc_zt=24&_nc_ht=scontent-iad3-1.xx&edm=AJdBtusEAAAA&_nc_gid=3dGdr81AnEjkvgmAoPH44w&_nc_tpa=Q5bMBQJZC78OwkQx4e-VykaMxOlEhznVQ9GriQ_rhZPyGPhdZbzs0xOvnV72g-K97F5y0m5vxuZOitmPww&oh=00_AQPfJ9Mz-02JuscbUxontzD5IpMvlpOhu2b3Z74undAX_g&oe=6AD62AAB",
+        "ultima_actualizacion": "2026-10-15T02:52:46.326Z"
       },
       "resumen_kpis": {
         "total_seguidores": 27,
         "seguidores_detalle": "27 seguidores • 3 seguidos",
         "crecimiento_semanal": "+35%",
         "seguidores_nuevos_semana": 7,
-        "personas_hablando": 217,
+        "personas_hablando": 229,
         "alcance_estimado": 486,
-        "interacciones_totales": 22,
-        "reacciones_totales": 5,
+        "interacciones_totales": 4,
+        "reacciones_totales": 4,
         "comentarios_totales": 0,
-        "compartidos_totales": 17,
-        "programados_en_servidores_meta": 76,
+        "compartidos_totales": 0,
+        "programados_en_servidores_meta": 85,
         "total_publicaciones_sistema": 120
       },
       "rendimiento_por_horario": [
@@ -936,6 +1010,39 @@
       ],
       "ultimos_posts_publicados": [
         {
+          "id": "1367888553074849_122096592243507613",
+          "url": "https://www.facebook.com/1367888553074849_122096592243507613",
+          "mensaje": "«Destruyó el cojín de la sala, esparció las plumas por todo el pasillo y masticó un zapato nuevo... pero mira esa carita. 😂🐶🛋️\n\nLlegas ca",
+          "fecha": "2026-10-14T23:30:01+0000",
+          "reacciones": 0,
+          "comentarios": 0,
+          "compartidos": 0,
+          "tipo": "post",
+          "estado": "publicado"
+        },
+        {
+          "id": "1367888553074849_122096592009507613",
+          "url": "https://www.facebook.com/1367888553074849_122096592009507613",
+          "mensaje": "«A Luna la rescataron de una fábrica abandonada donde pasó años comiendo lo que el viento traía... 🥺💔\n\nTenía marcas en su piel y el cuerpo",
+          "fecha": "2026-10-14T13:00:39+0000",
+          "reacciones": 0,
+          "comentarios": 0,
+          "compartidos": 0,
+          "tipo": "post",
+          "estado": "publicado"
+        },
+        {
+          "id": "1367888553074849_122101974693507613",
+          "url": "https://www.facebook.com/1367888553074849_122101974693507613",
+          "mensaje": "#empatia #triste 💔🐶 Su dueño se fue para siempre… Y rueditas se que quedó esperandole junto a su silla de ruedas. 🪽😭\n\nEn la esquina de l",
+          "fecha": "2026-10-14T12:50:22+0000",
+          "reacciones": 0,
+          "comentarios": 0,
+          "compartidos": 0,
+          "tipo": "post",
+          "estado": "publicado"
+        },
+        {
           "id": "1367888553074849_122101475613507613",
           "url": "https://www.facebook.com/1367888553074849_122101475613507613",
           "mensaje": "En el condado de Jasper, Georgia, un perro temblaba bajo la lluvia fría, mirando los autos pasar sin que nadie se detuviera. Exhausto y dema",
@@ -953,7 +1060,7 @@
           "fecha": "2026-10-13T23:49:48+0000",
           "reacciones": 0,
           "comentarios": 0,
-          "compartidos": 1,
+          "compartidos": 0,
           "tipo": "post",
           "estado": "publicado"
         },
@@ -1063,7 +1170,7 @@
           "fecha": "2026-10-12T10:50:43+0000",
           "reacciones": 0,
           "comentarios": 0,
-          "compartidos": 1,
+          "compartidos": 0,
           "tipo": "post",
           "estado": "publicado"
         },
@@ -1151,7 +1258,7 @@
           "fecha": "2026-10-10T12:30:57+0000",
           "reacciones": 0,
           "comentarios": 0,
-          "compartidos": 1,
+          "compartidos": 0,
           "tipo": "post",
           "estado": "publicado"
         },
@@ -1165,31 +1272,86 @@
           "compartidos": 0,
           "tipo": "post",
           "estado": "publicado"
-        },
-        {
-          "id": "1367888553074849_122098252383507613",
-          "url": "https://www.facebook.com/1367888553074849_122098252383507613",
-          "mensaje": "Pocas palabras despiertan tantas reacciones como \"poder\".\nUnos lo admiran. \nOtros lo temen. \nOtros lo niegan. \nPero casi nadie se detiene a ",
-          "fecha": "2026-10-10T05:35:53+0000",
-          "reacciones": 0,
-          "comentarios": 0,
-          "compartidos": 8,
-          "tipo": "post",
-          "estado": "publicado"
-        },
-        {
-          "id": "1367888553074849_122098249245507613",
-          "url": "https://www.facebook.com/1367888553074849_122098249245507613",
-          "mensaje": "Saber leer y acumular información no significa necesariamente haber aprendido a pensar. En una época en la que tenemos acceso inmediato a mi",
-          "fecha": "2026-10-10T05:28:41+0000",
-          "reacciones": 1,
-          "comentarios": 0,
-          "compartidos": 6,
-          "tipo": "post",
-          "estado": "publicado"
         }
       ],
       "proximos_programados_meta": [
+        {
+          "id": "1367888553074849_122102521527507613",
+          "url": "https://www.facebook.com/1367888553074849_122102521527507613",
+          "mensaje": "Don Aurelio vio cómo cerraron la maderería para siempre y pusieron cinta amarilla de clausura. Al guardia de seguridad le liquidaron su suel",
+          "fecha_programada": "2026-11-11T20:30:00.000Z",
+          "estado": "programado_en_meta"
+        },
+        {
+          "id": "1367888553074849_122102426517507613",
+          "url": "https://www.facebook.com/1367888553074849_122102426517507613",
+          "mensaje": "Don Aurelio vio cómo cerraron la maderería para siempre y pusieron cinta amarilla de clausura. Al guardia de seguridad le liquidaron su suel",
+          "fecha_programada": "2026-11-11T20:30:00.000Z",
+          "estado": "programado_en_meta"
+        },
+        {
+          "id": "1367888553074849_122102521437507613",
+          "url": "https://www.facebook.com/1367888553074849_122102521437507613",
+          "mensaje": "«Sufrimos más a menudo por la imaginación que por la realidad». — Séneca 🏛️📜\n\n¿Cuántas noches te has quedado despierto creando escenarios ",
+          "fecha_programada": "2026-11-11T17:30:00.000Z",
+          "estado": "programado_en_meta"
+        },
+        {
+          "id": "1367888553074849_122102426379507613",
+          "url": "https://www.facebook.com/1367888553074849_122102426379507613",
+          "mensaje": "«Sufrimos más a menudo por la imaginación que por la realidad». — Séneca 🏛️📜\n\n¿Cuántas noches te has quedado despierto creando escenarios ",
+          "fecha_programada": "2026-11-11T17:30:00.000Z",
+          "estado": "programado_en_meta"
+        },
+        {
+          "id": "1367888553074849_122102521377507613",
+          "url": "https://www.facebook.com/1367888553074849_122102521377507613",
+          "mensaje": "Doña Beatriz subió a tender ropa y escuchó un llanto seco en la azotea de enfrente. La casa llevaba dos semanas deshabitada con el letrero d",
+          "fecha_programada": "2026-11-11T12:30:00.000Z",
+          "estado": "programado_en_meta"
+        },
+        {
+          "id": "1367888553074849_122102426325507613",
+          "url": "https://www.facebook.com/1367888553074849_122102426325507613",
+          "mensaje": "Doña Beatriz subió a tender ropa y escuchó un llanto seco en la azotea de enfrente. La casa llevaba dos semanas deshabitada con el letrero d",
+          "fecha_programada": "2026-11-11T12:30:00.000Z",
+          "estado": "programado_en_meta"
+        },
+        {
+          "id": "1367888553074849_122102187837507613",
+          "url": "https://www.facebook.com/1367888553074849_122102187837507613",
+          "mensaje": "Doña Beatriz subió a tender ropa y escuchó un llanto seco en la azotea de enfrente. La casa llevaba dos semanas deshabitada con el letrero d",
+          "fecha_programada": "2026-11-11T12:30:00.000Z",
+          "estado": "programado_en_meta"
+        },
+        {
+          "id": "1367888553074849_122102521305507613",
+          "url": "https://www.facebook.com/1367888553074849_122102521305507613",
+          "mensaje": "«Tienes poder sobre tu mente, no sobre los acontecimientos. Date cuenta de esto y encontrarás la fuerza». — Marco Aurelio 🏛️⚔️\n\nHoy te vas ",
+          "fecha_programada": "2026-11-11T08:00:00.000Z",
+          "estado": "programado_en_meta"
+        },
+        {
+          "id": "1367888553074849_122102426217507613",
+          "url": "https://www.facebook.com/1367888553074849_122102426217507613",
+          "mensaje": "«Tienes poder sobre tu mente, no sobre los acontecimientos. Date cuenta de esto y encontrarás la fuerza». — Marco Aurelio 🏛️⚔️\n\nHoy te vas ",
+          "fecha_programada": "2026-11-11T08:00:00.000Z",
+          "estado": "programado_en_meta"
+        },
+        {
+          "id": "1367888553074849_122102187657507613",
+          "url": "https://www.facebook.com/1367888553074849_122102187657507613",
+          "mensaje": "«Tienes poder sobre tu mente, no sobre los acontecimientos. Date cuenta de esto y encontrarás la fuerza». — Marco Aurelio 🏛️⚔️\n\nHoy te vas ",
+          "fecha_programada": "2026-11-11T08:00:00.000Z",
+          "estado": "programado_en_meta"
+        },
+        {
+          "id": "1367888553074849_122101815057507613",
+          "url": "https://www.facebook.com/1367888553074849_122101815057507613",
+          "mensaje": "«Tienes poder sobre tu mente, no sobre los acontecimientos. Date cuenta de esto y encontrarás la fuerza». — Marco Aurelio 🏛️⚔️\n\nHoy te vas ",
+          "fecha_programada": "2026-11-11T08:00:00.000Z",
+          "estado": "programado_en_meta"
+        },
         {
           "id": "1367888553074849_122101397901507613",
           "url": "https://www.facebook.com/1367888553074849_122101397901507613",
@@ -1707,20 +1869,6 @@
           "mensaje": "«Esa noche el pequeño Santiago tuvo 39 grados de fiebre. Toby no durmió ni un solo minuto... 🤒🐶\n\nLa mamá de Santiago cuenta que intentó ba",
           "fecha_programada": "2026-10-15T13:00:00.000Z",
           "estado": "programado_en_meta"
-        },
-        {
-          "id": "1367888553074849_122096592243507613",
-          "url": "https://www.facebook.com/1367888553074849_122096592243507613",
-          "mensaje": "«Destruyó el cojín de la sala, esparció las plumas por todo el pasillo y masticó un zapato nuevo... pero mira esa carita. 😂🐶🛋️\n\nLlegas ca",
-          "fecha_programada": "2026-10-14T23:30:00.000Z",
-          "estado": "programado_en_meta"
-        },
-        {
-          "id": "1367888553074849_122096592009507613",
-          "url": "https://www.facebook.com/1367888553074849_122096592009507613",
-          "mensaje": "«A Luna la rescataron de una fábrica abandonada donde pasó años comiendo lo que el viento traía... 🥺💔\n\nTenía marcas en su piel y el cuerpo",
-          "fecha_programada": "2026-10-14T13:00:00.000Z",
-          "estado": "programado_en_meta"
         }
       ],
       "instagram": {
@@ -1728,8 +1876,8 @@
         "username": "huellasconproposito26",
         "name": "Huellas con propósito",
         "followers": 1,
-        "media_count": 3,
-        "picture": "https://scontent.fccs3-1.fna.fbcdn.net/v/t51.82787-15/846964896_18127515184894503_9206256640984781246_n.jpg?_nc_cat=104&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=7d201b&_nc_ohc=KOUC1jaBY3YQ7kNvwHMjw_V&_nc_oc=AdrCFv9QVTniRs7YCr1DucoTCVCpIDN1nf9YsK-JyldmIlqNiWv42wOCKc8vjpGdacE&_nc_zt=23&_nc_ht=scontent.fccs3-1.fna&edm=AJ-jyNUEAAAA&_nc_gid=2kzeiVhsMDX5n_d9bpCTag&oh=00_AQOgui3n0N1oimJnNrs_WURRuCo4RfJGIAqZPVCB1FiVWQ&oe=6AD4ABEE"
+        "media_count": 5,
+        "picture": "https://scontent-iad3-1.xx.fbcdn.net/v/t51.82787-15/846964896_18127515184894503_9206256640984781246_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=7d201b&_nc_ohc=KOUC1jaBY3YQ7kNvwHclW3t&_nc_oc=AdrIOtiQH6MBa1DMhqlrWmjozyo2iF-Pn8SQCRmaAhauZdsulFb1YHb_b0bPw4pShXM&_nc_zt=23&_nc_ht=scontent-iad3-1.xx&edm=AJ-jyNUEAAAA&_nc_gid=M3IzMgDd-zFVwUpXFnyQaw&oh=00_AQO8gHyeLGyMbutPfxPj5g6gxPekL-onwYUq1AyvKV8whg&oe=6AD5FD6E"
       }
     },
     "1375923958937880": {
@@ -1741,7 +1889,7 @@
         "seguidos": 0,
         "personas_hablando": 0,
         "foto_perfil": "",
-        "ultima_actualizacion": "2026-10-14T01:35:42.759Z"
+        "ultima_actualizacion": "2026-10-15T02:52:46.439Z"
       },
       "resumen_kpis": {
         "total_seguidores": 7,
@@ -1754,7 +1902,7 @@
         "reacciones_totales": 3,
         "comentarios_totales": 0,
         "compartidos_totales": 1,
-        "programados_en_servidores_meta": 27,
+        "programados_en_servidores_meta": 26,
         "total_publicaciones_sistema": 52
       },
       "rendimiento_por_horario": [
@@ -1856,16 +2004,20 @@
           "compartidos": 0,
           "tipo": "post",
           "estado": "publicado"
-        }
-      ],
-      "proximos_programados_meta": [
+        },
         {
           "id": "122095708185512707",
           "url": "https://www.facebook.com/122095708185512707",
-          "mensaje": "⏰ [Programado 2026-10-14 19:00] Mentalidad Errónea: EL ADICTO A VALIDACIÓN vs Mentalidad de Acero",
-          "fecha_programada": "2026-10-14T19:00:00Z",
-          "estado": "programado_en_meta"
-        },
+          "mensaje": "Mentalidad Errónea: EL ADICTO A VALIDACIÓN vs Mentalidad de Acero: \"EL QUE EDIFICA SU VALOR SOBRE EL APLAUSO AJENO, SE DERRUMBA EN EL MOMENTO EN QUE LLEGA EL SILENCIO.\"  ¡DESPIERTA!   Dej...",
+          "fecha": "2026-10-14T19:00:00.000Z",
+          "reacciones": 0,
+          "comentarios": 0,
+          "compartidos": 0,
+          "tipo": "post",
+          "estado": "publicado"
+        }
+      ],
+      "proximos_programados_meta": [
         {
           "id": "122095708251512707",
           "url": "https://www.facebook.com/122095708251512707",
