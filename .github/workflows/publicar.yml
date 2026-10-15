@@ -44,9 +44,11 @@ jobs:
         run: node respondedor_comentarios.js
 
       - name: 🐶 Publicador Automático de Instagram Perritos (@huellasconproposito26)
+        continue-on-error: true
         env:
           META_ACCESS_TOKEN: ${{ secrets.META_ACCESS_TOKEN }}
           PAGE_ID: ${{ secrets.PAGE_ID }}
+          IG_USER_ID: '17841426835073929'
         run: node publicador_instagram_perritos.js --auto
 
       - name: 📊 Extractor de Métricas Multi-Página (Dashboard)

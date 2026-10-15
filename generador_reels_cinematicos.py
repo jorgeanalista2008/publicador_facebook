@@ -11,6 +11,7 @@ import os
 import sys
 import json
 import subprocess
+import requests
 import imageio_ffmpeg
 from PIL import Image, ImageFilter, ImageDraw, ImageFont
 from gtts import gTTS
@@ -67,21 +68,24 @@ def descargar_clip_pexels(query, salida_path, api_key):
         print(f"   [Pexels API] Aviso al descargar '{query}': {e}")
     return None
 
-def descargar_clip_pixabay(query, salida_path, api_key):
+def descargar_clip_pixabay(query, salida_path, api_key, clip_index=0):
     """
     Descarga un clip de video de Pixabay automáticamente.
     """
     if not api_key:
         return None
     try:
-        url = f"https://pixabay.com/api/videos/?key={api_key}&q={requests.utils.quote(query)}&per_page=6"
-        res = requests.get(url, timeout=12).json()
+        url = f"https://pixabay.com/api/videos/?key={api_key}&q={requests.utils.quote(query)}&per_page=15"
+        headers = {"User-Agent": "Mozilla/5.0"}
+        res = requests.get(url, headers=headers, timeout=12).json()
         hits = res.get("hits", [])
-        for h in hits:
-            videos = h.get("videos", {})
+        if hits:
+            # Reordenar para seleccionar según clip_index
+            h_sel = hits[clip_index % len(hits)]
+            videos = h_sel.get("videos", {})
             v_obj = videos.get("large") or videos.get("medium") or videos.get("small")
             if v_obj and v_obj.get("url"):
-                r = requests.get(v_obj["url"], stream=True, timeout=25)
+                r = requests.get(v_obj["url"], headers=headers, stream=True, timeout=25)
                 with open(salida_path, "wb") as out:
                     for chunk in r.iter_content(chunk_size=1024*1024):
                         out.write(chunk)
@@ -265,16 +269,19 @@ def generar_reel_cinematico(datos_historia):
         if pexels_key:
             clip_real = descargar_clip_pexels(queries[idx], toma_path, pexels_key)
         elif pixabay_key:
-            clip_real = descargar_clip_pixabay(queries[idx], toma_path, pixabay_key)
+            clip_real = descargar_clip_pixabay(queries[idx], toma_path, pixabay_key, clip_index=id_historia + idx)
 
         if clip_real and os.path.exists(clip_real) and os.path.getsize(clip_real) > 10000:
             print(f"   🎥 Clip real de video #{idx+1} descargado ({queries[idx]}).")
             toma_ajustada = os.path.join(CACHE_DIR, f"toma_ajustada_{id_historia}_{idx+1}.mp4")
             cmd_clip = [
                 FFMPEG_EXE, "-y",
+                "-stream_loop", "-1",
                 "-i", clip_real,
                 "-vf", "scale=1080:1920:force_original_aspect_ratio=increase,crop=1080:1920,setsar=1",
                 "-t", str(dur_toma),
+                "-r", "30",
+                "-pix_fmt", "yuv420p",
                 "-c:v", "libx264", "-preset", "veryfast", "-crf", "20",
                 toma_ajustada
             ]

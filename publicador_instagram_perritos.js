@@ -28,11 +28,18 @@ const GITHUB_PAGES_BASE = 'https://jorgeanalista2008.github.io/publicador_facebo
 function cargarCredenciales() {
   let cfg = {};
   if (fs.existsSync(CONFIG_PATH)) {
-    cfg = JSON.parse(fs.readFileSync(CONFIG_PATH, 'utf-8'));
+    try {
+      cfg = JSON.parse(fs.readFileSync(CONFIG_PATH, 'utf-8'));
+    } catch (e) {}
   }
 
   const token = process.env.META_ACCESS_TOKEN || cfg.PAGINAS?.huellas_con_proposito?.token || cfg.ACCESS_TOKEN;
-  const igUserId = process.env.IG_USER_ID || cfg.PAGINAS?.huellas_con_proposito?.instagram?.id;
+  let igUserId = process.env.IG_USER_ID || cfg.PAGINAS?.huellas_con_proposito?.instagram?.id;
+
+  // Fallback al ID oficial de @huellasconproposito26
+  if (!igUserId) {
+    igUserId = '17841426835073929';
+  }
 
   return { token, igUserId };
 }
