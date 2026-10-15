@@ -5,22 +5,22 @@
     "categoria": "Animals & Pets",
     "seguidores": 27,
     "seguidos": 3,
-    "personas_hablando": 229,
-    "foto_perfil": "https://scontent-iad3-1.xx.fbcdn.net/v/t39.30808-1/825286629_28604489712564817_7866327839881392565_n.jpg?stp=dst-jpg_s200x200_tt6&_nc_cat=110&ccb=1-7&_nc_sid=f907e8&_nc_ohc=c9Bcs-quLs0Q7kNvwFsi1oj&_nc_oc=AdpXbJNeWkcXdHLPEIr9T182S2IMPtRbN_zzjynL8Oyhi_piy44f68ZoKXNDB-FK22g&_nc_zt=24&_nc_ht=scontent-iad3-1.xx&edm=AJdBtusEAAAA&_nc_gid=3dGdr81AnEjkvgmAoPH44w&_nc_tpa=Q5bMBQJZC78OwkQx4e-VykaMxOlEhznVQ9GriQ_rhZPyGPhdZbzs0xOvnV72g-K97F5y0m5vxuZOitmPww&oh=00_AQPfJ9Mz-02JuscbUxontzD5IpMvlpOhu2b3Z74undAX_g&oe=6AD62AAB",
-    "ultima_actualizacion": "2026-10-15T02:52:46.326Z"
+    "personas_hablando": 218,
+    "foto_perfil": "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.30808-1/825286629_28604489712564817_7866327839881392565_n.jpg?stp=dst-jpg_s200x200_tt6&_nc_cat=110&ccb=1-7&_nc_sid=f907e8&_nc_ohc=-Jv6zG2BjMcQ7kNvwFTAl6s&_nc_oc=AdqOfwxpcuhYJa7999oPIvLNlaVCWTCh4WaGn9ijffggcOk7rLHgrdyqgS7nm2fZVaI&_nc_zt=24&_nc_ht=scontent-sjc3-1.xx&edm=AJdBtusEAAAA&_nc_gid=_l00hPYehsq8tFM1tg-VKw&_nc_tpa=Q5bMBQIqtDm2QTOc0PfoVFAC8u5d-t0Y-3tdXNa8iS8bUunYy6qIhmiJXErvWHo32oqpVks7yHeTN0uFVQ&oh=00_AQNDI_JOUUApBS383UTvFsGPP-mTqn0Z4cy4guvsN-2TDA&oe=6AD6D36B",
+    "ultima_actualizacion": "2026-10-15T17:17:22.964Z"
   },
   "resumen_kpis": {
     "total_seguidores": 27,
     "seguidores_detalle": "27 seguidores • 3 seguidos",
     "crecimiento_semanal": "+35%",
     "seguidores_nuevos_semana": 7,
-    "personas_hablando": 229,
+    "personas_hablando": 218,
     "alcance_estimado": 486,
-    "interacciones_totales": 4,
-    "reacciones_totales": 4,
+    "interacciones_totales": 0,
+    "reacciones_totales": 0,
     "comentarios_totales": 0,
     "compartidos_totales": 0,
-    "programados_en_servidores_meta": 85,
+    "programados_en_servidores_meta": 86,
     "total_publicaciones_sistema": 120
   },
   "rendimiento_por_horario": [
@@ -68,6 +68,28 @@
     }
   ],
   "ultimos_posts_publicados": [
+    {
+      "id": "1367888553074849_122102939373507613",
+      "url": "https://www.facebook.com/1367888553074849_122102939373507613",
+      "mensaje": "Publicación",
+      "fecha": "2026-10-15T13:55:56+0000",
+      "reacciones": 0,
+      "comentarios": 0,
+      "compartidos": 0,
+      "tipo": "post",
+      "estado": "publicado"
+    },
+    {
+      "id": "1367888553074849_122096592441507613",
+      "url": "https://www.facebook.com/1367888553074849_122096592441507613",
+      "mensaje": "«Esa noche el pequeño Santiago tuvo 39 grados de fiebre. Toby no durmió ni un solo minuto... 🤒🐶\n\nLa mamá de Santiago cuenta que intentó ba",
+      "fecha": "2026-10-15T13:00:17+0000",
+      "reacciones": 0,
+      "comentarios": 0,
+      "compartidos": 0,
+      "tipo": "post",
+      "estado": "publicado"
+    },
     {
       "id": "1367888553074849_122096592243507613",
       "url": "https://www.facebook.com/1367888553074849_122096592243507613",
@@ -309,31 +331,23 @@
       "compartidos": 0,
       "tipo": "post",
       "estado": "publicado"
-    },
-    {
-      "id": "1367888553074849_122098457997507613",
-      "url": "https://www.facebook.com/1367888553074849_122098457997507613",
-      "mensaje": "Doña Mari vendió tamales en esa esquina durante veinte años. Salía a las cinco de la mañana con su olla grande, y al perro, que llegó un día",
-      "fecha": "2026-10-10T12:30:57+0000",
-      "reacciones": 0,
-      "comentarios": 0,
-      "compartidos": 0,
-      "tipo": "post",
-      "estado": "publicado"
-    },
-    {
-      "id": "1367888553074849_122098457679507613",
-      "url": "https://www.facebook.com/1367888553074849_122098457679507613",
-      "mensaje": "Doña Mari vendió tamales en esa esquina durante veinte años. Salía a las cinco de la mañana con su olla grande, y al perro, que llegó un día",
-      "fecha": "2026-10-10T12:30:57+0000",
-      "reacciones": 4,
-      "comentarios": 0,
-      "compartidos": 0,
-      "tipo": "post",
-      "estado": "publicado"
     }
   ],
   "proximos_programados_meta": [
+    {
+      "id": "1367888553074849_122103085353507613",
+      "url": "https://www.facebook.com/1367888553074849_122103085353507613",
+      "mensaje": "La señora Carmela vio salir el camión de mudanza a toda velocidad. Diez minutos después, una cachorrita peluda y blanca salió corriendo del ",
+      "fecha_programada": "2026-11-12T12:30:00.000Z",
+      "estado": "programado_en_meta"
+    },
+    {
+      "id": "1367888553074849_122103085233507613",
+      "url": "https://www.facebook.com/1367888553074849_122103085233507613",
+      "mensaje": "«No nos afecta lo que nos sucede, sino el juicio que nos formamos de lo que nos sucede». — Epicteto 🏛️🛡️\n\nEpicteto nació esclavo, soportó ",
+      "fecha_programada": "2026-11-12T08:00:00.000Z",
+      "estado": "programado_en_meta"
+    },
     {
       "id": "1367888553074849_122102521527507613",
       "url": "https://www.facebook.com/1367888553074849_122102521527507613",
@@ -921,13 +935,6 @@
       "mensaje": "«A veces escucho a personas decir: '¿Por qué lloras tanto? Tranquilo, al final es solo un perro'... 💔\n\nClaramente nunca han sabido lo que e",
       "fecha_programada": "2026-10-15T23:30:00.000Z",
       "estado": "programado_en_meta"
-    },
-    {
-      "id": "1367888553074849_122096592441507613",
-      "url": "https://www.facebook.com/1367888553074849_122096592441507613",
-      "mensaje": "«Esa noche el pequeño Santiago tuvo 39 grados de fiebre. Toby no durmió ni un solo minuto... 🤒🐶\n\nLa mamá de Santiago cuenta que intentó ba",
-      "fecha_programada": "2026-10-15T13:00:00.000Z",
-      "estado": "programado_en_meta"
     }
   ],
   "instagram": {
@@ -935,8 +942,8 @@
     "username": "huellasconproposito26",
     "name": "Huellas con propósito",
     "followers": 1,
-    "media_count": 5,
-    "picture": "https://scontent-iad3-1.xx.fbcdn.net/v/t51.82787-15/846964896_18127515184894503_9206256640984781246_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=7d201b&_nc_ohc=KOUC1jaBY3YQ7kNvwHclW3t&_nc_oc=AdrIOtiQH6MBa1DMhqlrWmjozyo2iF-Pn8SQCRmaAhauZdsulFb1YHb_b0bPw4pShXM&_nc_zt=23&_nc_ht=scontent-iad3-1.xx&edm=AJ-jyNUEAAAA&_nc_gid=M3IzMgDd-zFVwUpXFnyQaw&oh=00_AQO8gHyeLGyMbutPfxPj5g6gxPekL-onwYUq1AyvKV8whg&oe=6AD5FD6E"
+    "media_count": 6,
+    "picture": "https://scontent-sjc6-1.xx.fbcdn.net/v/t51.82787-15/846964896_18127515184894503_9206256640984781246_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=7d201b&_nc_ohc=fjCo7kx4GuoQ7kNvwGX2RbL&_nc_oc=AdrzzoqwP_ZGN8v_BEbH7gyUO6ddlyWJ-z-nCjpEA03pqcrOrzmeJz8c4Ev0DxCtO3I&_nc_zt=23&_nc_ht=scontent-sjc6-1.xx&edm=AJ-jyNUEAAAA&_nc_gid=l9ThyCek8MDnO2Gfp1ZBmg&oh=00_AQMsK7U9C0kNvenaNyiH0rTWbqo-fgsh6h4M2fKBcuaMFA&oe=6AD6DE6E"
   },
   "paginas": {
     "1367888553074849": {
@@ -946,22 +953,22 @@
         "categoria": "Animals & Pets",
         "seguidores": 27,
         "seguidos": 3,
-        "personas_hablando": 229,
-        "foto_perfil": "https://scontent-iad3-1.xx.fbcdn.net/v/t39.30808-1/825286629_28604489712564817_7866327839881392565_n.jpg?stp=dst-jpg_s200x200_tt6&_nc_cat=110&ccb=1-7&_nc_sid=f907e8&_nc_ohc=c9Bcs-quLs0Q7kNvwFsi1oj&_nc_oc=AdpXbJNeWkcXdHLPEIr9T182S2IMPtRbN_zzjynL8Oyhi_piy44f68ZoKXNDB-FK22g&_nc_zt=24&_nc_ht=scontent-iad3-1.xx&edm=AJdBtusEAAAA&_nc_gid=3dGdr81AnEjkvgmAoPH44w&_nc_tpa=Q5bMBQJZC78OwkQx4e-VykaMxOlEhznVQ9GriQ_rhZPyGPhdZbzs0xOvnV72g-K97F5y0m5vxuZOitmPww&oh=00_AQPfJ9Mz-02JuscbUxontzD5IpMvlpOhu2b3Z74undAX_g&oe=6AD62AAB",
-        "ultima_actualizacion": "2026-10-15T02:52:46.326Z"
+        "personas_hablando": 218,
+        "foto_perfil": "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.30808-1/825286629_28604489712564817_7866327839881392565_n.jpg?stp=dst-jpg_s200x200_tt6&_nc_cat=110&ccb=1-7&_nc_sid=f907e8&_nc_ohc=-Jv6zG2BjMcQ7kNvwFTAl6s&_nc_oc=AdqOfwxpcuhYJa7999oPIvLNlaVCWTCh4WaGn9ijffggcOk7rLHgrdyqgS7nm2fZVaI&_nc_zt=24&_nc_ht=scontent-sjc3-1.xx&edm=AJdBtusEAAAA&_nc_gid=_l00hPYehsq8tFM1tg-VKw&_nc_tpa=Q5bMBQIqtDm2QTOc0PfoVFAC8u5d-t0Y-3tdXNa8iS8bUunYy6qIhmiJXErvWHo32oqpVks7yHeTN0uFVQ&oh=00_AQNDI_JOUUApBS383UTvFsGPP-mTqn0Z4cy4guvsN-2TDA&oe=6AD6D36B",
+        "ultima_actualizacion": "2026-10-15T17:17:22.964Z"
       },
       "resumen_kpis": {
         "total_seguidores": 27,
         "seguidores_detalle": "27 seguidores • 3 seguidos",
         "crecimiento_semanal": "+35%",
         "seguidores_nuevos_semana": 7,
-        "personas_hablando": 229,
+        "personas_hablando": 218,
         "alcance_estimado": 486,
-        "interacciones_totales": 4,
-        "reacciones_totales": 4,
+        "interacciones_totales": 0,
+        "reacciones_totales": 0,
         "comentarios_totales": 0,
         "compartidos_totales": 0,
-        "programados_en_servidores_meta": 85,
+        "programados_en_servidores_meta": 86,
         "total_publicaciones_sistema": 120
       },
       "rendimiento_por_horario": [
@@ -1009,6 +1016,28 @@
         }
       ],
       "ultimos_posts_publicados": [
+        {
+          "id": "1367888553074849_122102939373507613",
+          "url": "https://www.facebook.com/1367888553074849_122102939373507613",
+          "mensaje": "Publicación",
+          "fecha": "2026-10-15T13:55:56+0000",
+          "reacciones": 0,
+          "comentarios": 0,
+          "compartidos": 0,
+          "tipo": "post",
+          "estado": "publicado"
+        },
+        {
+          "id": "1367888553074849_122096592441507613",
+          "url": "https://www.facebook.com/1367888553074849_122096592441507613",
+          "mensaje": "«Esa noche el pequeño Santiago tuvo 39 grados de fiebre. Toby no durmió ni un solo minuto... 🤒🐶\n\nLa mamá de Santiago cuenta que intentó ba",
+          "fecha": "2026-10-15T13:00:17+0000",
+          "reacciones": 0,
+          "comentarios": 0,
+          "compartidos": 0,
+          "tipo": "post",
+          "estado": "publicado"
+        },
         {
           "id": "1367888553074849_122096592243507613",
           "url": "https://www.facebook.com/1367888553074849_122096592243507613",
@@ -1250,31 +1279,23 @@
           "compartidos": 0,
           "tipo": "post",
           "estado": "publicado"
-        },
-        {
-          "id": "1367888553074849_122098457997507613",
-          "url": "https://www.facebook.com/1367888553074849_122098457997507613",
-          "mensaje": "Doña Mari vendió tamales en esa esquina durante veinte años. Salía a las cinco de la mañana con su olla grande, y al perro, que llegó un día",
-          "fecha": "2026-10-10T12:30:57+0000",
-          "reacciones": 0,
-          "comentarios": 0,
-          "compartidos": 0,
-          "tipo": "post",
-          "estado": "publicado"
-        },
-        {
-          "id": "1367888553074849_122098457679507613",
-          "url": "https://www.facebook.com/1367888553074849_122098457679507613",
-          "mensaje": "Doña Mari vendió tamales en esa esquina durante veinte años. Salía a las cinco de la mañana con su olla grande, y al perro, que llegó un día",
-          "fecha": "2026-10-10T12:30:57+0000",
-          "reacciones": 4,
-          "comentarios": 0,
-          "compartidos": 0,
-          "tipo": "post",
-          "estado": "publicado"
         }
       ],
       "proximos_programados_meta": [
+        {
+          "id": "1367888553074849_122103085353507613",
+          "url": "https://www.facebook.com/1367888553074849_122103085353507613",
+          "mensaje": "La señora Carmela vio salir el camión de mudanza a toda velocidad. Diez minutos después, una cachorrita peluda y blanca salió corriendo del ",
+          "fecha_programada": "2026-11-12T12:30:00.000Z",
+          "estado": "programado_en_meta"
+        },
+        {
+          "id": "1367888553074849_122103085233507613",
+          "url": "https://www.facebook.com/1367888553074849_122103085233507613",
+          "mensaje": "«No nos afecta lo que nos sucede, sino el juicio que nos formamos de lo que nos sucede». — Epicteto 🏛️🛡️\n\nEpicteto nació esclavo, soportó ",
+          "fecha_programada": "2026-11-12T08:00:00.000Z",
+          "estado": "programado_en_meta"
+        },
         {
           "id": "1367888553074849_122102521527507613",
           "url": "https://www.facebook.com/1367888553074849_122102521527507613",
@@ -1862,13 +1883,6 @@
           "mensaje": "«A veces escucho a personas decir: '¿Por qué lloras tanto? Tranquilo, al final es solo un perro'... 💔\n\nClaramente nunca han sabido lo que e",
           "fecha_programada": "2026-10-15T23:30:00.000Z",
           "estado": "programado_en_meta"
-        },
-        {
-          "id": "1367888553074849_122096592441507613",
-          "url": "https://www.facebook.com/1367888553074849_122096592441507613",
-          "mensaje": "«Esa noche el pequeño Santiago tuvo 39 grados de fiebre. Toby no durmió ni un solo minuto... 🤒🐶\n\nLa mamá de Santiago cuenta que intentó ba",
-          "fecha_programada": "2026-10-15T13:00:00.000Z",
-          "estado": "programado_en_meta"
         }
       ],
       "instagram": {
@@ -1876,8 +1890,8 @@
         "username": "huellasconproposito26",
         "name": "Huellas con propósito",
         "followers": 1,
-        "media_count": 5,
-        "picture": "https://scontent-iad3-1.xx.fbcdn.net/v/t51.82787-15/846964896_18127515184894503_9206256640984781246_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=7d201b&_nc_ohc=KOUC1jaBY3YQ7kNvwHclW3t&_nc_oc=AdrIOtiQH6MBa1DMhqlrWmjozyo2iF-Pn8SQCRmaAhauZdsulFb1YHb_b0bPw4pShXM&_nc_zt=23&_nc_ht=scontent-iad3-1.xx&edm=AJ-jyNUEAAAA&_nc_gid=M3IzMgDd-zFVwUpXFnyQaw&oh=00_AQO8gHyeLGyMbutPfxPj5g6gxPekL-onwYUq1AyvKV8whg&oe=6AD5FD6E"
+        "media_count": 6,
+        "picture": "https://scontent-sjc6-1.xx.fbcdn.net/v/t51.82787-15/846964896_18127515184894503_9206256640984781246_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=7d201b&_nc_ohc=fjCo7kx4GuoQ7kNvwGX2RbL&_nc_oc=AdrzzoqwP_ZGN8v_BEbH7gyUO6ddlyWJ-z-nCjpEA03pqcrOrzmeJz8c4Ev0DxCtO3I&_nc_zt=23&_nc_ht=scontent-sjc6-1.xx&edm=AJ-jyNUEAAAA&_nc_gid=l9ThyCek8MDnO2Gfp1ZBmg&oh=00_AQMsK7U9C0kNvenaNyiH0rTWbqo-fgsh6h4M2fKBcuaMFA&oe=6AD6DE6E"
       }
     },
     "1375923958937880": {
@@ -1889,7 +1903,7 @@
         "seguidos": 0,
         "personas_hablando": 0,
         "foto_perfil": "",
-        "ultima_actualizacion": "2026-10-15T02:52:46.439Z"
+        "ultima_actualizacion": "2026-10-15T17:17:23.113Z"
       },
       "resumen_kpis": {
         "total_seguidores": 7,

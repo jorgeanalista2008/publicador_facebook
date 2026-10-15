@@ -31,7 +31,16 @@
       "media_id": "18429864322151200",
       "permalink": "https://www.instagram.com/p/Def7dnBjFfn/",
       "fecha": "2026-10-15T02:52:44.508Z"
+    },
+    {
+      "tipo": "reel_cinematico_cronograma",
+      "reel_id": 2,
+      "nombre_perrito": "Viruta",
+      "slot_horario": "Día 1 - 12:30",
+      "media_id": "18168821854463373",
+      "permalink": "https://www.instagram.com/reel/DeheXJeEf2Z/",
+      "fecha": "2026-10-15T17:17:20.418Z"
     }
   ],
-  "ultimo_tipo": "foto"
+  "ultimo_tipo": "reel"
 }
