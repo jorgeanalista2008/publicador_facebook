@@ -1,9 +1,10 @@
-name: Programador Automático de Facebook Multi-Página
+name: Programador Automático Multi-Plataforma (Facebook & Instagram 5x Diario)
 
 on:
   schedule:
-    # Se ejecuta automáticamente cada 4 horas para revisar comentarios, actualizar métricas y programar contenido
-    - cron: '0 0,4,8,12,16,20 * * *'
+    # 5 horas de alto impacto diario en hora local (08:30, 12:30, 16:30, 19:30, 21:30)
+    # Equivalente en UTC (UTC-4): 12:30, 16:30, 20:30, 23:30, 01:30
+    - cron: '30 1,12,16,20,23 * * *'
   # Permite ejecución manual en cualquier momento desde la pestaña "Actions" de GitHub
   workflow_dispatch:
 
@@ -43,13 +44,13 @@ jobs:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
         run: node respondedor_comentarios.js
 
-      - name: 🐶 Publicador Automático de Instagram Perritos (@huellasconproposito26)
+      - name: 🎬🐶 Publicador Automático de Reels Cinemáticos (@huellasconproposito26)
         continue-on-error: true
         env:
           META_ACCESS_TOKEN: ${{ secrets.META_ACCESS_TOKEN }}
           PAGE_ID: ${{ secrets.PAGE_ID }}
           IG_USER_ID: '17841426835073929'
-        run: node publicador_instagram_perritos.js --auto
+        run: node publicador_reels_cronograma.js --auto
 
       - name: 📊 Extractor de Métricas Multi-Página (Dashboard)
         env:
@@ -63,4 +64,4 @@ jobs:
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
           commit_message: "Actualización automática: cola de publicaciones, métricas e historial [skip ci]"
-          file_pattern: "noviembre/publicaciones.json mentalidad_de_acero/publicaciones.json metricas.json historial_comentarios.json instagram_perritos_historial.json videos_reels_perritos/reels_perritos_index.json"
+          file_pattern: "noviembre/publicaciones.json mentalidad_de_acero/publicaciones.json metricas.json historial_comentarios.json instagram_perritos_historial.json videos_reels_perritos/reels_perritos_index.json cronograma_70_reels.json"

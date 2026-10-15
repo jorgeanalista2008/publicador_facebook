@@ -260,8 +260,10 @@ def generar_reel_cinematico(datos_historia):
     dur_toma = duracion / 4.0
     tomas = []
     movimientos = ['push_in', 'pan_up', 'pull_out', 'pan_side']
-    queries = ["abandoned sad dog", "dog rescue hand", "happy dog playing", "dog looking at camera"]
+    queries = datos_historia.get("queries_video") or ["sad street dog", "dog rescue hand", "happy dog playing", "dog looking camera"]
     pexels_key, pixabay_key = cargar_keys()
+
+    imagen_fallback = datos_historia.get("imagen") or "noviembre/perritos/nov_002_2026-11-01_perrito_1230.jpg"
 
     for idx, mov in enumerate(movimientos):
         toma_path = os.path.join(CACHE_DIR, f"toma_{id_historia}_{idx+1}.mp4")
@@ -282,14 +284,14 @@ def generar_reel_cinematico(datos_historia):
                 "-t", str(dur_toma),
                 "-r", "30",
                 "-pix_fmt", "yuv420p",
-                "-c:v", "libx264", "-preset", "veryfast", "-crf", "20",
+                "-c:v", "libx264", "-preset", "veryfast", "-crf", "22",
                 toma_ajustada
             ]
             subprocess.run(cmd_clip, stdout=subprocess.PIPE, stderr=subprocess.PIPE)
             tomas.append(toma_ajustada if os.path.exists(toma_ajustada) else clip_real)
         else:
             print(f"   🎥 Renderizando Toma Cinemática #{idx+1}/4 ({mov}) de {dur_toma:.1f}s...")
-            generar_toma_dinamica(datos_historia["imagen"], toma_path, mov, duracion=dur_toma)
+            generar_toma_dinamica(imagen_fallback, toma_path, mov, duracion=dur_toma)
             tomas.append(toma_path)
 
     # 4. Concatenar tomas
@@ -343,7 +345,10 @@ def generar_reel_cinematico(datos_historia):
         "-map", f"{audio_idx}:a",
         "-c:v", "libx264",
         "-preset", "veryfast",
-        "-crf", "21",
+        "-crf", "23",
+        "-b:v", "2200k",
+        "-maxrate", "2800k",
+        "-bufsize", "5000k",
         "-c:a", "aac",
         "-b:a", "192k",
         "-shortest",
@@ -359,25 +364,67 @@ def generar_reel_cinematico(datos_historia):
 
     return salida_final_mp4
 
-HISTORIA_EJEMPLO = {
-    "id": 1,
-    "nombre_perrito": "Tinaco",
-    "imagen": "noviembre/perritos/nov_002_2026-11-01_perrito_1230.jpg",
-    "guion": (
-        "Lo dejaron atado con un cable en la azotea bajo el sol ardiente. "
-        "Durante tres días enteros, los vecinos le pasaron agua con un tubo para mantenerlo con vida. "
-        "Cuando llegaron los bomberos, temblaba de dolor pero les lamió las manos con infinita gratitud. "
-        "Hoy Tinaco corre en la sombra de un jardín y duerme en una cama calientita. "
-        "El sol nunca más volverá a quemarlo. Síguenos para salvar más vidas."
-    ),
-    "frases_subtitulos": [
-        "LO DEJARON ATADO EN LA AZOTEA\nBAJO EL SOL ARDIENTE",
-        "LOS VECINOS LE PASABAN AGUA\nCON UN TUBO PARA SALVARLO",
-        "LOS BOMBEROS CORTARON EL CABLE\nQUE LO LASTIMABA",
-        "PESABA APENAS 7 KILOS\nPERO NO DEJABA DE AGRADECER",
-        "HOY DUERME FELIZ\nEN SU NUEVO HOGAR"
-    ]
-}
+CRONOGRAMA_PATH = "cronograma_70_reels.json"
+
+def procesar_lote_cronograma(modo="proximos", val1=5, val2=None):
+    if not os.path.exists(CRONOGRAMA_PATH):
+        print(f"❌ No se encontró {CRONOGRAMA_PATH}. Ejecuta primero preparar_cronograma_70_reels.py")
+        return
+
+    with open(CRONOGRAMA_PATH, "r", encoding="utf-8") as f:
+        reels = json.load(f)
+
+    a_procesar = []
+
+    if modo == "id":
+        target_id = int(val1)
+        a_procesar = [r for r in reels if r["id"] == target_id]
+    elif modo == "batch":
+        inicio, fin = int(val1), int(val2)
+        a_procesar = [r for r in reels if inicio <= r["id"] <= fin]
+    else:  # "proximos"
+        limite = int(val1)
+        # Buscar pendientes de renderizado (que no estén publicados ni tengan archivo válido ya)
+        for r in reels:
+            v_path = r.get("archivo_video")
+            if r.get("estado") != "publicado" and (not v_path or not os.path.exists(v_path)):
+                a_procesar.append(r)
+                if len(a_procesar) >= limite:
+                    break
+
+    if not a_procesar:
+        print("✅ No hay Reels pendientes por renderizar.")
+        return
+
+    print(f"\n🎬 [INICIANDO PROCESAMIENTO EN LOTE] {len(a_procesar)} Reel(s) en cola...")
+
+    for r in a_procesar:
+        print("="*65)
+        print(f"🐶 Generando Reel #{r['id']} ({r.get('slot_horario', '')}) - {r['nombre_perrito']}")
+        print(f"   Título: {r['titulo']}")
+        print("="*65)
+        try:
+            archivo_generado = generar_reel_cinematico(r)
+            r["archivo_video"] = archivo_generado.replace(chr(92), "/")
+            r["tamano_mb"] = round(os.path.getsize(archivo_generado) / (1024 * 1024), 2)
+            if r.get("estado") != "publicado":
+                r["estado"] = "renderizado"
+        except Exception as e:
+            print(f"❌ Error al generar Reel #{r['id']}: {e}")
+
+    with open(CRONOGRAMA_PATH, "w", encoding="utf-8") as f:
+        json.dump(reels, f, indent=2, ensure_ascii=False)
+
+    print(f"\n🏁 Lote finalizado. Cronograma actualizado en {CRONOGRAMA_PATH}.")
 
 if __name__ == "__main__":
-    generar_reel_cinematico(HISTORIA_EJEMPLO)
+    args = sys.argv[1:]
+    if len(args) >= 2 and args[0] == "--id":
+        procesar_lote_cronograma("id", args[1])
+    elif len(args) >= 3 and args[0] == "--batch":
+        procesar_lote_cronograma("batch", args[1], args[2])
+    elif len(args) >= 2 and args[0] == "--proximos":
+        procesar_lote_cronograma("proximos", args[1])
+    else:
+        # Por defecto renderiza los próximos 5
+        procesar_lote_cronograma("proximos", 5)
