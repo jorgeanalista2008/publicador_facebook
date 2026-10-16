@@ -49,6 +49,15 @@
       "media_id": "18117493766047612",
       "permalink": "https://www.instagram.com/reel/DeiHC9KgTj3/",
       "fecha": "2026-10-15T23:12:52.852Z"
+    },
+    {
+      "tipo": "reel_cinematico_cronograma",
+      "reel_id": 4,
+      "nombre_perrito": "Don",
+      "slot_horario": "Día 1 - 19:30",
+      "media_id": "17965421919209736",
+      "permalink": "https://www.instagram.com/reel/DeiXZ7UjvmX/",
+      "fecha": "2026-10-16T01:35:46.598Z"
     }
   ],
   "ultimo_tipo": "reel"
