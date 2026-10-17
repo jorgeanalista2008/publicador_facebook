@@ -5,22 +5,22 @@
     "categoria": "Animals & Pets",
     "seguidores": 27,
     "seguidos": 3,
-    "personas_hablando": 127,
-    "foto_perfil": "https://scontent-dfw6-2.xx.fbcdn.net/v/t39.30808-1/825286629_28604489712564817_7866327839881392565_n.jpg?stp=dst-jpg_s200x200_tt6&_nc_cat=110&ccb=1-7&_nc_sid=f907e8&_nc_ohc=-Jv6zG2BjMcQ7kNvwHbhiwp&_nc_oc=Adq95DH7Kmc6Mn2pADG4Q1MGZBCWeSZiS_reSKXtAmhPCFlFntbWczKvtWAw3un37v8&_nc_zt=24&_nc_ht=scontent-dfw6-2.xx&edm=AJdBtusEAAAA&_nc_gid=2VLDXXDoKnAcUuVrBhfM8g&_nc_tpa=Q5bMBQIdl08ly1-Z8OayEZ3LVItbDqYUdYe2tuKc6G_ZkpYO2mMTIU6d1qJHJ73fA7DIIUZcC7AJiTpZ3w&oh=00_AQOXpux8AJwSUDwDPDSWi9rgLmbwSGMjEVp0MAahNGIqNw&oe=6AD8956B",
-    "ultima_actualizacion": "2026-10-16T22:58:12.889Z"
+    "personas_hablando": 128,
+    "foto_perfil": "https://scontent-iad3-1.xx.fbcdn.net/v/t39.30808-1/825286629_28604489712564817_7866327839881392565_n.jpg?stp=dst-jpg_s200x200_tt6&_nc_cat=110&ccb=1-7&_nc_sid=f907e8&_nc_ohc=-Jv6zG2BjMcQ7kNvwH_S4PL&_nc_oc=AdpizYgBNknxiSNRDIP9vit5BPMMf120a--8Lx-QP7q06akQzlDfvzoTlg1jELrH0NI&_nc_zt=24&_nc_ht=scontent-iad3-1.xx&edm=AJdBtusEAAAA&_nc_gid=sDy25OgJ-jPbok0pE_BWcg&_nc_tpa=Q5bMBQJaykTNjWXjPZBlPlJubZvGlWRLrpndAMA6KDpm5lfCSCfFdYxEhy2Wb30ntWqrfAKgLOS1tSk8RA&oh=00_AQPV19e0UJTiFhN_TVW-Zchl7x46A6GQUDwicUiHBE085g&oe=6AD8956B",
+    "ultima_actualizacion": "2026-10-17T01:25:42.206Z"
   },
   "resumen_kpis": {
     "total_seguidores": 27,
     "seguidores_detalle": "27 seguidores • 3 seguidos",
     "crecimiento_semanal": "+35%",
     "seguidores_nuevos_semana": 7,
-    "personas_hablando": 127,
+    "personas_hablando": 128,
     "alcance_estimado": 486,
     "interacciones_totales": 0,
     "reacciones_totales": 0,
     "comentarios_totales": 0,
     "compartidos_totales": 0,
-    "programados_en_servidores_meta": 90,
+    "programados_en_servidores_meta": 89,
     "total_publicaciones_sistema": 120
   },
   "rendimiento_por_horario": [
@@ -68,6 +68,17 @@
     }
   ],
   "ultimos_posts_publicados": [
+    {
+      "id": "1367888553074849_122096592873507613",
+      "url": "https://www.facebook.com/1367888553074849_122096592873507613",
+      "mensaje": "«Todos los días a las 5:30 de la tarde, 'Manchitas' se sienta en la parada del autobús número 42... 🚌🐕\n\nDurante 8 años, Don Rogelio tomaba",
+      "fecha": "2026-10-16T23:30:06+0000",
+      "reacciones": 0,
+      "comentarios": 0,
+      "compartidos": 0,
+      "tipo": "post",
+      "estado": "publicado"
+    },
     {
       "id": "1367888553074849_122096592669507613",
       "url": "https://www.facebook.com/1367888553074849_122096592669507613",
@@ -315,17 +326,6 @@
       "url": "https://www.facebook.com/1367888553074849_122096591079507613",
       "mensaje": "«Decían que los perros y los gatos son enemigos por naturaleza... Toby demostró todo lo contrario. 🐶🐱🍼\n\nUnos vecinos escucharon maullidos",
       "fecha": "2026-10-11T13:00:58+0000",
-      "reacciones": 0,
-      "comentarios": 0,
-      "compartidos": 0,
-      "tipo": "post",
-      "estado": "publicado"
-    },
-    {
-      "id": "1367888553074849_122096591013507613",
-      "url": "https://www.facebook.com/1367888553074849_122096591013507613",
-      "mensaje": "«Pasaron 11 meses separados en misiones distintas. El reencuentro duró más de 20 minutos de lágrimas y abrazos... 🎖️🐕\n\nMax, un pastor alem",
-      "fecha": "2026-10-10T23:30:01+0000",
       "reacciones": 0,
       "comentarios": 0,
       "compartidos": 0,
@@ -956,13 +956,6 @@
       "mensaje": "«Cuando el veterinario le dijo que a Buster le quedaban pocos meses de vida, Carlos no se encerró a llorar... decidió darle el viaje de sus ",
       "fecha_programada": "2026-10-17T13:00:00.000Z",
       "estado": "programado_en_meta"
-    },
-    {
-      "id": "1367888553074849_122096592873507613",
-      "url": "https://www.facebook.com/1367888553074849_122096592873507613",
-      "mensaje": "«Todos los días a las 5:30 de la tarde, 'Manchitas' se sienta en la parada del autobús número 42... 🚌🐕\n\nDurante 8 años, Don Rogelio tomaba",
-      "fecha_programada": "2026-10-16T23:30:00.000Z",
-      "estado": "programado_en_meta"
     }
   ],
   "instagram": {
@@ -970,8 +963,8 @@
     "username": "huellasconproposito26",
     "name": "Huellas con propósito",
     "followers": 1,
-    "media_count": 10,
-    "picture": "https://scontent-dfw5-2.xx.fbcdn.net/v/t51.82787-15/846964896_18127515184894503_9206256640984781246_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=7d201b&_nc_ohc=fjCo7kx4GuoQ7kNvwFkd3Zr&_nc_oc=Adq0-8pdIqF5qPjZyvatbyGspG6uDQ-QUg0RF5G_wACDHoD5seIbl9km2njWBh9ZNlU&_nc_zt=23&_nc_ht=scontent-dfw5-2.xx&edm=AJ-jyNUEAAAA&_nc_gid=yS6ZSFWUkhNTL9vpHGF7-g&oh=00_AQNyDU2s5PZEnzeqyoY6kcZuVhtM0KduI4kly-serdgHRQ&oe=6AD8682E"
+    "media_count": 11,
+    "picture": "https://scontent-iad3-1.xx.fbcdn.net/v/t51.82787-15/846964896_18127515184894503_9206256640984781246_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=7d201b&_nc_ohc=fjCo7kx4GuoQ7kNvwFWTyNk&_nc_oc=AdqnLgayMBoWimPJX18QgqHUa1jdXYJSmX3iEVR8qir1b1r_IKb4RcUKjN3WY498xZM&_nc_zt=23&_nc_ht=scontent-iad3-1.xx&edm=AJ-jyNUEAAAA&_nc_gid=0cVbY5m0loTIARSQNmDczQ&oh=00_AQNmKEZA3caxpu4bdyFAdR1z4cCnZKhH3uE5jNaMdXrftA&oe=6AD8A06E"
   },
   "paginas": {
     "1367888553074849": {
@@ -981,22 +974,22 @@
         "categoria": "Animals & Pets",
         "seguidores": 27,
         "seguidos": 3,
-        "personas_hablando": 127,
-        "foto_perfil": "https://scontent-dfw6-2.xx.fbcdn.net/v/t39.30808-1/825286629_28604489712564817_7866327839881392565_n.jpg?stp=dst-jpg_s200x200_tt6&_nc_cat=110&ccb=1-7&_nc_sid=f907e8&_nc_ohc=-Jv6zG2BjMcQ7kNvwHbhiwp&_nc_oc=Adq95DH7Kmc6Mn2pADG4Q1MGZBCWeSZiS_reSKXtAmhPCFlFntbWczKvtWAw3un37v8&_nc_zt=24&_nc_ht=scontent-dfw6-2.xx&edm=AJdBtusEAAAA&_nc_gid=2VLDXXDoKnAcUuVrBhfM8g&_nc_tpa=Q5bMBQIdl08ly1-Z8OayEZ3LVItbDqYUdYe2tuKc6G_ZkpYO2mMTIU6d1qJHJ73fA7DIIUZcC7AJiTpZ3w&oh=00_AQOXpux8AJwSUDwDPDSWi9rgLmbwSGMjEVp0MAahNGIqNw&oe=6AD8956B",
-        "ultima_actualizacion": "2026-10-16T22:58:12.889Z"
+        "personas_hablando": 128,
+        "foto_perfil": "https://scontent-iad3-1.xx.fbcdn.net/v/t39.30808-1/825286629_28604489712564817_7866327839881392565_n.jpg?stp=dst-jpg_s200x200_tt6&_nc_cat=110&ccb=1-7&_nc_sid=f907e8&_nc_ohc=-Jv6zG2BjMcQ7kNvwH_S4PL&_nc_oc=AdpizYgBNknxiSNRDIP9vit5BPMMf120a--8Lx-QP7q06akQzlDfvzoTlg1jELrH0NI&_nc_zt=24&_nc_ht=scontent-iad3-1.xx&edm=AJdBtusEAAAA&_nc_gid=sDy25OgJ-jPbok0pE_BWcg&_nc_tpa=Q5bMBQJaykTNjWXjPZBlPlJubZvGlWRLrpndAMA6KDpm5lfCSCfFdYxEhy2Wb30ntWqrfAKgLOS1tSk8RA&oh=00_AQPV19e0UJTiFhN_TVW-Zchl7x46A6GQUDwicUiHBE085g&oe=6AD8956B",
+        "ultima_actualizacion": "2026-10-17T01:25:42.206Z"
       },
       "resumen_kpis": {
         "total_seguidores": 27,
         "seguidores_detalle": "27 seguidores • 3 seguidos",
         "crecimiento_semanal": "+35%",
         "seguidores_nuevos_semana": 7,
-        "personas_hablando": 127,
+        "personas_hablando": 128,
         "alcance_estimado": 486,
         "interacciones_totales": 0,
         "reacciones_totales": 0,
         "comentarios_totales": 0,
         "compartidos_totales": 0,
-        "programados_en_servidores_meta": 90,
+        "programados_en_servidores_meta": 89,
         "total_publicaciones_sistema": 120
       },
       "rendimiento_por_horario": [
@@ -1044,6 +1037,17 @@
         }
       ],
       "ultimos_posts_publicados": [
+        {
+          "id": "1367888553074849_122096592873507613",
+          "url": "https://www.facebook.com/1367888553074849_122096592873507613",
+          "mensaje": "«Todos los días a las 5:30 de la tarde, 'Manchitas' se sienta en la parada del autobús número 42... 🚌🐕\n\nDurante 8 años, Don Rogelio tomaba",
+          "fecha": "2026-10-16T23:30:06+0000",
+          "reacciones": 0,
+          "comentarios": 0,
+          "compartidos": 0,
+          "tipo": "post",
+          "estado": "publicado"
+        },
         {
           "id": "1367888553074849_122096592669507613",
           "url": "https://www.facebook.com/1367888553074849_122096592669507613",
@@ -1291,17 +1295,6 @@
           "url": "https://www.facebook.com/1367888553074849_122096591079507613",
           "mensaje": "«Decían que los perros y los gatos son enemigos por naturaleza... Toby demostró todo lo contrario. 🐶🐱🍼\n\nUnos vecinos escucharon maullidos",
           "fecha": "2026-10-11T13:00:58+0000",
-          "reacciones": 0,
-          "comentarios": 0,
-          "compartidos": 0,
-          "tipo": "post",
-          "estado": "publicado"
-        },
-        {
-          "id": "1367888553074849_122096591013507613",
-          "url": "https://www.facebook.com/1367888553074849_122096591013507613",
-          "mensaje": "«Pasaron 11 meses separados en misiones distintas. El reencuentro duró más de 20 minutos de lágrimas y abrazos... 🎖️🐕\n\nMax, un pastor alem",
-          "fecha": "2026-10-10T23:30:01+0000",
           "reacciones": 0,
           "comentarios": 0,
           "compartidos": 0,
@@ -1932,13 +1925,6 @@
           "mensaje": "«Cuando el veterinario le dijo que a Buster le quedaban pocos meses de vida, Carlos no se encerró a llorar... decidió darle el viaje de sus ",
           "fecha_programada": "2026-10-17T13:00:00.000Z",
           "estado": "programado_en_meta"
-        },
-        {
-          "id": "1367888553074849_122096592873507613",
-          "url": "https://www.facebook.com/1367888553074849_122096592873507613",
-          "mensaje": "«Todos los días a las 5:30 de la tarde, 'Manchitas' se sienta en la parada del autobús número 42... 🚌🐕\n\nDurante 8 años, Don Rogelio tomaba",
-          "fecha_programada": "2026-10-16T23:30:00.000Z",
-          "estado": "programado_en_meta"
         }
       ],
       "instagram": {
@@ -1946,8 +1932,8 @@
         "username": "huellasconproposito26",
         "name": "Huellas con propósito",
         "followers": 1,
-        "media_count": 10,
-        "picture": "https://scontent-dfw5-2.xx.fbcdn.net/v/t51.82787-15/846964896_18127515184894503_9206256640984781246_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=7d201b&_nc_ohc=fjCo7kx4GuoQ7kNvwFkd3Zr&_nc_oc=Adq0-8pdIqF5qPjZyvatbyGspG6uDQ-QUg0RF5G_wACDHoD5seIbl9km2njWBh9ZNlU&_nc_zt=23&_nc_ht=scontent-dfw5-2.xx&edm=AJ-jyNUEAAAA&_nc_gid=yS6ZSFWUkhNTL9vpHGF7-g&oh=00_AQNyDU2s5PZEnzeqyoY6kcZuVhtM0KduI4kly-serdgHRQ&oe=6AD8682E"
+        "media_count": 11,
+        "picture": "https://scontent-iad3-1.xx.fbcdn.net/v/t51.82787-15/846964896_18127515184894503_9206256640984781246_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=7d201b&_nc_ohc=fjCo7kx4GuoQ7kNvwFWTyNk&_nc_oc=AdqnLgayMBoWimPJX18QgqHUa1jdXYJSmX3iEVR8qir1b1r_IKb4RcUKjN3WY498xZM&_nc_zt=23&_nc_ht=scontent-iad3-1.xx&edm=AJ-jyNUEAAAA&_nc_gid=0cVbY5m0loTIARSQNmDczQ&oh=00_AQNmKEZA3caxpu4bdyFAdR1z4cCnZKhH3uE5jNaMdXrftA&oe=6AD8A06E"
       }
     },
     "1375923958937880": {
@@ -1959,7 +1945,7 @@
         "seguidos": 0,
         "personas_hablando": 0,
         "foto_perfil": "",
-        "ultima_actualizacion": "2026-10-16T22:58:13.116Z"
+        "ultima_actualizacion": "2026-10-17T01:25:42.598Z"
       },
       "resumen_kpis": {
         "total_seguidores": 7,

@@ -76,6 +76,15 @@
       "media_id": "18098479415411910",
       "permalink": "https://www.instagram.com/reel/DekqKI4jGMT/",
       "fecha": "2026-10-16T22:58:08.898Z"
+    },
+    {
+      "tipo": "reel_cinematico_cronograma",
+      "reel_id": 7,
+      "nombre_perrito": "Luna",
+      "slot_horario": "Día 2 - 12:30",
+      "media_id": "17911841403540719",
+      "permalink": "https://www.instagram.com/reel/Dek7CamjrWA/",
+      "fecha": "2026-10-17T01:25:40.214Z"
     }
   ],
   "ultimo_tipo": "reel"
