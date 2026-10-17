@@ -6,8 +6,8 @@
     "seguidores": 27,
     "seguidos": 3,
     "personas_hablando": 91,
-    "foto_perfil": "https://scontent-iad3-1.xx.fbcdn.net/v/t39.30808-1/825286629_28604489712564817_7866327839881392565_n.jpg?stp=dst-jpg_s200x200_tt6&_nc_cat=110&ccb=1-7&_nc_sid=f907e8&_nc_ohc=-Jv6zG2BjMcQ7kNvwECN9cf&_nc_oc=AdqBSFqEupCnv8B5gIhKovkZf3u3Gux6D3qcLgKDqGqhnSIX8LOKQs2AmWAebEgxzj0&_nc_zt=24&_nc_ht=scontent-iad3-1.xx&edm=AJdBtusEAAAA&_nc_gid=nVEI6wo0V5nbjw_hjE3nvg&_nc_tpa=Q5bMBQIVz18D5n0R0Tew0jKutxhMrCmr6FWGaBf9E306O9611iMxsBiVjD_wgbtsrjfbLsvK_2peRwZdMg&oh=00_AQMnH5oSP-l5RV0e6DzDvzrG9tVrGM90Mf7go-NiIQek7w&oe=6AD9766B",
-    "ultima_actualizacion": "2026-10-17T15:50:50.149Z"
+    "foto_perfil": "https://scontent-atl3-1.xx.fbcdn.net/v/t39.30808-1/825286629_28604489712564817_7866327839881392565_n.jpg?stp=dst-jpg_s200x200_tt6&_nc_cat=110&ccb=1-7&_nc_sid=f907e8&_nc_ohc=-Jv6zG2BjMcQ7kNvwFbqrzo&_nc_oc=AdpKTNfdW5S9Gxdbxgx6T8qr_HkUlZM6GPvav3sHolzsMDDDXc2vT61AjRP0OoCYEzQ&_nc_zt=24&_nc_ht=scontent-atl3-1.xx&edm=AJdBtusEAAAA&_nc_gid=Tj3D3lnQV6v48qMyY-hOdw&_nc_tpa=Q5bMBQJSPwaqWkCHYw5D8Z-DkHkvil0HWO8lIxshG438ixbt97s1Ld1hNiqsVv7wKn3eXHhoP_MAKoGTbQ&oh=00_AQMK-sU_U_1V69GAoNHLXwQmyl9Er7RRTsiD6AelXWJX9Q&oe=6AD9AEAB",
+    "ultima_actualizacion": "2026-10-17T18:44:20.914Z"
   },
   "resumen_kpis": {
     "total_seguidores": 27,
@@ -20,7 +20,7 @@
     "reacciones_totales": 0,
     "comentarios_totales": 0,
     "compartidos_totales": 0,
-    "programados_en_servidores_meta": 90,
+    "programados_en_servidores_meta": 91,
     "total_publicaciones_sistema": 120
   },
   "rendimiento_por_horario": [
@@ -334,6 +334,13 @@
     }
   ],
   "proximos_programados_meta": [
+    {
+      "id": "1367888553074849_122105035887507613",
+      "url": "https://www.facebook.com/1367888553074849_122105035887507613",
+      "mensaje": "«No nos afecta lo que nos sucede, sino el juicio que nos formamos de lo que nos sucede». — Epicteto 🏛️🛡️\n\nEpicteto nació esclavo, soportó ",
+      "fecha_programada": "2026-11-14T17:30:00.000Z",
+      "estado": "programado_en_meta"
+    },
     {
       "id": "1367888553074849_122104924683507613",
       "url": "https://www.facebook.com/1367888553074849_122104924683507613",
@@ -970,8 +977,8 @@
     "username": "huellasconproposito26",
     "name": "Huellas con propósito",
     "followers": 1,
-    "media_count": 13,
-    "picture": "https://scontent-iad3-1.xx.fbcdn.net/v/t51.82787-15/846964896_18127515184894503_9206256640984781246_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=7d201b&_nc_ohc=fjCo7kx4GuoQ7kNvwFV2ynn&_nc_oc=AdpIPdiFwf02deSl--6ihT83DlJfr8xcvtxjXPHJSyQZdjvtoQSLS-UshlVKyZSqhVY&_nc_zt=23&_nc_ht=scontent-iad3-1.xx&edm=AJ-jyNUEAAAA&_nc_gid=OIsJejso98vI0qpGADs5Eg&oh=00_AQPxM_lDk0fSqwgi9y_WRjvJZ7wc9kW2F6QMHbVTYnyN6w&oe=6AD9816E"
+    "media_count": 14,
+    "picture": "https://scontent-atl3-2.xx.fbcdn.net/v/t51.82787-15/846964896_18127515184894503_9206256640984781246_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=7d201b&_nc_ohc=fjCo7kx4GuoQ7kNvwGfvClq&_nc_oc=AdqHqIVQhSwZRfVLGTXouBd8vRgLRNQLxfqQy08c5bZZrsuKp7a8GOBRGwZA7daRYeA&_nc_zt=23&_nc_ht=scontent-atl3-2.xx&edm=AJ-jyNUEAAAA&_nc_gid=-P53rnYhO8154ifPiBvWhQ&oh=00_AQNZoZzkINoPv3A4W5TLsnjrpn4RnTUQHs9xrpns7NqRGg&oe=6AD9816E"
   },
   "paginas": {
     "1367888553074849": {
@@ -982,8 +989,8 @@
         "seguidores": 27,
         "seguidos": 3,
         "personas_hablando": 91,
-        "foto_perfil": "https://scontent-iad3-1.xx.fbcdn.net/v/t39.30808-1/825286629_28604489712564817_7866327839881392565_n.jpg?stp=dst-jpg_s200x200_tt6&_nc_cat=110&ccb=1-7&_nc_sid=f907e8&_nc_ohc=-Jv6zG2BjMcQ7kNvwECN9cf&_nc_oc=AdqBSFqEupCnv8B5gIhKovkZf3u3Gux6D3qcLgKDqGqhnSIX8LOKQs2AmWAebEgxzj0&_nc_zt=24&_nc_ht=scontent-iad3-1.xx&edm=AJdBtusEAAAA&_nc_gid=nVEI6wo0V5nbjw_hjE3nvg&_nc_tpa=Q5bMBQIVz18D5n0R0Tew0jKutxhMrCmr6FWGaBf9E306O9611iMxsBiVjD_wgbtsrjfbLsvK_2peRwZdMg&oh=00_AQMnH5oSP-l5RV0e6DzDvzrG9tVrGM90Mf7go-NiIQek7w&oe=6AD9766B",
-        "ultima_actualizacion": "2026-10-17T15:50:50.149Z"
+        "foto_perfil": "https://scontent-atl3-1.xx.fbcdn.net/v/t39.30808-1/825286629_28604489712564817_7866327839881392565_n.jpg?stp=dst-jpg_s200x200_tt6&_nc_cat=110&ccb=1-7&_nc_sid=f907e8&_nc_ohc=-Jv6zG2BjMcQ7kNvwFbqrzo&_nc_oc=AdpKTNfdW5S9Gxdbxgx6T8qr_HkUlZM6GPvav3sHolzsMDDDXc2vT61AjRP0OoCYEzQ&_nc_zt=24&_nc_ht=scontent-atl3-1.xx&edm=AJdBtusEAAAA&_nc_gid=Tj3D3lnQV6v48qMyY-hOdw&_nc_tpa=Q5bMBQJSPwaqWkCHYw5D8Z-DkHkvil0HWO8lIxshG438ixbt97s1Ld1hNiqsVv7wKn3eXHhoP_MAKoGTbQ&oh=00_AQMK-sU_U_1V69GAoNHLXwQmyl9Er7RRTsiD6AelXWJX9Q&oe=6AD9AEAB",
+        "ultima_actualizacion": "2026-10-17T18:44:20.914Z"
       },
       "resumen_kpis": {
         "total_seguidores": 27,
@@ -996,7 +1003,7 @@
         "reacciones_totales": 0,
         "comentarios_totales": 0,
         "compartidos_totales": 0,
-        "programados_en_servidores_meta": 90,
+        "programados_en_servidores_meta": 91,
         "total_publicaciones_sistema": 120
       },
       "rendimiento_por_horario": [
@@ -1310,6 +1317,13 @@
         }
       ],
       "proximos_programados_meta": [
+        {
+          "id": "1367888553074849_122105035887507613",
+          "url": "https://www.facebook.com/1367888553074849_122105035887507613",
+          "mensaje": "«No nos afecta lo que nos sucede, sino el juicio que nos formamos de lo que nos sucede». — Epicteto 🏛️🛡️\n\nEpicteto nació esclavo, soportó ",
+          "fecha_programada": "2026-11-14T17:30:00.000Z",
+          "estado": "programado_en_meta"
+        },
         {
           "id": "1367888553074849_122104924683507613",
           "url": "https://www.facebook.com/1367888553074849_122104924683507613",
@@ -1946,8 +1960,8 @@
         "username": "huellasconproposito26",
         "name": "Huellas con propósito",
         "followers": 1,
-        "media_count": 13,
-        "picture": "https://scontent-iad3-1.xx.fbcdn.net/v/t51.82787-15/846964896_18127515184894503_9206256640984781246_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=7d201b&_nc_ohc=fjCo7kx4GuoQ7kNvwFV2ynn&_nc_oc=AdpIPdiFwf02deSl--6ihT83DlJfr8xcvtxjXPHJSyQZdjvtoQSLS-UshlVKyZSqhVY&_nc_zt=23&_nc_ht=scontent-iad3-1.xx&edm=AJ-jyNUEAAAA&_nc_gid=OIsJejso98vI0qpGADs5Eg&oh=00_AQPxM_lDk0fSqwgi9y_WRjvJZ7wc9kW2F6QMHbVTYnyN6w&oe=6AD9816E"
+        "media_count": 14,
+        "picture": "https://scontent-atl3-2.xx.fbcdn.net/v/t51.82787-15/846964896_18127515184894503_9206256640984781246_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=7d201b&_nc_ohc=fjCo7kx4GuoQ7kNvwGfvClq&_nc_oc=AdqHqIVQhSwZRfVLGTXouBd8vRgLRNQLxfqQy08c5bZZrsuKp7a8GOBRGwZA7daRYeA&_nc_zt=23&_nc_ht=scontent-atl3-2.xx&edm=AJ-jyNUEAAAA&_nc_gid=-P53rnYhO8154ifPiBvWhQ&oh=00_AQNZoZzkINoPv3A4W5TLsnjrpn4RnTUQHs9xrpns7NqRGg&oe=6AD9816E"
       }
     },
     "1375923958937880": {
@@ -1959,7 +1973,7 @@
         "seguidos": 0,
         "personas_hablando": 0,
         "foto_perfil": "",
-        "ultima_actualizacion": "2026-10-17T15:50:50.371Z"
+        "ultima_actualizacion": "2026-10-17T18:44:21.152Z"
       },
       "resumen_kpis": {
         "total_seguidores": 7,

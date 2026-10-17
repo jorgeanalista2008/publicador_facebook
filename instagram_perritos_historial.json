@@ -103,6 +103,15 @@
       "media_id": "18136905583743382",
       "permalink": "https://www.instagram.com/reel/DemeB1hgsBr/",
       "fecha": "2026-10-17T15:50:47.493Z"
+    },
+    {
+      "tipo": "reel_cinematico_cronograma",
+      "reel_id": 10,
+      "nombre_perrito": "Chispa",
+      "slot_horario": "Día 2 - 21:30",
+      "media_id": "18167306215490971",
+      "permalink": "https://www.instagram.com/reel/Demx4-dlI6D/",
+      "fecha": "2026-10-17T18:44:16.705Z"
     }
   ],
   "ultimo_tipo": "reel"
