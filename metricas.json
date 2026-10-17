@@ -6,8 +6,8 @@
     "seguidores": 27,
     "seguidos": 3,
     "personas_hablando": 91,
-    "foto_perfil": "https://scontent-atl3-1.xx.fbcdn.net/v/t39.30808-1/825286629_28604489712564817_7866327839881392565_n.jpg?stp=dst-jpg_s200x200_tt6&_nc_cat=110&ccb=1-7&_nc_sid=f907e8&_nc_ohc=-Jv6zG2BjMcQ7kNvwFbqrzo&_nc_oc=AdpKTNfdW5S9Gxdbxgx6T8qr_HkUlZM6GPvav3sHolzsMDDDXc2vT61AjRP0OoCYEzQ&_nc_zt=24&_nc_ht=scontent-atl3-1.xx&edm=AJdBtusEAAAA&_nc_gid=Tj3D3lnQV6v48qMyY-hOdw&_nc_tpa=Q5bMBQJSPwaqWkCHYw5D8Z-DkHkvil0HWO8lIxshG438ixbt97s1Ld1hNiqsVv7wKn3eXHhoP_MAKoGTbQ&oh=00_AQMK-sU_U_1V69GAoNHLXwQmyl9Er7RRTsiD6AelXWJX9Q&oe=6AD9AEAB",
-    "ultima_actualizacion": "2026-10-17T18:44:20.914Z"
+    "foto_perfil": "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.30808-1/825286629_28604489712564817_7866327839881392565_n.jpg?stp=dst-jpg_s200x200_tt6&_nc_cat=110&ccb=1-7&_nc_sid=f907e8&_nc_ohc=-Jv6zG2BjMcQ7kNvwFvx1qI&_nc_oc=AdpW-VAvPl8bkNjjuIc3ADwhqfv0u7kE5J17iubpCL54spiP8JazVM154uXpO37o3Wo&_nc_zt=24&_nc_ht=scontent-sjc3-1.xx&edm=AJdBtusEAAAA&_nc_gid=XFzebxReS7kKvv8qC09i-w&_nc_tpa=Q5bMBQKlmrTummRAA7FdlkL-vURMnzrJ6EXuR8-FchTJn-Mh_B1LuLELVK3ubOipyNBjU_1VLewVlSnUNg&oh=00_AQNHZyCuiRY2-Hod2xpjoQcucnAjUgDvf3FnAAAQmzC6Ww&oe=6AD9AEAB",
+    "ultima_actualizacion": "2026-10-17T22:31:42.227Z"
   },
   "resumen_kpis": {
     "total_seguidores": 27,
@@ -20,7 +20,7 @@
     "reacciones_totales": 0,
     "comentarios_totales": 0,
     "compartidos_totales": 0,
-    "programados_en_servidores_meta": 91,
+    "programados_en_servidores_meta": 92,
     "total_publicaciones_sistema": 120
   },
   "rendimiento_por_horario": [
@@ -334,6 +334,13 @@
     }
   ],
   "proximos_programados_meta": [
+    {
+      "id": "1367888553074849_122105157897507613",
+      "url": "https://www.facebook.com/1367888553074849_122105157897507613",
+      "mensaje": "La señora Carmela vio salir el camión de mudanza a toda velocidad. Diez minutos después, una cachorrita peluda y blanca salió corriendo del ",
+      "fecha_programada": "2026-11-14T20:30:00.000Z",
+      "estado": "programado_en_meta"
+    },
     {
       "id": "1367888553074849_122105035887507613",
       "url": "https://www.facebook.com/1367888553074849_122105035887507613",
@@ -978,7 +985,7 @@
     "name": "Huellas con propósito",
     "followers": 1,
     "media_count": 14,
-    "picture": "https://scontent-atl3-2.xx.fbcdn.net/v/t51.82787-15/846964896_18127515184894503_9206256640984781246_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=7d201b&_nc_ohc=fjCo7kx4GuoQ7kNvwGfvClq&_nc_oc=AdqHqIVQhSwZRfVLGTXouBd8vRgLRNQLxfqQy08c5bZZrsuKp7a8GOBRGwZA7daRYeA&_nc_zt=23&_nc_ht=scontent-atl3-2.xx&edm=AJ-jyNUEAAAA&_nc_gid=-P53rnYhO8154ifPiBvWhQ&oh=00_AQNZoZzkINoPv3A4W5TLsnjrpn4RnTUQHs9xrpns7NqRGg&oe=6AD9816E"
+    "picture": "https://scontent-sjc6-1.xx.fbcdn.net/v/t51.82787-15/846964896_18127515184894503_9206256640984781246_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=7d201b&_nc_ohc=fjCo7kx4GuoQ7kNvwFz7Xui&_nc_oc=AdrPJsBrY-oT9jRfCHfvBeh5mfgnKwDuZp-4R_ww_Z39ilwg4YFOJyC7-UBVBlxwbUA&_nc_zt=23&_nc_ht=scontent-sjc6-1.xx&edm=AJ-jyNUEAAAA&_nc_gid=35pPqiMbufc4OpWot81eSg&oh=00_AQPMT3qeBIyH0_fOnyvL8Y5XQXko56fMZZc30TuEg30sCA&oe=6AD9B9AE"
   },
   "paginas": {
     "1367888553074849": {
@@ -989,8 +996,8 @@
         "seguidores": 27,
         "seguidos": 3,
         "personas_hablando": 91,
-        "foto_perfil": "https://scontent-atl3-1.xx.fbcdn.net/v/t39.30808-1/825286629_28604489712564817_7866327839881392565_n.jpg?stp=dst-jpg_s200x200_tt6&_nc_cat=110&ccb=1-7&_nc_sid=f907e8&_nc_ohc=-Jv6zG2BjMcQ7kNvwFbqrzo&_nc_oc=AdpKTNfdW5S9Gxdbxgx6T8qr_HkUlZM6GPvav3sHolzsMDDDXc2vT61AjRP0OoCYEzQ&_nc_zt=24&_nc_ht=scontent-atl3-1.xx&edm=AJdBtusEAAAA&_nc_gid=Tj3D3lnQV6v48qMyY-hOdw&_nc_tpa=Q5bMBQJSPwaqWkCHYw5D8Z-DkHkvil0HWO8lIxshG438ixbt97s1Ld1hNiqsVv7wKn3eXHhoP_MAKoGTbQ&oh=00_AQMK-sU_U_1V69GAoNHLXwQmyl9Er7RRTsiD6AelXWJX9Q&oe=6AD9AEAB",
-        "ultima_actualizacion": "2026-10-17T18:44:20.914Z"
+        "foto_perfil": "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.30808-1/825286629_28604489712564817_7866327839881392565_n.jpg?stp=dst-jpg_s200x200_tt6&_nc_cat=110&ccb=1-7&_nc_sid=f907e8&_nc_ohc=-Jv6zG2BjMcQ7kNvwFvx1qI&_nc_oc=AdpW-VAvPl8bkNjjuIc3ADwhqfv0u7kE5J17iubpCL54spiP8JazVM154uXpO37o3Wo&_nc_zt=24&_nc_ht=scontent-sjc3-1.xx&edm=AJdBtusEAAAA&_nc_gid=XFzebxReS7kKvv8qC09i-w&_nc_tpa=Q5bMBQKlmrTummRAA7FdlkL-vURMnzrJ6EXuR8-FchTJn-Mh_B1LuLELVK3ubOipyNBjU_1VLewVlSnUNg&oh=00_AQNHZyCuiRY2-Hod2xpjoQcucnAjUgDvf3FnAAAQmzC6Ww&oe=6AD9AEAB",
+        "ultima_actualizacion": "2026-10-17T22:31:42.227Z"
       },
       "resumen_kpis": {
         "total_seguidores": 27,
@@ -1003,7 +1010,7 @@
         "reacciones_totales": 0,
         "comentarios_totales": 0,
         "compartidos_totales": 0,
-        "programados_en_servidores_meta": 91,
+        "programados_en_servidores_meta": 92,
         "total_publicaciones_sistema": 120
       },
       "rendimiento_por_horario": [
@@ -1317,6 +1324,13 @@
         }
       ],
       "proximos_programados_meta": [
+        {
+          "id": "1367888553074849_122105157897507613",
+          "url": "https://www.facebook.com/1367888553074849_122105157897507613",
+          "mensaje": "La señora Carmela vio salir el camión de mudanza a toda velocidad. Diez minutos después, una cachorrita peluda y blanca salió corriendo del ",
+          "fecha_programada": "2026-11-14T20:30:00.000Z",
+          "estado": "programado_en_meta"
+        },
         {
           "id": "1367888553074849_122105035887507613",
           "url": "https://www.facebook.com/1367888553074849_122105035887507613",
@@ -1961,7 +1975,7 @@
         "name": "Huellas con propósito",
         "followers": 1,
         "media_count": 14,
-        "picture": "https://scontent-atl3-2.xx.fbcdn.net/v/t51.82787-15/846964896_18127515184894503_9206256640984781246_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=7d201b&_nc_ohc=fjCo7kx4GuoQ7kNvwGfvClq&_nc_oc=AdqHqIVQhSwZRfVLGTXouBd8vRgLRNQLxfqQy08c5bZZrsuKp7a8GOBRGwZA7daRYeA&_nc_zt=23&_nc_ht=scontent-atl3-2.xx&edm=AJ-jyNUEAAAA&_nc_gid=-P53rnYhO8154ifPiBvWhQ&oh=00_AQNZoZzkINoPv3A4W5TLsnjrpn4RnTUQHs9xrpns7NqRGg&oe=6AD9816E"
+        "picture": "https://scontent-sjc6-1.xx.fbcdn.net/v/t51.82787-15/846964896_18127515184894503_9206256640984781246_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=7d201b&_nc_ohc=fjCo7kx4GuoQ7kNvwFz7Xui&_nc_oc=AdrPJsBrY-oT9jRfCHfvBeh5mfgnKwDuZp-4R_ww_Z39ilwg4YFOJyC7-UBVBlxwbUA&_nc_zt=23&_nc_ht=scontent-sjc6-1.xx&edm=AJ-jyNUEAAAA&_nc_gid=35pPqiMbufc4OpWot81eSg&oh=00_AQPMT3qeBIyH0_fOnyvL8Y5XQXko56fMZZc30TuEg30sCA&oe=6AD9B9AE"
       }
     },
     "1375923958937880": {
@@ -1973,7 +1987,7 @@
         "seguidos": 0,
         "personas_hablando": 0,
         "foto_perfil": "",
-        "ultima_actualizacion": "2026-10-17T18:44:21.152Z"
+        "ultima_actualizacion": "2026-10-17T22:31:42.360Z"
       },
       "resumen_kpis": {
         "total_seguidores": 7,
@@ -1986,7 +2000,7 @@
         "reacciones_totales": 3,
         "comentarios_totales": 0,
         "compartidos_totales": 1,
-        "programados_en_servidores_meta": 24,
+        "programados_en_servidores_meta": 23,
         "total_publicaciones_sistema": 52
       },
       "rendimiento_por_horario": [
@@ -2121,16 +2135,20 @@
           "compartidos": 0,
           "tipo": "post",
           "estado": "publicado"
-        }
-      ],
-      "proximos_programados_meta": [
+        },
         {
           "id": "122095708467512707",
           "url": "https://www.facebook.com/122095708467512707",
-          "mensaje": "⏰ [Programado 2026-10-17 19:00] Mentalidad Errónea: EL AMANTE DEL CONFORT vs Mentalidad de Acero",
-          "fecha_programada": "2026-10-17T19:00:00Z",
-          "estado": "programado_en_meta"
-        },
+          "mensaje": "Mentalidad Errónea: EL AMANTE DEL CONFORT vs Mentalidad de Acero: \"EL CONFORT ES UNA PRISIÓN SILENCIOSA QUE ASESINA MÁS SUEÑOS QUE CUALQUIER FRACASO.\"  ¡DESPIERTA!   Deja de mirar la pan...",
+          "fecha": "2026-10-17T19:00:00.000Z",
+          "reacciones": 0,
+          "comentarios": 0,
+          "compartidos": 0,
+          "tipo": "post",
+          "estado": "publicado"
+        }
+      ],
+      "proximos_programados_meta": [
         {
           "id": "122095708587512707",
           "url": "https://www.facebook.com/122095708587512707",
