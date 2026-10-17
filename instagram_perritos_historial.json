@@ -85,6 +85,15 @@
       "media_id": "17911841403540719",
       "permalink": "https://www.instagram.com/reel/Dek7CamjrWA/",
       "fecha": "2026-10-17T01:25:40.214Z"
+    },
+    {
+      "tipo": "reel_cinematico_cronograma",
+      "reel_id": 8,
+      "nombre_perrito": "Don Coco",
+      "slot_horario": "Día 2 - 16:30",
+      "media_id": "18178032430451302",
+      "permalink": "https://www.instagram.com/reel/DelZ8nbI3PL/",
+      "fecha": "2026-10-17T05:55:49.270Z"
     }
   ],
   "ultimo_tipo": "reel"
