@@ -5,22 +5,22 @@
     "categoria": "Animals & Pets",
     "seguidores": 27,
     "seguidos": 3,
-    "personas_hablando": 128,
-    "foto_perfil": "https://scontent-dfw6-2.xx.fbcdn.net/v/t39.30808-1/825286629_28604489712564817_7866327839881392565_n.jpg?stp=dst-jpg_s200x200_tt6&_nc_cat=110&ccb=1-7&_nc_sid=f907e8&_nc_ohc=-Jv6zG2BjMcQ7kNvwG3jBpr&_nc_oc=AdodTnt8jOw2EGoZg1DZAUAQdcFBD1rmG79wadHLPRBgshpDaZT2YnGYGjjZlp_K0jg&_nc_zt=24&_nc_ht=scontent-dfw6-2.xx&edm=AJdBtusEAAAA&_nc_gid=GpfRpEVVulouXnUNTBsQcw&_nc_tpa=Q5bMBQLDxi_Gg8tyWH9Ntiulo2tlDOhF4fEHqAd1wsA56e1YcfEY30Ru52UXNOqSk0HdXayCFo3bhnu_jw&oh=00_AQP3ikyFGnQ6KoD_9q0MPlLg6kWBa5LC5PxcLVfaThIsuQ&oe=6AD8CDAB",
-    "ultima_actualizacion": "2026-10-17T05:55:52.240Z"
+    "personas_hablando": 91,
+    "foto_perfil": "https://scontent-iad3-1.xx.fbcdn.net/v/t39.30808-1/825286629_28604489712564817_7866327839881392565_n.jpg?stp=dst-jpg_s200x200_tt6&_nc_cat=110&ccb=1-7&_nc_sid=f907e8&_nc_ohc=-Jv6zG2BjMcQ7kNvwECN9cf&_nc_oc=AdqBSFqEupCnv8B5gIhKovkZf3u3Gux6D3qcLgKDqGqhnSIX8LOKQs2AmWAebEgxzj0&_nc_zt=24&_nc_ht=scontent-iad3-1.xx&edm=AJdBtusEAAAA&_nc_gid=nVEI6wo0V5nbjw_hjE3nvg&_nc_tpa=Q5bMBQIVz18D5n0R0Tew0jKutxhMrCmr6FWGaBf9E306O9611iMxsBiVjD_wgbtsrjfbLsvK_2peRwZdMg&oh=00_AQMnH5oSP-l5RV0e6DzDvzrG9tVrGM90Mf7go-NiIQek7w&oe=6AD9766B",
+    "ultima_actualizacion": "2026-10-17T15:50:50.149Z"
   },
   "resumen_kpis": {
     "total_seguidores": 27,
     "seguidores_detalle": "27 seguidores • 3 seguidos",
     "crecimiento_semanal": "+35%",
     "seguidores_nuevos_semana": 7,
-    "personas_hablando": 128,
+    "personas_hablando": 91,
     "alcance_estimado": 486,
     "interacciones_totales": 0,
     "reacciones_totales": 0,
     "comentarios_totales": 0,
     "compartidos_totales": 0,
-    "programados_en_servidores_meta": 89,
+    "programados_en_servidores_meta": 90,
     "total_publicaciones_sistema": 120
   },
   "rendimiento_por_horario": [
@@ -68,6 +68,17 @@
     }
   ],
   "ultimos_posts_publicados": [
+    {
+      "id": "1367888553074849_122096593023507613",
+      "url": "https://www.facebook.com/1367888553074849_122096593023507613",
+      "mensaje": "«Cuando el veterinario le dijo que a Buster le quedaban pocos meses de vida, Carlos no se encerró a llorar... decidió darle el viaje de sus ",
+      "fecha": "2026-10-17T13:00:08+0000",
+      "reacciones": 0,
+      "comentarios": 0,
+      "compartidos": 0,
+      "tipo": "post",
+      "estado": "publicado"
+    },
     {
       "id": "1367888553074849_122096592873507613",
       "url": "https://www.facebook.com/1367888553074849_122096592873507613",
@@ -320,20 +331,23 @@
       "compartidos": 0,
       "tipo": "post",
       "estado": "publicado"
-    },
-    {
-      "id": "1367888553074849_122096591079507613",
-      "url": "https://www.facebook.com/1367888553074849_122096591079507613",
-      "mensaje": "«Decían que los perros y los gatos son enemigos por naturaleza... Toby demostró todo lo contrario. 🐶🐱🍼\n\nUnos vecinos escucharon maullidos",
-      "fecha": "2026-10-11T13:00:58+0000",
-      "reacciones": 0,
-      "comentarios": 0,
-      "compartidos": 0,
-      "tipo": "post",
-      "estado": "publicado"
     }
   ],
   "proximos_programados_meta": [
+    {
+      "id": "1367888553074849_122104924683507613",
+      "url": "https://www.facebook.com/1367888553074849_122104924683507613",
+      "mensaje": "Don Aurelio vio cómo cerraron la maderería para siempre y pusieron cinta amarilla de clausura. Al guardia de seguridad le liquidaron su suel",
+      "fecha_programada": "2026-11-14T12:30:00.000Z",
+      "estado": "programado_en_meta"
+    },
+    {
+      "id": "1367888553074849_122104924593507613",
+      "url": "https://www.facebook.com/1367888553074849_122104924593507613",
+      "mensaje": "«Sufrimos más a menudo por la imaginación que por la realidad». — Séneca 🏛️📜\n\n¿Cuántas noches te has quedado despierto creando escenarios ",
+      "fecha_programada": "2026-11-14T08:00:00.000Z",
+      "estado": "programado_en_meta"
+    },
     {
       "id": "1367888553074849_122104276347507613",
       "url": "https://www.facebook.com/1367888553074849_122104276347507613",
@@ -949,13 +963,6 @@
       "mensaje": "«Nació sin la vista y pasó sus primeros dos años confinado en un cuarto oscuro. Así fue cuando tocó el césped por primera vez... 🌿🐾\n\nAl pr",
       "fecha_programada": "2026-10-17T23:30:00.000Z",
       "estado": "programado_en_meta"
-    },
-    {
-      "id": "1367888553074849_122096593023507613",
-      "url": "https://www.facebook.com/1367888553074849_122096593023507613",
-      "mensaje": "«Cuando el veterinario le dijo que a Buster le quedaban pocos meses de vida, Carlos no se encerró a llorar... decidió darle el viaje de sus ",
-      "fecha_programada": "2026-10-17T13:00:00.000Z",
-      "estado": "programado_en_meta"
     }
   ],
   "instagram": {
@@ -963,8 +970,8 @@
     "username": "huellasconproposito26",
     "name": "Huellas con propósito",
     "followers": 1,
-    "media_count": 12,
-    "picture": "https://scontent-dfw5-2.xx.fbcdn.net/v/t51.82787-15/846964896_18127515184894503_9206256640984781246_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=7d201b&_nc_ohc=fjCo7kx4GuoQ7kNvwFM_iJO&_nc_oc=AdqUOr5izf1pfHsm-UzM1ZRqljSE0AKQZPLk5KjmmoFAqUs96yGvcz-iLjtJ7fTkmOU&_nc_zt=23&_nc_ht=scontent-dfw5-2.xx&edm=AJ-jyNUEAAAA&_nc_gid=nMd9foUYvTXPe_lTRntcdw&oh=00_AQN7kqdiMfSrMrZiUmLCTgDfgwvnQNl2RNyQUx7vWWCtjg&oe=6AD8D8AE"
+    "media_count": 13,
+    "picture": "https://scontent-iad3-1.xx.fbcdn.net/v/t51.82787-15/846964896_18127515184894503_9206256640984781246_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=7d201b&_nc_ohc=fjCo7kx4GuoQ7kNvwFV2ynn&_nc_oc=AdpIPdiFwf02deSl--6ihT83DlJfr8xcvtxjXPHJSyQZdjvtoQSLS-UshlVKyZSqhVY&_nc_zt=23&_nc_ht=scontent-iad3-1.xx&edm=AJ-jyNUEAAAA&_nc_gid=OIsJejso98vI0qpGADs5Eg&oh=00_AQPxM_lDk0fSqwgi9y_WRjvJZ7wc9kW2F6QMHbVTYnyN6w&oe=6AD9816E"
   },
   "paginas": {
     "1367888553074849": {
@@ -974,22 +981,22 @@
         "categoria": "Animals & Pets",
         "seguidores": 27,
         "seguidos": 3,
-        "personas_hablando": 128,
-        "foto_perfil": "https://scontent-dfw6-2.xx.fbcdn.net/v/t39.30808-1/825286629_28604489712564817_7866327839881392565_n.jpg?stp=dst-jpg_s200x200_tt6&_nc_cat=110&ccb=1-7&_nc_sid=f907e8&_nc_ohc=-Jv6zG2BjMcQ7kNvwG3jBpr&_nc_oc=AdodTnt8jOw2EGoZg1DZAUAQdcFBD1rmG79wadHLPRBgshpDaZT2YnGYGjjZlp_K0jg&_nc_zt=24&_nc_ht=scontent-dfw6-2.xx&edm=AJdBtusEAAAA&_nc_gid=GpfRpEVVulouXnUNTBsQcw&_nc_tpa=Q5bMBQLDxi_Gg8tyWH9Ntiulo2tlDOhF4fEHqAd1wsA56e1YcfEY30Ru52UXNOqSk0HdXayCFo3bhnu_jw&oh=00_AQP3ikyFGnQ6KoD_9q0MPlLg6kWBa5LC5PxcLVfaThIsuQ&oe=6AD8CDAB",
-        "ultima_actualizacion": "2026-10-17T05:55:52.240Z"
+        "personas_hablando": 91,
+        "foto_perfil": "https://scontent-iad3-1.xx.fbcdn.net/v/t39.30808-1/825286629_28604489712564817_7866327839881392565_n.jpg?stp=dst-jpg_s200x200_tt6&_nc_cat=110&ccb=1-7&_nc_sid=f907e8&_nc_ohc=-Jv6zG2BjMcQ7kNvwECN9cf&_nc_oc=AdqBSFqEupCnv8B5gIhKovkZf3u3Gux6D3qcLgKDqGqhnSIX8LOKQs2AmWAebEgxzj0&_nc_zt=24&_nc_ht=scontent-iad3-1.xx&edm=AJdBtusEAAAA&_nc_gid=nVEI6wo0V5nbjw_hjE3nvg&_nc_tpa=Q5bMBQIVz18D5n0R0Tew0jKutxhMrCmr6FWGaBf9E306O9611iMxsBiVjD_wgbtsrjfbLsvK_2peRwZdMg&oh=00_AQMnH5oSP-l5RV0e6DzDvzrG9tVrGM90Mf7go-NiIQek7w&oe=6AD9766B",
+        "ultima_actualizacion": "2026-10-17T15:50:50.149Z"
       },
       "resumen_kpis": {
         "total_seguidores": 27,
         "seguidores_detalle": "27 seguidores • 3 seguidos",
         "crecimiento_semanal": "+35%",
         "seguidores_nuevos_semana": 7,
-        "personas_hablando": 128,
+        "personas_hablando": 91,
         "alcance_estimado": 486,
         "interacciones_totales": 0,
         "reacciones_totales": 0,
         "comentarios_totales": 0,
         "compartidos_totales": 0,
-        "programados_en_servidores_meta": 89,
+        "programados_en_servidores_meta": 90,
         "total_publicaciones_sistema": 120
       },
       "rendimiento_por_horario": [
@@ -1037,6 +1044,17 @@
         }
       ],
       "ultimos_posts_publicados": [
+        {
+          "id": "1367888553074849_122096593023507613",
+          "url": "https://www.facebook.com/1367888553074849_122096593023507613",
+          "mensaje": "«Cuando el veterinario le dijo que a Buster le quedaban pocos meses de vida, Carlos no se encerró a llorar... decidió darle el viaje de sus ",
+          "fecha": "2026-10-17T13:00:08+0000",
+          "reacciones": 0,
+          "comentarios": 0,
+          "compartidos": 0,
+          "tipo": "post",
+          "estado": "publicado"
+        },
         {
           "id": "1367888553074849_122096592873507613",
           "url": "https://www.facebook.com/1367888553074849_122096592873507613",
@@ -1289,20 +1307,23 @@
           "compartidos": 0,
           "tipo": "post",
           "estado": "publicado"
-        },
-        {
-          "id": "1367888553074849_122096591079507613",
-          "url": "https://www.facebook.com/1367888553074849_122096591079507613",
-          "mensaje": "«Decían que los perros y los gatos son enemigos por naturaleza... Toby demostró todo lo contrario. 🐶🐱🍼\n\nUnos vecinos escucharon maullidos",
-          "fecha": "2026-10-11T13:00:58+0000",
-          "reacciones": 0,
-          "comentarios": 0,
-          "compartidos": 0,
-          "tipo": "post",
-          "estado": "publicado"
         }
       ],
       "proximos_programados_meta": [
+        {
+          "id": "1367888553074849_122104924683507613",
+          "url": "https://www.facebook.com/1367888553074849_122104924683507613",
+          "mensaje": "Don Aurelio vio cómo cerraron la maderería para siempre y pusieron cinta amarilla de clausura. Al guardia de seguridad le liquidaron su suel",
+          "fecha_programada": "2026-11-14T12:30:00.000Z",
+          "estado": "programado_en_meta"
+        },
+        {
+          "id": "1367888553074849_122104924593507613",
+          "url": "https://www.facebook.com/1367888553074849_122104924593507613",
+          "mensaje": "«Sufrimos más a menudo por la imaginación que por la realidad». — Séneca 🏛️📜\n\n¿Cuántas noches te has quedado despierto creando escenarios ",
+          "fecha_programada": "2026-11-14T08:00:00.000Z",
+          "estado": "programado_en_meta"
+        },
         {
           "id": "1367888553074849_122104276347507613",
           "url": "https://www.facebook.com/1367888553074849_122104276347507613",
@@ -1918,13 +1939,6 @@
           "mensaje": "«Nació sin la vista y pasó sus primeros dos años confinado en un cuarto oscuro. Así fue cuando tocó el césped por primera vez... 🌿🐾\n\nAl pr",
           "fecha_programada": "2026-10-17T23:30:00.000Z",
           "estado": "programado_en_meta"
-        },
-        {
-          "id": "1367888553074849_122096593023507613",
-          "url": "https://www.facebook.com/1367888553074849_122096593023507613",
-          "mensaje": "«Cuando el veterinario le dijo que a Buster le quedaban pocos meses de vida, Carlos no se encerró a llorar... decidió darle el viaje de sus ",
-          "fecha_programada": "2026-10-17T13:00:00.000Z",
-          "estado": "programado_en_meta"
         }
       ],
       "instagram": {
@@ -1932,8 +1946,8 @@
         "username": "huellasconproposito26",
         "name": "Huellas con propósito",
         "followers": 1,
-        "media_count": 12,
-        "picture": "https://scontent-dfw5-2.xx.fbcdn.net/v/t51.82787-15/846964896_18127515184894503_9206256640984781246_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=7d201b&_nc_ohc=fjCo7kx4GuoQ7kNvwFM_iJO&_nc_oc=AdqUOr5izf1pfHsm-UzM1ZRqljSE0AKQZPLk5KjmmoFAqUs96yGvcz-iLjtJ7fTkmOU&_nc_zt=23&_nc_ht=scontent-dfw5-2.xx&edm=AJ-jyNUEAAAA&_nc_gid=nMd9foUYvTXPe_lTRntcdw&oh=00_AQN7kqdiMfSrMrZiUmLCTgDfgwvnQNl2RNyQUx7vWWCtjg&oe=6AD8D8AE"
+        "media_count": 13,
+        "picture": "https://scontent-iad3-1.xx.fbcdn.net/v/t51.82787-15/846964896_18127515184894503_9206256640984781246_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=7d201b&_nc_ohc=fjCo7kx4GuoQ7kNvwFV2ynn&_nc_oc=AdpIPdiFwf02deSl--6ihT83DlJfr8xcvtxjXPHJSyQZdjvtoQSLS-UshlVKyZSqhVY&_nc_zt=23&_nc_ht=scontent-iad3-1.xx&edm=AJ-jyNUEAAAA&_nc_gid=OIsJejso98vI0qpGADs5Eg&oh=00_AQPxM_lDk0fSqwgi9y_WRjvJZ7wc9kW2F6QMHbVTYnyN6w&oe=6AD9816E"
       }
     },
     "1375923958937880": {
@@ -1945,7 +1959,7 @@
         "seguidos": 0,
         "personas_hablando": 0,
         "foto_perfil": "",
-        "ultima_actualizacion": "2026-10-17T05:55:52.347Z"
+        "ultima_actualizacion": "2026-10-17T15:50:50.371Z"
       },
       "resumen_kpis": {
         "total_seguidores": 7,
