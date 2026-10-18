@@ -6,8 +6,8 @@
     "seguidores": 27,
     "seguidos": 3,
     "personas_hablando": 76,
-    "foto_perfil": "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.30808-1/825286629_28604489712564817_7866327839881392565_n.jpg?stp=dst-jpg_s200x200_tt6&_nc_cat=110&ccb=1-7&_nc_sid=f907e8&_nc_ohc=TyeAfEyxjaQQ7kNvwFeRkhH&_nc_oc=AdoeYkYRy1c90jqDdZu-a1Zy5TcWWdkopRrR40y2pkbCJT7JdLiQWeXJwhSYGBY_L8o&_nc_zt=24&_nc_ht=scontent-sjc3-1.xx&edm=AJdBtusEAAAA&_nc_gid=lVdcw0ogtrgat5pdFwTS2A&_nc_tpa=Q5bMBQLsILOMcN8AyWSgrbBkL98rLsnHXgFVkUMwe9HgQTkpLpDRtGLDo5NDoiUSdw25DcPSUh61XTldKw&oh=00_AQOCi6bC_3FYOR4pqpevjn8RnbShFZn99hgZQV-r0PySzA&oe=6ADB002B",
-    "ultima_actualizacion": "2026-10-18T18:47:10.962Z"
+    "foto_perfil": "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.30808-1/825286629_28604489712564817_7866327839881392565_n.jpg?stp=dst-jpg_s200x200_tt6&_nc_cat=110&ccb=1-7&_nc_sid=f907e8&_nc_ohc=TyeAfEyxjaQQ7kNvwGNsATd&_nc_oc=AdrrSb41aIniUSbyxjNsMGJ5VlSYbNPAVzAgXQAEokfQyd9omAOMeyCZ8B3e40s-NnE&_nc_zt=24&_nc_ht=scontent-sjc3-1.xx&edm=AJdBtusEAAAA&_nc_gid=IucMoqrVtVK8_sgBghFdww&_nc_tpa=Q5bMBQIcEyHDIIcB-nCScc5_A3CVVwF14Tgma2yFdMUV3tpobLKXdT8qa8cd4E84kkhMttT7eQcKMFXl-A&oh=00_AQOQRMgfb2OIwVGGrq_zEgdfu7NNHf75zt7v4uO49O_4FA&oe=6ADB002B",
+    "ultima_actualizacion": "2026-10-18T22:31:58.231Z"
   },
   "resumen_kpis": {
     "total_seguidores": 27,
@@ -20,7 +20,7 @@
     "reacciones_totales": 0,
     "comentarios_totales": 0,
     "compartidos_totales": 0,
-    "programados_en_servidores_meta": 93,
+    "programados_en_servidores_meta": 94,
     "total_publicaciones_sistema": 120
   },
   "rendimiento_por_horario": [
@@ -334,6 +334,13 @@
     }
   ],
   "proximos_programados_meta": [
+    {
+      "id": "1367888553074849_122106005517507613",
+      "url": "https://www.facebook.com/1367888553074849_122106005517507613",
+      "mensaje": "Don Marcos llamó al nuevo dueño del taller mecánico que acababa de quebrar. Una voz apresurada le contestó que se estaban llevando la maquin",
+      "fecha_programada": "2026-11-15T20:30:00.000Z",
+      "estado": "programado_en_meta"
+    },
     {
       "id": "1367888553074849_122105904231507613",
       "url": "https://www.facebook.com/1367888553074849_122105904231507613",
@@ -992,7 +999,7 @@
     "name": "Huellas con propósito",
     "followers": 1,
     "media_count": 14,
-    "picture": "https://scontent-sjc6-1.xx.fbcdn.net/v/t51.82787-15/846964896_18127515184894503_9206256640984781246_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=7d201b&_nc_ohc=kqD9lq_LcrEQ7kNvwGQdtYd&_nc_oc=Adp_TB4nqpUUmRMuRiqcZD6RHmZdbQxBbu_gWTFPi9OSsr7NylJ83LepIceJE2zyDNY&_nc_zt=23&_nc_ht=scontent-sjc6-1.xx&edm=AJ-jyNUEAAAA&_nc_gid=MXsP8E2v8yd2LuphTiT-Ow&oh=00_AQNZMIMdker18_wjhp1wetNd91r9SOqTeGPq96OeQcPtYA&oe=6ADAD2EE"
+    "picture": "https://scontent-sjc6-1.xx.fbcdn.net/v/t51.82787-15/846964896_18127515184894503_9206256640984781246_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=7d201b&_nc_ohc=kqD9lq_LcrEQ7kNvwH9Y-d8&_nc_oc=AdrOm89u6Q4uN212lnTOXAdRlHC45mnWq1bTwDEz_d6d2KddNBRVMakdq2g-Ff3jEgE&_nc_zt=23&_nc_ht=scontent-sjc6-1.xx&edm=AJ-jyNUEAAAA&_nc_gid=-8cYfVtIV-Q3qeMhBv1bjg&oh=00_AQPNR9WG-AIgSCuWutqAAaq7aBI-3yvp1KYYXane3lxlIg&oe=6ADB0B2E"
   },
   "paginas": {
     "1367888553074849": {
@@ -1003,8 +1010,8 @@
         "seguidores": 27,
         "seguidos": 3,
         "personas_hablando": 76,
-        "foto_perfil": "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.30808-1/825286629_28604489712564817_7866327839881392565_n.jpg?stp=dst-jpg_s200x200_tt6&_nc_cat=110&ccb=1-7&_nc_sid=f907e8&_nc_ohc=TyeAfEyxjaQQ7kNvwFeRkhH&_nc_oc=AdoeYkYRy1c90jqDdZu-a1Zy5TcWWdkopRrR40y2pkbCJT7JdLiQWeXJwhSYGBY_L8o&_nc_zt=24&_nc_ht=scontent-sjc3-1.xx&edm=AJdBtusEAAAA&_nc_gid=lVdcw0ogtrgat5pdFwTS2A&_nc_tpa=Q5bMBQLsILOMcN8AyWSgrbBkL98rLsnHXgFVkUMwe9HgQTkpLpDRtGLDo5NDoiUSdw25DcPSUh61XTldKw&oh=00_AQOCi6bC_3FYOR4pqpevjn8RnbShFZn99hgZQV-r0PySzA&oe=6ADB002B",
-        "ultima_actualizacion": "2026-10-18T18:47:10.962Z"
+        "foto_perfil": "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.30808-1/825286629_28604489712564817_7866327839881392565_n.jpg?stp=dst-jpg_s200x200_tt6&_nc_cat=110&ccb=1-7&_nc_sid=f907e8&_nc_ohc=TyeAfEyxjaQQ7kNvwGNsATd&_nc_oc=AdrrSb41aIniUSbyxjNsMGJ5VlSYbNPAVzAgXQAEokfQyd9omAOMeyCZ8B3e40s-NnE&_nc_zt=24&_nc_ht=scontent-sjc3-1.xx&edm=AJdBtusEAAAA&_nc_gid=IucMoqrVtVK8_sgBghFdww&_nc_tpa=Q5bMBQIcEyHDIIcB-nCScc5_A3CVVwF14Tgma2yFdMUV3tpobLKXdT8qa8cd4E84kkhMttT7eQcKMFXl-A&oh=00_AQOQRMgfb2OIwVGGrq_zEgdfu7NNHf75zt7v4uO49O_4FA&oe=6ADB002B",
+        "ultima_actualizacion": "2026-10-18T22:31:58.231Z"
       },
       "resumen_kpis": {
         "total_seguidores": 27,
@@ -1017,7 +1024,7 @@
         "reacciones_totales": 0,
         "comentarios_totales": 0,
         "compartidos_totales": 0,
-        "programados_en_servidores_meta": 93,
+        "programados_en_servidores_meta": 94,
         "total_publicaciones_sistema": 120
       },
       "rendimiento_por_horario": [
@@ -1331,6 +1338,13 @@
         }
       ],
       "proximos_programados_meta": [
+        {
+          "id": "1367888553074849_122106005517507613",
+          "url": "https://www.facebook.com/1367888553074849_122106005517507613",
+          "mensaje": "Don Marcos llamó al nuevo dueño del taller mecánico que acababa de quebrar. Una voz apresurada le contestó que se estaban llevando la maquin",
+          "fecha_programada": "2026-11-15T20:30:00.000Z",
+          "estado": "programado_en_meta"
+        },
         {
           "id": "1367888553074849_122105904231507613",
           "url": "https://www.facebook.com/1367888553074849_122105904231507613",
@@ -1989,7 +2003,7 @@
         "name": "Huellas con propósito",
         "followers": 1,
         "media_count": 14,
-        "picture": "https://scontent-sjc6-1.xx.fbcdn.net/v/t51.82787-15/846964896_18127515184894503_9206256640984781246_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=7d201b&_nc_ohc=kqD9lq_LcrEQ7kNvwGQdtYd&_nc_oc=Adp_TB4nqpUUmRMuRiqcZD6RHmZdbQxBbu_gWTFPi9OSsr7NylJ83LepIceJE2zyDNY&_nc_zt=23&_nc_ht=scontent-sjc6-1.xx&edm=AJ-jyNUEAAAA&_nc_gid=MXsP8E2v8yd2LuphTiT-Ow&oh=00_AQNZMIMdker18_wjhp1wetNd91r9SOqTeGPq96OeQcPtYA&oe=6ADAD2EE"
+        "picture": "https://scontent-sjc6-1.xx.fbcdn.net/v/t51.82787-15/846964896_18127515184894503_9206256640984781246_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=7d201b&_nc_ohc=kqD9lq_LcrEQ7kNvwH9Y-d8&_nc_oc=AdrOm89u6Q4uN212lnTOXAdRlHC45mnWq1bTwDEz_d6d2KddNBRVMakdq2g-Ff3jEgE&_nc_zt=23&_nc_ht=scontent-sjc6-1.xx&edm=AJ-jyNUEAAAA&_nc_gid=-8cYfVtIV-Q3qeMhBv1bjg&oh=00_AQPNR9WG-AIgSCuWutqAAaq7aBI-3yvp1KYYXane3lxlIg&oe=6ADB0B2E"
       }
     },
     "1375923958937880": {
@@ -2001,7 +2015,7 @@
         "seguidos": 0,
         "personas_hablando": 0,
         "foto_perfil": "",
-        "ultima_actualizacion": "2026-10-18T18:47:11.092Z"
+        "ultima_actualizacion": "2026-10-18T22:31:58.389Z"
       },
       "resumen_kpis": {
         "total_seguidores": 7,
@@ -2014,7 +2028,7 @@
         "reacciones_totales": 3,
         "comentarios_totales": 0,
         "compartidos_totales": 1,
-        "programados_en_servidores_meta": 23,
+        "programados_en_servidores_meta": 22,
         "total_publicaciones_sistema": 52
       },
       "rendimiento_por_horario": [
@@ -2160,16 +2174,20 @@
           "compartidos": 0,
           "tipo": "post",
           "estado": "publicado"
-        }
-      ],
-      "proximos_programados_meta": [
+        },
         {
           "id": "122095708587512707",
           "url": "https://www.facebook.com/122095708587512707",
-          "mensaje": "⏰ [Programado 2026-10-18 19:00] Mentalidad Errónea: EL HABLADOR DE PLANES vs Mentalidad de Acero",
-          "fecha_programada": "2026-10-18T19:00:00Z",
-          "estado": "programado_en_meta"
-        },
+          "mensaje": "Mentalidad Errónea: EL HABLADOR DE PLANES vs Mentalidad de Acero: \"NO LE CUENTES A NADIE LO QUE VAS A HACER, DEJA QUE EL RUIDO DE TUS RESULTADOS HABLE POR TI.\"  ¡DESPIERTA!  El mundo est...",
+          "fecha": "2026-10-18T19:00:00.000Z",
+          "reacciones": 0,
+          "comentarios": 0,
+          "compartidos": 0,
+          "tipo": "post",
+          "estado": "publicado"
+        }
+      ],
+      "proximos_programados_meta": [
         {
           "id": "122095708851512707",
           "url": "https://www.facebook.com/122095708851512707",
