@@ -5,22 +5,22 @@
     "categoria": "Animals & Pets",
     "seguidores": 27,
     "seguidos": 3,
-    "personas_hablando": 91,
-    "foto_perfil": "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.30808-1/825286629_28604489712564817_7866327839881392565_n.jpg?stp=dst-jpg_s200x200_tt6&_nc_cat=110&ccb=1-7&_nc_sid=f907e8&_nc_ohc=-Jv6zG2BjMcQ7kNvwFvx1qI&_nc_oc=AdpW-VAvPl8bkNjjuIc3ADwhqfv0u7kE5J17iubpCL54spiP8JazVM154uXpO37o3Wo&_nc_zt=24&_nc_ht=scontent-sjc3-1.xx&edm=AJdBtusEAAAA&_nc_gid=XFzebxReS7kKvv8qC09i-w&_nc_tpa=Q5bMBQKlmrTummRAA7FdlkL-vURMnzrJ6EXuR8-FchTJn-Mh_B1LuLELVK3ubOipyNBjU_1VLewVlSnUNg&oh=00_AQNHZyCuiRY2-Hod2xpjoQcucnAjUgDvf3FnAAAQmzC6Ww&oe=6AD9AEAB",
-    "ultima_actualizacion": "2026-10-17T22:31:42.227Z"
+    "personas_hablando": 92,
+    "foto_perfil": "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.30808-1/825286629_28604489712564817_7866327839881392565_n.jpg?stp=dst-jpg_s200x200_tt6&_nc_cat=110&ccb=1-7&_nc_sid=f907e8&_nc_ohc=-Jv6zG2BjMcQ7kNvwGkaY1y&_nc_oc=AdpJVGDQGdET7V8PyO5zAASMFO7Vb5HBtvWCau2ToB2LJtyBQldP6qtu9szPZvFSXkU&_nc_zt=24&_nc_ht=scontent-sjc3-1.xx&edm=AJdBtusEAAAA&_nc_gid=SbX-HxPyy6xwtwCHrXug3A&_nc_tpa=Q5bMBQJc8U2S2ooP1ljFauDHxKEHIX1XtqP3CkowTBHKbJL5X8JoONc3Fv4KS6nC7bExkYZUo5W3Wx2VaQ&oh=00_AQPEi4NRDGkuhIaxYwFmWFO_2SkfKB6CBqB1McSQ3UjsiQ&oe=6AD9E6EB",
+    "ultima_actualizacion": "2026-10-18T01:22:48.873Z"
   },
   "resumen_kpis": {
     "total_seguidores": 27,
     "seguidores_detalle": "27 seguidores • 3 seguidos",
     "crecimiento_semanal": "+35%",
     "seguidores_nuevos_semana": 7,
-    "personas_hablando": 91,
+    "personas_hablando": 92,
     "alcance_estimado": 486,
     "interacciones_totales": 0,
     "reacciones_totales": 0,
     "comentarios_totales": 0,
     "compartidos_totales": 0,
-    "programados_en_servidores_meta": 92,
+    "programados_en_servidores_meta": 91,
     "total_publicaciones_sistema": 120
   },
   "rendimiento_por_horario": [
@@ -68,6 +68,17 @@
     }
   ],
   "ultimos_posts_publicados": [
+    {
+      "id": "1367888553074849_122096593287507613",
+      "url": "https://www.facebook.com/1367888553074849_122096593287507613",
+      "mensaje": "«Nació sin la vista y pasó sus primeros dos años confinado en un cuarto oscuro. Así fue cuando tocó el césped por primera vez... 🌿🐾\n\nAl pr",
+      "fecha": "2026-10-17T23:30:05+0000",
+      "reacciones": 0,
+      "comentarios": 0,
+      "compartidos": 0,
+      "tipo": "post",
+      "estado": "publicado"
+    },
     {
       "id": "1367888553074849_122096593023507613",
       "url": "https://www.facebook.com/1367888553074849_122096593023507613",
@@ -315,17 +326,6 @@
       "url": "https://www.facebook.com/1367888553074849_122099577243507613",
       "mensaje": "Los lunes por la mañana, la sucursal del banco del centro se llena de gente con paciencia limitada y documentos mal acomodados. Lupita, la c",
       "fecha": "2026-10-11T22:04:40+0000",
-      "reacciones": 0,
-      "comentarios": 0,
-      "compartidos": 0,
-      "tipo": "post",
-      "estado": "publicado"
-    },
-    {
-      "id": "1367888553074849_122099576583507613",
-      "url": "https://www.facebook.com/1367888553074849_122099576583507613",
-      "mensaje": "Los lunes por la mañana, la sucursal del banco del centro se llena de gente con paciencia limitada y documentos mal acomodados. Lupita, la c",
-      "fecha": "2026-10-11T22:03:28+0000",
       "reacciones": 0,
       "comentarios": 0,
       "compartidos": 0,
@@ -970,13 +970,6 @@
       "mensaje": "«Muchos perros le ladran al camión de la basura... pero Pirata espera ansioso cada martes y jueves por sus mejores amigos. 🚛🐕👋\n\nTodo empe",
       "fecha_programada": "2026-10-18T13:00:00.000Z",
       "estado": "programado_en_meta"
-    },
-    {
-      "id": "1367888553074849_122096593287507613",
-      "url": "https://www.facebook.com/1367888553074849_122096593287507613",
-      "mensaje": "«Nació sin la vista y pasó sus primeros dos años confinado en un cuarto oscuro. Así fue cuando tocó el césped por primera vez... 🌿🐾\n\nAl pr",
-      "fecha_programada": "2026-10-17T23:30:00.000Z",
-      "estado": "programado_en_meta"
     }
   ],
   "instagram": {
@@ -985,7 +978,7 @@
     "name": "Huellas con propósito",
     "followers": 1,
     "media_count": 14,
-    "picture": "https://scontent-sjc6-1.xx.fbcdn.net/v/t51.82787-15/846964896_18127515184894503_9206256640984781246_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=7d201b&_nc_ohc=fjCo7kx4GuoQ7kNvwFz7Xui&_nc_oc=AdrPJsBrY-oT9jRfCHfvBeh5mfgnKwDuZp-4R_ww_Z39ilwg4YFOJyC7-UBVBlxwbUA&_nc_zt=23&_nc_ht=scontent-sjc6-1.xx&edm=AJ-jyNUEAAAA&_nc_gid=35pPqiMbufc4OpWot81eSg&oh=00_AQPMT3qeBIyH0_fOnyvL8Y5XQXko56fMZZc30TuEg30sCA&oe=6AD9B9AE"
+    "picture": "https://scontent-sjc6-1.xx.fbcdn.net/v/t51.82787-15/846964896_18127515184894503_9206256640984781246_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=7d201b&_nc_ohc=fjCo7kx4GuoQ7kNvwEoZ40U&_nc_oc=AdrN99tsEp6wZYwjCQEcZRyclVpDseQiVAJTOfrjEhrYgSHYUH0Kls1w6r0yXIOziVw&_nc_zt=23&_nc_ht=scontent-sjc6-1.xx&edm=AJ-jyNUEAAAA&_nc_gid=R_26in_Mz_EnVrlM19OeMA&oh=00_AQOP1tpVlJY77a18uU4BX9uisEQFqGKbDSszNoL7KNjV2A&oe=6AD9F1EE"
   },
   "paginas": {
     "1367888553074849": {
@@ -995,22 +988,22 @@
         "categoria": "Animals & Pets",
         "seguidores": 27,
         "seguidos": 3,
-        "personas_hablando": 91,
-        "foto_perfil": "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.30808-1/825286629_28604489712564817_7866327839881392565_n.jpg?stp=dst-jpg_s200x200_tt6&_nc_cat=110&ccb=1-7&_nc_sid=f907e8&_nc_ohc=-Jv6zG2BjMcQ7kNvwFvx1qI&_nc_oc=AdpW-VAvPl8bkNjjuIc3ADwhqfv0u7kE5J17iubpCL54spiP8JazVM154uXpO37o3Wo&_nc_zt=24&_nc_ht=scontent-sjc3-1.xx&edm=AJdBtusEAAAA&_nc_gid=XFzebxReS7kKvv8qC09i-w&_nc_tpa=Q5bMBQKlmrTummRAA7FdlkL-vURMnzrJ6EXuR8-FchTJn-Mh_B1LuLELVK3ubOipyNBjU_1VLewVlSnUNg&oh=00_AQNHZyCuiRY2-Hod2xpjoQcucnAjUgDvf3FnAAAQmzC6Ww&oe=6AD9AEAB",
-        "ultima_actualizacion": "2026-10-17T22:31:42.227Z"
+        "personas_hablando": 92,
+        "foto_perfil": "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.30808-1/825286629_28604489712564817_7866327839881392565_n.jpg?stp=dst-jpg_s200x200_tt6&_nc_cat=110&ccb=1-7&_nc_sid=f907e8&_nc_ohc=-Jv6zG2BjMcQ7kNvwGkaY1y&_nc_oc=AdpJVGDQGdET7V8PyO5zAASMFO7Vb5HBtvWCau2ToB2LJtyBQldP6qtu9szPZvFSXkU&_nc_zt=24&_nc_ht=scontent-sjc3-1.xx&edm=AJdBtusEAAAA&_nc_gid=SbX-HxPyy6xwtwCHrXug3A&_nc_tpa=Q5bMBQJc8U2S2ooP1ljFauDHxKEHIX1XtqP3CkowTBHKbJL5X8JoONc3Fv4KS6nC7bExkYZUo5W3Wx2VaQ&oh=00_AQPEi4NRDGkuhIaxYwFmWFO_2SkfKB6CBqB1McSQ3UjsiQ&oe=6AD9E6EB",
+        "ultima_actualizacion": "2026-10-18T01:22:48.873Z"
       },
       "resumen_kpis": {
         "total_seguidores": 27,
         "seguidores_detalle": "27 seguidores • 3 seguidos",
         "crecimiento_semanal": "+35%",
         "seguidores_nuevos_semana": 7,
-        "personas_hablando": 91,
+        "personas_hablando": 92,
         "alcance_estimado": 486,
         "interacciones_totales": 0,
         "reacciones_totales": 0,
         "comentarios_totales": 0,
         "compartidos_totales": 0,
-        "programados_en_servidores_meta": 92,
+        "programados_en_servidores_meta": 91,
         "total_publicaciones_sistema": 120
       },
       "rendimiento_por_horario": [
@@ -1058,6 +1051,17 @@
         }
       ],
       "ultimos_posts_publicados": [
+        {
+          "id": "1367888553074849_122096593287507613",
+          "url": "https://www.facebook.com/1367888553074849_122096593287507613",
+          "mensaje": "«Nació sin la vista y pasó sus primeros dos años confinado en un cuarto oscuro. Así fue cuando tocó el césped por primera vez... 🌿🐾\n\nAl pr",
+          "fecha": "2026-10-17T23:30:05+0000",
+          "reacciones": 0,
+          "comentarios": 0,
+          "compartidos": 0,
+          "tipo": "post",
+          "estado": "publicado"
+        },
         {
           "id": "1367888553074849_122096593023507613",
           "url": "https://www.facebook.com/1367888553074849_122096593023507613",
@@ -1305,17 +1309,6 @@
           "url": "https://www.facebook.com/1367888553074849_122099577243507613",
           "mensaje": "Los lunes por la mañana, la sucursal del banco del centro se llena de gente con paciencia limitada y documentos mal acomodados. Lupita, la c",
           "fecha": "2026-10-11T22:04:40+0000",
-          "reacciones": 0,
-          "comentarios": 0,
-          "compartidos": 0,
-          "tipo": "post",
-          "estado": "publicado"
-        },
-        {
-          "id": "1367888553074849_122099576583507613",
-          "url": "https://www.facebook.com/1367888553074849_122099576583507613",
-          "mensaje": "Los lunes por la mañana, la sucursal del banco del centro se llena de gente con paciencia limitada y documentos mal acomodados. Lupita, la c",
-          "fecha": "2026-10-11T22:03:28+0000",
           "reacciones": 0,
           "comentarios": 0,
           "compartidos": 0,
@@ -1960,13 +1953,6 @@
           "mensaje": "«Muchos perros le ladran al camión de la basura... pero Pirata espera ansioso cada martes y jueves por sus mejores amigos. 🚛🐕👋\n\nTodo empe",
           "fecha_programada": "2026-10-18T13:00:00.000Z",
           "estado": "programado_en_meta"
-        },
-        {
-          "id": "1367888553074849_122096593287507613",
-          "url": "https://www.facebook.com/1367888553074849_122096593287507613",
-          "mensaje": "«Nació sin la vista y pasó sus primeros dos años confinado en un cuarto oscuro. Así fue cuando tocó el césped por primera vez... 🌿🐾\n\nAl pr",
-          "fecha_programada": "2026-10-17T23:30:00.000Z",
-          "estado": "programado_en_meta"
         }
       ],
       "instagram": {
@@ -1975,7 +1961,7 @@
         "name": "Huellas con propósito",
         "followers": 1,
         "media_count": 14,
-        "picture": "https://scontent-sjc6-1.xx.fbcdn.net/v/t51.82787-15/846964896_18127515184894503_9206256640984781246_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=7d201b&_nc_ohc=fjCo7kx4GuoQ7kNvwFz7Xui&_nc_oc=AdrPJsBrY-oT9jRfCHfvBeh5mfgnKwDuZp-4R_ww_Z39ilwg4YFOJyC7-UBVBlxwbUA&_nc_zt=23&_nc_ht=scontent-sjc6-1.xx&edm=AJ-jyNUEAAAA&_nc_gid=35pPqiMbufc4OpWot81eSg&oh=00_AQPMT3qeBIyH0_fOnyvL8Y5XQXko56fMZZc30TuEg30sCA&oe=6AD9B9AE"
+        "picture": "https://scontent-sjc6-1.xx.fbcdn.net/v/t51.82787-15/846964896_18127515184894503_9206256640984781246_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=7d201b&_nc_ohc=fjCo7kx4GuoQ7kNvwEoZ40U&_nc_oc=AdrN99tsEp6wZYwjCQEcZRyclVpDseQiVAJTOfrjEhrYgSHYUH0Kls1w6r0yXIOziVw&_nc_zt=23&_nc_ht=scontent-sjc6-1.xx&edm=AJ-jyNUEAAAA&_nc_gid=R_26in_Mz_EnVrlM19OeMA&oh=00_AQOP1tpVlJY77a18uU4BX9uisEQFqGKbDSszNoL7KNjV2A&oe=6AD9F1EE"
       }
     },
     "1375923958937880": {
@@ -1987,7 +1973,7 @@
         "seguidos": 0,
         "personas_hablando": 0,
         "foto_perfil": "",
-        "ultima_actualizacion": "2026-10-17T22:31:42.360Z"
+        "ultima_actualizacion": "2026-10-18T01:22:49.060Z"
       },
       "resumen_kpis": {
         "total_seguidores": 7,
