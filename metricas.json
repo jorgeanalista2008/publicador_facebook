@@ -6,8 +6,8 @@
     "seguidores": 27,
     "seguidos": 3,
     "personas_hablando": 76,
-    "foto_perfil": "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.30808-1/825286629_28604489712564817_7866327839881392565_n.jpg?stp=dst-jpg_s200x200_tt6&_nc_cat=110&ccb=1-7&_nc_sid=f907e8&_nc_ohc=TyeAfEyxjaQQ7kNvwFni_-p&_nc_oc=AdoNdQWwpetiGU90_lFb5EasLEFUDZWbiFxWPhM4XzI-OckfwJ3SKt3Vm6fwpNlXtC8&_nc_zt=24&_nc_ht=scontent-sjc3-1.xx&edm=AJdBtusEAAAA&_nc_gid=weiZ_S2zwjP57GkUdcKQ2A&_nc_tpa=Q5bMBQK-SG553WufBxyKykN21cW_ucympy3FvXusDecnewC6EC7CRoVT9nOLQeRiQfQldaBmpkQJBiC3rw&oh=00_AQNESgxkPO5haQ1q3GRx262GOsTGRGXP9oDAKwnacn0GDg&oe=6ADAC7EB",
-    "ultima_actualizacion": "2026-10-18T16:03:53.510Z"
+    "foto_perfil": "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.30808-1/825286629_28604489712564817_7866327839881392565_n.jpg?stp=dst-jpg_s200x200_tt6&_nc_cat=110&ccb=1-7&_nc_sid=f907e8&_nc_ohc=TyeAfEyxjaQQ7kNvwFeRkhH&_nc_oc=AdoeYkYRy1c90jqDdZu-a1Zy5TcWWdkopRrR40y2pkbCJT7JdLiQWeXJwhSYGBY_L8o&_nc_zt=24&_nc_ht=scontent-sjc3-1.xx&edm=AJdBtusEAAAA&_nc_gid=lVdcw0ogtrgat5pdFwTS2A&_nc_tpa=Q5bMBQLsILOMcN8AyWSgrbBkL98rLsnHXgFVkUMwe9HgQTkpLpDRtGLDo5NDoiUSdw25DcPSUh61XTldKw&oh=00_AQOCi6bC_3FYOR4pqpevjn8RnbShFZn99hgZQV-r0PySzA&oe=6ADB002B",
+    "ultima_actualizacion": "2026-10-18T18:47:10.962Z"
   },
   "resumen_kpis": {
     "total_seguidores": 27,
@@ -20,7 +20,7 @@
     "reacciones_totales": 0,
     "comentarios_totales": 0,
     "compartidos_totales": 0,
-    "programados_en_servidores_meta": 92,
+    "programados_en_servidores_meta": 93,
     "total_publicaciones_sistema": 120
   },
   "rendimiento_por_horario": [
@@ -334,6 +334,13 @@
     }
   ],
   "proximos_programados_meta": [
+    {
+      "id": "1367888553074849_122105904231507613",
+      "url": "https://www.facebook.com/1367888553074849_122105904231507613",
+      "mensaje": "«No tenemos poco tiempo, sino que perdemos mucho». — Séneca (Sobre la brevedad de la vida) ⏳🏛️\n\nNos quejamos constantemente de que la vida ",
+      "fecha_programada": "2026-11-15T17:30:00.000Z",
+      "estado": "programado_en_meta"
+    },
     {
       "id": "1367888553074849_122105792265507613",
       "url": "https://www.facebook.com/1367888553074849_122105792265507613",
@@ -985,7 +992,7 @@
     "name": "Huellas con propósito",
     "followers": 1,
     "media_count": 14,
-    "picture": "https://scontent-sjc6-1.xx.fbcdn.net/v/t51.82787-15/846964896_18127515184894503_9206256640984781246_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=7d201b&_nc_ohc=kqD9lq_LcrEQ7kNvwGRMlwg&_nc_oc=AdoxTxZ5cwVqWf9ymvSSj3OaIrCYgru3qAhjIi8t5toKCPbR0HjuL3Dumkr1KX1xoE8&_nc_zt=23&_nc_ht=scontent-sjc6-1.xx&edm=AJ-jyNUEAAAA&_nc_gid=A5DT63BiWNc1JPAqlTVFTw&oh=00_AQPdLTG2XSl3zPD4fTGjb1o_iP-tMkYnNjk013daOn__Jw&oe=6ADAD2EE"
+    "picture": "https://scontent-sjc6-1.xx.fbcdn.net/v/t51.82787-15/846964896_18127515184894503_9206256640984781246_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=7d201b&_nc_ohc=kqD9lq_LcrEQ7kNvwGQdtYd&_nc_oc=Adp_TB4nqpUUmRMuRiqcZD6RHmZdbQxBbu_gWTFPi9OSsr7NylJ83LepIceJE2zyDNY&_nc_zt=23&_nc_ht=scontent-sjc6-1.xx&edm=AJ-jyNUEAAAA&_nc_gid=MXsP8E2v8yd2LuphTiT-Ow&oh=00_AQNZMIMdker18_wjhp1wetNd91r9SOqTeGPq96OeQcPtYA&oe=6ADAD2EE"
   },
   "paginas": {
     "1367888553074849": {
@@ -996,8 +1003,8 @@
         "seguidores": 27,
         "seguidos": 3,
         "personas_hablando": 76,
-        "foto_perfil": "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.30808-1/825286629_28604489712564817_7866327839881392565_n.jpg?stp=dst-jpg_s200x200_tt6&_nc_cat=110&ccb=1-7&_nc_sid=f907e8&_nc_ohc=TyeAfEyxjaQQ7kNvwFni_-p&_nc_oc=AdoNdQWwpetiGU90_lFb5EasLEFUDZWbiFxWPhM4XzI-OckfwJ3SKt3Vm6fwpNlXtC8&_nc_zt=24&_nc_ht=scontent-sjc3-1.xx&edm=AJdBtusEAAAA&_nc_gid=weiZ_S2zwjP57GkUdcKQ2A&_nc_tpa=Q5bMBQK-SG553WufBxyKykN21cW_ucympy3FvXusDecnewC6EC7CRoVT9nOLQeRiQfQldaBmpkQJBiC3rw&oh=00_AQNESgxkPO5haQ1q3GRx262GOsTGRGXP9oDAKwnacn0GDg&oe=6ADAC7EB",
-        "ultima_actualizacion": "2026-10-18T16:03:53.510Z"
+        "foto_perfil": "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.30808-1/825286629_28604489712564817_7866327839881392565_n.jpg?stp=dst-jpg_s200x200_tt6&_nc_cat=110&ccb=1-7&_nc_sid=f907e8&_nc_ohc=TyeAfEyxjaQQ7kNvwFeRkhH&_nc_oc=AdoeYkYRy1c90jqDdZu-a1Zy5TcWWdkopRrR40y2pkbCJT7JdLiQWeXJwhSYGBY_L8o&_nc_zt=24&_nc_ht=scontent-sjc3-1.xx&edm=AJdBtusEAAAA&_nc_gid=lVdcw0ogtrgat5pdFwTS2A&_nc_tpa=Q5bMBQLsILOMcN8AyWSgrbBkL98rLsnHXgFVkUMwe9HgQTkpLpDRtGLDo5NDoiUSdw25DcPSUh61XTldKw&oh=00_AQOCi6bC_3FYOR4pqpevjn8RnbShFZn99hgZQV-r0PySzA&oe=6ADB002B",
+        "ultima_actualizacion": "2026-10-18T18:47:10.962Z"
       },
       "resumen_kpis": {
         "total_seguidores": 27,
@@ -1010,7 +1017,7 @@
         "reacciones_totales": 0,
         "comentarios_totales": 0,
         "compartidos_totales": 0,
-        "programados_en_servidores_meta": 92,
+        "programados_en_servidores_meta": 93,
         "total_publicaciones_sistema": 120
       },
       "rendimiento_por_horario": [
@@ -1324,6 +1331,13 @@
         }
       ],
       "proximos_programados_meta": [
+        {
+          "id": "1367888553074849_122105904231507613",
+          "url": "https://www.facebook.com/1367888553074849_122105904231507613",
+          "mensaje": "«No tenemos poco tiempo, sino que perdemos mucho». — Séneca (Sobre la brevedad de la vida) ⏳🏛️\n\nNos quejamos constantemente de que la vida ",
+          "fecha_programada": "2026-11-15T17:30:00.000Z",
+          "estado": "programado_en_meta"
+        },
         {
           "id": "1367888553074849_122105792265507613",
           "url": "https://www.facebook.com/1367888553074849_122105792265507613",
@@ -1975,7 +1989,7 @@
         "name": "Huellas con propósito",
         "followers": 1,
         "media_count": 14,
-        "picture": "https://scontent-sjc6-1.xx.fbcdn.net/v/t51.82787-15/846964896_18127515184894503_9206256640984781246_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=7d201b&_nc_ohc=kqD9lq_LcrEQ7kNvwGRMlwg&_nc_oc=AdoxTxZ5cwVqWf9ymvSSj3OaIrCYgru3qAhjIi8t5toKCPbR0HjuL3Dumkr1KX1xoE8&_nc_zt=23&_nc_ht=scontent-sjc6-1.xx&edm=AJ-jyNUEAAAA&_nc_gid=A5DT63BiWNc1JPAqlTVFTw&oh=00_AQPdLTG2XSl3zPD4fTGjb1o_iP-tMkYnNjk013daOn__Jw&oe=6ADAD2EE"
+        "picture": "https://scontent-sjc6-1.xx.fbcdn.net/v/t51.82787-15/846964896_18127515184894503_9206256640984781246_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=7d201b&_nc_ohc=kqD9lq_LcrEQ7kNvwGQdtYd&_nc_oc=Adp_TB4nqpUUmRMuRiqcZD6RHmZdbQxBbu_gWTFPi9OSsr7NylJ83LepIceJE2zyDNY&_nc_zt=23&_nc_ht=scontent-sjc6-1.xx&edm=AJ-jyNUEAAAA&_nc_gid=MXsP8E2v8yd2LuphTiT-Ow&oh=00_AQNZMIMdker18_wjhp1wetNd91r9SOqTeGPq96OeQcPtYA&oe=6ADAD2EE"
       }
     },
     "1375923958937880": {
@@ -1987,7 +2001,7 @@
         "seguidos": 0,
         "personas_hablando": 0,
         "foto_perfil": "",
-        "ultima_actualizacion": "2026-10-18T16:03:53.733Z"
+        "ultima_actualizacion": "2026-10-18T18:47:11.092Z"
       },
       "resumen_kpis": {
         "total_seguidores": 7,
