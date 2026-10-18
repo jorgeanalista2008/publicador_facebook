@@ -5,22 +5,22 @@
     "categoria": "Animals & Pets",
     "seguidores": 27,
     "seguidos": 3,
-    "personas_hablando": 92,
-    "foto_perfil": "https://scontent-iad3-1.xx.fbcdn.net/v/t39.30808-1/825286629_28604489712564817_7866327839881392565_n.jpg?stp=dst-jpg_s200x200_tt6&_nc_cat=110&ccb=1-7&_nc_sid=f907e8&_nc_ohc=-Jv6zG2BjMcQ7kNvwEJldJC&_nc_oc=Adp-5x88wjBwvgj6QO_jIx2dh1sC9d3qyapO5VFwEKtvuB1d6EfiCG3JAOzQptVIWCY&_nc_zt=24&_nc_ht=scontent-iad3-1.xx&edm=AJdBtusEAAAA&_nc_gid=mV9YghY6zj8kep43gWiJFg&_nc_tpa=Q5bMBQI4anh4Skd1HcIuwsf7a85M2JoGZQn8u3QeX_HhJn5RCAi9yI_icTYbsWlH40Sb72wy-E2tJNgyOw&oh=00_AQMF7yBJlfHgwt4pLd8vg9OCDczAhcLowGQkaKP7OzLOow&oe=6ADA1F2B",
-    "ultima_actualizacion": "2026-10-18T06:22:26.885Z"
+    "personas_hablando": 76,
+    "foto_perfil": "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.30808-1/825286629_28604489712564817_7866327839881392565_n.jpg?stp=dst-jpg_s200x200_tt6&_nc_cat=110&ccb=1-7&_nc_sid=f907e8&_nc_ohc=TyeAfEyxjaQQ7kNvwFni_-p&_nc_oc=AdoNdQWwpetiGU90_lFb5EasLEFUDZWbiFxWPhM4XzI-OckfwJ3SKt3Vm6fwpNlXtC8&_nc_zt=24&_nc_ht=scontent-sjc3-1.xx&edm=AJdBtusEAAAA&_nc_gid=weiZ_S2zwjP57GkUdcKQ2A&_nc_tpa=Q5bMBQK-SG553WufBxyKykN21cW_ucympy3FvXusDecnewC6EC7CRoVT9nOLQeRiQfQldaBmpkQJBiC3rw&oh=00_AQNESgxkPO5haQ1q3GRx262GOsTGRGXP9oDAKwnacn0GDg&oe=6ADAC7EB",
+    "ultima_actualizacion": "2026-10-18T16:03:53.510Z"
   },
   "resumen_kpis": {
     "total_seguidores": 27,
     "seguidores_detalle": "27 seguidores • 3 seguidos",
     "crecimiento_semanal": "+35%",
     "seguidores_nuevos_semana": 7,
-    "personas_hablando": 92,
+    "personas_hablando": 76,
     "alcance_estimado": 486,
     "interacciones_totales": 0,
     "reacciones_totales": 0,
     "comentarios_totales": 0,
     "compartidos_totales": 0,
-    "programados_en_servidores_meta": 91,
+    "programados_en_servidores_meta": 92,
     "total_publicaciones_sistema": 120
   },
   "rendimiento_por_horario": [
@@ -68,6 +68,28 @@
     }
   ],
   "ultimos_posts_publicados": [
+    {
+      "id": "1367888553074849_122105702055507613",
+      "url": "https://www.facebook.com/1367888553074849_122105702055507613",
+      "mensaje": "Sun Tzu observó a un general que estaba a punto de ser rodeado. Sus enemigos eran más numerosos, ruidosos y atacaban desde todos los flancos",
+      "fecha": "2026-10-18T13:57:21+0000",
+      "reacciones": 0,
+      "comentarios": 0,
+      "compartidos": 0,
+      "tipo": "post",
+      "estado": "publicado"
+    },
+    {
+      "id": "1367888553074849_122096593407507613",
+      "url": "https://www.facebook.com/1367888553074849_122096593407507613",
+      "mensaje": "«Muchos perros le ladran al camión de la basura... pero Pirata espera ansioso cada martes y jueves por sus mejores amigos. 🚛🐕👋\n\nTodo empe",
+      "fecha": "2026-10-18T13:00:02+0000",
+      "reacciones": 0,
+      "comentarios": 0,
+      "compartidos": 0,
+      "tipo": "post",
+      "estado": "publicado"
+    },
     {
       "id": "1367888553074849_122096593287507613",
       "url": "https://www.facebook.com/1367888553074849_122096593287507613",
@@ -309,31 +331,23 @@
       "compartidos": 0,
       "tipo": "post",
       "estado": "publicado"
-    },
-    {
-      "id": "1367888553074849_122096591151507613",
-      "url": "https://www.facebook.com/1367888553074849_122096591151507613",
-      "mensaje": "«El amor de un perro no viene con pedigrí ni con certificado de autenticidad... 🐾📜\n\nUn perro mestizo ('callejerito', 'chusco', 'criollo') ",
-      "fecha": "2026-10-11T23:30:00+0000",
-      "reacciones": 0,
-      "comentarios": 0,
-      "compartidos": 0,
-      "tipo": "post",
-      "estado": "publicado"
-    },
-    {
-      "id": "1367888553074849_122099577243507613",
-      "url": "https://www.facebook.com/1367888553074849_122099577243507613",
-      "mensaje": "Los lunes por la mañana, la sucursal del banco del centro se llena de gente con paciencia limitada y documentos mal acomodados. Lupita, la c",
-      "fecha": "2026-10-11T22:04:40+0000",
-      "reacciones": 0,
-      "comentarios": 0,
-      "compartidos": 0,
-      "tipo": "post",
-      "estado": "publicado"
     }
   ],
   "proximos_programados_meta": [
+    {
+      "id": "1367888553074849_122105792265507613",
+      "url": "https://www.facebook.com/1367888553074849_122105792265507613",
+      "mensaje": "Eran las 6:30 de la mañana cuando el doctor Fernando llegó a abrir la clínica veterinaria. Atado a la aldaba metálica de la entrada había un",
+      "fecha_programada": "2026-11-15T12:30:00.000Z",
+      "estado": "programado_en_meta"
+    },
+    {
+      "id": "1367888553074849_122105792163507613",
+      "url": "https://www.facebook.com/1367888553074849_122105792163507613",
+      "mensaje": "«La mejor venganza es no ser como tu enemigo». — Marco Aurelio 🏛️⚖️\n\nCuando alguien te traiciona, te miente o te trata con desprecio, tu pr",
+      "fecha_programada": "2026-11-15T08:00:00.000Z",
+      "estado": "programado_en_meta"
+    },
     {
       "id": "1367888553074849_122105157897507613",
       "url": "https://www.facebook.com/1367888553074849_122105157897507613",
@@ -963,13 +977,6 @@
       "mensaje": "«Si tu perro pudiera hablar por un minuto antes de apagar la luz, esto es lo que te diría... 🌙🐾\n\n1. 'Gracias por volver a casa hoy. Aunque",
       "fecha_programada": "2026-10-18T23:30:00.000Z",
       "estado": "programado_en_meta"
-    },
-    {
-      "id": "1367888553074849_122096593407507613",
-      "url": "https://www.facebook.com/1367888553074849_122096593407507613",
-      "mensaje": "«Muchos perros le ladran al camión de la basura... pero Pirata espera ansioso cada martes y jueves por sus mejores amigos. 🚛🐕👋\n\nTodo empe",
-      "fecha_programada": "2026-10-18T13:00:00.000Z",
-      "estado": "programado_en_meta"
     }
   ],
   "instagram": {
@@ -978,7 +985,7 @@
     "name": "Huellas con propósito",
     "followers": 1,
     "media_count": 14,
-    "picture": "https://scontent-iad3-1.xx.fbcdn.net/v/t51.82787-15/846964896_18127515184894503_9206256640984781246_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=7d201b&_nc_ohc=fjCo7kx4GuoQ7kNvwEuEkdd&_nc_oc=AdqAaHsAbzaX4bh_kFhoPTL91rthYkikJbieRv_j5_aL0kRGlUm5-gpMhO2B70DK4jY&_nc_zt=23&_nc_ht=scontent-iad3-1.xx&edm=AJ-jyNUEAAAA&_nc_gid=TkrwEZXPcxFWQKWVeB0tcg&oh=00_AQNeRdK9lC2Q55yZT7TJz1oQZt9Xc89vED5M3Ya0bATpbw&oe=6ADA2A2E"
+    "picture": "https://scontent-sjc6-1.xx.fbcdn.net/v/t51.82787-15/846964896_18127515184894503_9206256640984781246_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=7d201b&_nc_ohc=kqD9lq_LcrEQ7kNvwGRMlwg&_nc_oc=AdoxTxZ5cwVqWf9ymvSSj3OaIrCYgru3qAhjIi8t5toKCPbR0HjuL3Dumkr1KX1xoE8&_nc_zt=23&_nc_ht=scontent-sjc6-1.xx&edm=AJ-jyNUEAAAA&_nc_gid=A5DT63BiWNc1JPAqlTVFTw&oh=00_AQPdLTG2XSl3zPD4fTGjb1o_iP-tMkYnNjk013daOn__Jw&oe=6ADAD2EE"
   },
   "paginas": {
     "1367888553074849": {
@@ -988,22 +995,22 @@
         "categoria": "Animals & Pets",
         "seguidores": 27,
         "seguidos": 3,
-        "personas_hablando": 92,
-        "foto_perfil": "https://scontent-iad3-1.xx.fbcdn.net/v/t39.30808-1/825286629_28604489712564817_7866327839881392565_n.jpg?stp=dst-jpg_s200x200_tt6&_nc_cat=110&ccb=1-7&_nc_sid=f907e8&_nc_ohc=-Jv6zG2BjMcQ7kNvwEJldJC&_nc_oc=Adp-5x88wjBwvgj6QO_jIx2dh1sC9d3qyapO5VFwEKtvuB1d6EfiCG3JAOzQptVIWCY&_nc_zt=24&_nc_ht=scontent-iad3-1.xx&edm=AJdBtusEAAAA&_nc_gid=mV9YghY6zj8kep43gWiJFg&_nc_tpa=Q5bMBQI4anh4Skd1HcIuwsf7a85M2JoGZQn8u3QeX_HhJn5RCAi9yI_icTYbsWlH40Sb72wy-E2tJNgyOw&oh=00_AQMF7yBJlfHgwt4pLd8vg9OCDczAhcLowGQkaKP7OzLOow&oe=6ADA1F2B",
-        "ultima_actualizacion": "2026-10-18T06:22:26.885Z"
+        "personas_hablando": 76,
+        "foto_perfil": "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.30808-1/825286629_28604489712564817_7866327839881392565_n.jpg?stp=dst-jpg_s200x200_tt6&_nc_cat=110&ccb=1-7&_nc_sid=f907e8&_nc_ohc=TyeAfEyxjaQQ7kNvwFni_-p&_nc_oc=AdoNdQWwpetiGU90_lFb5EasLEFUDZWbiFxWPhM4XzI-OckfwJ3SKt3Vm6fwpNlXtC8&_nc_zt=24&_nc_ht=scontent-sjc3-1.xx&edm=AJdBtusEAAAA&_nc_gid=weiZ_S2zwjP57GkUdcKQ2A&_nc_tpa=Q5bMBQK-SG553WufBxyKykN21cW_ucympy3FvXusDecnewC6EC7CRoVT9nOLQeRiQfQldaBmpkQJBiC3rw&oh=00_AQNESgxkPO5haQ1q3GRx262GOsTGRGXP9oDAKwnacn0GDg&oe=6ADAC7EB",
+        "ultima_actualizacion": "2026-10-18T16:03:53.510Z"
       },
       "resumen_kpis": {
         "total_seguidores": 27,
         "seguidores_detalle": "27 seguidores • 3 seguidos",
         "crecimiento_semanal": "+35%",
         "seguidores_nuevos_semana": 7,
-        "personas_hablando": 92,
+        "personas_hablando": 76,
         "alcance_estimado": 486,
         "interacciones_totales": 0,
         "reacciones_totales": 0,
         "comentarios_totales": 0,
         "compartidos_totales": 0,
-        "programados_en_servidores_meta": 91,
+        "programados_en_servidores_meta": 92,
         "total_publicaciones_sistema": 120
       },
       "rendimiento_por_horario": [
@@ -1051,6 +1058,28 @@
         }
       ],
       "ultimos_posts_publicados": [
+        {
+          "id": "1367888553074849_122105702055507613",
+          "url": "https://www.facebook.com/1367888553074849_122105702055507613",
+          "mensaje": "Sun Tzu observó a un general que estaba a punto de ser rodeado. Sus enemigos eran más numerosos, ruidosos y atacaban desde todos los flancos",
+          "fecha": "2026-10-18T13:57:21+0000",
+          "reacciones": 0,
+          "comentarios": 0,
+          "compartidos": 0,
+          "tipo": "post",
+          "estado": "publicado"
+        },
+        {
+          "id": "1367888553074849_122096593407507613",
+          "url": "https://www.facebook.com/1367888553074849_122096593407507613",
+          "mensaje": "«Muchos perros le ladran al camión de la basura... pero Pirata espera ansioso cada martes y jueves por sus mejores amigos. 🚛🐕👋\n\nTodo empe",
+          "fecha": "2026-10-18T13:00:02+0000",
+          "reacciones": 0,
+          "comentarios": 0,
+          "compartidos": 0,
+          "tipo": "post",
+          "estado": "publicado"
+        },
         {
           "id": "1367888553074849_122096593287507613",
           "url": "https://www.facebook.com/1367888553074849_122096593287507613",
@@ -1292,31 +1321,23 @@
           "compartidos": 0,
           "tipo": "post",
           "estado": "publicado"
-        },
-        {
-          "id": "1367888553074849_122096591151507613",
-          "url": "https://www.facebook.com/1367888553074849_122096591151507613",
-          "mensaje": "«El amor de un perro no viene con pedigrí ni con certificado de autenticidad... 🐾📜\n\nUn perro mestizo ('callejerito', 'chusco', 'criollo') ",
-          "fecha": "2026-10-11T23:30:00+0000",
-          "reacciones": 0,
-          "comentarios": 0,
-          "compartidos": 0,
-          "tipo": "post",
-          "estado": "publicado"
-        },
-        {
-          "id": "1367888553074849_122099577243507613",
-          "url": "https://www.facebook.com/1367888553074849_122099577243507613",
-          "mensaje": "Los lunes por la mañana, la sucursal del banco del centro se llena de gente con paciencia limitada y documentos mal acomodados. Lupita, la c",
-          "fecha": "2026-10-11T22:04:40+0000",
-          "reacciones": 0,
-          "comentarios": 0,
-          "compartidos": 0,
-          "tipo": "post",
-          "estado": "publicado"
         }
       ],
       "proximos_programados_meta": [
+        {
+          "id": "1367888553074849_122105792265507613",
+          "url": "https://www.facebook.com/1367888553074849_122105792265507613",
+          "mensaje": "Eran las 6:30 de la mañana cuando el doctor Fernando llegó a abrir la clínica veterinaria. Atado a la aldaba metálica de la entrada había un",
+          "fecha_programada": "2026-11-15T12:30:00.000Z",
+          "estado": "programado_en_meta"
+        },
+        {
+          "id": "1367888553074849_122105792163507613",
+          "url": "https://www.facebook.com/1367888553074849_122105792163507613",
+          "mensaje": "«La mejor venganza es no ser como tu enemigo». — Marco Aurelio 🏛️⚖️\n\nCuando alguien te traiciona, te miente o te trata con desprecio, tu pr",
+          "fecha_programada": "2026-11-15T08:00:00.000Z",
+          "estado": "programado_en_meta"
+        },
         {
           "id": "1367888553074849_122105157897507613",
           "url": "https://www.facebook.com/1367888553074849_122105157897507613",
@@ -1946,13 +1967,6 @@
           "mensaje": "«Si tu perro pudiera hablar por un minuto antes de apagar la luz, esto es lo que te diría... 🌙🐾\n\n1. 'Gracias por volver a casa hoy. Aunque",
           "fecha_programada": "2026-10-18T23:30:00.000Z",
           "estado": "programado_en_meta"
-        },
-        {
-          "id": "1367888553074849_122096593407507613",
-          "url": "https://www.facebook.com/1367888553074849_122096593407507613",
-          "mensaje": "«Muchos perros le ladran al camión de la basura... pero Pirata espera ansioso cada martes y jueves por sus mejores amigos. 🚛🐕👋\n\nTodo empe",
-          "fecha_programada": "2026-10-18T13:00:00.000Z",
-          "estado": "programado_en_meta"
         }
       ],
       "instagram": {
@@ -1961,7 +1975,7 @@
         "name": "Huellas con propósito",
         "followers": 1,
         "media_count": 14,
-        "picture": "https://scontent-iad3-1.xx.fbcdn.net/v/t51.82787-15/846964896_18127515184894503_9206256640984781246_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=7d201b&_nc_ohc=fjCo7kx4GuoQ7kNvwEuEkdd&_nc_oc=AdqAaHsAbzaX4bh_kFhoPTL91rthYkikJbieRv_j5_aL0kRGlUm5-gpMhO2B70DK4jY&_nc_zt=23&_nc_ht=scontent-iad3-1.xx&edm=AJ-jyNUEAAAA&_nc_gid=TkrwEZXPcxFWQKWVeB0tcg&oh=00_AQNeRdK9lC2Q55yZT7TJz1oQZt9Xc89vED5M3Ya0bATpbw&oe=6ADA2A2E"
+        "picture": "https://scontent-sjc6-1.xx.fbcdn.net/v/t51.82787-15/846964896_18127515184894503_9206256640984781246_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=7d201b&_nc_ohc=kqD9lq_LcrEQ7kNvwGRMlwg&_nc_oc=AdoxTxZ5cwVqWf9ymvSSj3OaIrCYgru3qAhjIi8t5toKCPbR0HjuL3Dumkr1KX1xoE8&_nc_zt=23&_nc_ht=scontent-sjc6-1.xx&edm=AJ-jyNUEAAAA&_nc_gid=A5DT63BiWNc1JPAqlTVFTw&oh=00_AQPdLTG2XSl3zPD4fTGjb1o_iP-tMkYnNjk013daOn__Jw&oe=6ADAD2EE"
       }
     },
     "1375923958937880": {
@@ -1973,7 +1987,7 @@
         "seguidos": 0,
         "personas_hablando": 0,
         "foto_perfil": "",
-        "ultima_actualizacion": "2026-10-18T06:22:27.039Z"
+        "ultima_actualizacion": "2026-10-18T16:03:53.733Z"
       },
       "resumen_kpis": {
         "total_seguidores": 7,
