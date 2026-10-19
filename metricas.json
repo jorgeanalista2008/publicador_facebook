@@ -6,8 +6,8 @@
     "seguidores": 27,
     "seguidos": 3,
     "personas_hablando": 76,
-    "foto_perfil": "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.30808-1/825286629_28604489712564817_7866327839881392565_n.jpg?stp=dst-jpg_s200x200_tt6&_nc_cat=110&ccb=1-7&_nc_sid=f907e8&_nc_ohc=TyeAfEyxjaQQ7kNvwGNsATd&_nc_oc=AdrrSb41aIniUSbyxjNsMGJ5VlSYbNPAVzAgXQAEokfQyd9omAOMeyCZ8B3e40s-NnE&_nc_zt=24&_nc_ht=scontent-sjc3-1.xx&edm=AJdBtusEAAAA&_nc_gid=IucMoqrVtVK8_sgBghFdww&_nc_tpa=Q5bMBQIcEyHDIIcB-nCScc5_A3CVVwF14Tgma2yFdMUV3tpobLKXdT8qa8cd4E84kkhMttT7eQcKMFXl-A&oh=00_AQOQRMgfb2OIwVGGrq_zEgdfu7NNHf75zt7v4uO49O_4FA&oe=6ADB002B",
-    "ultima_actualizacion": "2026-10-18T22:31:58.231Z"
+    "foto_perfil": "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.30808-1/825286629_28604489712564817_7866327839881392565_n.jpg?stp=dst-jpg_s200x200_tt6&_nc_cat=110&ccb=1-7&_nc_sid=f907e8&_nc_ohc=TyeAfEyxjaQQ7kNvwFE8X6Y&_nc_oc=AdovHVdS0se6Cn9zoSU5OjzwPtVfAztR3EsdFWwDYOvW0oJd6TIrcP5kn2EDU-snrQY&_nc_zt=24&_nc_ht=scontent-sjc3-1.xx&edm=AJdBtusEAAAA&_nc_gid=dw5BUBTp6-ScuLsu7ditVw&_nc_tpa=Q5bMBQKrrZvRaR09DUPzX0WgL3oPhhiYue0LFBhDq_7SZYAKtmC-RfLVUdmca1IFpu_2VSr54OxuMZaqSA&oh=00_AQOJB_i30aMTh-T67R5vEm2tZ7o7Xi064Gor9TG70dKuHg&oe=6ADB386B",
+    "ultima_actualizacion": "2026-10-19T01:31:09.598Z"
   },
   "resumen_kpis": {
     "total_seguidores": 27,
@@ -20,7 +20,7 @@
     "reacciones_totales": 0,
     "comentarios_totales": 0,
     "compartidos_totales": 0,
-    "programados_en_servidores_meta": 94,
+    "programados_en_servidores_meta": 93,
     "total_publicaciones_sistema": 120
   },
   "rendimiento_por_horario": [
@@ -68,6 +68,17 @@
     }
   ],
   "ultimos_posts_publicados": [
+    {
+      "id": "1367888553074849_122096593527507613",
+      "url": "https://www.facebook.com/1367888553074849_122096593527507613",
+      "mensaje": "«Si tu perro pudiera hablar por un minuto antes de apagar la luz, esto es lo que te diría... 🌙🐾\n\n1. 'Gracias por volver a casa hoy. Aunque",
+      "fecha": "2026-10-18T23:30:03+0000",
+      "reacciones": 0,
+      "comentarios": 0,
+      "compartidos": 0,
+      "tipo": "post",
+      "estado": "publicado"
+    },
     {
       "id": "1367888553074849_122105702055507613",
       "url": "https://www.facebook.com/1367888553074849_122105702055507613",
@@ -315,17 +326,6 @@
       "url": "https://www.facebook.com/1367888553074849_122100071223507613",
       "mensaje": "Tania lleva cuatro años de recepcionista en una clínica veterinaria y está acostumbrada a los clientes que llegan con prisa. Pero hubo uno e",
       "fecha": "2026-10-12T10:51:03+0000",
-      "reacciones": 0,
-      "comentarios": 0,
-      "compartidos": 0,
-      "tipo": "post",
-      "estado": "publicado"
-    },
-    {
-      "id": "1367888553074849_122100071685507613",
-      "url": "https://www.facebook.com/1367888553074849_122100071685507613",
-      "mensaje": "Tania lleva cuatro años de recepcionista en una clínica veterinaria y está acostumbrada a los clientes que llegan con prisa. Pero hubo uno e",
-      "fecha": "2026-10-12T10:50:43+0000",
       "reacciones": 0,
       "comentarios": 0,
       "compartidos": 0,
@@ -984,13 +984,6 @@
       "mensaje": "«Estaba en los huesos, sin pelo por la sarna y con la mirada completamente apagada. Muchos decían que era mejor dormirlo... 💔➡️💖\n\nPero una",
       "fecha_programada": "2026-10-19T13:00:00.000Z",
       "estado": "programado_en_meta"
-    },
-    {
-      "id": "1367888553074849_122096593527507613",
-      "url": "https://www.facebook.com/1367888553074849_122096593527507613",
-      "mensaje": "«Si tu perro pudiera hablar por un minuto antes de apagar la luz, esto es lo que te diría... 🌙🐾\n\n1. 'Gracias por volver a casa hoy. Aunque",
-      "fecha_programada": "2026-10-18T23:30:00.000Z",
-      "estado": "programado_en_meta"
     }
   ],
   "instagram": {
@@ -999,7 +992,7 @@
     "name": "Huellas con propósito",
     "followers": 1,
     "media_count": 14,
-    "picture": "https://scontent-sjc6-1.xx.fbcdn.net/v/t51.82787-15/846964896_18127515184894503_9206256640984781246_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=7d201b&_nc_ohc=kqD9lq_LcrEQ7kNvwH9Y-d8&_nc_oc=AdrOm89u6Q4uN212lnTOXAdRlHC45mnWq1bTwDEz_d6d2KddNBRVMakdq2g-Ff3jEgE&_nc_zt=23&_nc_ht=scontent-sjc6-1.xx&edm=AJ-jyNUEAAAA&_nc_gid=-8cYfVtIV-Q3qeMhBv1bjg&oh=00_AQPNR9WG-AIgSCuWutqAAaq7aBI-3yvp1KYYXane3lxlIg&oe=6ADB0B2E"
+    "picture": "https://scontent-sjc6-1.xx.fbcdn.net/v/t51.82787-15/846964896_18127515184894503_9206256640984781246_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=7d201b&_nc_ohc=kqD9lq_LcrEQ7kNvwH7pY-H&_nc_oc=Adp7U9airlf9ZzI-XD4cv3UEYWWvsHK-La9oGzTDm1OXZSg1ElKIc5zFn02LNPVtghw&_nc_zt=23&_nc_ht=scontent-sjc6-1.xx&edm=AJ-jyNUEAAAA&_nc_gid=rDUpbrSOuKRvRhThviQ9dg&oh=00_AQMFEn5SL7qEbK6ezFotjUJ6HaPOCbKv1-TS5vglbDTaoQ&oe=6ADB436E"
   },
   "paginas": {
     "1367888553074849": {
@@ -1010,8 +1003,8 @@
         "seguidores": 27,
         "seguidos": 3,
         "personas_hablando": 76,
-        "foto_perfil": "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.30808-1/825286629_28604489712564817_7866327839881392565_n.jpg?stp=dst-jpg_s200x200_tt6&_nc_cat=110&ccb=1-7&_nc_sid=f907e8&_nc_ohc=TyeAfEyxjaQQ7kNvwGNsATd&_nc_oc=AdrrSb41aIniUSbyxjNsMGJ5VlSYbNPAVzAgXQAEokfQyd9omAOMeyCZ8B3e40s-NnE&_nc_zt=24&_nc_ht=scontent-sjc3-1.xx&edm=AJdBtusEAAAA&_nc_gid=IucMoqrVtVK8_sgBghFdww&_nc_tpa=Q5bMBQIcEyHDIIcB-nCScc5_A3CVVwF14Tgma2yFdMUV3tpobLKXdT8qa8cd4E84kkhMttT7eQcKMFXl-A&oh=00_AQOQRMgfb2OIwVGGrq_zEgdfu7NNHf75zt7v4uO49O_4FA&oe=6ADB002B",
-        "ultima_actualizacion": "2026-10-18T22:31:58.231Z"
+        "foto_perfil": "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.30808-1/825286629_28604489712564817_7866327839881392565_n.jpg?stp=dst-jpg_s200x200_tt6&_nc_cat=110&ccb=1-7&_nc_sid=f907e8&_nc_ohc=TyeAfEyxjaQQ7kNvwFE8X6Y&_nc_oc=AdovHVdS0se6Cn9zoSU5OjzwPtVfAztR3EsdFWwDYOvW0oJd6TIrcP5kn2EDU-snrQY&_nc_zt=24&_nc_ht=scontent-sjc3-1.xx&edm=AJdBtusEAAAA&_nc_gid=dw5BUBTp6-ScuLsu7ditVw&_nc_tpa=Q5bMBQKrrZvRaR09DUPzX0WgL3oPhhiYue0LFBhDq_7SZYAKtmC-RfLVUdmca1IFpu_2VSr54OxuMZaqSA&oh=00_AQOJB_i30aMTh-T67R5vEm2tZ7o7Xi064Gor9TG70dKuHg&oe=6ADB386B",
+        "ultima_actualizacion": "2026-10-19T01:31:09.598Z"
       },
       "resumen_kpis": {
         "total_seguidores": 27,
@@ -1024,7 +1017,7 @@
         "reacciones_totales": 0,
         "comentarios_totales": 0,
         "compartidos_totales": 0,
-        "programados_en_servidores_meta": 94,
+        "programados_en_servidores_meta": 93,
         "total_publicaciones_sistema": 120
       },
       "rendimiento_por_horario": [
@@ -1072,6 +1065,17 @@
         }
       ],
       "ultimos_posts_publicados": [
+        {
+          "id": "1367888553074849_122096593527507613",
+          "url": "https://www.facebook.com/1367888553074849_122096593527507613",
+          "mensaje": "«Si tu perro pudiera hablar por un minuto antes de apagar la luz, esto es lo que te diría... 🌙🐾\n\n1. 'Gracias por volver a casa hoy. Aunque",
+          "fecha": "2026-10-18T23:30:03+0000",
+          "reacciones": 0,
+          "comentarios": 0,
+          "compartidos": 0,
+          "tipo": "post",
+          "estado": "publicado"
+        },
         {
           "id": "1367888553074849_122105702055507613",
           "url": "https://www.facebook.com/1367888553074849_122105702055507613",
@@ -1319,17 +1323,6 @@
           "url": "https://www.facebook.com/1367888553074849_122100071223507613",
           "mensaje": "Tania lleva cuatro años de recepcionista en una clínica veterinaria y está acostumbrada a los clientes que llegan con prisa. Pero hubo uno e",
           "fecha": "2026-10-12T10:51:03+0000",
-          "reacciones": 0,
-          "comentarios": 0,
-          "compartidos": 0,
-          "tipo": "post",
-          "estado": "publicado"
-        },
-        {
-          "id": "1367888553074849_122100071685507613",
-          "url": "https://www.facebook.com/1367888553074849_122100071685507613",
-          "mensaje": "Tania lleva cuatro años de recepcionista en una clínica veterinaria y está acostumbrada a los clientes que llegan con prisa. Pero hubo uno e",
-          "fecha": "2026-10-12T10:50:43+0000",
           "reacciones": 0,
           "comentarios": 0,
           "compartidos": 0,
@@ -1988,13 +1981,6 @@
           "mensaje": "«Estaba en los huesos, sin pelo por la sarna y con la mirada completamente apagada. Muchos decían que era mejor dormirlo... 💔➡️💖\n\nPero una",
           "fecha_programada": "2026-10-19T13:00:00.000Z",
           "estado": "programado_en_meta"
-        },
-        {
-          "id": "1367888553074849_122096593527507613",
-          "url": "https://www.facebook.com/1367888553074849_122096593527507613",
-          "mensaje": "«Si tu perro pudiera hablar por un minuto antes de apagar la luz, esto es lo que te diría... 🌙🐾\n\n1. 'Gracias por volver a casa hoy. Aunque",
-          "fecha_programada": "2026-10-18T23:30:00.000Z",
-          "estado": "programado_en_meta"
         }
       ],
       "instagram": {
@@ -2003,7 +1989,7 @@
         "name": "Huellas con propósito",
         "followers": 1,
         "media_count": 14,
-        "picture": "https://scontent-sjc6-1.xx.fbcdn.net/v/t51.82787-15/846964896_18127515184894503_9206256640984781246_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=7d201b&_nc_ohc=kqD9lq_LcrEQ7kNvwH9Y-d8&_nc_oc=AdrOm89u6Q4uN212lnTOXAdRlHC45mnWq1bTwDEz_d6d2KddNBRVMakdq2g-Ff3jEgE&_nc_zt=23&_nc_ht=scontent-sjc6-1.xx&edm=AJ-jyNUEAAAA&_nc_gid=-8cYfVtIV-Q3qeMhBv1bjg&oh=00_AQPNR9WG-AIgSCuWutqAAaq7aBI-3yvp1KYYXane3lxlIg&oe=6ADB0B2E"
+        "picture": "https://scontent-sjc6-1.xx.fbcdn.net/v/t51.82787-15/846964896_18127515184894503_9206256640984781246_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=7d201b&_nc_ohc=kqD9lq_LcrEQ7kNvwH7pY-H&_nc_oc=Adp7U9airlf9ZzI-XD4cv3UEYWWvsHK-La9oGzTDm1OXZSg1ElKIc5zFn02LNPVtghw&_nc_zt=23&_nc_ht=scontent-sjc6-1.xx&edm=AJ-jyNUEAAAA&_nc_gid=rDUpbrSOuKRvRhThviQ9dg&oh=00_AQMFEn5SL7qEbK6ezFotjUJ6HaPOCbKv1-TS5vglbDTaoQ&oe=6ADB436E"
       }
     },
     "1375923958937880": {
@@ -2015,7 +2001,7 @@
         "seguidos": 0,
         "personas_hablando": 0,
         "foto_perfil": "",
-        "ultima_actualizacion": "2026-10-18T22:31:58.389Z"
+        "ultima_actualizacion": "2026-10-19T01:31:09.839Z"
       },
       "resumen_kpis": {
         "total_seguidores": 7,
