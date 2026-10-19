@@ -5,21 +5,21 @@
     "categoria": "Animals & Pets",
     "seguidores": 27,
     "seguidos": 3,
-    "personas_hablando": 76,
-    "foto_perfil": "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.30808-1/825286629_28604489712564817_7866327839881392565_n.jpg?stp=dst-jpg_s200x200_tt6&_nc_cat=110&ccb=1-7&_nc_sid=f907e8&_nc_ohc=TyeAfEyxjaQQ7kNvwH7irly&_nc_oc=Adqpb51M5YrM2fn4zpVZpWic0JH0R8-_rcB8VHfEPD7BZ3qmHTtE6pZjBwmbkSwvqKk&_nc_zt=24&_nc_ht=scontent-sjc3-1.xx&edm=AJdBtusEAAAA&_nc_gid=TMPzmlXGshrAcqzt6IwPJA&_nc_tpa=Q5bMBQLLY6uCTpxHqGGSV1oOSnyUdBZgDD0E2bG7rNdkx3O3hlov66IH7xxbIG5MrVc7Br3FntjW49VTZA&oh=00_AQM7El3gm7jg-E46PtjMojC9UZ36vuIzPoo5mZSR9Nu_gA&oe=6ADC51AB",
-    "ultima_actualizacion": "2026-10-19T18:48:33.759Z"
+    "personas_hablando": 38,
+    "foto_perfil": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.30808-1/825286629_28604489712564817_7866327839881392565_n.jpg?stp=dst-jpg_s200x200_tt6&_nc_cat=110&ccb=1-7&_nc_sid=f907e8&_nc_ohc=TyeAfEyxjaQQ7kNvwHMKC6h&_nc_oc=Adoz-UVWLmqPjyaKu5qdpowZ_DrHz9zTmudnZMqK922ggqIQ90OXChuokRwlGhOg_tQ&_nc_zt=24&_nc_ht=scontent-ord5-2.xx&edm=AJdBtusEAAAA&_nc_gid=FBI8qRK7snavdK549sn3mw&_nc_tpa=Q5bMBQJ0MrQKVWX-vy_eeHqtc0YCrlD32QzQvF9L5HbaJehu4LKgRBRdGuiY5Iks1Q-LeGE9aFlPj83Z1w&oh=00_AQPT2Abv4hP9PwVvd90LRDv2lMGh4m7kFUJC4BvWeldmHQ&oe=6ADC89EB",
+    "ultima_actualizacion": "2026-10-19T23:52:15.449Z"
   },
   "resumen_kpis": {
     "total_seguidores": 27,
     "seguidores_detalle": "27 seguidores • 3 seguidos",
     "crecimiento_semanal": "+35%",
     "seguidores_nuevos_semana": 7,
-    "personas_hablando": 76,
+    "personas_hablando": 38,
     "alcance_estimado": 486,
-    "interacciones_totales": 0,
+    "interacciones_totales": 1,
     "reacciones_totales": 0,
     "comentarios_totales": 0,
-    "compartidos_totales": 0,
+    "compartidos_totales": 1,
     "programados_en_servidores_meta": 95,
     "total_publicaciones_sistema": 120
   },
@@ -68,6 +68,17 @@
     }
   ],
   "ultimos_posts_publicados": [
+    {
+      "id": "1367888553074849_122096593701507613",
+      "url": "https://www.facebook.com/1367888553074849_122096593701507613",
+      "mensaje": "«¿Creías que mover la cola siempre significa que tu perro está feliz? Cuidado, su cola habla más de lo que crees... 🐕🔍\n\nEstudios de etolog",
+      "fecha": "2026-10-19T23:30:01+0000",
+      "reacciones": 0,
+      "comentarios": 0,
+      "compartidos": 0,
+      "tipo": "post",
+      "estado": "publicado"
+    },
     {
       "id": "1367888553074849_122096593629507613",
       "url": "https://www.facebook.com/1367888553074849_122096593629507613",
@@ -229,7 +240,7 @@
       "fecha": "2026-10-14T12:50:22+0000",
       "reacciones": 0,
       "comentarios": 0,
-      "compartidos": 0,
+      "compartidos": 1,
       "tipo": "post",
       "estado": "publicado"
     },
@@ -331,20 +342,16 @@
       "compartidos": 0,
       "tipo": "post",
       "estado": "publicado"
-    },
-    {
-      "id": "1367888553074849_122100124617507613",
-      "url": "https://www.facebook.com/1367888553074849_122100124617507613",
-      "mensaje": "Publicación",
-      "fecha": "2026-10-12T11:57:08+0000",
-      "reacciones": 0,
-      "comentarios": 0,
-      "compartidos": 0,
-      "tipo": "post",
-      "estado": "publicado"
     }
   ],
   "proximos_programados_meta": [
+    {
+      "id": "1367888553074849_122107055679507613",
+      "url": "https://www.facebook.com/1367888553074849_122107055679507613",
+      "mensaje": "Don Aurelio vio cómo cerraron la maderería para siempre y pusieron cinta amarilla de clausura. Al guardia de seguridad le liquidaron su suel",
+      "fecha_programada": "2026-11-16T20:30:00.000Z",
+      "estado": "programado_en_meta"
+    },
     {
       "id": "1367888553074849_122106824493507613",
       "url": "https://www.facebook.com/1367888553074849_122106824493507613",
@@ -1002,13 +1009,6 @@
       "mensaje": "«No tenían techo, lujos ni comodidades, pero juntos tenían el tesoro más grande del planeta: lealtad absoluta. 🌧️🐕🫂\n\nMario vive en situac",
       "fecha_programada": "2026-10-20T13:00:00.000Z",
       "estado": "programado_en_meta"
-    },
-    {
-      "id": "1367888553074849_122096593701507613",
-      "url": "https://www.facebook.com/1367888553074849_122096593701507613",
-      "mensaje": "«¿Creías que mover la cola siempre significa que tu perro está feliz? Cuidado, su cola habla más de lo que crees... 🐕🔍\n\nEstudios de etolog",
-      "fecha_programada": "2026-10-19T23:30:00.000Z",
-      "estado": "programado_en_meta"
     }
   ],
   "instagram": {
@@ -1017,7 +1017,7 @@
     "name": "Huellas con propósito",
     "followers": 1,
     "media_count": 14,
-    "picture": "https://scontent-sjc6-1.xx.fbcdn.net/v/t51.82787-15/846964896_18127515184894503_9206256640984781246_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=7d201b&_nc_ohc=kqD9lq_LcrEQ7kNvwESkrve&_nc_oc=AdoRrUav5_XQG37X90ECZys_S4UiPG9Zg4PGiQpi_zAFMIxVi-zVUsyPF-mk_QLBzYE&_nc_zt=23&_nc_ht=scontent-sjc6-1.xx&edm=AL-3X8kEAAAA&_nc_gid=WctJlDb5APO-SPW4oITtuA&oh=00_AQMef10ZJK204O3WBknA21gmR53ULOntieLK6ft_gV3r7w&oe=6ADC246E"
+    "picture": "https://scontent-ord5-2.xx.fbcdn.net/v/t51.82787-15/846964896_18127515184894503_9206256640984781246_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=7d201b&_nc_ohc=kqD9lq_LcrEQ7kNvwH45BLY&_nc_oc=AdpADXa1CQfWoHG1KiOVNBWyXskIIFOl5LqHjdA_Il-PZGk7h0vvMpyhNZQSza6dI3Y&_nc_zt=23&_nc_ht=scontent-ord5-2.xx&edm=AL-3X8kEAAAA&_nc_gid=8EVw3dSfzTGWb1O7y2b1PA&oh=00_AQMg8sFpF0mhq5VpofIQyMJIcO-4LL9_s01SpZIog-Dx7Q&oe=6ADC94EE"
   },
   "paginas": {
     "1367888553074849": {
@@ -1027,21 +1027,21 @@
         "categoria": "Animals & Pets",
         "seguidores": 27,
         "seguidos": 3,
-        "personas_hablando": 76,
-        "foto_perfil": "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.30808-1/825286629_28604489712564817_7866327839881392565_n.jpg?stp=dst-jpg_s200x200_tt6&_nc_cat=110&ccb=1-7&_nc_sid=f907e8&_nc_ohc=TyeAfEyxjaQQ7kNvwH7irly&_nc_oc=Adqpb51M5YrM2fn4zpVZpWic0JH0R8-_rcB8VHfEPD7BZ3qmHTtE6pZjBwmbkSwvqKk&_nc_zt=24&_nc_ht=scontent-sjc3-1.xx&edm=AJdBtusEAAAA&_nc_gid=TMPzmlXGshrAcqzt6IwPJA&_nc_tpa=Q5bMBQLLY6uCTpxHqGGSV1oOSnyUdBZgDD0E2bG7rNdkx3O3hlov66IH7xxbIG5MrVc7Br3FntjW49VTZA&oh=00_AQM7El3gm7jg-E46PtjMojC9UZ36vuIzPoo5mZSR9Nu_gA&oe=6ADC51AB",
-        "ultima_actualizacion": "2026-10-19T18:48:33.759Z"
+        "personas_hablando": 38,
+        "foto_perfil": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.30808-1/825286629_28604489712564817_7866327839881392565_n.jpg?stp=dst-jpg_s200x200_tt6&_nc_cat=110&ccb=1-7&_nc_sid=f907e8&_nc_ohc=TyeAfEyxjaQQ7kNvwHMKC6h&_nc_oc=Adoz-UVWLmqPjyaKu5qdpowZ_DrHz9zTmudnZMqK922ggqIQ90OXChuokRwlGhOg_tQ&_nc_zt=24&_nc_ht=scontent-ord5-2.xx&edm=AJdBtusEAAAA&_nc_gid=FBI8qRK7snavdK549sn3mw&_nc_tpa=Q5bMBQJ0MrQKVWX-vy_eeHqtc0YCrlD32QzQvF9L5HbaJehu4LKgRBRdGuiY5Iks1Q-LeGE9aFlPj83Z1w&oh=00_AQPT2Abv4hP9PwVvd90LRDv2lMGh4m7kFUJC4BvWeldmHQ&oe=6ADC89EB",
+        "ultima_actualizacion": "2026-10-19T23:52:15.449Z"
       },
       "resumen_kpis": {
         "total_seguidores": 27,
         "seguidores_detalle": "27 seguidores • 3 seguidos",
         "crecimiento_semanal": "+35%",
         "seguidores_nuevos_semana": 7,
-        "personas_hablando": 76,
+        "personas_hablando": 38,
         "alcance_estimado": 486,
-        "interacciones_totales": 0,
+        "interacciones_totales": 1,
         "reacciones_totales": 0,
         "comentarios_totales": 0,
-        "compartidos_totales": 0,
+        "compartidos_totales": 1,
         "programados_en_servidores_meta": 95,
         "total_publicaciones_sistema": 120
       },
@@ -1090,6 +1090,17 @@
         }
       ],
       "ultimos_posts_publicados": [
+        {
+          "id": "1367888553074849_122096593701507613",
+          "url": "https://www.facebook.com/1367888553074849_122096593701507613",
+          "mensaje": "«¿Creías que mover la cola siempre significa que tu perro está feliz? Cuidado, su cola habla más de lo que crees... 🐕🔍\n\nEstudios de etolog",
+          "fecha": "2026-10-19T23:30:01+0000",
+          "reacciones": 0,
+          "comentarios": 0,
+          "compartidos": 0,
+          "tipo": "post",
+          "estado": "publicado"
+        },
         {
           "id": "1367888553074849_122096593629507613",
           "url": "https://www.facebook.com/1367888553074849_122096593629507613",
@@ -1251,7 +1262,7 @@
           "fecha": "2026-10-14T12:50:22+0000",
           "reacciones": 0,
           "comentarios": 0,
-          "compartidos": 0,
+          "compartidos": 1,
           "tipo": "post",
           "estado": "publicado"
         },
@@ -1353,20 +1364,16 @@
           "compartidos": 0,
           "tipo": "post",
           "estado": "publicado"
-        },
-        {
-          "id": "1367888553074849_122100124617507613",
-          "url": "https://www.facebook.com/1367888553074849_122100124617507613",
-          "mensaje": "Publicación",
-          "fecha": "2026-10-12T11:57:08+0000",
-          "reacciones": 0,
-          "comentarios": 0,
-          "compartidos": 0,
-          "tipo": "post",
-          "estado": "publicado"
         }
       ],
       "proximos_programados_meta": [
+        {
+          "id": "1367888553074849_122107055679507613",
+          "url": "https://www.facebook.com/1367888553074849_122107055679507613",
+          "mensaje": "Don Aurelio vio cómo cerraron la maderería para siempre y pusieron cinta amarilla de clausura. Al guardia de seguridad le liquidaron su suel",
+          "fecha_programada": "2026-11-16T20:30:00.000Z",
+          "estado": "programado_en_meta"
+        },
         {
           "id": "1367888553074849_122106824493507613",
           "url": "https://www.facebook.com/1367888553074849_122106824493507613",
@@ -2024,13 +2031,6 @@
           "mensaje": "«No tenían techo, lujos ni comodidades, pero juntos tenían el tesoro más grande del planeta: lealtad absoluta. 🌧️🐕🫂\n\nMario vive en situac",
           "fecha_programada": "2026-10-20T13:00:00.000Z",
           "estado": "programado_en_meta"
-        },
-        {
-          "id": "1367888553074849_122096593701507613",
-          "url": "https://www.facebook.com/1367888553074849_122096593701507613",
-          "mensaje": "«¿Creías que mover la cola siempre significa que tu perro está feliz? Cuidado, su cola habla más de lo que crees... 🐕🔍\n\nEstudios de etolog",
-          "fecha_programada": "2026-10-19T23:30:00.000Z",
-          "estado": "programado_en_meta"
         }
       ],
       "instagram": {
@@ -2039,7 +2039,7 @@
         "name": "Huellas con propósito",
         "followers": 1,
         "media_count": 14,
-        "picture": "https://scontent-sjc6-1.xx.fbcdn.net/v/t51.82787-15/846964896_18127515184894503_9206256640984781246_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=7d201b&_nc_ohc=kqD9lq_LcrEQ7kNvwESkrve&_nc_oc=AdoRrUav5_XQG37X90ECZys_S4UiPG9Zg4PGiQpi_zAFMIxVi-zVUsyPF-mk_QLBzYE&_nc_zt=23&_nc_ht=scontent-sjc6-1.xx&edm=AL-3X8kEAAAA&_nc_gid=WctJlDb5APO-SPW4oITtuA&oh=00_AQMef10ZJK204O3WBknA21gmR53ULOntieLK6ft_gV3r7w&oe=6ADC246E"
+        "picture": "https://scontent-ord5-2.xx.fbcdn.net/v/t51.82787-15/846964896_18127515184894503_9206256640984781246_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=7d201b&_nc_ohc=kqD9lq_LcrEQ7kNvwH45BLY&_nc_oc=AdpADXa1CQfWoHG1KiOVNBWyXskIIFOl5LqHjdA_Il-PZGk7h0vvMpyhNZQSza6dI3Y&_nc_zt=23&_nc_ht=scontent-ord5-2.xx&edm=AL-3X8kEAAAA&_nc_gid=8EVw3dSfzTGWb1O7y2b1PA&oh=00_AQMg8sFpF0mhq5VpofIQyMJIcO-4LL9_s01SpZIog-Dx7Q&oe=6ADC94EE"
       }
     },
     "1375923958937880": {
@@ -2051,7 +2051,7 @@
         "seguidos": 0,
         "personas_hablando": 0,
         "foto_perfil": "",
-        "ultima_actualizacion": "2026-10-19T18:48:33.922Z"
+        "ultima_actualizacion": "2026-10-19T23:52:15.582Z"
       },
       "resumen_kpis": {
         "total_seguidores": 7,
@@ -2064,7 +2064,7 @@
         "reacciones_totales": 3,
         "comentarios_totales": 0,
         "compartidos_totales": 1,
-        "programados_en_servidores_meta": 22,
+        "programados_en_servidores_meta": 21,
         "total_publicaciones_sistema": 52
       },
       "rendimiento_por_horario": [
@@ -2221,16 +2221,20 @@
           "compartidos": 0,
           "tipo": "post",
           "estado": "publicado"
-        }
-      ],
-      "proximos_programados_meta": [
+        },
         {
           "id": "122095708851512707",
           "url": "https://www.facebook.com/122095708851512707",
-          "mensaje": "⏰ [Programado 2026-10-19 19:00] Mentalidad Errónea: EL ESCLAVO DEL PASADO vs Mentalidad de Acero",
-          "fecha_programada": "2026-10-19T19:00:00Z",
-          "estado": "programado_en_meta"
-        },
+          "mensaje": "Mentalidad Errónea: EL ESCLAVO DEL PASADO vs Mentalidad de Acero: \"A NADIE LE IMPORTA CUÁNTO DOLIÓ TU PASADO SI HOY SIGUES USÁNDOLO COMO EXCUSA PARA SER UN FRACASADO.\"  Detén el scroll. ...",
+          "fecha": "2026-10-19T19:00:00.000Z",
+          "reacciones": 0,
+          "comentarios": 0,
+          "compartidos": 0,
+          "tipo": "post",
+          "estado": "publicado"
+        }
+      ],
+      "proximos_programados_meta": [
         {
           "id": "122095715253512707",
           "url": "https://www.facebook.com/122095715253512707",
