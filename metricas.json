@@ -6,8 +6,8 @@
     "seguidores": 27,
     "seguidos": 3,
     "personas_hablando": 76,
-    "foto_perfil": "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.30808-1/825286629_28604489712564817_7866327839881392565_n.jpg?stp=dst-jpg_s200x200_tt6&_nc_cat=110&ccb=1-7&_nc_sid=f907e8&_nc_ohc=TyeAfEyxjaQQ7kNvwFE8X6Y&_nc_oc=AdovHVdS0se6Cn9zoSU5OjzwPtVfAztR3EsdFWwDYOvW0oJd6TIrcP5kn2EDU-snrQY&_nc_zt=24&_nc_ht=scontent-sjc3-1.xx&edm=AJdBtusEAAAA&_nc_gid=dw5BUBTp6-ScuLsu7ditVw&_nc_tpa=Q5bMBQKrrZvRaR09DUPzX0WgL3oPhhiYue0LFBhDq_7SZYAKtmC-RfLVUdmca1IFpu_2VSr54OxuMZaqSA&oh=00_AQOJB_i30aMTh-T67R5vEm2tZ7o7Xi064Gor9TG70dKuHg&oe=6ADB386B",
-    "ultima_actualizacion": "2026-10-19T01:31:09.598Z"
+    "foto_perfil": "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.30808-1/825286629_28604489712564817_7866327839881392565_n.jpg?stp=dst-jpg_s200x200_tt6&_nc_cat=110&ccb=1-7&_nc_sid=f907e8&_nc_ohc=TyeAfEyxjaQQ7kNvwH7irly&_nc_oc=Adqpb51M5YrM2fn4zpVZpWic0JH0R8-_rcB8VHfEPD7BZ3qmHTtE6pZjBwmbkSwvqKk&_nc_zt=24&_nc_ht=scontent-sjc3-1.xx&edm=AJdBtusEAAAA&_nc_gid=TMPzmlXGshrAcqzt6IwPJA&_nc_tpa=Q5bMBQLLY6uCTpxHqGGSV1oOSnyUdBZgDD0E2bG7rNdkx3O3hlov66IH7xxbIG5MrVc7Br3FntjW49VTZA&oh=00_AQM7El3gm7jg-E46PtjMojC9UZ36vuIzPoo5mZSR9Nu_gA&oe=6ADC51AB",
+    "ultima_actualizacion": "2026-10-19T18:48:33.759Z"
   },
   "resumen_kpis": {
     "total_seguidores": 27,
@@ -20,7 +20,7 @@
     "reacciones_totales": 0,
     "comentarios_totales": 0,
     "compartidos_totales": 0,
-    "programados_en_servidores_meta": 93,
+    "programados_en_servidores_meta": 95,
     "total_publicaciones_sistema": 120
   },
   "rendimiento_por_horario": [
@@ -68,6 +68,28 @@
     }
   ],
   "ultimos_posts_publicados": [
+    {
+      "id": "1367888553074849_122096593629507613",
+      "url": "https://www.facebook.com/1367888553074849_122096593629507613",
+      "mensaje": "«Estaba en los huesos, sin pelo por la sarna y con la mirada completamente apagada. Muchos decían que era mejor dormirlo... 💔➡️💖\n\nPero una",
+      "fecha": "2026-10-19T13:00:12+0000",
+      "reacciones": 0,
+      "comentarios": 0,
+      "compartidos": 0,
+      "tipo": "post",
+      "estado": "publicado"
+    },
+    {
+      "id": "1367888553074849_122106533559507613",
+      "url": "https://www.facebook.com/1367888553074849_122106533559507613",
+      "mensaje": "«Personas sin corazón». Así han expresado su indignación vecinos que descubrieron que una pequeña casita destinada a proteger perros calleje",
+      "fecha": "2026-10-19T12:33:34+0000",
+      "reacciones": 0,
+      "comentarios": 0,
+      "compartidos": 0,
+      "tipo": "post",
+      "estado": "publicado"
+    },
     {
       "id": "1367888553074849_122096593527507613",
       "url": "https://www.facebook.com/1367888553074849_122096593527507613",
@@ -320,20 +342,30 @@
       "compartidos": 0,
       "tipo": "post",
       "estado": "publicado"
-    },
-    {
-      "id": "1367888553074849_122100071223507613",
-      "url": "https://www.facebook.com/1367888553074849_122100071223507613",
-      "mensaje": "Tania lleva cuatro años de recepcionista en una clínica veterinaria y está acostumbrada a los clientes que llegan con prisa. Pero hubo uno e",
-      "fecha": "2026-10-12T10:51:03+0000",
-      "reacciones": 0,
-      "comentarios": 0,
-      "compartidos": 0,
-      "tipo": "post",
-      "estado": "publicado"
     }
   ],
   "proximos_programados_meta": [
+    {
+      "id": "1367888553074849_122106824493507613",
+      "url": "https://www.facebook.com/1367888553074849_122106824493507613",
+      "mensaje": "«Sufrimos más a menudo por la imaginación que por la realidad». — Séneca 🏛️📜\n\n¿Cuántas noches te has quedado despierto creando escenarios ",
+      "fecha_programada": "2026-11-16T17:30:00.000Z",
+      "estado": "programado_en_meta"
+    },
+    {
+      "id": "1367888553074849_122106824421507613",
+      "url": "https://www.facebook.com/1367888553074849_122106824421507613",
+      "mensaje": "Doña Beatriz subió a tender ropa y escuchó un llanto seco en la azotea de enfrente. La casa llevaba dos semanas deshabitada con el letrero d",
+      "fecha_programada": "2026-11-16T12:30:00.000Z",
+      "estado": "programado_en_meta"
+    },
+    {
+      "id": "1367888553074849_122106824343507613",
+      "url": "https://www.facebook.com/1367888553074849_122106824343507613",
+      "mensaje": "«Tienes poder sobre tu mente, no sobre los acontecimientos. Date cuenta de esto y encontrarás la fuerza». — Marco Aurelio 🏛️⚔️\n\nHoy te vas ",
+      "fecha_programada": "2026-11-16T08:00:00.000Z",
+      "estado": "programado_en_meta"
+    },
     {
       "id": "1367888553074849_122106005517507613",
       "url": "https://www.facebook.com/1367888553074849_122106005517507613",
@@ -977,13 +1009,6 @@
       "mensaje": "«¿Creías que mover la cola siempre significa que tu perro está feliz? Cuidado, su cola habla más de lo que crees... 🐕🔍\n\nEstudios de etolog",
       "fecha_programada": "2026-10-19T23:30:00.000Z",
       "estado": "programado_en_meta"
-    },
-    {
-      "id": "1367888553074849_122096593629507613",
-      "url": "https://www.facebook.com/1367888553074849_122096593629507613",
-      "mensaje": "«Estaba en los huesos, sin pelo por la sarna y con la mirada completamente apagada. Muchos decían que era mejor dormirlo... 💔➡️💖\n\nPero una",
-      "fecha_programada": "2026-10-19T13:00:00.000Z",
-      "estado": "programado_en_meta"
     }
   ],
   "instagram": {
@@ -992,7 +1017,7 @@
     "name": "Huellas con propósito",
     "followers": 1,
     "media_count": 14,
-    "picture": "https://scontent-sjc6-1.xx.fbcdn.net/v/t51.82787-15/846964896_18127515184894503_9206256640984781246_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=7d201b&_nc_ohc=kqD9lq_LcrEQ7kNvwH7pY-H&_nc_oc=Adp7U9airlf9ZzI-XD4cv3UEYWWvsHK-La9oGzTDm1OXZSg1ElKIc5zFn02LNPVtghw&_nc_zt=23&_nc_ht=scontent-sjc6-1.xx&edm=AJ-jyNUEAAAA&_nc_gid=rDUpbrSOuKRvRhThviQ9dg&oh=00_AQMFEn5SL7qEbK6ezFotjUJ6HaPOCbKv1-TS5vglbDTaoQ&oe=6ADB436E"
+    "picture": "https://scontent-sjc6-1.xx.fbcdn.net/v/t51.82787-15/846964896_18127515184894503_9206256640984781246_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=7d201b&_nc_ohc=kqD9lq_LcrEQ7kNvwESkrve&_nc_oc=AdoRrUav5_XQG37X90ECZys_S4UiPG9Zg4PGiQpi_zAFMIxVi-zVUsyPF-mk_QLBzYE&_nc_zt=23&_nc_ht=scontent-sjc6-1.xx&edm=AL-3X8kEAAAA&_nc_gid=WctJlDb5APO-SPW4oITtuA&oh=00_AQMef10ZJK204O3WBknA21gmR53ULOntieLK6ft_gV3r7w&oe=6ADC246E"
   },
   "paginas": {
     "1367888553074849": {
@@ -1003,8 +1028,8 @@
         "seguidores": 27,
         "seguidos": 3,
         "personas_hablando": 76,
-        "foto_perfil": "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.30808-1/825286629_28604489712564817_7866327839881392565_n.jpg?stp=dst-jpg_s200x200_tt6&_nc_cat=110&ccb=1-7&_nc_sid=f907e8&_nc_ohc=TyeAfEyxjaQQ7kNvwFE8X6Y&_nc_oc=AdovHVdS0se6Cn9zoSU5OjzwPtVfAztR3EsdFWwDYOvW0oJd6TIrcP5kn2EDU-snrQY&_nc_zt=24&_nc_ht=scontent-sjc3-1.xx&edm=AJdBtusEAAAA&_nc_gid=dw5BUBTp6-ScuLsu7ditVw&_nc_tpa=Q5bMBQKrrZvRaR09DUPzX0WgL3oPhhiYue0LFBhDq_7SZYAKtmC-RfLVUdmca1IFpu_2VSr54OxuMZaqSA&oh=00_AQOJB_i30aMTh-T67R5vEm2tZ7o7Xi064Gor9TG70dKuHg&oe=6ADB386B",
-        "ultima_actualizacion": "2026-10-19T01:31:09.598Z"
+        "foto_perfil": "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.30808-1/825286629_28604489712564817_7866327839881392565_n.jpg?stp=dst-jpg_s200x200_tt6&_nc_cat=110&ccb=1-7&_nc_sid=f907e8&_nc_ohc=TyeAfEyxjaQQ7kNvwH7irly&_nc_oc=Adqpb51M5YrM2fn4zpVZpWic0JH0R8-_rcB8VHfEPD7BZ3qmHTtE6pZjBwmbkSwvqKk&_nc_zt=24&_nc_ht=scontent-sjc3-1.xx&edm=AJdBtusEAAAA&_nc_gid=TMPzmlXGshrAcqzt6IwPJA&_nc_tpa=Q5bMBQLLY6uCTpxHqGGSV1oOSnyUdBZgDD0E2bG7rNdkx3O3hlov66IH7xxbIG5MrVc7Br3FntjW49VTZA&oh=00_AQM7El3gm7jg-E46PtjMojC9UZ36vuIzPoo5mZSR9Nu_gA&oe=6ADC51AB",
+        "ultima_actualizacion": "2026-10-19T18:48:33.759Z"
       },
       "resumen_kpis": {
         "total_seguidores": 27,
@@ -1017,7 +1042,7 @@
         "reacciones_totales": 0,
         "comentarios_totales": 0,
         "compartidos_totales": 0,
-        "programados_en_servidores_meta": 93,
+        "programados_en_servidores_meta": 95,
         "total_publicaciones_sistema": 120
       },
       "rendimiento_por_horario": [
@@ -1065,6 +1090,28 @@
         }
       ],
       "ultimos_posts_publicados": [
+        {
+          "id": "1367888553074849_122096593629507613",
+          "url": "https://www.facebook.com/1367888553074849_122096593629507613",
+          "mensaje": "«Estaba en los huesos, sin pelo por la sarna y con la mirada completamente apagada. Muchos decían que era mejor dormirlo... 💔➡️💖\n\nPero una",
+          "fecha": "2026-10-19T13:00:12+0000",
+          "reacciones": 0,
+          "comentarios": 0,
+          "compartidos": 0,
+          "tipo": "post",
+          "estado": "publicado"
+        },
+        {
+          "id": "1367888553074849_122106533559507613",
+          "url": "https://www.facebook.com/1367888553074849_122106533559507613",
+          "mensaje": "«Personas sin corazón». Así han expresado su indignación vecinos que descubrieron que una pequeña casita destinada a proteger perros calleje",
+          "fecha": "2026-10-19T12:33:34+0000",
+          "reacciones": 0,
+          "comentarios": 0,
+          "compartidos": 0,
+          "tipo": "post",
+          "estado": "publicado"
+        },
         {
           "id": "1367888553074849_122096593527507613",
           "url": "https://www.facebook.com/1367888553074849_122096593527507613",
@@ -1317,20 +1364,30 @@
           "compartidos": 0,
           "tipo": "post",
           "estado": "publicado"
-        },
-        {
-          "id": "1367888553074849_122100071223507613",
-          "url": "https://www.facebook.com/1367888553074849_122100071223507613",
-          "mensaje": "Tania lleva cuatro años de recepcionista en una clínica veterinaria y está acostumbrada a los clientes que llegan con prisa. Pero hubo uno e",
-          "fecha": "2026-10-12T10:51:03+0000",
-          "reacciones": 0,
-          "comentarios": 0,
-          "compartidos": 0,
-          "tipo": "post",
-          "estado": "publicado"
         }
       ],
       "proximos_programados_meta": [
+        {
+          "id": "1367888553074849_122106824493507613",
+          "url": "https://www.facebook.com/1367888553074849_122106824493507613",
+          "mensaje": "«Sufrimos más a menudo por la imaginación que por la realidad». — Séneca 🏛️📜\n\n¿Cuántas noches te has quedado despierto creando escenarios ",
+          "fecha_programada": "2026-11-16T17:30:00.000Z",
+          "estado": "programado_en_meta"
+        },
+        {
+          "id": "1367888553074849_122106824421507613",
+          "url": "https://www.facebook.com/1367888553074849_122106824421507613",
+          "mensaje": "Doña Beatriz subió a tender ropa y escuchó un llanto seco en la azotea de enfrente. La casa llevaba dos semanas deshabitada con el letrero d",
+          "fecha_programada": "2026-11-16T12:30:00.000Z",
+          "estado": "programado_en_meta"
+        },
+        {
+          "id": "1367888553074849_122106824343507613",
+          "url": "https://www.facebook.com/1367888553074849_122106824343507613",
+          "mensaje": "«Tienes poder sobre tu mente, no sobre los acontecimientos. Date cuenta de esto y encontrarás la fuerza». — Marco Aurelio 🏛️⚔️\n\nHoy te vas ",
+          "fecha_programada": "2026-11-16T08:00:00.000Z",
+          "estado": "programado_en_meta"
+        },
         {
           "id": "1367888553074849_122106005517507613",
           "url": "https://www.facebook.com/1367888553074849_122106005517507613",
@@ -1974,13 +2031,6 @@
           "mensaje": "«¿Creías que mover la cola siempre significa que tu perro está feliz? Cuidado, su cola habla más de lo que crees... 🐕🔍\n\nEstudios de etolog",
           "fecha_programada": "2026-10-19T23:30:00.000Z",
           "estado": "programado_en_meta"
-        },
-        {
-          "id": "1367888553074849_122096593629507613",
-          "url": "https://www.facebook.com/1367888553074849_122096593629507613",
-          "mensaje": "«Estaba en los huesos, sin pelo por la sarna y con la mirada completamente apagada. Muchos decían que era mejor dormirlo... 💔➡️💖\n\nPero una",
-          "fecha_programada": "2026-10-19T13:00:00.000Z",
-          "estado": "programado_en_meta"
         }
       ],
       "instagram": {
@@ -1989,7 +2039,7 @@
         "name": "Huellas con propósito",
         "followers": 1,
         "media_count": 14,
-        "picture": "https://scontent-sjc6-1.xx.fbcdn.net/v/t51.82787-15/846964896_18127515184894503_9206256640984781246_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=7d201b&_nc_ohc=kqD9lq_LcrEQ7kNvwH7pY-H&_nc_oc=Adp7U9airlf9ZzI-XD4cv3UEYWWvsHK-La9oGzTDm1OXZSg1ElKIc5zFn02LNPVtghw&_nc_zt=23&_nc_ht=scontent-sjc6-1.xx&edm=AJ-jyNUEAAAA&_nc_gid=rDUpbrSOuKRvRhThviQ9dg&oh=00_AQMFEn5SL7qEbK6ezFotjUJ6HaPOCbKv1-TS5vglbDTaoQ&oe=6ADB436E"
+        "picture": "https://scontent-sjc6-1.xx.fbcdn.net/v/t51.82787-15/846964896_18127515184894503_9206256640984781246_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=7d201b&_nc_ohc=kqD9lq_LcrEQ7kNvwESkrve&_nc_oc=AdoRrUav5_XQG37X90ECZys_S4UiPG9Zg4PGiQpi_zAFMIxVi-zVUsyPF-mk_QLBzYE&_nc_zt=23&_nc_ht=scontent-sjc6-1.xx&edm=AL-3X8kEAAAA&_nc_gid=WctJlDb5APO-SPW4oITtuA&oh=00_AQMef10ZJK204O3WBknA21gmR53ULOntieLK6ft_gV3r7w&oe=6ADC246E"
       }
     },
     "1375923958937880": {
@@ -2001,7 +2051,7 @@
         "seguidos": 0,
         "personas_hablando": 0,
         "foto_perfil": "",
-        "ultima_actualizacion": "2026-10-19T01:31:09.839Z"
+        "ultima_actualizacion": "2026-10-19T18:48:33.922Z"
       },
       "resumen_kpis": {
         "total_seguidores": 7,
