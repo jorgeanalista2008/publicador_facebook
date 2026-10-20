@@ -6,8 +6,8 @@
     "seguidores": 27,
     "seguidos": 3,
     "personas_hablando": 28,
-    "foto_perfil": "https://scontent-dfw6-2.xx.fbcdn.net/v/t39.30808-1/825286629_28604489712564817_7866327839881392565_n.jpg?stp=dst-jpg_s200x200_tt6&_nc_cat=110&ccb=1-7&_nc_sid=f907e8&_nc_ohc=TyeAfEyxjaQQ7kNvwFWRF39&_nc_oc=AdrzYATw7GIKBQRZXT4AsHJ7zARCQGQGuZ3u2hA1ddXh_t6lo5-qbarK09ISBjFQfB4&_nc_zt=24&_nc_ht=scontent-dfw6-2.xx&edm=AJdBtusEAAAA&_nc_gid=W2MhfsOoqp1Cxi_WnO-lng&_nc_tpa=Q5bMBQIxy9bKDhywuhIpdURekrsaHS5LqJCsHGRI66I07udx4jBSJYLZEIHw18X_9eqm0cvOVIuFhATnkQ&oh=00_AQPYfMDEzELFwKwgfnwhbRMDFZVdG6iC6wIZeBeE-RaMXw&oe=6ADD6AEB",
-    "ultima_actualizacion": "2026-10-20T17:26:19.285Z"
+    "foto_perfil": "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.30808-1/825286629_28604489712564817_7866327839881392565_n.jpg?stp=dst-jpg_s200x200_tt6&_nc_cat=110&ccb=1-7&_nc_sid=f907e8&_nc_ohc=TyeAfEyxjaQQ7kNvwH9kmXF&_nc_oc=AdqypSuYBM9mePqrpy8YRuIBvMOm2h9lixgelBnJ6Q5LHeTE7rliotQr7IvHcaF_rm8&_nc_zt=24&_nc_ht=scontent-sjc3-1.xx&edm=AJdBtusEAAAA&_nc_gid=oxhB7YtXXAF-IG8MvV_7BQ&_nc_tpa=Q5bMBQIF-PMhi2Q4K_cTo6npx2OfuyZj2IpeaA2OnL9MYRqBqxE97p3BZzbzCc6qRBCnNmwKoMZBQI07ow&oh=00_AQOGnov8uhik3601wmEDLM2Fwu9q9t1MOEbqsiZUKRdgPQ&oe=6ADDDB6B",
+    "ultima_actualizacion": "2026-10-20T23:18:33.885Z"
   },
   "resumen_kpis": {
     "total_seguidores": 27,
@@ -20,7 +20,7 @@
     "reacciones_totales": 0,
     "comentarios_totales": 0,
     "compartidos_totales": 0,
-    "programados_en_servidores_meta": 96,
+    "programados_en_servidores_meta": 98,
     "total_publicaciones_sistema": 120
   },
   "rendimiento_por_horario": [
@@ -345,6 +345,20 @@
     }
   ],
   "proximos_programados_meta": [
+    {
+      "id": "1367888553074849_122108065707507613",
+      "url": "https://www.facebook.com/1367888553074849_122108065707507613",
+      "mensaje": "Eran las 6:30 de la mañana cuando el doctor Fernando llegó a abrir la clínica veterinaria. Atado a la aldaba metálica de la entrada había un",
+      "fecha_programada": "2026-11-17T20:30:00.000Z",
+      "estado": "programado_en_meta"
+    },
+    {
+      "id": "1367888553074849_122108065623507613",
+      "url": "https://www.facebook.com/1367888553074849_122108065623507613",
+      "mensaje": "«La mejor venganza es no ser como tu enemigo». — Marco Aurelio 🏛️⚖️\n\nCuando alguien te traiciona, te miente o te trata con desprecio, tu pr",
+      "fecha_programada": "2026-11-17T17:30:00.000Z",
+      "estado": "programado_en_meta"
+    },
     {
       "id": "1367888553074849_122107866651507613",
       "url": "https://www.facebook.com/1367888553074849_122107866651507613",
@@ -1024,7 +1038,7 @@
     "name": "Huellas con propósito",
     "followers": 1,
     "media_count": 14,
-    "picture": "https://scontent-dfw5-2.xx.fbcdn.net/v/t51.82787-15/846964896_18127515184894503_9206256640984781246_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=7d201b&_nc_ohc=kqD9lq_LcrEQ7kNvwEdXPf6&_nc_oc=AdoIJ4UF1NyH7coOqBUbDhmJ6AzAjPpdUGJqGjP8U3ceo69vPG26hcGWFefrtCq8i-g&_nc_zt=23&_nc_ht=scontent-dfw5-2.xx&edm=AL-3X8kEAAAA&_nc_gid=8qtWHLjCCEJKgfL78oT99A&oh=00_AQO4PW7S7iPwWPN55-LLDIMx6DjFA-LQXGM0S78Vf7eTQw&oe=6ADD75EE"
+    "picture": "https://scontent-sjc6-1.xx.fbcdn.net/v/t51.82787-15/846964896_18127515184894503_9206256640984781246_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=7d201b&_nc_ohc=kqD9lq_LcrEQ7kNvwHVLglA&_nc_oc=Ado7ENnLfZaaEojiqeOdBEzxurvglVvd9EogA08I-bO2TrQkhTg-rlMkWmHTHMCgY5s&_nc_zt=23&_nc_ht=scontent-sjc6-1.xx&edm=AL-3X8kEAAAA&_nc_gid=4XEWFA_J8brDpbXMx3u5SA&oh=00_AQPoovnj1yNcehj_4A2QmQHn5WPWB2ll5Mn4HuesEaQZUQ&oe=6ADDAE2E"
   },
   "paginas": {
     "1367888553074849": {
@@ -1035,8 +1049,8 @@
         "seguidores": 27,
         "seguidos": 3,
         "personas_hablando": 28,
-        "foto_perfil": "https://scontent-dfw6-2.xx.fbcdn.net/v/t39.30808-1/825286629_28604489712564817_7866327839881392565_n.jpg?stp=dst-jpg_s200x200_tt6&_nc_cat=110&ccb=1-7&_nc_sid=f907e8&_nc_ohc=TyeAfEyxjaQQ7kNvwFWRF39&_nc_oc=AdrzYATw7GIKBQRZXT4AsHJ7zARCQGQGuZ3u2hA1ddXh_t6lo5-qbarK09ISBjFQfB4&_nc_zt=24&_nc_ht=scontent-dfw6-2.xx&edm=AJdBtusEAAAA&_nc_gid=W2MhfsOoqp1Cxi_WnO-lng&_nc_tpa=Q5bMBQIxy9bKDhywuhIpdURekrsaHS5LqJCsHGRI66I07udx4jBSJYLZEIHw18X_9eqm0cvOVIuFhATnkQ&oh=00_AQPYfMDEzELFwKwgfnwhbRMDFZVdG6iC6wIZeBeE-RaMXw&oe=6ADD6AEB",
-        "ultima_actualizacion": "2026-10-20T17:26:19.285Z"
+        "foto_perfil": "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.30808-1/825286629_28604489712564817_7866327839881392565_n.jpg?stp=dst-jpg_s200x200_tt6&_nc_cat=110&ccb=1-7&_nc_sid=f907e8&_nc_ohc=TyeAfEyxjaQQ7kNvwH9kmXF&_nc_oc=AdqypSuYBM9mePqrpy8YRuIBvMOm2h9lixgelBnJ6Q5LHeTE7rliotQr7IvHcaF_rm8&_nc_zt=24&_nc_ht=scontent-sjc3-1.xx&edm=AJdBtusEAAAA&_nc_gid=oxhB7YtXXAF-IG8MvV_7BQ&_nc_tpa=Q5bMBQIF-PMhi2Q4K_cTo6npx2OfuyZj2IpeaA2OnL9MYRqBqxE97p3BZzbzCc6qRBCnNmwKoMZBQI07ow&oh=00_AQOGnov8uhik3601wmEDLM2Fwu9q9t1MOEbqsiZUKRdgPQ&oe=6ADDDB6B",
+        "ultima_actualizacion": "2026-10-20T23:18:33.885Z"
       },
       "resumen_kpis": {
         "total_seguidores": 27,
@@ -1049,7 +1063,7 @@
         "reacciones_totales": 0,
         "comentarios_totales": 0,
         "compartidos_totales": 0,
-        "programados_en_servidores_meta": 96,
+        "programados_en_servidores_meta": 98,
         "total_publicaciones_sistema": 120
       },
       "rendimiento_por_horario": [
@@ -1374,6 +1388,20 @@
         }
       ],
       "proximos_programados_meta": [
+        {
+          "id": "1367888553074849_122108065707507613",
+          "url": "https://www.facebook.com/1367888553074849_122108065707507613",
+          "mensaje": "Eran las 6:30 de la mañana cuando el doctor Fernando llegó a abrir la clínica veterinaria. Atado a la aldaba metálica de la entrada había un",
+          "fecha_programada": "2026-11-17T20:30:00.000Z",
+          "estado": "programado_en_meta"
+        },
+        {
+          "id": "1367888553074849_122108065623507613",
+          "url": "https://www.facebook.com/1367888553074849_122108065623507613",
+          "mensaje": "«La mejor venganza es no ser como tu enemigo». — Marco Aurelio 🏛️⚖️\n\nCuando alguien te traiciona, te miente o te trata con desprecio, tu pr",
+          "fecha_programada": "2026-11-17T17:30:00.000Z",
+          "estado": "programado_en_meta"
+        },
         {
           "id": "1367888553074849_122107866651507613",
           "url": "https://www.facebook.com/1367888553074849_122107866651507613",
@@ -2053,7 +2081,7 @@
         "name": "Huellas con propósito",
         "followers": 1,
         "media_count": 14,
-        "picture": "https://scontent-dfw5-2.xx.fbcdn.net/v/t51.82787-15/846964896_18127515184894503_9206256640984781246_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=7d201b&_nc_ohc=kqD9lq_LcrEQ7kNvwEdXPf6&_nc_oc=AdoIJ4UF1NyH7coOqBUbDhmJ6AzAjPpdUGJqGjP8U3ceo69vPG26hcGWFefrtCq8i-g&_nc_zt=23&_nc_ht=scontent-dfw5-2.xx&edm=AL-3X8kEAAAA&_nc_gid=8qtWHLjCCEJKgfL78oT99A&oh=00_AQO4PW7S7iPwWPN55-LLDIMx6DjFA-LQXGM0S78Vf7eTQw&oe=6ADD75EE"
+        "picture": "https://scontent-sjc6-1.xx.fbcdn.net/v/t51.82787-15/846964896_18127515184894503_9206256640984781246_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=7d201b&_nc_ohc=kqD9lq_LcrEQ7kNvwHVLglA&_nc_oc=Ado7ENnLfZaaEojiqeOdBEzxurvglVvd9EogA08I-bO2TrQkhTg-rlMkWmHTHMCgY5s&_nc_zt=23&_nc_ht=scontent-sjc6-1.xx&edm=AL-3X8kEAAAA&_nc_gid=4XEWFA_J8brDpbXMx3u5SA&oh=00_AQPoovnj1yNcehj_4A2QmQHn5WPWB2ll5Mn4HuesEaQZUQ&oe=6ADDAE2E"
       }
     },
     "1375923958937880": {
@@ -2065,7 +2093,7 @@
         "seguidos": 0,
         "personas_hablando": 0,
         "foto_perfil": "",
-        "ultima_actualizacion": "2026-10-20T17:26:19.468Z"
+        "ultima_actualizacion": "2026-10-20T23:18:34.089Z"
       },
       "resumen_kpis": {
         "total_seguidores": 7,
@@ -2078,7 +2106,7 @@
         "reacciones_totales": 3,
         "comentarios_totales": 0,
         "compartidos_totales": 1,
-        "programados_en_servidores_meta": 21,
+        "programados_en_servidores_meta": 20,
         "total_publicaciones_sistema": 52
       },
       "rendimiento_por_horario": [
@@ -2246,16 +2274,20 @@
           "compartidos": 0,
           "tipo": "post",
           "estado": "publicado"
-        }
-      ],
-      "proximos_programados_meta": [
+        },
         {
           "id": "122095715253512707",
           "url": "https://www.facebook.com/122095715253512707",
-          "mensaje": "⏰ [Programado 2026-10-20 19:00] Mentalidad Errónea: EL BUSCADOR DE CULPABLES vs Mentalidad de Acero",
-          "fecha_programada": "2026-10-20T19:00:00Z",
-          "estado": "programado_en_meta"
-        },
+          "mensaje": "Mentalidad Errónea: EL BUSCADOR DE CULPABLES vs Mentalidad de Acero: \"EL HOMBRE QUE SEÑALA CON EL DEDO A OTROS, TIENE TRES DEDOS SEÑALÁNDOSE A SÍ MISMO.\"  ¡DESPIERTA!  Deja de buscar excusa...",
+          "fecha": "2026-10-20T19:00:00.000Z",
+          "reacciones": 0,
+          "comentarios": 0,
+          "compartidos": 0,
+          "tipo": "post",
+          "estado": "publicado"
+        }
+      ],
+      "proximos_programados_meta": [
         {
           "id": "122095715325512707",
           "url": "https://www.facebook.com/122095715325512707",
