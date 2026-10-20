@@ -5,22 +5,22 @@
     "categoria": "Animals & Pets",
     "seguidores": 27,
     "seguidos": 3,
-    "personas_hablando": 38,
-    "foto_perfil": "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.30808-1/825286629_28604489712564817_7866327839881392565_n.jpg?stp=dst-jpg_s200x200_tt6&_nc_cat=110&ccb=1-7&_nc_sid=f907e8&_nc_ohc=TyeAfEyxjaQQ7kNvwF4uG_L&_nc_oc=AdrOU5Xox18MTMfENKKRmPnxve6qkD1mtyzU08yWWZAfa_Zb-LtW4g3lqyFnTHpW35g&_nc_zt=24&_nc_ht=scontent-sjc3-1.xx&edm=AJdBtusEAAAA&_nc_gid=WbJPqJC7zZdp5H7rjY2Z4g&_nc_tpa=Q5bMBQKdSPCWjgVNxh_dqZexjbjX_Ytq3-SX6eW89fB5iCVTdofnMHz9ejGEoioqvXpPV0IQRDzNoLIbEA&oh=00_AQMgWMk7AnczMnHagD9-LKPng7rDGvU9Gl2KDhTGKjAZfg&oe=6ADCC22B",
-    "ultima_actualizacion": "2026-10-20T06:20:29.372Z"
+    "personas_hablando": 28,
+    "foto_perfil": "https://scontent-dfw6-2.xx.fbcdn.net/v/t39.30808-1/825286629_28604489712564817_7866327839881392565_n.jpg?stp=dst-jpg_s200x200_tt6&_nc_cat=110&ccb=1-7&_nc_sid=f907e8&_nc_ohc=TyeAfEyxjaQQ7kNvwFWRF39&_nc_oc=AdrzYATw7GIKBQRZXT4AsHJ7zARCQGQGuZ3u2hA1ddXh_t6lo5-qbarK09ISBjFQfB4&_nc_zt=24&_nc_ht=scontent-dfw6-2.xx&edm=AJdBtusEAAAA&_nc_gid=W2MhfsOoqp1Cxi_WnO-lng&_nc_tpa=Q5bMBQIxy9bKDhywuhIpdURekrsaHS5LqJCsHGRI66I07udx4jBSJYLZEIHw18X_9eqm0cvOVIuFhATnkQ&oh=00_AQPYfMDEzELFwKwgfnwhbRMDFZVdG6iC6wIZeBeE-RaMXw&oe=6ADD6AEB",
+    "ultima_actualizacion": "2026-10-20T17:26:19.285Z"
   },
   "resumen_kpis": {
     "total_seguidores": 27,
     "seguidores_detalle": "27 seguidores • 3 seguidos",
     "crecimiento_semanal": "+35%",
     "seguidores_nuevos_semana": 7,
-    "personas_hablando": 38,
+    "personas_hablando": 28,
     "alcance_estimado": 486,
     "interacciones_totales": 0,
     "reacciones_totales": 0,
     "comentarios_totales": 0,
     "compartidos_totales": 0,
-    "programados_en_servidores_meta": 95,
+    "programados_en_servidores_meta": 96,
     "total_publicaciones_sistema": 120
   },
   "rendimiento_por_horario": [
@@ -68,6 +68,17 @@
     }
   ],
   "ultimos_posts_publicados": [
+    {
+      "id": "1367888553074849_122096593779507613",
+      "url": "https://www.facebook.com/1367888553074849_122096593779507613",
+      "mensaje": "«No tenían techo, lujos ni comodidades, pero juntos tenían el tesoro más grande del planeta: lealtad absoluta. 🌧️🐕🫂\n\nMario vive en situac",
+      "fecha": "2026-10-20T13:00:15+0000",
+      "reacciones": 0,
+      "comentarios": 0,
+      "compartidos": 0,
+      "tipo": "post",
+      "estado": "publicado"
+    },
     {
       "id": "1367888553074849_122096593701507613",
       "url": "https://www.facebook.com/1367888553074849_122096593701507613",
@@ -331,20 +342,23 @@
       "compartidos": 0,
       "tipo": "post",
       "estado": "publicado"
-    },
-    {
-      "id": "1367888553074849_122096591259507613",
-      "url": "https://www.facebook.com/1367888553074849_122096591259507613",
-      "mensaje": "«Un niño de 3 años se extravió al anochecer en una zona boscosa. Quien lo encontró primero fue su perro Mateo... 🌲🔦\n\nMás de 40 rescatistas",
-      "fecha": "2026-10-12T13:01:37+0000",
-      "reacciones": 0,
-      "comentarios": 0,
-      "compartidos": 0,
-      "tipo": "post",
-      "estado": "publicado"
     }
   ],
   "proximos_programados_meta": [
+    {
+      "id": "1367888553074849_122107866651507613",
+      "url": "https://www.facebook.com/1367888553074849_122107866651507613",
+      "mensaje": "La señora Carmela vio salir el camión de mudanza a toda velocidad. Diez minutos después, una cachorrita peluda y blanca salió corriendo del ",
+      "fecha_programada": "2026-11-17T12:30:00.000Z",
+      "estado": "programado_en_meta"
+    },
+    {
+      "id": "1367888553074849_122107866549507613",
+      "url": "https://www.facebook.com/1367888553074849_122107866549507613",
+      "mensaje": "«No nos afecta lo que nos sucede, sino el juicio que nos formamos de lo que nos sucede». — Epicteto 🏛️🛡️\n\nEpicteto nació esclavo, soportó ",
+      "fecha_programada": "2026-11-17T08:00:00.000Z",
+      "estado": "programado_en_meta"
+    },
     {
       "id": "1367888553074849_122107055679507613",
       "url": "https://www.facebook.com/1367888553074849_122107055679507613",
@@ -1002,13 +1016,6 @@
       "mensaje": "«¿Tu perro tiene toda la cama disponible pero insiste en dormir pegado a tu espalda o encima de tus pies? Esta es la razón... 🛌🐶❤️\n\nEn est",
       "fecha_programada": "2026-10-20T23:30:00.000Z",
       "estado": "programado_en_meta"
-    },
-    {
-      "id": "1367888553074849_122096593779507613",
-      "url": "https://www.facebook.com/1367888553074849_122096593779507613",
-      "mensaje": "«No tenían techo, lujos ni comodidades, pero juntos tenían el tesoro más grande del planeta: lealtad absoluta. 🌧️🐕🫂\n\nMario vive en situac",
-      "fecha_programada": "2026-10-20T13:00:00.000Z",
-      "estado": "programado_en_meta"
     }
   ],
   "instagram": {
@@ -1017,7 +1024,7 @@
     "name": "Huellas con propósito",
     "followers": 1,
     "media_count": 14,
-    "picture": "https://scontent-sjc6-1.xx.fbcdn.net/v/t51.82787-15/846964896_18127515184894503_9206256640984781246_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=7d201b&_nc_ohc=kqD9lq_LcrEQ7kNvwFvJqQ7&_nc_oc=AdrZWZn3uuUJtmMDpf8Y1ABYWHUvrgYZb-McoiX83E1O3hw-qlSaGzWIbF29gdQpzyQ&_nc_zt=23&_nc_ht=scontent-sjc6-1.xx&edm=AL-3X8kEAAAA&_nc_gid=EblnsL5jabZUkRZa9y3P5w&oh=00_AQM5Tu1NydtjZVcZ405F8h3644BRQWLTN0l3Wbmbc5leow&oe=6ADCCD2E"
+    "picture": "https://scontent-dfw5-2.xx.fbcdn.net/v/t51.82787-15/846964896_18127515184894503_9206256640984781246_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=7d201b&_nc_ohc=kqD9lq_LcrEQ7kNvwEdXPf6&_nc_oc=AdoIJ4UF1NyH7coOqBUbDhmJ6AzAjPpdUGJqGjP8U3ceo69vPG26hcGWFefrtCq8i-g&_nc_zt=23&_nc_ht=scontent-dfw5-2.xx&edm=AL-3X8kEAAAA&_nc_gid=8qtWHLjCCEJKgfL78oT99A&oh=00_AQO4PW7S7iPwWPN55-LLDIMx6DjFA-LQXGM0S78Vf7eTQw&oe=6ADD75EE"
   },
   "paginas": {
     "1367888553074849": {
@@ -1027,22 +1034,22 @@
         "categoria": "Animals & Pets",
         "seguidores": 27,
         "seguidos": 3,
-        "personas_hablando": 38,
-        "foto_perfil": "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.30808-1/825286629_28604489712564817_7866327839881392565_n.jpg?stp=dst-jpg_s200x200_tt6&_nc_cat=110&ccb=1-7&_nc_sid=f907e8&_nc_ohc=TyeAfEyxjaQQ7kNvwF4uG_L&_nc_oc=AdrOU5Xox18MTMfENKKRmPnxve6qkD1mtyzU08yWWZAfa_Zb-LtW4g3lqyFnTHpW35g&_nc_zt=24&_nc_ht=scontent-sjc3-1.xx&edm=AJdBtusEAAAA&_nc_gid=WbJPqJC7zZdp5H7rjY2Z4g&_nc_tpa=Q5bMBQKdSPCWjgVNxh_dqZexjbjX_Ytq3-SX6eW89fB5iCVTdofnMHz9ejGEoioqvXpPV0IQRDzNoLIbEA&oh=00_AQMgWMk7AnczMnHagD9-LKPng7rDGvU9Gl2KDhTGKjAZfg&oe=6ADCC22B",
-        "ultima_actualizacion": "2026-10-20T06:20:29.372Z"
+        "personas_hablando": 28,
+        "foto_perfil": "https://scontent-dfw6-2.xx.fbcdn.net/v/t39.30808-1/825286629_28604489712564817_7866327839881392565_n.jpg?stp=dst-jpg_s200x200_tt6&_nc_cat=110&ccb=1-7&_nc_sid=f907e8&_nc_ohc=TyeAfEyxjaQQ7kNvwFWRF39&_nc_oc=AdrzYATw7GIKBQRZXT4AsHJ7zARCQGQGuZ3u2hA1ddXh_t6lo5-qbarK09ISBjFQfB4&_nc_zt=24&_nc_ht=scontent-dfw6-2.xx&edm=AJdBtusEAAAA&_nc_gid=W2MhfsOoqp1Cxi_WnO-lng&_nc_tpa=Q5bMBQIxy9bKDhywuhIpdURekrsaHS5LqJCsHGRI66I07udx4jBSJYLZEIHw18X_9eqm0cvOVIuFhATnkQ&oh=00_AQPYfMDEzELFwKwgfnwhbRMDFZVdG6iC6wIZeBeE-RaMXw&oe=6ADD6AEB",
+        "ultima_actualizacion": "2026-10-20T17:26:19.285Z"
       },
       "resumen_kpis": {
         "total_seguidores": 27,
         "seguidores_detalle": "27 seguidores • 3 seguidos",
         "crecimiento_semanal": "+35%",
         "seguidores_nuevos_semana": 7,
-        "personas_hablando": 38,
+        "personas_hablando": 28,
         "alcance_estimado": 486,
         "interacciones_totales": 0,
         "reacciones_totales": 0,
         "comentarios_totales": 0,
         "compartidos_totales": 0,
-        "programados_en_servidores_meta": 95,
+        "programados_en_servidores_meta": 96,
         "total_publicaciones_sistema": 120
       },
       "rendimiento_por_horario": [
@@ -1090,6 +1097,17 @@
         }
       ],
       "ultimos_posts_publicados": [
+        {
+          "id": "1367888553074849_122096593779507613",
+          "url": "https://www.facebook.com/1367888553074849_122096593779507613",
+          "mensaje": "«No tenían techo, lujos ni comodidades, pero juntos tenían el tesoro más grande del planeta: lealtad absoluta. 🌧️🐕🫂\n\nMario vive en situac",
+          "fecha": "2026-10-20T13:00:15+0000",
+          "reacciones": 0,
+          "comentarios": 0,
+          "compartidos": 0,
+          "tipo": "post",
+          "estado": "publicado"
+        },
         {
           "id": "1367888553074849_122096593701507613",
           "url": "https://www.facebook.com/1367888553074849_122096593701507613",
@@ -1353,20 +1371,23 @@
           "compartidos": 0,
           "tipo": "post",
           "estado": "publicado"
-        },
-        {
-          "id": "1367888553074849_122096591259507613",
-          "url": "https://www.facebook.com/1367888553074849_122096591259507613",
-          "mensaje": "«Un niño de 3 años se extravió al anochecer en una zona boscosa. Quien lo encontró primero fue su perro Mateo... 🌲🔦\n\nMás de 40 rescatistas",
-          "fecha": "2026-10-12T13:01:37+0000",
-          "reacciones": 0,
-          "comentarios": 0,
-          "compartidos": 0,
-          "tipo": "post",
-          "estado": "publicado"
         }
       ],
       "proximos_programados_meta": [
+        {
+          "id": "1367888553074849_122107866651507613",
+          "url": "https://www.facebook.com/1367888553074849_122107866651507613",
+          "mensaje": "La señora Carmela vio salir el camión de mudanza a toda velocidad. Diez minutos después, una cachorrita peluda y blanca salió corriendo del ",
+          "fecha_programada": "2026-11-17T12:30:00.000Z",
+          "estado": "programado_en_meta"
+        },
+        {
+          "id": "1367888553074849_122107866549507613",
+          "url": "https://www.facebook.com/1367888553074849_122107866549507613",
+          "mensaje": "«No nos afecta lo que nos sucede, sino el juicio que nos formamos de lo que nos sucede». — Epicteto 🏛️🛡️\n\nEpicteto nació esclavo, soportó ",
+          "fecha_programada": "2026-11-17T08:00:00.000Z",
+          "estado": "programado_en_meta"
+        },
         {
           "id": "1367888553074849_122107055679507613",
           "url": "https://www.facebook.com/1367888553074849_122107055679507613",
@@ -2024,13 +2045,6 @@
           "mensaje": "«¿Tu perro tiene toda la cama disponible pero insiste en dormir pegado a tu espalda o encima de tus pies? Esta es la razón... 🛌🐶❤️\n\nEn est",
           "fecha_programada": "2026-10-20T23:30:00.000Z",
           "estado": "programado_en_meta"
-        },
-        {
-          "id": "1367888553074849_122096593779507613",
-          "url": "https://www.facebook.com/1367888553074849_122096593779507613",
-          "mensaje": "«No tenían techo, lujos ni comodidades, pero juntos tenían el tesoro más grande del planeta: lealtad absoluta. 🌧️🐕🫂\n\nMario vive en situac",
-          "fecha_programada": "2026-10-20T13:00:00.000Z",
-          "estado": "programado_en_meta"
         }
       ],
       "instagram": {
@@ -2039,7 +2053,7 @@
         "name": "Huellas con propósito",
         "followers": 1,
         "media_count": 14,
-        "picture": "https://scontent-sjc6-1.xx.fbcdn.net/v/t51.82787-15/846964896_18127515184894503_9206256640984781246_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=7d201b&_nc_ohc=kqD9lq_LcrEQ7kNvwFvJqQ7&_nc_oc=AdrZWZn3uuUJtmMDpf8Y1ABYWHUvrgYZb-McoiX83E1O3hw-qlSaGzWIbF29gdQpzyQ&_nc_zt=23&_nc_ht=scontent-sjc6-1.xx&edm=AL-3X8kEAAAA&_nc_gid=EblnsL5jabZUkRZa9y3P5w&oh=00_AQM5Tu1NydtjZVcZ405F8h3644BRQWLTN0l3Wbmbc5leow&oe=6ADCCD2E"
+        "picture": "https://scontent-dfw5-2.xx.fbcdn.net/v/t51.82787-15/846964896_18127515184894503_9206256640984781246_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=7d201b&_nc_ohc=kqD9lq_LcrEQ7kNvwEdXPf6&_nc_oc=AdoIJ4UF1NyH7coOqBUbDhmJ6AzAjPpdUGJqGjP8U3ceo69vPG26hcGWFefrtCq8i-g&_nc_zt=23&_nc_ht=scontent-dfw5-2.xx&edm=AL-3X8kEAAAA&_nc_gid=8qtWHLjCCEJKgfL78oT99A&oh=00_AQO4PW7S7iPwWPN55-LLDIMx6DjFA-LQXGM0S78Vf7eTQw&oe=6ADD75EE"
       }
     },
     "1375923958937880": {
@@ -2051,7 +2065,7 @@
         "seguidos": 0,
         "personas_hablando": 0,
         "foto_perfil": "",
-        "ultima_actualizacion": "2026-10-20T06:20:29.498Z"
+        "ultima_actualizacion": "2026-10-20T17:26:19.468Z"
       },
       "resumen_kpis": {
         "total_seguidores": 7,
