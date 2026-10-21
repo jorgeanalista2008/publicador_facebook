@@ -5,22 +5,22 @@
     "categoria": "Animals & Pets",
     "seguidores": 27,
     "seguidos": 3,
-    "personas_hablando": 28,
-    "foto_perfil": "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.30808-1/825286629_28604489712564817_7866327839881392565_n.jpg?stp=dst-jpg_s200x200_tt6&_nc_cat=110&ccb=1-7&_nc_sid=f907e8&_nc_ohc=TyeAfEyxjaQQ7kNvwH9kmXF&_nc_oc=AdqypSuYBM9mePqrpy8YRuIBvMOm2h9lixgelBnJ6Q5LHeTE7rliotQr7IvHcaF_rm8&_nc_zt=24&_nc_ht=scontent-sjc3-1.xx&edm=AJdBtusEAAAA&_nc_gid=oxhB7YtXXAF-IG8MvV_7BQ&_nc_tpa=Q5bMBQIF-PMhi2Q4K_cTo6npx2OfuyZj2IpeaA2OnL9MYRqBqxE97p3BZzbzCc6qRBCnNmwKoMZBQI07ow&oh=00_AQOGnov8uhik3601wmEDLM2Fwu9q9t1MOEbqsiZUKRdgPQ&oe=6ADDDB6B",
-    "ultima_actualizacion": "2026-10-20T23:18:33.885Z"
+    "personas_hablando": 29,
+    "foto_perfil": "https://scontent-lga3-1.xx.fbcdn.net/v/t39.30808-1/825286629_28604489712564817_7866327839881392565_n.jpg?stp=dst-jpg_s200x200_tt6&_nc_cat=110&ccb=1-7&_nc_sid=f907e8&_nc_ohc=TyeAfEyxjaQQ7kNvwGTOd7U&_nc_oc=AdqQWTyKO8y7at6D40hFtJ7ZuW6ybPzQ1771uEm8qMQx2t_QZevvUSryFWQ_onJWY3c&_nc_zt=24&_nc_ht=scontent-lga3-1.xx&edm=AJdBtusEAAAA&_nc_gid=R0sG5CuH1DdtHRHo_JhNdQ&_nc_tpa=Q5bMBQIUtbRKxXjDs-LlCHEwOFpDWr2dLxXQd2sOVQ0FtGmz_jPXXWKeKhu1MHgWifDNa5H8bytK6TtsUg&oh=00_AQMXVAw4Xlx6t21XVn1smdgNLSzWRwlxGH9AjZLY0_P8xw&oe=6ADDDB6B",
+    "ultima_actualizacion": "2026-10-21T01:50:42.514Z"
   },
   "resumen_kpis": {
     "total_seguidores": 27,
     "seguidores_detalle": "27 seguidores • 3 seguidos",
     "crecimiento_semanal": "+35%",
     "seguidores_nuevos_semana": 7,
-    "personas_hablando": 28,
+    "personas_hablando": 29,
     "alcance_estimado": 486,
-    "interacciones_totales": 0,
+    "interacciones_totales": 1,
     "reacciones_totales": 0,
     "comentarios_totales": 0,
-    "compartidos_totales": 0,
-    "programados_en_servidores_meta": 98,
+    "compartidos_totales": 1,
+    "programados_en_servidores_meta": 97,
     "total_publicaciones_sistema": 120
   },
   "rendimiento_por_horario": [
@@ -69,6 +69,17 @@
   ],
   "ultimos_posts_publicados": [
     {
+      "id": "1367888553074849_122096593923507613",
+      "url": "https://www.facebook.com/1367888553074849_122096593923507613",
+      "mensaje": "«¿Tu perro tiene toda la cama disponible pero insiste en dormir pegado a tu espalda o encima de tus pies? Esta es la razón... 🛌🐶❤️\n\nEn est",
+      "fecha": "2026-10-20T23:30:02+0000",
+      "reacciones": 0,
+      "comentarios": 0,
+      "compartidos": 0,
+      "tipo": "post",
+      "estado": "publicado"
+    },
+    {
       "id": "1367888553074849_122096593779507613",
       "url": "https://www.facebook.com/1367888553074849_122096593779507613",
       "mensaje": "«No tenían techo, lujos ni comodidades, pero juntos tenían el tesoro más grande del planeta: lealtad absoluta. 🌧️🐕🫂\n\nMario vive en situac",
@@ -108,7 +119,7 @@
       "fecha": "2026-10-19T12:33:34+0000",
       "reacciones": 0,
       "comentarios": 0,
-      "compartidos": 0,
+      "compartidos": 1,
       "tipo": "post",
       "estado": "publicado"
     },
@@ -326,17 +337,6 @@
       "url": "https://www.facebook.com/1367888553074849_122100674067507613",
       "mensaje": "La pobreza puede ser una circunstancia, pero la mentalidad de víctima es una prisión. #MentalidadDeAcero #Reels",
       "fecha": "2026-10-13T02:43:48+0000",
-      "reacciones": 0,
-      "comentarios": 0,
-      "compartidos": 0,
-      "tipo": "post",
-      "estado": "publicado"
-    },
-    {
-      "id": "1367888553074849_122096591427507613",
-      "url": "https://www.facebook.com/1367888553074849_122096591427507613",
-      "mensaje": "«¿Alguna vez te has quedado mirando a los ojos a tu perro y has sentido una conexión mágica? No te lo estás imaginando... 🧬👀❤️\n\nCientífico",
-      "fecha": "2026-10-12T23:30:00+0000",
       "reacciones": 0,
       "comentarios": 0,
       "compartidos": 0,
@@ -1023,13 +1023,6 @@
       "mensaje": "«Fueron más de 30 horas atrapado en la oscuridad de un pozo seco sin agua ni alimento... 🚒🕳️🐕\n\nUn campesino escuchó ecos lejanos en un te",
       "fecha_programada": "2026-10-21T13:00:00.000Z",
       "estado": "programado_en_meta"
-    },
-    {
-      "id": "1367888553074849_122096593923507613",
-      "url": "https://www.facebook.com/1367888553074849_122096593923507613",
-      "mensaje": "«¿Tu perro tiene toda la cama disponible pero insiste en dormir pegado a tu espalda o encima de tus pies? Esta es la razón... 🛌🐶❤️\n\nEn est",
-      "fecha_programada": "2026-10-20T23:30:00.000Z",
-      "estado": "programado_en_meta"
     }
   ],
   "instagram": {
@@ -1038,7 +1031,7 @@
     "name": "Huellas con propósito",
     "followers": 1,
     "media_count": 14,
-    "picture": "https://scontent-sjc6-1.xx.fbcdn.net/v/t51.82787-15/846964896_18127515184894503_9206256640984781246_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=7d201b&_nc_ohc=kqD9lq_LcrEQ7kNvwHVLglA&_nc_oc=Ado7ENnLfZaaEojiqeOdBEzxurvglVvd9EogA08I-bO2TrQkhTg-rlMkWmHTHMCgY5s&_nc_zt=23&_nc_ht=scontent-sjc6-1.xx&edm=AL-3X8kEAAAA&_nc_gid=4XEWFA_J8brDpbXMx3u5SA&oh=00_AQPoovnj1yNcehj_4A2QmQHn5WPWB2ll5Mn4HuesEaQZUQ&oe=6ADDAE2E"
+    "picture": "https://scontent-lga3-3.xx.fbcdn.net/v/t51.82787-15/846964896_18127515184894503_9206256640984781246_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=7d201b&_nc_ohc=kqD9lq_LcrEQ7kNvwF86n1G&_nc_oc=AdqMPBTLBptlJ4WgRJ7JaV7o0ET1zxGMHjH6PbVLUjmCIbH63V7dIGq8dKBbbrsZcuE&_nc_zt=23&_nc_ht=scontent-lga3-3.xx&edm=AL-3X8kEAAAA&_nc_gid=hryOp1cRyRLP6NarCp4Wag&oh=00_AQNbuseD00NNVXium1scfnvjieneGfbEdXjhjw7WS5X6Hw&oe=6ADDE66E"
   },
   "paginas": {
     "1367888553074849": {
@@ -1048,22 +1041,22 @@
         "categoria": "Animals & Pets",
         "seguidores": 27,
         "seguidos": 3,
-        "personas_hablando": 28,
-        "foto_perfil": "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.30808-1/825286629_28604489712564817_7866327839881392565_n.jpg?stp=dst-jpg_s200x200_tt6&_nc_cat=110&ccb=1-7&_nc_sid=f907e8&_nc_ohc=TyeAfEyxjaQQ7kNvwH9kmXF&_nc_oc=AdqypSuYBM9mePqrpy8YRuIBvMOm2h9lixgelBnJ6Q5LHeTE7rliotQr7IvHcaF_rm8&_nc_zt=24&_nc_ht=scontent-sjc3-1.xx&edm=AJdBtusEAAAA&_nc_gid=oxhB7YtXXAF-IG8MvV_7BQ&_nc_tpa=Q5bMBQIF-PMhi2Q4K_cTo6npx2OfuyZj2IpeaA2OnL9MYRqBqxE97p3BZzbzCc6qRBCnNmwKoMZBQI07ow&oh=00_AQOGnov8uhik3601wmEDLM2Fwu9q9t1MOEbqsiZUKRdgPQ&oe=6ADDDB6B",
-        "ultima_actualizacion": "2026-10-20T23:18:33.885Z"
+        "personas_hablando": 29,
+        "foto_perfil": "https://scontent-lga3-1.xx.fbcdn.net/v/t39.30808-1/825286629_28604489712564817_7866327839881392565_n.jpg?stp=dst-jpg_s200x200_tt6&_nc_cat=110&ccb=1-7&_nc_sid=f907e8&_nc_ohc=TyeAfEyxjaQQ7kNvwGTOd7U&_nc_oc=AdqQWTyKO8y7at6D40hFtJ7ZuW6ybPzQ1771uEm8qMQx2t_QZevvUSryFWQ_onJWY3c&_nc_zt=24&_nc_ht=scontent-lga3-1.xx&edm=AJdBtusEAAAA&_nc_gid=R0sG5CuH1DdtHRHo_JhNdQ&_nc_tpa=Q5bMBQIUtbRKxXjDs-LlCHEwOFpDWr2dLxXQd2sOVQ0FtGmz_jPXXWKeKhu1MHgWifDNa5H8bytK6TtsUg&oh=00_AQMXVAw4Xlx6t21XVn1smdgNLSzWRwlxGH9AjZLY0_P8xw&oe=6ADDDB6B",
+        "ultima_actualizacion": "2026-10-21T01:50:42.514Z"
       },
       "resumen_kpis": {
         "total_seguidores": 27,
         "seguidores_detalle": "27 seguidores • 3 seguidos",
         "crecimiento_semanal": "+35%",
         "seguidores_nuevos_semana": 7,
-        "personas_hablando": 28,
+        "personas_hablando": 29,
         "alcance_estimado": 486,
-        "interacciones_totales": 0,
+        "interacciones_totales": 1,
         "reacciones_totales": 0,
         "comentarios_totales": 0,
-        "compartidos_totales": 0,
-        "programados_en_servidores_meta": 98,
+        "compartidos_totales": 1,
+        "programados_en_servidores_meta": 97,
         "total_publicaciones_sistema": 120
       },
       "rendimiento_por_horario": [
@@ -1112,6 +1105,17 @@
       ],
       "ultimos_posts_publicados": [
         {
+          "id": "1367888553074849_122096593923507613",
+          "url": "https://www.facebook.com/1367888553074849_122096593923507613",
+          "mensaje": "«¿Tu perro tiene toda la cama disponible pero insiste en dormir pegado a tu espalda o encima de tus pies? Esta es la razón... 🛌🐶❤️\n\nEn est",
+          "fecha": "2026-10-20T23:30:02+0000",
+          "reacciones": 0,
+          "comentarios": 0,
+          "compartidos": 0,
+          "tipo": "post",
+          "estado": "publicado"
+        },
+        {
           "id": "1367888553074849_122096593779507613",
           "url": "https://www.facebook.com/1367888553074849_122096593779507613",
           "mensaje": "«No tenían techo, lujos ni comodidades, pero juntos tenían el tesoro más grande del planeta: lealtad absoluta. 🌧️🐕🫂\n\nMario vive en situac",
@@ -1151,7 +1155,7 @@
           "fecha": "2026-10-19T12:33:34+0000",
           "reacciones": 0,
           "comentarios": 0,
-          "compartidos": 0,
+          "compartidos": 1,
           "tipo": "post",
           "estado": "publicado"
         },
@@ -1369,17 +1373,6 @@
           "url": "https://www.facebook.com/1367888553074849_122100674067507613",
           "mensaje": "La pobreza puede ser una circunstancia, pero la mentalidad de víctima es una prisión. #MentalidadDeAcero #Reels",
           "fecha": "2026-10-13T02:43:48+0000",
-          "reacciones": 0,
-          "comentarios": 0,
-          "compartidos": 0,
-          "tipo": "post",
-          "estado": "publicado"
-        },
-        {
-          "id": "1367888553074849_122096591427507613",
-          "url": "https://www.facebook.com/1367888553074849_122096591427507613",
-          "mensaje": "«¿Alguna vez te has quedado mirando a los ojos a tu perro y has sentido una conexión mágica? No te lo estás imaginando... 🧬👀❤️\n\nCientífico",
-          "fecha": "2026-10-12T23:30:00+0000",
           "reacciones": 0,
           "comentarios": 0,
           "compartidos": 0,
@@ -2066,13 +2059,6 @@
           "mensaje": "«Fueron más de 30 horas atrapado en la oscuridad de un pozo seco sin agua ni alimento... 🚒🕳️🐕\n\nUn campesino escuchó ecos lejanos en un te",
           "fecha_programada": "2026-10-21T13:00:00.000Z",
           "estado": "programado_en_meta"
-        },
-        {
-          "id": "1367888553074849_122096593923507613",
-          "url": "https://www.facebook.com/1367888553074849_122096593923507613",
-          "mensaje": "«¿Tu perro tiene toda la cama disponible pero insiste en dormir pegado a tu espalda o encima de tus pies? Esta es la razón... 🛌🐶❤️\n\nEn est",
-          "fecha_programada": "2026-10-20T23:30:00.000Z",
-          "estado": "programado_en_meta"
         }
       ],
       "instagram": {
@@ -2081,7 +2067,7 @@
         "name": "Huellas con propósito",
         "followers": 1,
         "media_count": 14,
-        "picture": "https://scontent-sjc6-1.xx.fbcdn.net/v/t51.82787-15/846964896_18127515184894503_9206256640984781246_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=7d201b&_nc_ohc=kqD9lq_LcrEQ7kNvwHVLglA&_nc_oc=Ado7ENnLfZaaEojiqeOdBEzxurvglVvd9EogA08I-bO2TrQkhTg-rlMkWmHTHMCgY5s&_nc_zt=23&_nc_ht=scontent-sjc6-1.xx&edm=AL-3X8kEAAAA&_nc_gid=4XEWFA_J8brDpbXMx3u5SA&oh=00_AQPoovnj1yNcehj_4A2QmQHn5WPWB2ll5Mn4HuesEaQZUQ&oe=6ADDAE2E"
+        "picture": "https://scontent-lga3-3.xx.fbcdn.net/v/t51.82787-15/846964896_18127515184894503_9206256640984781246_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=7d201b&_nc_ohc=kqD9lq_LcrEQ7kNvwF86n1G&_nc_oc=AdqMPBTLBptlJ4WgRJ7JaV7o0ET1zxGMHjH6PbVLUjmCIbH63V7dIGq8dKBbbrsZcuE&_nc_zt=23&_nc_ht=scontent-lga3-3.xx&edm=AL-3X8kEAAAA&_nc_gid=hryOp1cRyRLP6NarCp4Wag&oh=00_AQNbuseD00NNVXium1scfnvjieneGfbEdXjhjw7WS5X6Hw&oe=6ADDE66E"
       }
     },
     "1375923958937880": {
@@ -2093,7 +2079,7 @@
         "seguidos": 0,
         "personas_hablando": 0,
         "foto_perfil": "",
-        "ultima_actualizacion": "2026-10-20T23:18:34.089Z"
+        "ultima_actualizacion": "2026-10-21T01:50:42.675Z"
       },
       "resumen_kpis": {
         "total_seguidores": 7,
