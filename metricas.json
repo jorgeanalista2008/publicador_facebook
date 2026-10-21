@@ -6,8 +6,8 @@
     "seguidores": 27,
     "seguidos": 3,
     "personas_hablando": 22,
-    "foto_perfil": "https://scontent-atl3-1.xx.fbcdn.net/v/t39.30808-1/825286629_28604489712564817_7866327839881392565_n.jpg?stp=dst-jpg_s200x200_tt6&_nc_cat=110&ccb=1-7&_nc_sid=f907e8&_nc_ohc=YleoKG-tq-AQ7kNvwHqUKTl&_nc_oc=Adp8SJ1zE7mkSJCuatt0mpoz9FciVfksWgo2CiA2r5DWK_xUpZ9AXTY6CJ4xcJHHB8s&_nc_zt=24&_nc_ht=scontent-atl3-1.xx&edm=AJdBtusEAAAA&_nc_gid=bbhRh0Zos-7Dvg4cq4lGhA&_nc_tpa=Q5bMBQIBRiF5-EMCKfq8q8E5tGyzbvVFJGbkYsAtsB3vkyWnsqQ9CpbroLOj17-7nXYAwcrVyPmJqo54kA&oh=00_AQPP7Ks2NVySXXW_49triRfoY_RvIfS69DDSU_KhQ8FK6A&oe=6ADEBC6B",
-    "ultima_actualizacion": "2026-10-21T17:32:16.339Z"
+    "foto_perfil": "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.30808-1/825286629_28604489712564817_7866327839881392565_n.jpg?stp=dst-jpg_s200x200_tt6&_nc_cat=110&ccb=1-7&_nc_sid=f907e8&_nc_ohc=YleoKG-tq-AQ7kNvwHGaamn&_nc_oc=AdqkaGxgmctOUzReP4bXxdBhKoR7Qr5oSJ7PR5DxEBuSBb4_s23B455lfmafcU1XHng&_nc_zt=24&_nc_ht=scontent-sjc3-1.xx&edm=AJdBtusEAAAA&_nc_gid=1Kx7jVGvKxF236QpCxzfew&_nc_tpa=Q5bMBQL1LaHkNUC8fKtfw7UKoKQ36rPo1C_SL26FNt-Ly-EuLxSyeFRbrF8cEW0Bt3ypmGy2DhARvFRcJA&oh=00_AQO_qdNiB1aG7zrgnihdPxolr_KuvZzWnXTeOp4oQn1vgg&oe=6ADF2CEB",
+    "ultima_actualizacion": "2026-10-21T23:32:09.522Z"
   },
   "resumen_kpis": {
     "total_seguidores": 27,
@@ -68,6 +68,17 @@
     }
   ],
   "ultimos_posts_publicados": [
+    {
+      "id": "1367888553074849_122096594139507613",
+      "url": "https://www.facebook.com/1367888553074849_122096594139507613",
+      "mensaje": "«El único defecto que tienen los perros es que sus vidas son demasiado cortas... ⏳🐾\n\nEllos viven en promedio entre 12 y 15 años. Para ti, e",
+      "fecha": "2026-10-21T23:30:00+0000",
+      "reacciones": 0,
+      "comentarios": 0,
+      "compartidos": 0,
+      "tipo": "post",
+      "estado": "publicado"
+    },
     {
       "id": "1367888553074849_122096594037507613",
       "url": "https://www.facebook.com/1367888553074849_122096594037507613",
@@ -331,20 +342,16 @@
       "compartidos": 0,
       "tipo": "post",
       "estado": "publicado"
-    },
-    {
-      "id": "1367888553074849_122100675033507613",
-      "url": "https://www.facebook.com/1367888553074849_122100675033507613",
-      "mensaje": "¡Despierta! Mañana es el día favorito del que nunca logra nada. El procrastinador es un cobarde que vive negociando con su propia mediocrida",
-      "fecha": "2026-10-13T02:45:27+0000",
-      "reacciones": 0,
-      "comentarios": 0,
-      "compartidos": 0,
-      "tipo": "post",
-      "estado": "publicado"
     }
   ],
   "proximos_programados_meta": [
+    {
+      "id": "1367888553074849_122108644893507613",
+      "url": "https://www.facebook.com/1367888553074849_122108644893507613",
+      "mensaje": "Doña Beatriz subió a tender ropa y escuchó un llanto seco en la azotea de enfrente. La casa llevaba dos semanas deshabitada con el letrero d",
+      "fecha_programada": "2026-11-18T20:30:00.000Z",
+      "estado": "programado_en_meta"
+    },
     {
       "id": "1367888553074849_122108515755507613",
       "url": "https://www.facebook.com/1367888553074849_122108515755507613",
@@ -1030,13 +1037,6 @@
       "mensaje": "«Este no es un perro común; es Toby, el terapeuta que trabaja en la sala de oncología infantil. 🏥🧸🐶\n\nLos niños que esperan sus tratamient",
       "fecha_programada": "2026-10-22T13:00:00.000Z",
       "estado": "programado_en_meta"
-    },
-    {
-      "id": "1367888553074849_122096594139507613",
-      "url": "https://www.facebook.com/1367888553074849_122096594139507613",
-      "mensaje": "«El único defecto que tienen los perros es que sus vidas son demasiado cortas... ⏳🐾\n\nEllos viven en promedio entre 12 y 15 años. Para ti, e",
-      "fecha_programada": "2026-10-21T23:30:00.000Z",
-      "estado": "programado_en_meta"
     }
   ],
   "instagram": {
@@ -1045,7 +1045,7 @@
     "name": "Huellas con propósito",
     "followers": 1,
     "media_count": 14,
-    "picture": "https://scontent-atl3-2.xx.fbcdn.net/v/t51.82787-15/846964896_18127515184894503_9206256640984781246_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=7d201b&_nc_ohc=aXi3aBHPnb0Q7kNvwGcfGsx&_nc_oc=Adq8x9ATECIQpj73EUVjfY8br2NKB_vPAQH-JlmWhQNUA6InwA7QEbKd6Y1gAJShthE&_nc_zt=23&_nc_ht=scontent-atl3-2.xx&edm=AL-3X8kEAAAA&_nc_gid=TuxCmASO-DzyMguJhQNEpw&oh=00_AQPA_LFrOGyB0NG34KRO_r-g1oC_mAm31WKdYIs4Z1i-Xg&oe=6ADEC76E"
+    "picture": "https://scontent-sjc6-1.xx.fbcdn.net/v/t51.82787-15/846964896_18127515184894503_9206256640984781246_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=7d201b&_nc_ohc=aXi3aBHPnb0Q7kNvwF4GxAX&_nc_oc=AdodGRE9sTPIIuKA182y31WccMiBhHXY2Ee2O5QIskeDXLqDeDQHwNIqa7GK9MfSoKw&_nc_zt=23&_nc_ht=scontent-sjc6-1.xx&edm=AL-3X8kEAAAA&_nc_gid=d9hFSp7ZAvnzmOJfILLM3g&oh=00_AQNk4U792pcU9N53V3VMe0lnu5pkMfcy3s-coda31BCauQ&oe=6ADF37EE"
   },
   "paginas": {
     "1367888553074849": {
@@ -1056,8 +1056,8 @@
         "seguidores": 27,
         "seguidos": 3,
         "personas_hablando": 22,
-        "foto_perfil": "https://scontent-atl3-1.xx.fbcdn.net/v/t39.30808-1/825286629_28604489712564817_7866327839881392565_n.jpg?stp=dst-jpg_s200x200_tt6&_nc_cat=110&ccb=1-7&_nc_sid=f907e8&_nc_ohc=YleoKG-tq-AQ7kNvwHqUKTl&_nc_oc=Adp8SJ1zE7mkSJCuatt0mpoz9FciVfksWgo2CiA2r5DWK_xUpZ9AXTY6CJ4xcJHHB8s&_nc_zt=24&_nc_ht=scontent-atl3-1.xx&edm=AJdBtusEAAAA&_nc_gid=bbhRh0Zos-7Dvg4cq4lGhA&_nc_tpa=Q5bMBQIBRiF5-EMCKfq8q8E5tGyzbvVFJGbkYsAtsB3vkyWnsqQ9CpbroLOj17-7nXYAwcrVyPmJqo54kA&oh=00_AQPP7Ks2NVySXXW_49triRfoY_RvIfS69DDSU_KhQ8FK6A&oe=6ADEBC6B",
-        "ultima_actualizacion": "2026-10-21T17:32:16.339Z"
+        "foto_perfil": "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.30808-1/825286629_28604489712564817_7866327839881392565_n.jpg?stp=dst-jpg_s200x200_tt6&_nc_cat=110&ccb=1-7&_nc_sid=f907e8&_nc_ohc=YleoKG-tq-AQ7kNvwHGaamn&_nc_oc=AdqkaGxgmctOUzReP4bXxdBhKoR7Qr5oSJ7PR5DxEBuSBb4_s23B455lfmafcU1XHng&_nc_zt=24&_nc_ht=scontent-sjc3-1.xx&edm=AJdBtusEAAAA&_nc_gid=1Kx7jVGvKxF236QpCxzfew&_nc_tpa=Q5bMBQL1LaHkNUC8fKtfw7UKoKQ36rPo1C_SL26FNt-Ly-EuLxSyeFRbrF8cEW0Bt3ypmGy2DhARvFRcJA&oh=00_AQO_qdNiB1aG7zrgnihdPxolr_KuvZzWnXTeOp4oQn1vgg&oe=6ADF2CEB",
+        "ultima_actualizacion": "2026-10-21T23:32:09.522Z"
       },
       "resumen_kpis": {
         "total_seguidores": 27,
@@ -1118,6 +1118,17 @@
         }
       ],
       "ultimos_posts_publicados": [
+        {
+          "id": "1367888553074849_122096594139507613",
+          "url": "https://www.facebook.com/1367888553074849_122096594139507613",
+          "mensaje": "«El único defecto que tienen los perros es que sus vidas son demasiado cortas... ⏳🐾\n\nEllos viven en promedio entre 12 y 15 años. Para ti, e",
+          "fecha": "2026-10-21T23:30:00+0000",
+          "reacciones": 0,
+          "comentarios": 0,
+          "compartidos": 0,
+          "tipo": "post",
+          "estado": "publicado"
+        },
         {
           "id": "1367888553074849_122096594037507613",
           "url": "https://www.facebook.com/1367888553074849_122096594037507613",
@@ -1381,20 +1392,16 @@
           "compartidos": 0,
           "tipo": "post",
           "estado": "publicado"
-        },
-        {
-          "id": "1367888553074849_122100675033507613",
-          "url": "https://www.facebook.com/1367888553074849_122100675033507613",
-          "mensaje": "¡Despierta! Mañana es el día favorito del que nunca logra nada. El procrastinador es un cobarde que vive negociando con su propia mediocrida",
-          "fecha": "2026-10-13T02:45:27+0000",
-          "reacciones": 0,
-          "comentarios": 0,
-          "compartidos": 0,
-          "tipo": "post",
-          "estado": "publicado"
         }
       ],
       "proximos_programados_meta": [
+        {
+          "id": "1367888553074849_122108644893507613",
+          "url": "https://www.facebook.com/1367888553074849_122108644893507613",
+          "mensaje": "Doña Beatriz subió a tender ropa y escuchó un llanto seco en la azotea de enfrente. La casa llevaba dos semanas deshabitada con el letrero d",
+          "fecha_programada": "2026-11-18T20:30:00.000Z",
+          "estado": "programado_en_meta"
+        },
         {
           "id": "1367888553074849_122108515755507613",
           "url": "https://www.facebook.com/1367888553074849_122108515755507613",
@@ -2080,13 +2087,6 @@
           "mensaje": "«Este no es un perro común; es Toby, el terapeuta que trabaja en la sala de oncología infantil. 🏥🧸🐶\n\nLos niños que esperan sus tratamient",
           "fecha_programada": "2026-10-22T13:00:00.000Z",
           "estado": "programado_en_meta"
-        },
-        {
-          "id": "1367888553074849_122096594139507613",
-          "url": "https://www.facebook.com/1367888553074849_122096594139507613",
-          "mensaje": "«El único defecto que tienen los perros es que sus vidas son demasiado cortas... ⏳🐾\n\nEllos viven en promedio entre 12 y 15 años. Para ti, e",
-          "fecha_programada": "2026-10-21T23:30:00.000Z",
-          "estado": "programado_en_meta"
         }
       ],
       "instagram": {
@@ -2095,7 +2095,7 @@
         "name": "Huellas con propósito",
         "followers": 1,
         "media_count": 14,
-        "picture": "https://scontent-atl3-2.xx.fbcdn.net/v/t51.82787-15/846964896_18127515184894503_9206256640984781246_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=7d201b&_nc_ohc=aXi3aBHPnb0Q7kNvwGcfGsx&_nc_oc=Adq8x9ATECIQpj73EUVjfY8br2NKB_vPAQH-JlmWhQNUA6InwA7QEbKd6Y1gAJShthE&_nc_zt=23&_nc_ht=scontent-atl3-2.xx&edm=AL-3X8kEAAAA&_nc_gid=TuxCmASO-DzyMguJhQNEpw&oh=00_AQPA_LFrOGyB0NG34KRO_r-g1oC_mAm31WKdYIs4Z1i-Xg&oe=6ADEC76E"
+        "picture": "https://scontent-sjc6-1.xx.fbcdn.net/v/t51.82787-15/846964896_18127515184894503_9206256640984781246_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=7d201b&_nc_ohc=aXi3aBHPnb0Q7kNvwF4GxAX&_nc_oc=AdodGRE9sTPIIuKA182y31WccMiBhHXY2Ee2O5QIskeDXLqDeDQHwNIqa7GK9MfSoKw&_nc_zt=23&_nc_ht=scontent-sjc6-1.xx&edm=AL-3X8kEAAAA&_nc_gid=d9hFSp7ZAvnzmOJfILLM3g&oh=00_AQNk4U792pcU9N53V3VMe0lnu5pkMfcy3s-coda31BCauQ&oe=6ADF37EE"
       }
     },
     "1375923958937880": {
@@ -2107,7 +2107,7 @@
         "seguidos": 0,
         "personas_hablando": 0,
         "foto_perfil": "",
-        "ultima_actualizacion": "2026-10-21T17:32:16.452Z"
+        "ultima_actualizacion": "2026-10-21T23:32:09.653Z"
       },
       "resumen_kpis": {
         "total_seguidores": 7,
@@ -2120,7 +2120,7 @@
         "reacciones_totales": 3,
         "comentarios_totales": 0,
         "compartidos_totales": 1,
-        "programados_en_servidores_meta": 20,
+        "programados_en_servidores_meta": 19,
         "total_publicaciones_sistema": 52
       },
       "rendimiento_por_horario": [
@@ -2299,16 +2299,20 @@
           "compartidos": 0,
           "tipo": "post",
           "estado": "publicado"
-        }
-      ],
-      "proximos_programados_meta": [
+        },
         {
           "id": "122095715325512707",
           "url": "https://www.facebook.com/122095715325512707",
-          "mensaje": "⏰ [Programado 2026-10-21 19:00] Mentalidad Errónea: EL DEPENDIENTE DEL ÁNIMO vs Mentalidad de Acero",
-          "fecha_programada": "2026-10-21T19:00:00Z",
-          "estado": "programado_en_meta"
-        },
+          "mensaje": "Mentalidad Errónea: EL DEPENDIENTE DEL ÁNIMO vs Mentalidad de Acero: \"SI SOLO ENTRENAS CUANDO TIENES GANAS, TU VIDA SERÁ TAN INESTABLE COMO TUS EMOCIONES.\"  El éxito es para los que asumen ...",
+          "fecha": "2026-10-21T19:00:00.000Z",
+          "reacciones": 0,
+          "comentarios": 0,
+          "compartidos": 0,
+          "tipo": "post",
+          "estado": "publicado"
+        }
+      ],
+      "proximos_programados_meta": [
         {
           "id": "122095715391512707",
           "url": "https://www.facebook.com/122095715391512707",
