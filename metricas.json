@@ -5,22 +5,22 @@
     "categoria": "Animals & Pets",
     "seguidores": 27,
     "seguidos": 3,
-    "personas_hablando": 29,
-    "foto_perfil": "https://scontent-lga3-1.xx.fbcdn.net/v/t39.30808-1/825286629_28604489712564817_7866327839881392565_n.jpg?stp=dst-jpg_s200x200_tt6&_nc_cat=110&ccb=1-7&_nc_sid=f907e8&_nc_ohc=TyeAfEyxjaQQ7kNvwGTOd7U&_nc_oc=AdqQWTyKO8y7at6D40hFtJ7ZuW6ybPzQ1771uEm8qMQx2t_QZevvUSryFWQ_onJWY3c&_nc_zt=24&_nc_ht=scontent-lga3-1.xx&edm=AJdBtusEAAAA&_nc_gid=R0sG5CuH1DdtHRHo_JhNdQ&_nc_tpa=Q5bMBQIUtbRKxXjDs-LlCHEwOFpDWr2dLxXQd2sOVQ0FtGmz_jPXXWKeKhu1MHgWifDNa5H8bytK6TtsUg&oh=00_AQMXVAw4Xlx6t21XVn1smdgNLSzWRwlxGH9AjZLY0_P8xw&oe=6ADDDB6B",
-    "ultima_actualizacion": "2026-10-21T01:50:42.514Z"
+    "personas_hablando": 22,
+    "foto_perfil": "https://scontent-atl3-1.xx.fbcdn.net/v/t39.30808-1/825286629_28604489712564817_7866327839881392565_n.jpg?stp=dst-jpg_s200x200_tt6&_nc_cat=110&ccb=1-7&_nc_sid=f907e8&_nc_ohc=YleoKG-tq-AQ7kNvwHqUKTl&_nc_oc=Adp8SJ1zE7mkSJCuatt0mpoz9FciVfksWgo2CiA2r5DWK_xUpZ9AXTY6CJ4xcJHHB8s&_nc_zt=24&_nc_ht=scontent-atl3-1.xx&edm=AJdBtusEAAAA&_nc_gid=bbhRh0Zos-7Dvg4cq4lGhA&_nc_tpa=Q5bMBQIBRiF5-EMCKfq8q8E5tGyzbvVFJGbkYsAtsB3vkyWnsqQ9CpbroLOj17-7nXYAwcrVyPmJqo54kA&oh=00_AQPP7Ks2NVySXXW_49triRfoY_RvIfS69DDSU_KhQ8FK6A&oe=6ADEBC6B",
+    "ultima_actualizacion": "2026-10-21T17:32:16.339Z"
   },
   "resumen_kpis": {
     "total_seguidores": 27,
     "seguidores_detalle": "27 seguidores • 3 seguidos",
     "crecimiento_semanal": "+35%",
     "seguidores_nuevos_semana": 7,
-    "personas_hablando": 29,
+    "personas_hablando": 22,
     "alcance_estimado": 486,
-    "interacciones_totales": 1,
+    "interacciones_totales": 0,
     "reacciones_totales": 0,
     "comentarios_totales": 0,
-    "compartidos_totales": 1,
-    "programados_en_servidores_meta": 97,
+    "compartidos_totales": 0,
+    "programados_en_servidores_meta": 99,
     "total_publicaciones_sistema": 120
   },
   "rendimiento_por_horario": [
@@ -68,6 +68,17 @@
     }
   ],
   "ultimos_posts_publicados": [
+    {
+      "id": "1367888553074849_122096594037507613",
+      "url": "https://www.facebook.com/1367888553074849_122096594037507613",
+      "mensaje": "«Fueron más de 30 horas atrapado en la oscuridad de un pozo seco sin agua ni alimento... 🚒🕳️🐕\n\nUn campesino escuchó ecos lejanos en un te",
+      "fecha": "2026-10-21T13:00:04+0000",
+      "reacciones": 0,
+      "comentarios": 0,
+      "compartidos": 0,
+      "tipo": "post",
+      "estado": "publicado"
+    },
     {
       "id": "1367888553074849_122096593923507613",
       "url": "https://www.facebook.com/1367888553074849_122096593923507613",
@@ -119,7 +130,7 @@
       "fecha": "2026-10-19T12:33:34+0000",
       "reacciones": 0,
       "comentarios": 0,
-      "compartidos": 1,
+      "compartidos": 0,
       "tipo": "post",
       "estado": "publicado"
     },
@@ -331,20 +342,30 @@
       "compartidos": 0,
       "tipo": "post",
       "estado": "publicado"
-    },
-    {
-      "id": "1367888553074849_122100674067507613",
-      "url": "https://www.facebook.com/1367888553074849_122100674067507613",
-      "mensaje": "La pobreza puede ser una circunstancia, pero la mentalidad de víctima es una prisión. #MentalidadDeAcero #Reels",
-      "fecha": "2026-10-13T02:43:48+0000",
-      "reacciones": 0,
-      "comentarios": 0,
-      "compartidos": 0,
-      "tipo": "post",
-      "estado": "publicado"
     }
   ],
   "proximos_programados_meta": [
+    {
+      "id": "1367888553074849_122108515755507613",
+      "url": "https://www.facebook.com/1367888553074849_122108515755507613",
+      "mensaje": "«Tienes poder sobre tu mente, no sobre los acontecimientos. Date cuenta de esto y encontrarás la fuerza». — Marco Aurelio 🏛️⚔️\n\nHoy te vas ",
+      "fecha_programada": "2026-11-18T17:30:00.000Z",
+      "estado": "programado_en_meta"
+    },
+    {
+      "id": "1367888553074849_122108515683507613",
+      "url": "https://www.facebook.com/1367888553074849_122108515683507613",
+      "mensaje": "Don Marcos llamó al nuevo dueño del taller mecánico que acababa de quebrar. Una voz apresurada le contestó que se estaban llevando la maquin",
+      "fecha_programada": "2026-11-18T12:30:00.000Z",
+      "estado": "programado_en_meta"
+    },
+    {
+      "id": "1367888553074849_122108515557507613",
+      "url": "https://www.facebook.com/1367888553074849_122108515557507613",
+      "mensaje": "«No tenemos poco tiempo, sino que perdemos mucho». — Séneca (Sobre la brevedad de la vida) ⏳🏛️\n\nNos quejamos constantemente de que la vida ",
+      "fecha_programada": "2026-11-18T08:00:00.000Z",
+      "estado": "programado_en_meta"
+    },
     {
       "id": "1367888553074849_122108065707507613",
       "url": "https://www.facebook.com/1367888553074849_122108065707507613",
@@ -1016,13 +1037,6 @@
       "mensaje": "«El único defecto que tienen los perros es que sus vidas son demasiado cortas... ⏳🐾\n\nEllos viven en promedio entre 12 y 15 años. Para ti, e",
       "fecha_programada": "2026-10-21T23:30:00.000Z",
       "estado": "programado_en_meta"
-    },
-    {
-      "id": "1367888553074849_122096594037507613",
-      "url": "https://www.facebook.com/1367888553074849_122096594037507613",
-      "mensaje": "«Fueron más de 30 horas atrapado en la oscuridad de un pozo seco sin agua ni alimento... 🚒🕳️🐕\n\nUn campesino escuchó ecos lejanos en un te",
-      "fecha_programada": "2026-10-21T13:00:00.000Z",
-      "estado": "programado_en_meta"
     }
   ],
   "instagram": {
@@ -1031,7 +1045,7 @@
     "name": "Huellas con propósito",
     "followers": 1,
     "media_count": 14,
-    "picture": "https://scontent-lga3-3.xx.fbcdn.net/v/t51.82787-15/846964896_18127515184894503_9206256640984781246_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=7d201b&_nc_ohc=kqD9lq_LcrEQ7kNvwF86n1G&_nc_oc=AdqMPBTLBptlJ4WgRJ7JaV7o0ET1zxGMHjH6PbVLUjmCIbH63V7dIGq8dKBbbrsZcuE&_nc_zt=23&_nc_ht=scontent-lga3-3.xx&edm=AL-3X8kEAAAA&_nc_gid=hryOp1cRyRLP6NarCp4Wag&oh=00_AQNbuseD00NNVXium1scfnvjieneGfbEdXjhjw7WS5X6Hw&oe=6ADDE66E"
+    "picture": "https://scontent-atl3-2.xx.fbcdn.net/v/t51.82787-15/846964896_18127515184894503_9206256640984781246_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=7d201b&_nc_ohc=aXi3aBHPnb0Q7kNvwGcfGsx&_nc_oc=Adq8x9ATECIQpj73EUVjfY8br2NKB_vPAQH-JlmWhQNUA6InwA7QEbKd6Y1gAJShthE&_nc_zt=23&_nc_ht=scontent-atl3-2.xx&edm=AL-3X8kEAAAA&_nc_gid=TuxCmASO-DzyMguJhQNEpw&oh=00_AQPA_LFrOGyB0NG34KRO_r-g1oC_mAm31WKdYIs4Z1i-Xg&oe=6ADEC76E"
   },
   "paginas": {
     "1367888553074849": {
@@ -1041,22 +1055,22 @@
         "categoria": "Animals & Pets",
         "seguidores": 27,
         "seguidos": 3,
-        "personas_hablando": 29,
-        "foto_perfil": "https://scontent-lga3-1.xx.fbcdn.net/v/t39.30808-1/825286629_28604489712564817_7866327839881392565_n.jpg?stp=dst-jpg_s200x200_tt6&_nc_cat=110&ccb=1-7&_nc_sid=f907e8&_nc_ohc=TyeAfEyxjaQQ7kNvwGTOd7U&_nc_oc=AdqQWTyKO8y7at6D40hFtJ7ZuW6ybPzQ1771uEm8qMQx2t_QZevvUSryFWQ_onJWY3c&_nc_zt=24&_nc_ht=scontent-lga3-1.xx&edm=AJdBtusEAAAA&_nc_gid=R0sG5CuH1DdtHRHo_JhNdQ&_nc_tpa=Q5bMBQIUtbRKxXjDs-LlCHEwOFpDWr2dLxXQd2sOVQ0FtGmz_jPXXWKeKhu1MHgWifDNa5H8bytK6TtsUg&oh=00_AQMXVAw4Xlx6t21XVn1smdgNLSzWRwlxGH9AjZLY0_P8xw&oe=6ADDDB6B",
-        "ultima_actualizacion": "2026-10-21T01:50:42.514Z"
+        "personas_hablando": 22,
+        "foto_perfil": "https://scontent-atl3-1.xx.fbcdn.net/v/t39.30808-1/825286629_28604489712564817_7866327839881392565_n.jpg?stp=dst-jpg_s200x200_tt6&_nc_cat=110&ccb=1-7&_nc_sid=f907e8&_nc_ohc=YleoKG-tq-AQ7kNvwHqUKTl&_nc_oc=Adp8SJ1zE7mkSJCuatt0mpoz9FciVfksWgo2CiA2r5DWK_xUpZ9AXTY6CJ4xcJHHB8s&_nc_zt=24&_nc_ht=scontent-atl3-1.xx&edm=AJdBtusEAAAA&_nc_gid=bbhRh0Zos-7Dvg4cq4lGhA&_nc_tpa=Q5bMBQIBRiF5-EMCKfq8q8E5tGyzbvVFJGbkYsAtsB3vkyWnsqQ9CpbroLOj17-7nXYAwcrVyPmJqo54kA&oh=00_AQPP7Ks2NVySXXW_49triRfoY_RvIfS69DDSU_KhQ8FK6A&oe=6ADEBC6B",
+        "ultima_actualizacion": "2026-10-21T17:32:16.339Z"
       },
       "resumen_kpis": {
         "total_seguidores": 27,
         "seguidores_detalle": "27 seguidores • 3 seguidos",
         "crecimiento_semanal": "+35%",
         "seguidores_nuevos_semana": 7,
-        "personas_hablando": 29,
+        "personas_hablando": 22,
         "alcance_estimado": 486,
-        "interacciones_totales": 1,
+        "interacciones_totales": 0,
         "reacciones_totales": 0,
         "comentarios_totales": 0,
-        "compartidos_totales": 1,
-        "programados_en_servidores_meta": 97,
+        "compartidos_totales": 0,
+        "programados_en_servidores_meta": 99,
         "total_publicaciones_sistema": 120
       },
       "rendimiento_por_horario": [
@@ -1104,6 +1118,17 @@
         }
       ],
       "ultimos_posts_publicados": [
+        {
+          "id": "1367888553074849_122096594037507613",
+          "url": "https://www.facebook.com/1367888553074849_122096594037507613",
+          "mensaje": "«Fueron más de 30 horas atrapado en la oscuridad de un pozo seco sin agua ni alimento... 🚒🕳️🐕\n\nUn campesino escuchó ecos lejanos en un te",
+          "fecha": "2026-10-21T13:00:04+0000",
+          "reacciones": 0,
+          "comentarios": 0,
+          "compartidos": 0,
+          "tipo": "post",
+          "estado": "publicado"
+        },
         {
           "id": "1367888553074849_122096593923507613",
           "url": "https://www.facebook.com/1367888553074849_122096593923507613",
@@ -1155,7 +1180,7 @@
           "fecha": "2026-10-19T12:33:34+0000",
           "reacciones": 0,
           "comentarios": 0,
-          "compartidos": 1,
+          "compartidos": 0,
           "tipo": "post",
           "estado": "publicado"
         },
@@ -1367,20 +1392,30 @@
           "compartidos": 0,
           "tipo": "post",
           "estado": "publicado"
-        },
-        {
-          "id": "1367888553074849_122100674067507613",
-          "url": "https://www.facebook.com/1367888553074849_122100674067507613",
-          "mensaje": "La pobreza puede ser una circunstancia, pero la mentalidad de víctima es una prisión. #MentalidadDeAcero #Reels",
-          "fecha": "2026-10-13T02:43:48+0000",
-          "reacciones": 0,
-          "comentarios": 0,
-          "compartidos": 0,
-          "tipo": "post",
-          "estado": "publicado"
         }
       ],
       "proximos_programados_meta": [
+        {
+          "id": "1367888553074849_122108515755507613",
+          "url": "https://www.facebook.com/1367888553074849_122108515755507613",
+          "mensaje": "«Tienes poder sobre tu mente, no sobre los acontecimientos. Date cuenta de esto y encontrarás la fuerza». — Marco Aurelio 🏛️⚔️\n\nHoy te vas ",
+          "fecha_programada": "2026-11-18T17:30:00.000Z",
+          "estado": "programado_en_meta"
+        },
+        {
+          "id": "1367888553074849_122108515683507613",
+          "url": "https://www.facebook.com/1367888553074849_122108515683507613",
+          "mensaje": "Don Marcos llamó al nuevo dueño del taller mecánico que acababa de quebrar. Una voz apresurada le contestó que se estaban llevando la maquin",
+          "fecha_programada": "2026-11-18T12:30:00.000Z",
+          "estado": "programado_en_meta"
+        },
+        {
+          "id": "1367888553074849_122108515557507613",
+          "url": "https://www.facebook.com/1367888553074849_122108515557507613",
+          "mensaje": "«No tenemos poco tiempo, sino que perdemos mucho». — Séneca (Sobre la brevedad de la vida) ⏳🏛️\n\nNos quejamos constantemente de que la vida ",
+          "fecha_programada": "2026-11-18T08:00:00.000Z",
+          "estado": "programado_en_meta"
+        },
         {
           "id": "1367888553074849_122108065707507613",
           "url": "https://www.facebook.com/1367888553074849_122108065707507613",
@@ -2052,13 +2087,6 @@
           "mensaje": "«El único defecto que tienen los perros es que sus vidas son demasiado cortas... ⏳🐾\n\nEllos viven en promedio entre 12 y 15 años. Para ti, e",
           "fecha_programada": "2026-10-21T23:30:00.000Z",
           "estado": "programado_en_meta"
-        },
-        {
-          "id": "1367888553074849_122096594037507613",
-          "url": "https://www.facebook.com/1367888553074849_122096594037507613",
-          "mensaje": "«Fueron más de 30 horas atrapado en la oscuridad de un pozo seco sin agua ni alimento... 🚒🕳️🐕\n\nUn campesino escuchó ecos lejanos en un te",
-          "fecha_programada": "2026-10-21T13:00:00.000Z",
-          "estado": "programado_en_meta"
         }
       ],
       "instagram": {
@@ -2067,7 +2095,7 @@
         "name": "Huellas con propósito",
         "followers": 1,
         "media_count": 14,
-        "picture": "https://scontent-lga3-3.xx.fbcdn.net/v/t51.82787-15/846964896_18127515184894503_9206256640984781246_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=7d201b&_nc_ohc=kqD9lq_LcrEQ7kNvwF86n1G&_nc_oc=AdqMPBTLBptlJ4WgRJ7JaV7o0ET1zxGMHjH6PbVLUjmCIbH63V7dIGq8dKBbbrsZcuE&_nc_zt=23&_nc_ht=scontent-lga3-3.xx&edm=AL-3X8kEAAAA&_nc_gid=hryOp1cRyRLP6NarCp4Wag&oh=00_AQNbuseD00NNVXium1scfnvjieneGfbEdXjhjw7WS5X6Hw&oe=6ADDE66E"
+        "picture": "https://scontent-atl3-2.xx.fbcdn.net/v/t51.82787-15/846964896_18127515184894503_9206256640984781246_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=7d201b&_nc_ohc=aXi3aBHPnb0Q7kNvwGcfGsx&_nc_oc=Adq8x9ATECIQpj73EUVjfY8br2NKB_vPAQH-JlmWhQNUA6InwA7QEbKd6Y1gAJShthE&_nc_zt=23&_nc_ht=scontent-atl3-2.xx&edm=AL-3X8kEAAAA&_nc_gid=TuxCmASO-DzyMguJhQNEpw&oh=00_AQPA_LFrOGyB0NG34KRO_r-g1oC_mAm31WKdYIs4Z1i-Xg&oe=6ADEC76E"
       }
     },
     "1375923958937880": {
@@ -2079,7 +2107,7 @@
         "seguidos": 0,
         "personas_hablando": 0,
         "foto_perfil": "",
-        "ultima_actualizacion": "2026-10-21T01:50:42.675Z"
+        "ultima_actualizacion": "2026-10-21T17:32:16.452Z"
       },
       "resumen_kpis": {
         "total_seguidores": 7,
