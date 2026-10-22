@@ -6,8 +6,8 @@
     "seguidores": 27,
     "seguidos": 3,
     "personas_hablando": 20,
-    "foto_perfil": "https://scontent-dfw6-2.xx.fbcdn.net/v/t39.30808-1/825286629_28604489712564817_7866327839881392565_n.jpg?stp=dst-jpg_s200x200_tt6&_nc_cat=110&ccb=1-7&_nc_sid=f907e8&_nc_ohc=YleoKG-tq-AQ7kNvwF8xsEB&_nc_oc=Adq_DZCptnCFMQYD_H2cwS5urH_WUvOV-yyBuJg5xo2ytgzYuod7lQRn4quGI8qhfL8&_nc_zt=24&_nc_ht=scontent-dfw6-2.xx&edm=AJdBtusEAAAA&_nc_gid=bejkWZBSpczP20BWiGMXdQ&_nc_tpa=Q5bMBQKmm8BgI56r2ShaddXJs6dNbQCXtOCMQBF8DqTwqeHGo83aEhSfPaJPMc7rWmcTU0Tyk-OaZMaYPA&oh=00_AQPfS_yUV1yvK9q1wDZNJ80lGwL1Y6kO0whjEqvqb8JOMw&oe=6AE00DEB",
-    "ultima_actualizacion": "2026-10-22T17:29:37.289Z"
+    "foto_perfil": "https://scontent-iad3-1.xx.fbcdn.net/v/t39.30808-1/825286629_28604489712564817_7866327839881392565_n.jpg?stp=dst-jpg_s200x200_tt6&_nc_cat=110&ccb=1-7&_nc_sid=f907e8&_nc_ohc=YleoKG-tq-AQ7kNvwGPUX6L&_nc_oc=Ado94-gJ848X_0HVh_6X4KKa-wyLSlBgp2tB17hrijApkKmoHVnBSCZ7gEK2FWh9wLg&_nc_zt=24&_nc_ht=scontent-iad3-1.xx&edm=AJdBtusEAAAA&_nc_gid=6g1_O2mhrkBnPGn0QS_qTw&_nc_tpa=Q5bMBQIATPl9u7Sw9J84HGYLfbxChm1nrs4BF8pUlu33RVl1JCiQv-gS90VkkQ92mJrQwyGLm3R131USYQ&oh=00_AQMhsfDrkPeq5FWjukx_myhIRF8m3M8M6qMtKWqEH7Y6gw&oe=6AE07E6B",
+    "ultima_actualizacion": "2026-10-22T23:31:06.965Z"
   },
   "resumen_kpis": {
     "total_seguidores": 27,
@@ -68,6 +68,17 @@
     }
   ],
   "ultimos_posts_publicados": [
+    {
+      "id": "1367888553074849_122096594403507613",
+      "url": "https://www.facebook.com/1367888553074849_122096594403507613",
+      "mensaje": "«Ese gesto de ladear la cabecita cuando le dices: '¿Vamos al parque?' o '¿Quieres comidita?'... ¡es lo más tierno del mundo! 😍🐶 tilt\n\n¿Por",
+      "fecha": "2026-10-22T23:30:00+0000",
+      "reacciones": 0,
+      "comentarios": 0,
+      "compartidos": 0,
+      "tipo": "post",
+      "estado": "publicado"
+    },
     {
       "id": "1367888553074849_122096594319507613",
       "url": "https://www.facebook.com/1367888553074849_122096594319507613",
@@ -331,20 +342,23 @@
       "compartidos": 0,
       "tipo": "post",
       "estado": "publicado"
-    },
-    {
-      "id": "1367888553074849_122096591571507613",
-      "url": "https://www.facebook.com/1367888553074849_122096591571507613",
-      "mensaje": "«300 días viendo personas pasar frente a su jaula sin que nadie se detuviera... hasta hoy. 🎉😭🐾\n\nA Bruno lo rescataron de un basurero con ",
-      "fecha": "2026-10-13T13:01:36+0000",
-      "reacciones": 0,
-      "comentarios": 0,
-      "compartidos": 0,
-      "tipo": "post",
-      "estado": "publicado"
     }
   ],
   "proximos_programados_meta": [
+    {
+      "id": "1367888553074849_122109245817507613",
+      "url": "https://www.facebook.com/1367888553074849_122109245817507613",
+      "mensaje": "La señora Carmela vio salir el camión de mudanza a toda velocidad. Diez minutos después, una cachorrita peluda y blanca salió corriendo del ",
+      "fecha_programada": "2026-11-19T20:30:00.000Z",
+      "estado": "programado_en_meta"
+    },
+    {
+      "id": "1367888553074849_122109245739507613",
+      "url": "https://www.facebook.com/1367888553074849_122109245739507613",
+      "mensaje": "«No nos afecta lo que nos sucede, sino el juicio que nos formamos de lo que nos sucede». — Epicteto 🏛️🛡️\n\nEpicteto nació esclavo, soportó ",
+      "fecha_programada": "2026-11-19T17:30:00.000Z",
+      "estado": "programado_en_meta"
+    },
     {
       "id": "1367888553074849_122109138381507613",
       "url": "https://www.facebook.com/1367888553074849_122109138381507613",
@@ -1030,20 +1044,6 @@
       "mensaje": "«Rocky no dejaba de ladrarle a la rueda del auto de su vecino y no lo dejaba arrancar... 🚗🛑🐕\n\nEl vecino estaba apurado para ir al trabajo",
       "fecha_programada": "2026-10-23T23:30:00.000Z",
       "estado": "programado_en_meta"
-    },
-    {
-      "id": "1367888553074849_122096594499507613",
-      "url": "https://www.facebook.com/1367888553074849_122096594499507613",
-      "mensaje": "«Los voluntarios le prepararon una fiesta con globos, pastel de hígado y un cartel de 'Adóptame'... pero nadie llegó. 🎈🥺🐾\n\nLa foto de Che",
-      "fecha_programada": "2026-10-23T13:00:00.000Z",
-      "estado": "programado_en_meta"
-    },
-    {
-      "id": "1367888553074849_122096594403507613",
-      "url": "https://www.facebook.com/1367888553074849_122096594403507613",
-      "mensaje": "«Ese gesto de ladear la cabecita cuando le dices: '¿Vamos al parque?' o '¿Quieres comidita?'... ¡es lo más tierno del mundo! 😍🐶 tilt\n\n¿Por",
-      "fecha_programada": "2026-10-22T23:30:00.000Z",
-      "estado": "programado_en_meta"
     }
   ],
   "instagram": {
@@ -1052,7 +1052,7 @@
     "name": "Huellas con propósito",
     "followers": 1,
     "media_count": 14,
-    "picture": "https://scontent-dfw5-2.xx.fbcdn.net/v/t51.82787-15/846964896_18127515184894503_9206256640984781246_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=7d201b&_nc_ohc=aXi3aBHPnb0Q7kNvwEeQ9GZ&_nc_oc=Adp2Z15VvxRPttj3X6BLO-Fxe4ZK7y_fEjHEgtb2UtPq-m5WVwqq19RZXJgP5O2Eh9Q&_nc_zt=23&_nc_ht=scontent-dfw5-2.xx&edm=AL-3X8kEAAAA&_nc_gid=HDdWTAJP7XTljcDVKO1nTA&oh=00_AQOA2L6LwVAf9lbfYXeaJAXnFQfofoG8RYHaKpu0BHXvhg&oe=6AE018EE"
+    "picture": "https://scontent-iad3-1.xx.fbcdn.net/v/t51.82787-15/846964896_18127515184894503_9206256640984781246_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=7d201b&_nc_ohc=aXi3aBHPnb0Q7kNvwEGJjyD&_nc_oc=AdqyjEB2UJAou4v40JZHkZrt1POW9ZcUS0BeQjKf_GiGpAC0byy0DxNfnUZnmkTcxEQ&_nc_zt=23&_nc_ht=scontent-iad3-1.xx&edm=AL-3X8kEAAAA&_nc_gid=8k9Uw6tfI7wwmWn59lhCHg&oh=00_AQM-kcy1AJ5uHpe_CFs6Rv7BVLKVxYhFLF9A_l1yezr3iA&oe=6AE0896E"
   },
   "paginas": {
     "1367888553074849": {
@@ -1063,8 +1063,8 @@
         "seguidores": 27,
         "seguidos": 3,
         "personas_hablando": 20,
-        "foto_perfil": "https://scontent-dfw6-2.xx.fbcdn.net/v/t39.30808-1/825286629_28604489712564817_7866327839881392565_n.jpg?stp=dst-jpg_s200x200_tt6&_nc_cat=110&ccb=1-7&_nc_sid=f907e8&_nc_ohc=YleoKG-tq-AQ7kNvwF8xsEB&_nc_oc=Adq_DZCptnCFMQYD_H2cwS5urH_WUvOV-yyBuJg5xo2ytgzYuod7lQRn4quGI8qhfL8&_nc_zt=24&_nc_ht=scontent-dfw6-2.xx&edm=AJdBtusEAAAA&_nc_gid=bejkWZBSpczP20BWiGMXdQ&_nc_tpa=Q5bMBQKmm8BgI56r2ShaddXJs6dNbQCXtOCMQBF8DqTwqeHGo83aEhSfPaJPMc7rWmcTU0Tyk-OaZMaYPA&oh=00_AQPfS_yUV1yvK9q1wDZNJ80lGwL1Y6kO0whjEqvqb8JOMw&oe=6AE00DEB",
-        "ultima_actualizacion": "2026-10-22T17:29:37.289Z"
+        "foto_perfil": "https://scontent-iad3-1.xx.fbcdn.net/v/t39.30808-1/825286629_28604489712564817_7866327839881392565_n.jpg?stp=dst-jpg_s200x200_tt6&_nc_cat=110&ccb=1-7&_nc_sid=f907e8&_nc_ohc=YleoKG-tq-AQ7kNvwGPUX6L&_nc_oc=Ado94-gJ848X_0HVh_6X4KKa-wyLSlBgp2tB17hrijApkKmoHVnBSCZ7gEK2FWh9wLg&_nc_zt=24&_nc_ht=scontent-iad3-1.xx&edm=AJdBtusEAAAA&_nc_gid=6g1_O2mhrkBnPGn0QS_qTw&_nc_tpa=Q5bMBQIATPl9u7Sw9J84HGYLfbxChm1nrs4BF8pUlu33RVl1JCiQv-gS90VkkQ92mJrQwyGLm3R131USYQ&oh=00_AQMhsfDrkPeq5FWjukx_myhIRF8m3M8M6qMtKWqEH7Y6gw&oe=6AE07E6B",
+        "ultima_actualizacion": "2026-10-22T23:31:06.965Z"
       },
       "resumen_kpis": {
         "total_seguidores": 27,
@@ -1125,6 +1125,17 @@
         }
       ],
       "ultimos_posts_publicados": [
+        {
+          "id": "1367888553074849_122096594403507613",
+          "url": "https://www.facebook.com/1367888553074849_122096594403507613",
+          "mensaje": "«Ese gesto de ladear la cabecita cuando le dices: '¿Vamos al parque?' o '¿Quieres comidita?'... ¡es lo más tierno del mundo! 😍🐶 tilt\n\n¿Por",
+          "fecha": "2026-10-22T23:30:00+0000",
+          "reacciones": 0,
+          "comentarios": 0,
+          "compartidos": 0,
+          "tipo": "post",
+          "estado": "publicado"
+        },
         {
           "id": "1367888553074849_122096594319507613",
           "url": "https://www.facebook.com/1367888553074849_122096594319507613",
@@ -1388,20 +1399,23 @@
           "compartidos": 0,
           "tipo": "post",
           "estado": "publicado"
-        },
-        {
-          "id": "1367888553074849_122096591571507613",
-          "url": "https://www.facebook.com/1367888553074849_122096591571507613",
-          "mensaje": "«300 días viendo personas pasar frente a su jaula sin que nadie se detuviera... hasta hoy. 🎉😭🐾\n\nA Bruno lo rescataron de un basurero con ",
-          "fecha": "2026-10-13T13:01:36+0000",
-          "reacciones": 0,
-          "comentarios": 0,
-          "compartidos": 0,
-          "tipo": "post",
-          "estado": "publicado"
         }
       ],
       "proximos_programados_meta": [
+        {
+          "id": "1367888553074849_122109245817507613",
+          "url": "https://www.facebook.com/1367888553074849_122109245817507613",
+          "mensaje": "La señora Carmela vio salir el camión de mudanza a toda velocidad. Diez minutos después, una cachorrita peluda y blanca salió corriendo del ",
+          "fecha_programada": "2026-11-19T20:30:00.000Z",
+          "estado": "programado_en_meta"
+        },
+        {
+          "id": "1367888553074849_122109245739507613",
+          "url": "https://www.facebook.com/1367888553074849_122109245739507613",
+          "mensaje": "«No nos afecta lo que nos sucede, sino el juicio que nos formamos de lo que nos sucede». — Epicteto 🏛️🛡️\n\nEpicteto nació esclavo, soportó ",
+          "fecha_programada": "2026-11-19T17:30:00.000Z",
+          "estado": "programado_en_meta"
+        },
         {
           "id": "1367888553074849_122109138381507613",
           "url": "https://www.facebook.com/1367888553074849_122109138381507613",
@@ -2087,20 +2101,6 @@
           "mensaje": "«Rocky no dejaba de ladrarle a la rueda del auto de su vecino y no lo dejaba arrancar... 🚗🛑🐕\n\nEl vecino estaba apurado para ir al trabajo",
           "fecha_programada": "2026-10-23T23:30:00.000Z",
           "estado": "programado_en_meta"
-        },
-        {
-          "id": "1367888553074849_122096594499507613",
-          "url": "https://www.facebook.com/1367888553074849_122096594499507613",
-          "mensaje": "«Los voluntarios le prepararon una fiesta con globos, pastel de hígado y un cartel de 'Adóptame'... pero nadie llegó. 🎈🥺🐾\n\nLa foto de Che",
-          "fecha_programada": "2026-10-23T13:00:00.000Z",
-          "estado": "programado_en_meta"
-        },
-        {
-          "id": "1367888553074849_122096594403507613",
-          "url": "https://www.facebook.com/1367888553074849_122096594403507613",
-          "mensaje": "«Ese gesto de ladear la cabecita cuando le dices: '¿Vamos al parque?' o '¿Quieres comidita?'... ¡es lo más tierno del mundo! 😍🐶 tilt\n\n¿Por",
-          "fecha_programada": "2026-10-22T23:30:00.000Z",
-          "estado": "programado_en_meta"
         }
       ],
       "instagram": {
@@ -2109,7 +2109,7 @@
         "name": "Huellas con propósito",
         "followers": 1,
         "media_count": 14,
-        "picture": "https://scontent-dfw5-2.xx.fbcdn.net/v/t51.82787-15/846964896_18127515184894503_9206256640984781246_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=7d201b&_nc_ohc=aXi3aBHPnb0Q7kNvwEeQ9GZ&_nc_oc=Adp2Z15VvxRPttj3X6BLO-Fxe4ZK7y_fEjHEgtb2UtPq-m5WVwqq19RZXJgP5O2Eh9Q&_nc_zt=23&_nc_ht=scontent-dfw5-2.xx&edm=AL-3X8kEAAAA&_nc_gid=HDdWTAJP7XTljcDVKO1nTA&oh=00_AQOA2L6LwVAf9lbfYXeaJAXnFQfofoG8RYHaKpu0BHXvhg&oe=6AE018EE"
+        "picture": "https://scontent-iad3-1.xx.fbcdn.net/v/t51.82787-15/846964896_18127515184894503_9206256640984781246_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=7d201b&_nc_ohc=aXi3aBHPnb0Q7kNvwEGJjyD&_nc_oc=AdqyjEB2UJAou4v40JZHkZrt1POW9ZcUS0BeQjKf_GiGpAC0byy0DxNfnUZnmkTcxEQ&_nc_zt=23&_nc_ht=scontent-iad3-1.xx&edm=AL-3X8kEAAAA&_nc_gid=8k9Uw6tfI7wwmWn59lhCHg&oh=00_AQM-kcy1AJ5uHpe_CFs6Rv7BVLKVxYhFLF9A_l1yezr3iA&oe=6AE0896E"
       }
     },
     "1375923958937880": {
@@ -2121,7 +2121,7 @@
         "seguidos": 0,
         "personas_hablando": 0,
         "foto_perfil": "",
-        "ultima_actualizacion": "2026-10-22T17:29:37.450Z"
+        "ultima_actualizacion": "2026-10-22T23:31:07.250Z"
       },
       "resumen_kpis": {
         "total_seguidores": 7,
@@ -2134,7 +2134,7 @@
         "reacciones_totales": 3,
         "comentarios_totales": 0,
         "compartidos_totales": 1,
-        "programados_en_servidores_meta": 19,
+        "programados_en_servidores_meta": 18,
         "total_publicaciones_sistema": 52
       },
       "rendimiento_por_horario": [
@@ -2324,16 +2324,20 @@
           "compartidos": 0,
           "tipo": "post",
           "estado": "publicado"
-        }
-      ],
-      "proximos_programados_meta": [
+        },
         {
           "id": "122095715391512707",
           "url": "https://www.facebook.com/122095715391512707",
-          "mensaje": "⏰ [Programado 2026-10-22 19:00] Mentalidad Errónea: EL CAZADOR DE VALIDACIÓN vs Mentalidad de Acero",
-          "fecha_programada": "2026-10-22T19:00:00Z",
-          "estado": "programado_en_meta"
-        },
+          "mensaje": "Mentalidad Errónea: EL CAZADOR DE VALIDACIÓN vs Mentalidad de Acero: \"NO CONSTRUYAS TU VIDA PARA LA FOTO, CONSTRUYE TU VIDA PARA TU PAZ MENTAL.\"  ¡DESPIERTA!   Deja de arrastrarte por un pu...",
+          "fecha": "2026-10-22T19:00:00.000Z",
+          "reacciones": 0,
+          "comentarios": 0,
+          "compartidos": 0,
+          "tipo": "post",
+          "estado": "publicado"
+        }
+      ],
+      "proximos_programados_meta": [
         {
           "id": "122095715523512707",
           "url": "https://www.facebook.com/122095715523512707",
