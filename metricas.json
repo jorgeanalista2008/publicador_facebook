@@ -5,16 +5,16 @@
     "categoria": "Animals & Pets",
     "seguidores": 28,
     "seguidos": 3,
-    "personas_hablando": 20,
-    "foto_perfil": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.30808-1/825286629_28604489712564817_7866327839881392565_n.jpg?stp=dst-jpg_s200x200_tt6&_nc_cat=110&ccb=1-7&_nc_sid=f907e8&_nc_ohc=YleoKG-tq-AQ7kNvwFbVWt4&_nc_oc=Adrr0ADAbxKkNtT5hy6NvNSZ1DhJF-qO-Oh4ednK_PWCEcObTgyTYPm3k--m2h27npA&_nc_zt=24&_nc_ht=scontent-ord5-2.xx&edm=AJdBtusEAAAA&_nc_gid=Z3zZfYKPixmP2M9z6qfRvg&_nc_tpa=Q5bMBQKJ1TYpFoyYvp87AFqcDAnd9FzVRfiQP1NA-DsThvGjVfFMbHtx1qRGfYJy2EFjhoc5TXkdxl433g&oh=00_AQPV9P2rhQ1LCdCYXzALWOem2QEnsAzYvDlwoGfBNB7FMg&oe=6AE1CFEB",
-    "ultima_actualizacion": "2026-10-24T01:48:29.172Z"
+    "personas_hablando": 19,
+    "foto_perfil": "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.30808-1/825286629_28604489712564817_7866327839881392565_n.jpg?stp=dst-jpg_s200x200_tt6&_nc_cat=110&ccb=1-7&_nc_sid=f907e8&_nc_ohc=yFV5O-x73UsQ7kNvwF7zjzj&_nc_oc=AdrjsVjsFMFxVzSyZLGs4u1jztml1EhasY-9Y67ahY3DBrfNtSA1Vk7H9ccoe9Jf5lo&_nc_zt=24&_nc_ht=scontent-sjc3-1.xx&edm=AJdBtusEAAAA&_nc_gid=COCzFhpw1oISvG1nZW8_Gw&_nc_tpa=Q5bMBQI6zyYBCdkVn4X0mVeH2pbiBp4wpDvfo59l8MG-K5jOrpbHtUsyf3hXrFGLncA2t1kx28QcKL1SUg&oh=00_AQMp0egqozrFYuerfb2Vlmlkn054Dm0uTYrLDIKat_9gvQ&oe=6AE2B0EB",
+    "ultima_actualizacion": "2026-10-24T16:10:32.488Z"
   },
   "resumen_kpis": {
     "total_seguidores": 28,
     "seguidores_detalle": "28 seguidores • 3 seguidos",
     "crecimiento_semanal": "+35%",
     "seguidores_nuevos_semana": 7,
-    "personas_hablando": 20,
+    "personas_hablando": 19,
     "alcance_estimado": 504,
     "interacciones_totales": 0,
     "reacciones_totales": 0,
@@ -68,6 +68,17 @@
     }
   ],
   "ultimos_posts_publicados": [
+    {
+      "id": "1367888553074849_122096594709507613",
+      "url": "https://www.facebook.com/1367888553074849_122096594709507613",
+      "mensaje": "«Había perdido su casa por una tormenta, pero se negaba a soltar su único tesoro... 🧸⛈️🐾\n\nCuando los rescatistas llegaron a la zona afecta",
+      "fecha": "2026-10-24T13:00:21+0000",
+      "reacciones": 0,
+      "comentarios": 0,
+      "compartidos": 0,
+      "tipo": "post",
+      "estado": "publicado"
+    },
     {
       "id": "1367888553074849_122096594607507613",
       "url": "https://www.facebook.com/1367888553074849_122096594607507613",
@@ -331,20 +342,23 @@
       "compartidos": 0,
       "tipo": "post",
       "estado": "publicado"
-    },
-    {
-      "id": "1367888553074849_122101974693507613",
-      "url": "https://www.facebook.com/1367888553074849_122101974693507613",
-      "mensaje": "#empatia #triste 💔🐶 Su dueño se fue para siempre… Y rueditas se que quedó esperandole junto a su silla de ruedas. 🪽😭\n\nEn la esquina de l",
-      "fecha": "2026-10-14T12:50:22+0000",
-      "reacciones": 0,
-      "comentarios": 0,
-      "compartidos": 0,
-      "tipo": "post",
-      "estado": "publicado"
     }
   ],
   "proximos_programados_meta": [
+    {
+      "id": "1367888553074849_122110207719507613",
+      "url": "https://www.facebook.com/1367888553074849_122110207719507613",
+      "mensaje": "Doña Beatriz subió a tender ropa y escuchó un llanto seco en la azotea de enfrente. La casa llevaba dos semanas deshabitada con el letrero d",
+      "fecha_programada": "2026-11-21T12:30:00.000Z",
+      "estado": "programado_en_meta"
+    },
+    {
+      "id": "1367888553074849_122110207629507613",
+      "url": "https://www.facebook.com/1367888553074849_122110207629507613",
+      "mensaje": "«Tienes poder sobre tu mente, no sobre los acontecimientos. Date cuenta de esto y encontrarás la fuerza». — Marco Aurelio 🏛️⚔️\n\nHoy te vas ",
+      "fecha_programada": "2026-11-21T08:00:00.000Z",
+      "estado": "programado_en_meta"
+    },
     {
       "id": "1367888553074849_122109780975507613",
       "url": "https://www.facebook.com/1367888553074849_122109780975507613",
@@ -1030,20 +1044,6 @@
       "mensaje": "«La crueldad humana a veces no tiene nombre, pero la fidelidad canina no tiene comparación... 🚗💔🐕\n\nLo bajaron del auto en una carretera s",
       "fecha_programada": "2026-10-26T23:30:00.000Z",
       "estado": "programado_en_meta"
-    },
-    {
-      "id": "1367888553074849_122096595015507613",
-      "url": "https://www.facebook.com/1367888553074849_122096595015507613",
-      "mensaje": "«Muchos cruzaban de vereda cuando lo veían venir por culpa de los prejuicios sobre su raza... 🌸🐾🐕\n\nZeus es un pitbull rescatado de 3 años",
-      "fecha_programada": "2026-10-26T13:00:00.000Z",
-      "estado": "programado_en_meta"
-    },
-    {
-      "id": "1367888553074849_122096594961507613",
-      "url": "https://www.facebook.com/1367888553074849_122096594961507613",
-      "mensaje": "«Los perros no entienden todas nuestras palabras, pero son los mayores expertos del planeta en leer nuestra energía y tono de voz... 🗣️❤️🐕",
-      "fecha_programada": "2026-10-25T23:30:00.000Z",
-      "estado": "programado_en_meta"
     }
   ],
   "instagram": {
@@ -1052,7 +1052,7 @@
     "name": "Huellas con propósito",
     "followers": 1,
     "media_count": 14,
-    "picture": "https://scontent-ord5-2.xx.fbcdn.net/v/t51.82787-15/846964896_18127515184894503_9206256640984781246_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=7d201b&_nc_ohc=aXi3aBHPnb0Q7kNvwF0EE8k&_nc_oc=AdqCa2RI0HU4x5jXUo3oK28xgrswAZvSEFl_GlVya2aAz9cD-LGxyDBzK5pR1htnWrM&_nc_zt=23&_nc_ht=scontent-ord5-2.xx&edm=AL-3X8kEAAAA&_nc_gid=AGcXkRx6ixGJniV2PSd9_w&oh=00_AQN8odiNTsgsP5yjf0cXV9KelSqEdwf-MdHmqWjEvh7b6A&oe=6AE1DAEE"
+    "picture": "https://scontent-sjc6-1.xx.fbcdn.net/v/t51.82787-15/846964896_18127515184894503_9206256640984781246_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=7d201b&_nc_ohc=vi2oFQqEDEMQ7kNvwFXlM8C&_nc_oc=AdpK17J_fQQGf1wR3I636ExtKR4hzgxjojnKQ6R9ow_rliNpT4XGN5Jhzp7JaBMLagY&_nc_zt=23&_nc_ht=scontent-sjc6-1.xx&edm=AL-3X8kEAAAA&_nc_gid=avPBCGM-zpYNKS8CJbgLPw&oh=00_AQO1-N4Jus1-zdgiAdC_J2SuhgWnp_8KzTY0z-qUwvdFPg&oe=6AE2BBEE"
   },
   "paginas": {
     "1367888553074849": {
@@ -1062,16 +1062,16 @@
         "categoria": "Animals & Pets",
         "seguidores": 28,
         "seguidos": 3,
-        "personas_hablando": 20,
-        "foto_perfil": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.30808-1/825286629_28604489712564817_7866327839881392565_n.jpg?stp=dst-jpg_s200x200_tt6&_nc_cat=110&ccb=1-7&_nc_sid=f907e8&_nc_ohc=YleoKG-tq-AQ7kNvwFbVWt4&_nc_oc=Adrr0ADAbxKkNtT5hy6NvNSZ1DhJF-qO-Oh4ednK_PWCEcObTgyTYPm3k--m2h27npA&_nc_zt=24&_nc_ht=scontent-ord5-2.xx&edm=AJdBtusEAAAA&_nc_gid=Z3zZfYKPixmP2M9z6qfRvg&_nc_tpa=Q5bMBQKJ1TYpFoyYvp87AFqcDAnd9FzVRfiQP1NA-DsThvGjVfFMbHtx1qRGfYJy2EFjhoc5TXkdxl433g&oh=00_AQPV9P2rhQ1LCdCYXzALWOem2QEnsAzYvDlwoGfBNB7FMg&oe=6AE1CFEB",
-        "ultima_actualizacion": "2026-10-24T01:48:29.172Z"
+        "personas_hablando": 19,
+        "foto_perfil": "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.30808-1/825286629_28604489712564817_7866327839881392565_n.jpg?stp=dst-jpg_s200x200_tt6&_nc_cat=110&ccb=1-7&_nc_sid=f907e8&_nc_ohc=yFV5O-x73UsQ7kNvwF7zjzj&_nc_oc=AdrjsVjsFMFxVzSyZLGs4u1jztml1EhasY-9Y67ahY3DBrfNtSA1Vk7H9ccoe9Jf5lo&_nc_zt=24&_nc_ht=scontent-sjc3-1.xx&edm=AJdBtusEAAAA&_nc_gid=COCzFhpw1oISvG1nZW8_Gw&_nc_tpa=Q5bMBQI6zyYBCdkVn4X0mVeH2pbiBp4wpDvfo59l8MG-K5jOrpbHtUsyf3hXrFGLncA2t1kx28QcKL1SUg&oh=00_AQMp0egqozrFYuerfb2Vlmlkn054Dm0uTYrLDIKat_9gvQ&oe=6AE2B0EB",
+        "ultima_actualizacion": "2026-10-24T16:10:32.488Z"
       },
       "resumen_kpis": {
         "total_seguidores": 28,
         "seguidores_detalle": "28 seguidores • 3 seguidos",
         "crecimiento_semanal": "+35%",
         "seguidores_nuevos_semana": 7,
-        "personas_hablando": 20,
+        "personas_hablando": 19,
         "alcance_estimado": 504,
         "interacciones_totales": 0,
         "reacciones_totales": 0,
@@ -1125,6 +1125,17 @@
         }
       ],
       "ultimos_posts_publicados": [
+        {
+          "id": "1367888553074849_122096594709507613",
+          "url": "https://www.facebook.com/1367888553074849_122096594709507613",
+          "mensaje": "«Había perdido su casa por una tormenta, pero se negaba a soltar su único tesoro... 🧸⛈️🐾\n\nCuando los rescatistas llegaron a la zona afecta",
+          "fecha": "2026-10-24T13:00:21+0000",
+          "reacciones": 0,
+          "comentarios": 0,
+          "compartidos": 0,
+          "tipo": "post",
+          "estado": "publicado"
+        },
         {
           "id": "1367888553074849_122096594607507613",
           "url": "https://www.facebook.com/1367888553074849_122096594607507613",
@@ -1388,20 +1399,23 @@
           "compartidos": 0,
           "tipo": "post",
           "estado": "publicado"
-        },
-        {
-          "id": "1367888553074849_122101974693507613",
-          "url": "https://www.facebook.com/1367888553074849_122101974693507613",
-          "mensaje": "#empatia #triste 💔🐶 Su dueño se fue para siempre… Y rueditas se que quedó esperandole junto a su silla de ruedas. 🪽😭\n\nEn la esquina de l",
-          "fecha": "2026-10-14T12:50:22+0000",
-          "reacciones": 0,
-          "comentarios": 0,
-          "compartidos": 0,
-          "tipo": "post",
-          "estado": "publicado"
         }
       ],
       "proximos_programados_meta": [
+        {
+          "id": "1367888553074849_122110207719507613",
+          "url": "https://www.facebook.com/1367888553074849_122110207719507613",
+          "mensaje": "Doña Beatriz subió a tender ropa y escuchó un llanto seco en la azotea de enfrente. La casa llevaba dos semanas deshabitada con el letrero d",
+          "fecha_programada": "2026-11-21T12:30:00.000Z",
+          "estado": "programado_en_meta"
+        },
+        {
+          "id": "1367888553074849_122110207629507613",
+          "url": "https://www.facebook.com/1367888553074849_122110207629507613",
+          "mensaje": "«Tienes poder sobre tu mente, no sobre los acontecimientos. Date cuenta de esto y encontrarás la fuerza». — Marco Aurelio 🏛️⚔️\n\nHoy te vas ",
+          "fecha_programada": "2026-11-21T08:00:00.000Z",
+          "estado": "programado_en_meta"
+        },
         {
           "id": "1367888553074849_122109780975507613",
           "url": "https://www.facebook.com/1367888553074849_122109780975507613",
@@ -2087,20 +2101,6 @@
           "mensaje": "«La crueldad humana a veces no tiene nombre, pero la fidelidad canina no tiene comparación... 🚗💔🐕\n\nLo bajaron del auto en una carretera s",
           "fecha_programada": "2026-10-26T23:30:00.000Z",
           "estado": "programado_en_meta"
-        },
-        {
-          "id": "1367888553074849_122096595015507613",
-          "url": "https://www.facebook.com/1367888553074849_122096595015507613",
-          "mensaje": "«Muchos cruzaban de vereda cuando lo veían venir por culpa de los prejuicios sobre su raza... 🌸🐾🐕\n\nZeus es un pitbull rescatado de 3 años",
-          "fecha_programada": "2026-10-26T13:00:00.000Z",
-          "estado": "programado_en_meta"
-        },
-        {
-          "id": "1367888553074849_122096594961507613",
-          "url": "https://www.facebook.com/1367888553074849_122096594961507613",
-          "mensaje": "«Los perros no entienden todas nuestras palabras, pero son los mayores expertos del planeta en leer nuestra energía y tono de voz... 🗣️❤️🐕",
-          "fecha_programada": "2026-10-25T23:30:00.000Z",
-          "estado": "programado_en_meta"
         }
       ],
       "instagram": {
@@ -2109,7 +2109,7 @@
         "name": "Huellas con propósito",
         "followers": 1,
         "media_count": 14,
-        "picture": "https://scontent-ord5-2.xx.fbcdn.net/v/t51.82787-15/846964896_18127515184894503_9206256640984781246_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=7d201b&_nc_ohc=aXi3aBHPnb0Q7kNvwF0EE8k&_nc_oc=AdqCa2RI0HU4x5jXUo3oK28xgrswAZvSEFl_GlVya2aAz9cD-LGxyDBzK5pR1htnWrM&_nc_zt=23&_nc_ht=scontent-ord5-2.xx&edm=AL-3X8kEAAAA&_nc_gid=AGcXkRx6ixGJniV2PSd9_w&oh=00_AQN8odiNTsgsP5yjf0cXV9KelSqEdwf-MdHmqWjEvh7b6A&oe=6AE1DAEE"
+        "picture": "https://scontent-sjc6-1.xx.fbcdn.net/v/t51.82787-15/846964896_18127515184894503_9206256640984781246_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=7d201b&_nc_ohc=vi2oFQqEDEMQ7kNvwFXlM8C&_nc_oc=AdpK17J_fQQGf1wR3I636ExtKR4hzgxjojnKQ6R9ow_rliNpT4XGN5Jhzp7JaBMLagY&_nc_zt=23&_nc_ht=scontent-sjc6-1.xx&edm=AL-3X8kEAAAA&_nc_gid=avPBCGM-zpYNKS8CJbgLPw&oh=00_AQO1-N4Jus1-zdgiAdC_J2SuhgWnp_8KzTY0z-qUwvdFPg&oe=6AE2BBEE"
       }
     },
     "1375923958937880": {
@@ -2121,7 +2121,7 @@
         "seguidos": 0,
         "personas_hablando": 0,
         "foto_perfil": "",
-        "ultima_actualizacion": "2026-10-24T01:48:29.290Z"
+        "ultima_actualizacion": "2026-10-24T16:10:32.664Z"
       },
       "resumen_kpis": {
         "total_seguidores": 7,
