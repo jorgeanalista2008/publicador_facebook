@@ -5,16 +5,16 @@
     "categoria": "Animals & Pets",
     "seguidores": 28,
     "seguidos": 3,
-    "personas_hablando": 20,
-    "foto_perfil": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.30808-1/825286629_28604489712564817_7866327839881392565_n.jpg?stp=dst-jpg_s200x200_tt6&_nc_cat=110&ccb=1-7&_nc_sid=f907e8&_nc_ohc=yFV5O-x73UsQ7kNvwEMhm6T&_nc_oc=AdpOabCFTKgLuiaKAAfO94VHr99HSUnH3aZViSYatv-V3ngUBq8yXajuM259cvOqbEc&_nc_zt=24&_nc_ht=scontent-ord5-2.xx&edm=AJdBtusEAAAA&_nc_gid=YPjkA-ebWGReNaQhh4BP0Q&_nc_tpa=Q5bMBQIL4RMjxmZ2CNgvbfDXan5l57-3TRbxP2mbzrLu6xWGPrldednILwRXc89GMpAYdx9X2QIOybcAuQ&oh=00_AQN5YYk7IFWUUyx_mo8OFCDvqfzoQcVkE1b4Mq1pgUqH3w&oe=6AE359AB",
-    "ultima_actualizacion": "2026-10-25T06:33:16.544Z"
+    "personas_hablando": 17,
+    "foto_perfil": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.30808-1/825286629_28604489712564817_7866327839881392565_n.jpg?stp=dst-jpg_s200x200_tt6&_nc_cat=110&ccb=1-7&_nc_sid=f907e8&_nc_ohc=yFV5O-x73UsQ7kNvwHRmv9Q&_nc_oc=AdobPCwngHAYaVS__sczMKQPtcOE5dPL5IKnP0mY01I_7elE353r-ciPio0I0guCJ6U&_nc_zt=24&_nc_ht=scontent-ord5-2.xx&edm=AJdBtusEAAAA&_nc_gid=z3UUke3njVvOIFDoI2KowQ&_nc_tpa=Q5bMBQIGWnAdMFVQl1Yly6W0bxrIOD14cU6AMyqw7O0QwSewmq2EwNJcNq8rzRSgrrseXIpjusyFquvovA&oh=00_AQO0MQyxYG5rqc8GGh-e2amYHEsdj5l9jxw_Xku6WA0AQg&oe=6AE4026B",
+    "ultima_actualizacion": "2026-10-25T16:42:00.883Z"
   },
   "resumen_kpis": {
     "total_seguidores": 28,
     "seguidores_detalle": "28 seguidores • 3 seguidos",
     "crecimiento_semanal": "+35%",
     "seguidores_nuevos_semana": 7,
-    "personas_hablando": 20,
+    "personas_hablando": 17,
     "alcance_estimado": 504,
     "interacciones_totales": 0,
     "reacciones_totales": 0,
@@ -68,6 +68,28 @@
     }
   ],
   "ultimos_posts_publicados": [
+    {
+      "id": "1367888553074849_122110695429507613",
+      "url": "https://www.facebook.com/1367888553074849_122110695429507613",
+      "mensaje": "Séneca observaba un patrón que se repetía constantemente en la corte romana: alguien recibía una ofensa menor, de una persona que apenas mer",
+      "fecha": "2026-10-25T14:26:44+0000",
+      "reacciones": 0,
+      "comentarios": 0,
+      "compartidos": 0,
+      "tipo": "post",
+      "estado": "publicado"
+    },
+    {
+      "id": "1367888553074849_122096594859507613",
+      "url": "https://www.facebook.com/1367888553074849_122096594859507613",
+      "mensaje": "«Estaban en medio de los votos matrimoniales cuando un invitado inesperado entró a la iglesia... 💒👰🤵🐕\n\nComenzó a llover fuerte y un perr",
+      "fecha": "2026-10-25T13:00:27+0000",
+      "reacciones": 0,
+      "comentarios": 0,
+      "compartidos": 0,
+      "tipo": "post",
+      "estado": "publicado"
+    },
     {
       "id": "1367888553074849_122096594787507613",
       "url": "https://www.facebook.com/1367888553074849_122096594787507613",
@@ -320,31 +342,23 @@
       "compartidos": 0,
       "tipo": "post",
       "estado": "publicado"
-    },
-    {
-      "id": "1367888553074849_122096592441507613",
-      "url": "https://www.facebook.com/1367888553074849_122096592441507613",
-      "mensaje": "«Esa noche el pequeño Santiago tuvo 39 grados de fiebre. Toby no durmió ni un solo minuto... 🤒🐶\n\nLa mamá de Santiago cuenta que intentó ba",
-      "fecha": "2026-10-15T13:00:17+0000",
-      "reacciones": 0,
-      "comentarios": 0,
-      "compartidos": 0,
-      "tipo": "post",
-      "estado": "publicado"
-    },
-    {
-      "id": "1367888553074849_122096592243507613",
-      "url": "https://www.facebook.com/1367888553074849_122096592243507613",
-      "mensaje": "«Destruyó el cojín de la sala, esparció las plumas por todo el pasillo y masticó un zapato nuevo... pero mira esa carita. 😂🐶🛋️\n\nLlegas ca",
-      "fecha": "2026-10-14T23:30:01+0000",
-      "reacciones": 0,
-      "comentarios": 0,
-      "compartidos": 0,
-      "tipo": "post",
-      "estado": "publicado"
     }
   ],
   "proximos_programados_meta": [
+    {
+      "id": "1367888553074849_122110729803507613",
+      "url": "https://www.facebook.com/1367888553074849_122110729803507613",
+      "mensaje": "La señora Carmela vio salir el camión de mudanza a toda velocidad. Diez minutos después, una cachorrita peluda y blanca salió corriendo del ",
+      "fecha_programada": "2026-11-22T12:30:00.000Z",
+      "estado": "programado_en_meta"
+    },
+    {
+      "id": "1367888553074849_122110729707507613",
+      "url": "https://www.facebook.com/1367888553074849_122110729707507613",
+      "mensaje": "«No nos afecta lo que nos sucede, sino el juicio que nos formamos de lo que nos sucede». — Epicteto 🏛️🛡️\n\nEpicteto nació esclavo, soportó ",
+      "fecha_programada": "2026-11-22T08:00:00.000Z",
+      "estado": "programado_en_meta"
+    },
     {
       "id": "1367888553074849_122110364385507613",
       "url": "https://www.facebook.com/1367888553074849_122110364385507613",
@@ -1030,20 +1044,6 @@
       "mensaje": "«A veces creemos que para hacer feliz a un perro hay que comprarle juguetes caros o comida gourmet... nada más lejos de la verdad. 🐾💖\n\nLo ",
       "fecha_programada": "2026-10-28T23:30:00.000Z",
       "estado": "programado_en_meta"
-    },
-    {
-      "id": "1367888553074849_122096595531507613",
-      "url": "https://www.facebook.com/1367888553074849_122096595531507613",
-      "mensaje": "«Nadie esperaba que un imponente pastor alemán terminara siendo la 'madre' de una pequeña ardilla... 🐿️🐕🍼\n\nUna fuerte tormenta tumbó un n",
-      "fecha_programada": "2026-10-28T13:00:00.000Z",
-      "estado": "programado_en_meta"
-    },
-    {
-      "id": "1367888553074849_122096595435507613",
-      "url": "https://www.facebook.com/1367888553074849_122096595435507613",
-      "mensaje": "«Un veterinario compartió una de las cartas más dolorosas y necesarias que todos deberíamos leer... 🕊️🏥🐾\n\n'Cuando llega el momento más di",
-      "fecha_programada": "2026-10-27T23:30:00.000Z",
-      "estado": "programado_en_meta"
     }
   ],
   "instagram": {
@@ -1052,7 +1052,7 @@
     "name": "Huellas con propósito",
     "followers": 1,
     "media_count": 14,
-    "picture": "https://scontent-ord5-2.xx.fbcdn.net/v/t51.82787-15/846964896_18127515184894503_9206256640984781246_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=7d201b&_nc_ohc=vi2oFQqEDEMQ7kNvwE-Kj81&_nc_oc=AdrNLPk5tit7OhNYUcInNUAsblK3kfaKNXTDgUJMiqAoAl5UEYAaQoNezbHvNfFAY-Q&_nc_zt=23&_nc_ht=scontent-ord5-2.xx&edm=AL-3X8kEAAAA&_nc_gid=VQXiA_PoC-z_nLk4l2Brgw&oh=00_AQO1HjTVah5inpq-oS6U-ppa3tWNxNzZYp67EuiVqx5NYA&oe=6AE364AE"
+    "picture": "https://scontent-ord5-2.xx.fbcdn.net/v/t51.82787-15/846964896_18127515184894503_9206256640984781246_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=7d201b&_nc_ohc=vi2oFQqEDEMQ7kNvwF5SLpQ&_nc_oc=Adru08JMe9Uqc2aIMFACI8MPgm_hA-cRHWJ23Dfe1V27CwyBE6gfNsb__rWyiP3A8Kw&_nc_zt=23&_nc_ht=scontent-ord5-2.xx&edm=AL-3X8kEAAAA&_nc_gid=_RjbhrWPNtFSuj4Xze9TrQ&oh=00_AQOJbldeHrLVZfnxZLnG9_87SkOyTKqffm_ruwANRxYK-Q&oe=6AE40D6E"
   },
   "paginas": {
     "1367888553074849": {
@@ -1062,16 +1062,16 @@
         "categoria": "Animals & Pets",
         "seguidores": 28,
         "seguidos": 3,
-        "personas_hablando": 20,
-        "foto_perfil": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.30808-1/825286629_28604489712564817_7866327839881392565_n.jpg?stp=dst-jpg_s200x200_tt6&_nc_cat=110&ccb=1-7&_nc_sid=f907e8&_nc_ohc=yFV5O-x73UsQ7kNvwEMhm6T&_nc_oc=AdpOabCFTKgLuiaKAAfO94VHr99HSUnH3aZViSYatv-V3ngUBq8yXajuM259cvOqbEc&_nc_zt=24&_nc_ht=scontent-ord5-2.xx&edm=AJdBtusEAAAA&_nc_gid=YPjkA-ebWGReNaQhh4BP0Q&_nc_tpa=Q5bMBQIL4RMjxmZ2CNgvbfDXan5l57-3TRbxP2mbzrLu6xWGPrldednILwRXc89GMpAYdx9X2QIOybcAuQ&oh=00_AQN5YYk7IFWUUyx_mo8OFCDvqfzoQcVkE1b4Mq1pgUqH3w&oe=6AE359AB",
-        "ultima_actualizacion": "2026-10-25T06:33:16.544Z"
+        "personas_hablando": 17,
+        "foto_perfil": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.30808-1/825286629_28604489712564817_7866327839881392565_n.jpg?stp=dst-jpg_s200x200_tt6&_nc_cat=110&ccb=1-7&_nc_sid=f907e8&_nc_ohc=yFV5O-x73UsQ7kNvwHRmv9Q&_nc_oc=AdobPCwngHAYaVS__sczMKQPtcOE5dPL5IKnP0mY01I_7elE353r-ciPio0I0guCJ6U&_nc_zt=24&_nc_ht=scontent-ord5-2.xx&edm=AJdBtusEAAAA&_nc_gid=z3UUke3njVvOIFDoI2KowQ&_nc_tpa=Q5bMBQIGWnAdMFVQl1Yly6W0bxrIOD14cU6AMyqw7O0QwSewmq2EwNJcNq8rzRSgrrseXIpjusyFquvovA&oh=00_AQO0MQyxYG5rqc8GGh-e2amYHEsdj5l9jxw_Xku6WA0AQg&oe=6AE4026B",
+        "ultima_actualizacion": "2026-10-25T16:42:00.883Z"
       },
       "resumen_kpis": {
         "total_seguidores": 28,
         "seguidores_detalle": "28 seguidores • 3 seguidos",
         "crecimiento_semanal": "+35%",
         "seguidores_nuevos_semana": 7,
-        "personas_hablando": 20,
+        "personas_hablando": 17,
         "alcance_estimado": 504,
         "interacciones_totales": 0,
         "reacciones_totales": 0,
@@ -1125,6 +1125,28 @@
         }
       ],
       "ultimos_posts_publicados": [
+        {
+          "id": "1367888553074849_122110695429507613",
+          "url": "https://www.facebook.com/1367888553074849_122110695429507613",
+          "mensaje": "Séneca observaba un patrón que se repetía constantemente en la corte romana: alguien recibía una ofensa menor, de una persona que apenas mer",
+          "fecha": "2026-10-25T14:26:44+0000",
+          "reacciones": 0,
+          "comentarios": 0,
+          "compartidos": 0,
+          "tipo": "post",
+          "estado": "publicado"
+        },
+        {
+          "id": "1367888553074849_122096594859507613",
+          "url": "https://www.facebook.com/1367888553074849_122096594859507613",
+          "mensaje": "«Estaban en medio de los votos matrimoniales cuando un invitado inesperado entró a la iglesia... 💒👰🤵🐕\n\nComenzó a llover fuerte y un perr",
+          "fecha": "2026-10-25T13:00:27+0000",
+          "reacciones": 0,
+          "comentarios": 0,
+          "compartidos": 0,
+          "tipo": "post",
+          "estado": "publicado"
+        },
         {
           "id": "1367888553074849_122096594787507613",
           "url": "https://www.facebook.com/1367888553074849_122096594787507613",
@@ -1377,31 +1399,23 @@
           "compartidos": 0,
           "tipo": "post",
           "estado": "publicado"
-        },
-        {
-          "id": "1367888553074849_122096592441507613",
-          "url": "https://www.facebook.com/1367888553074849_122096592441507613",
-          "mensaje": "«Esa noche el pequeño Santiago tuvo 39 grados de fiebre. Toby no durmió ni un solo minuto... 🤒🐶\n\nLa mamá de Santiago cuenta que intentó ba",
-          "fecha": "2026-10-15T13:00:17+0000",
-          "reacciones": 0,
-          "comentarios": 0,
-          "compartidos": 0,
-          "tipo": "post",
-          "estado": "publicado"
-        },
-        {
-          "id": "1367888553074849_122096592243507613",
-          "url": "https://www.facebook.com/1367888553074849_122096592243507613",
-          "mensaje": "«Destruyó el cojín de la sala, esparció las plumas por todo el pasillo y masticó un zapato nuevo... pero mira esa carita. 😂🐶🛋️\n\nLlegas ca",
-          "fecha": "2026-10-14T23:30:01+0000",
-          "reacciones": 0,
-          "comentarios": 0,
-          "compartidos": 0,
-          "tipo": "post",
-          "estado": "publicado"
         }
       ],
       "proximos_programados_meta": [
+        {
+          "id": "1367888553074849_122110729803507613",
+          "url": "https://www.facebook.com/1367888553074849_122110729803507613",
+          "mensaje": "La señora Carmela vio salir el camión de mudanza a toda velocidad. Diez minutos después, una cachorrita peluda y blanca salió corriendo del ",
+          "fecha_programada": "2026-11-22T12:30:00.000Z",
+          "estado": "programado_en_meta"
+        },
+        {
+          "id": "1367888553074849_122110729707507613",
+          "url": "https://www.facebook.com/1367888553074849_122110729707507613",
+          "mensaje": "«No nos afecta lo que nos sucede, sino el juicio que nos formamos de lo que nos sucede». — Epicteto 🏛️🛡️\n\nEpicteto nació esclavo, soportó ",
+          "fecha_programada": "2026-11-22T08:00:00.000Z",
+          "estado": "programado_en_meta"
+        },
         {
           "id": "1367888553074849_122110364385507613",
           "url": "https://www.facebook.com/1367888553074849_122110364385507613",
@@ -2087,20 +2101,6 @@
           "mensaje": "«A veces creemos que para hacer feliz a un perro hay que comprarle juguetes caros o comida gourmet... nada más lejos de la verdad. 🐾💖\n\nLo ",
           "fecha_programada": "2026-10-28T23:30:00.000Z",
           "estado": "programado_en_meta"
-        },
-        {
-          "id": "1367888553074849_122096595531507613",
-          "url": "https://www.facebook.com/1367888553074849_122096595531507613",
-          "mensaje": "«Nadie esperaba que un imponente pastor alemán terminara siendo la 'madre' de una pequeña ardilla... 🐿️🐕🍼\n\nUna fuerte tormenta tumbó un n",
-          "fecha_programada": "2026-10-28T13:00:00.000Z",
-          "estado": "programado_en_meta"
-        },
-        {
-          "id": "1367888553074849_122096595435507613",
-          "url": "https://www.facebook.com/1367888553074849_122096595435507613",
-          "mensaje": "«Un veterinario compartió una de las cartas más dolorosas y necesarias que todos deberíamos leer... 🕊️🏥🐾\n\n'Cuando llega el momento más di",
-          "fecha_programada": "2026-10-27T23:30:00.000Z",
-          "estado": "programado_en_meta"
         }
       ],
       "instagram": {
@@ -2109,7 +2109,7 @@
         "name": "Huellas con propósito",
         "followers": 1,
         "media_count": 14,
-        "picture": "https://scontent-ord5-2.xx.fbcdn.net/v/t51.82787-15/846964896_18127515184894503_9206256640984781246_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=7d201b&_nc_ohc=vi2oFQqEDEMQ7kNvwE-Kj81&_nc_oc=AdrNLPk5tit7OhNYUcInNUAsblK3kfaKNXTDgUJMiqAoAl5UEYAaQoNezbHvNfFAY-Q&_nc_zt=23&_nc_ht=scontent-ord5-2.xx&edm=AL-3X8kEAAAA&_nc_gid=VQXiA_PoC-z_nLk4l2Brgw&oh=00_AQO1HjTVah5inpq-oS6U-ppa3tWNxNzZYp67EuiVqx5NYA&oe=6AE364AE"
+        "picture": "https://scontent-ord5-2.xx.fbcdn.net/v/t51.82787-15/846964896_18127515184894503_9206256640984781246_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=7d201b&_nc_ohc=vi2oFQqEDEMQ7kNvwF5SLpQ&_nc_oc=Adru08JMe9Uqc2aIMFACI8MPgm_hA-cRHWJ23Dfe1V27CwyBE6gfNsb__rWyiP3A8Kw&_nc_zt=23&_nc_ht=scontent-ord5-2.xx&edm=AL-3X8kEAAAA&_nc_gid=_RjbhrWPNtFSuj4Xze9TrQ&oh=00_AQOJbldeHrLVZfnxZLnG9_87SkOyTKqffm_ruwANRxYK-Q&oe=6AE40D6E"
       }
     },
     "1375923958937880": {
@@ -2121,7 +2121,7 @@
         "seguidos": 0,
         "personas_hablando": 0,
         "foto_perfil": "",
-        "ultima_actualizacion": "2026-10-25T06:33:16.689Z"
+        "ultima_actualizacion": "2026-10-25T16:42:01.129Z"
       },
       "resumen_kpis": {
         "total_seguidores": 7,
