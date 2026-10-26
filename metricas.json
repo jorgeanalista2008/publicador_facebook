@@ -5,16 +5,16 @@
     "categoria": "Animals & Pets",
     "seguidores": 28,
     "seguidos": 3,
-    "personas_hablando": 14,
-    "foto_perfil": "https://scontent-iad6-1.xx.fbcdn.net/v/t39.30808-1/825286629_28604489712564817_7866327839881392565_n.jpg?stp=dst-jpg_s200x200_tt6&_nc_cat=110&ccb=1-7&_nc_sid=f907e8&_nc_ohc=yFV5O-x73UsQ7kNvwFe1lvE&_nc_oc=AdpYpvkWcetnP4AytFooONzIdGMCxX5JdaeyZQm9IGxva8TMGMj3dIfFpHbJPMv89pQ&_nc_zt=24&_nc_ht=scontent-iad6-1.xx&edm=AJdBtusEAAAA&_nc_gid=IMsO3ZCX9DsXemlBkjCevQ&_nc_tpa=Q5bMBQJBvzhsIqvJ-9dGMfwOvpgF0V3x2pRPk9QHC09lxCORVsL4hcgTYPjmn2JY0zR4BFFTybh1BySTCQ&oh=00_AQNPy964Jmed55U36E43WG15zOtgBl_p7upYMpDMD97VfA&oe=6AE58C2B",
-    "ultima_actualizacion": "2026-10-26T18:49:01.218Z"
+    "personas_hablando": 15,
+    "foto_perfil": "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.30808-1/825286629_28604489712564817_7866327839881392565_n.jpg?stp=dst-jpg_s200x200_tt6&_nc_cat=110&ccb=1-7&_nc_sid=f907e8&_nc_ohc=yFV5O-x73UsQ7kNvwG-c938&_nc_oc=Adozt1OLjcMNt6keh5yyYNcDFRE-GLUYAgjubknsOY-YvdsCKAu_QF9R_-I6iyofQaE&_nc_zt=24&_nc_ht=scontent-sjc3-1.xx&edm=AJdBtusEAAAA&_nc_gid=QrgaDXrclpA_nVeCaWJ86w&_nc_tpa=Q5bMBQKLlelKTUj8d_01as8eX_Wn8y7CEp48hwBFUhUgW426QI5FZOq3aLIDXA9gATxrdeTuFoMNJBW6zg&oh=00_AQPfPRJ_r0l_qPmYuIO65jjFpvamVz8_DEWLOsWRDruDzg&oe=6AE5C46B",
+    "ultima_actualizacion": "2026-10-26T23:59:39.975Z"
   },
   "resumen_kpis": {
     "total_seguidores": 28,
     "seguidores_detalle": "28 seguidores • 3 seguidos",
     "crecimiento_semanal": "+35%",
     "seguidores_nuevos_semana": 7,
-    "personas_hablando": 14,
+    "personas_hablando": 15,
     "alcance_estimado": 504,
     "interacciones_totales": 0,
     "reacciones_totales": 0,
@@ -68,6 +68,17 @@
     }
   ],
   "ultimos_posts_publicados": [
+    {
+      "id": "1367888553074849_122096595135507613",
+      "url": "https://www.facebook.com/1367888553074849_122096595135507613",
+      "mensaje": "«La crueldad humana a veces no tiene nombre, pero la fidelidad canina no tiene comparación... 🚗💔🐕\n\nLo bajaron del auto en una carretera s",
+      "fecha": "2026-10-26T23:30:01+0000",
+      "reacciones": 0,
+      "comentarios": 0,
+      "compartidos": 0,
+      "tipo": "post",
+      "estado": "publicado"
+    },
     {
       "id": "1367888553074849_122096595015507613",
       "url": "https://www.facebook.com/1367888553074849_122096595015507613",
@@ -331,20 +342,16 @@
       "compartidos": 0,
       "tipo": "post",
       "estado": "publicado"
-    },
-    {
-      "id": "1367888553074849_122096592669507613",
-      "url": "https://www.facebook.com/1367888553074849_122096592669507613",
-      "mensaje": "«Tres pequeños cachorritos quedaron huérfanos con solo 15 días de vida... hasta que Barnaby entró en escena. 🐕🍼🐾\n\nBarnaby es un enorme Go",
-      "fecha": "2026-10-16T13:00:10+0000",
-      "reacciones": 0,
-      "comentarios": 0,
-      "compartidos": 0,
-      "tipo": "post",
-      "estado": "publicado"
     }
   ],
   "proximos_programados_meta": [
+    {
+      "id": "1367888553074849_122111386389507613",
+      "url": "https://www.facebook.com/1367888553074849_122111386389507613",
+      "mensaje": "Doña Beatriz subió a tender ropa y escuchó un llanto seco en la azotea de enfrente. La casa llevaba dos semanas deshabitada con el letrero d",
+      "fecha_programada": "2026-11-23T20:30:00.000Z",
+      "estado": "programado_en_meta"
+    },
     {
       "id": "1367888553074849_122111273577507613",
       "url": "https://www.facebook.com/1367888553074849_122111273577507613",
@@ -1037,13 +1044,6 @@
       "mensaje": "«Termina un mes más y yo solo quiero darte las gracias por seguir aquí a mi lado... 🍂🍁🐾\n\nGracias por los paseos en las mañanas frías, por",
       "fecha_programada": "2026-10-31T23:30:00.000Z",
       "estado": "programado_en_meta"
-    },
-    {
-      "id": "1367888553074849_122096596113507613",
-      "url": "https://www.facebook.com/1367888553074849_122096596113507613",
-      "mensaje": "«Es el último día de octubre y queremos hablar de una injusticia real: el 'Síndrome del Perro Negro'. 🖤🐾\n\nEn los refugios de todo el mundo",
-      "fecha_programada": "2026-10-31T13:00:00.000Z",
-      "estado": "programado_en_meta"
     }
   ],
   "instagram": {
@@ -1052,7 +1052,7 @@
     "name": "Huellas con propósito",
     "followers": 1,
     "media_count": 14,
-    "picture": "https://scontent-iad3-2.xx.fbcdn.net/v/t51.82787-15/846964896_18127515184894503_9206256640984781246_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=7d201b&_nc_ohc=vi2oFQqEDEMQ7kNvwGkfQI9&_nc_oc=Ado7TSiRPBzCYcM_BY5uz8Dezj0hux5CbdqaTEV7VMLUqnqvbk2Lp5cC73QJtYiZsqs&_nc_zt=23&_nc_ht=scontent-iad3-2.xx&edm=AJ-jyNUEAAAA&_nc_gid=16QzKQ3G4ISR9ht2TuvLPQ&oh=00_AQPIuq4R9GyF2A8nxJvbXbXNrSXkEU9NZ_8kKgMevTVFGQ&oe=6AE55EEE"
+    "picture": "https://scontent-sjc6-1.xx.fbcdn.net/v/t51.82787-15/846964896_18127515184894503_9206256640984781246_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=7d201b&_nc_ohc=vi2oFQqEDEMQ7kNvwFgRok9&_nc_oc=Adr2nA6ntWuMw10QKtQEFpf1RSuTQJOKI98OfyUMIecb_z6ihGyQfGVUl1XTUccIwCw&_nc_zt=23&_nc_ht=scontent-sjc6-1.xx&edm=AJ-jyNUEAAAA&_nc_gid=yjJQeUc5wZ6DtUGq9N2fBA&oh=00_AQPseI2LH5A5pK6CIRPOtVUX_PGc-34mLeBm5OUupxaplA&oe=6AE5CF6E"
   },
   "paginas": {
     "1367888553074849": {
@@ -1062,16 +1062,16 @@
         "categoria": "Animals & Pets",
         "seguidores": 28,
         "seguidos": 3,
-        "personas_hablando": 14,
-        "foto_perfil": "https://scontent-iad6-1.xx.fbcdn.net/v/t39.30808-1/825286629_28604489712564817_7866327839881392565_n.jpg?stp=dst-jpg_s200x200_tt6&_nc_cat=110&ccb=1-7&_nc_sid=f907e8&_nc_ohc=yFV5O-x73UsQ7kNvwFe1lvE&_nc_oc=AdpYpvkWcetnP4AytFooONzIdGMCxX5JdaeyZQm9IGxva8TMGMj3dIfFpHbJPMv89pQ&_nc_zt=24&_nc_ht=scontent-iad6-1.xx&edm=AJdBtusEAAAA&_nc_gid=IMsO3ZCX9DsXemlBkjCevQ&_nc_tpa=Q5bMBQJBvzhsIqvJ-9dGMfwOvpgF0V3x2pRPk9QHC09lxCORVsL4hcgTYPjmn2JY0zR4BFFTybh1BySTCQ&oh=00_AQNPy964Jmed55U36E43WG15zOtgBl_p7upYMpDMD97VfA&oe=6AE58C2B",
-        "ultima_actualizacion": "2026-10-26T18:49:01.218Z"
+        "personas_hablando": 15,
+        "foto_perfil": "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.30808-1/825286629_28604489712564817_7866327839881392565_n.jpg?stp=dst-jpg_s200x200_tt6&_nc_cat=110&ccb=1-7&_nc_sid=f907e8&_nc_ohc=yFV5O-x73UsQ7kNvwG-c938&_nc_oc=Adozt1OLjcMNt6keh5yyYNcDFRE-GLUYAgjubknsOY-YvdsCKAu_QF9R_-I6iyofQaE&_nc_zt=24&_nc_ht=scontent-sjc3-1.xx&edm=AJdBtusEAAAA&_nc_gid=QrgaDXrclpA_nVeCaWJ86w&_nc_tpa=Q5bMBQKLlelKTUj8d_01as8eX_Wn8y7CEp48hwBFUhUgW426QI5FZOq3aLIDXA9gATxrdeTuFoMNJBW6zg&oh=00_AQPfPRJ_r0l_qPmYuIO65jjFpvamVz8_DEWLOsWRDruDzg&oe=6AE5C46B",
+        "ultima_actualizacion": "2026-10-26T23:59:39.975Z"
       },
       "resumen_kpis": {
         "total_seguidores": 28,
         "seguidores_detalle": "28 seguidores • 3 seguidos",
         "crecimiento_semanal": "+35%",
         "seguidores_nuevos_semana": 7,
-        "personas_hablando": 14,
+        "personas_hablando": 15,
         "alcance_estimado": 504,
         "interacciones_totales": 0,
         "reacciones_totales": 0,
@@ -1125,6 +1125,17 @@
         }
       ],
       "ultimos_posts_publicados": [
+        {
+          "id": "1367888553074849_122096595135507613",
+          "url": "https://www.facebook.com/1367888553074849_122096595135507613",
+          "mensaje": "«La crueldad humana a veces no tiene nombre, pero la fidelidad canina no tiene comparación... 🚗💔🐕\n\nLo bajaron del auto en una carretera s",
+          "fecha": "2026-10-26T23:30:01+0000",
+          "reacciones": 0,
+          "comentarios": 0,
+          "compartidos": 0,
+          "tipo": "post",
+          "estado": "publicado"
+        },
         {
           "id": "1367888553074849_122096595015507613",
           "url": "https://www.facebook.com/1367888553074849_122096595015507613",
@@ -1388,20 +1399,16 @@
           "compartidos": 0,
           "tipo": "post",
           "estado": "publicado"
-        },
-        {
-          "id": "1367888553074849_122096592669507613",
-          "url": "https://www.facebook.com/1367888553074849_122096592669507613",
-          "mensaje": "«Tres pequeños cachorritos quedaron huérfanos con solo 15 días de vida... hasta que Barnaby entró en escena. 🐕🍼🐾\n\nBarnaby es un enorme Go",
-          "fecha": "2026-10-16T13:00:10+0000",
-          "reacciones": 0,
-          "comentarios": 0,
-          "compartidos": 0,
-          "tipo": "post",
-          "estado": "publicado"
         }
       ],
       "proximos_programados_meta": [
+        {
+          "id": "1367888553074849_122111386389507613",
+          "url": "https://www.facebook.com/1367888553074849_122111386389507613",
+          "mensaje": "Doña Beatriz subió a tender ropa y escuchó un llanto seco en la azotea de enfrente. La casa llevaba dos semanas deshabitada con el letrero d",
+          "fecha_programada": "2026-11-23T20:30:00.000Z",
+          "estado": "programado_en_meta"
+        },
         {
           "id": "1367888553074849_122111273577507613",
           "url": "https://www.facebook.com/1367888553074849_122111273577507613",
@@ -2094,13 +2101,6 @@
           "mensaje": "«Termina un mes más y yo solo quiero darte las gracias por seguir aquí a mi lado... 🍂🍁🐾\n\nGracias por los paseos en las mañanas frías, por",
           "fecha_programada": "2026-10-31T23:30:00.000Z",
           "estado": "programado_en_meta"
-        },
-        {
-          "id": "1367888553074849_122096596113507613",
-          "url": "https://www.facebook.com/1367888553074849_122096596113507613",
-          "mensaje": "«Es el último día de octubre y queremos hablar de una injusticia real: el 'Síndrome del Perro Negro'. 🖤🐾\n\nEn los refugios de todo el mundo",
-          "fecha_programada": "2026-10-31T13:00:00.000Z",
-          "estado": "programado_en_meta"
         }
       ],
       "instagram": {
@@ -2109,7 +2109,7 @@
         "name": "Huellas con propósito",
         "followers": 1,
         "media_count": 14,
-        "picture": "https://scontent-iad3-2.xx.fbcdn.net/v/t51.82787-15/846964896_18127515184894503_9206256640984781246_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=7d201b&_nc_ohc=vi2oFQqEDEMQ7kNvwGkfQI9&_nc_oc=Ado7TSiRPBzCYcM_BY5uz8Dezj0hux5CbdqaTEV7VMLUqnqvbk2Lp5cC73QJtYiZsqs&_nc_zt=23&_nc_ht=scontent-iad3-2.xx&edm=AJ-jyNUEAAAA&_nc_gid=16QzKQ3G4ISR9ht2TuvLPQ&oh=00_AQPIuq4R9GyF2A8nxJvbXbXNrSXkEU9NZ_8kKgMevTVFGQ&oe=6AE55EEE"
+        "picture": "https://scontent-sjc6-1.xx.fbcdn.net/v/t51.82787-15/846964896_18127515184894503_9206256640984781246_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=7d201b&_nc_ohc=vi2oFQqEDEMQ7kNvwFgRok9&_nc_oc=Adr2nA6ntWuMw10QKtQEFpf1RSuTQJOKI98OfyUMIecb_z6ihGyQfGVUl1XTUccIwCw&_nc_zt=23&_nc_ht=scontent-sjc6-1.xx&edm=AJ-jyNUEAAAA&_nc_gid=yjJQeUc5wZ6DtUGq9N2fBA&oh=00_AQPseI2LH5A5pK6CIRPOtVUX_PGc-34mLeBm5OUupxaplA&oe=6AE5CF6E"
       }
     },
     "1375923958937880": {
@@ -2121,7 +2121,7 @@
         "seguidos": 0,
         "personas_hablando": 0,
         "foto_perfil": "",
-        "ultima_actualizacion": "2026-10-26T18:49:01.312Z"
+        "ultima_actualizacion": "2026-10-26T23:59:40.147Z"
       },
       "resumen_kpis": {
         "total_seguidores": 7,
@@ -2134,7 +2134,7 @@
         "reacciones_totales": 3,
         "comentarios_totales": 0,
         "compartidos_totales": 1,
-        "programados_en_servidores_meta": 15,
+        "programados_en_servidores_meta": 14,
         "total_publicaciones_sistema": 52
       },
       "rendimiento_por_horario": [
@@ -2368,16 +2368,20 @@
           "compartidos": 0,
           "tipo": "post",
           "estado": "publicado"
-        }
-      ],
-      "proximos_programados_meta": [
+        },
         {
           "id": "122095715805512707",
           "url": "https://www.facebook.com/122095715805512707",
-          "mensaje": "⏰ [Programado 2026-10-26 19:00] Mentalidad Errónea: EL REHÉN DEL TELÉFONO vs Mentalidad de Acero",
-          "fecha_programada": "2026-10-26T19:00:00Z",
-          "estado": "programado_en_meta"
-        },
+          "mensaje": "Mentalidad Errónea: EL REHÉN DEL TELÉFONO vs Mentalidad de Acero: \"EL QUE CONSUME LA VIDA DE OTROS EN PANTALLA, SE OLVIDA DE CONQUISTAR SU PROPIA REALIDAD.\"  El éxito es para los que asu...",
+          "fecha": "2026-10-26T19:00:00.000Z",
+          "reacciones": 0,
+          "comentarios": 0,
+          "compartidos": 0,
+          "tipo": "post",
+          "estado": "publicado"
+        }
+      ],
+      "proximos_programados_meta": [
         {
           "id": "122095715907512707",
           "url": "https://www.facebook.com/122095715907512707",
