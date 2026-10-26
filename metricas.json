@@ -5,16 +5,16 @@
     "categoria": "Animals & Pets",
     "seguidores": 28,
     "seguidos": 3,
-    "personas_hablando": 18,
-    "foto_perfil": "https://scontent-iad3-1.xx.fbcdn.net/v/t39.30808-1/825286629_28604489712564817_7866327839881392565_n.jpg?stp=dst-jpg_s200x200_tt6&_nc_cat=110&ccb=1-7&_nc_sid=f907e8&_nc_ohc=yFV5O-x73UsQ7kNvwHSrPsV&_nc_oc=AdrfKU4cWEZKHZT6V9u4hifWw_CsxnuwR_YjcM6TYUtUiAY2LW5Jc60ssGnO-24sVGY&_nc_zt=24&_nc_ht=scontent-iad3-1.xx&edm=AJdBtusEAAAA&_nc_gid=9CLcz2TQhgElrj9ZQAViMA&_nc_tpa=Q5bMBQINePJXvtbaM3rDvSjsirpa5BTOwHWCnIvfYz89r1bc27kJqtYwvv-5GyEqTK4nx07P4Q3_F9rqzg&oh=00_AQOtlGEPNLtmpCzPS4iXddh6QfAThGdsU4OW1k7MfoMvQA&oe=6AE4E36B",
-    "ultima_actualizacion": "2026-10-26T06:52:28.030Z"
+    "personas_hablando": 14,
+    "foto_perfil": "https://scontent-iad6-1.xx.fbcdn.net/v/t39.30808-1/825286629_28604489712564817_7866327839881392565_n.jpg?stp=dst-jpg_s200x200_tt6&_nc_cat=110&ccb=1-7&_nc_sid=f907e8&_nc_ohc=yFV5O-x73UsQ7kNvwFe1lvE&_nc_oc=AdpYpvkWcetnP4AytFooONzIdGMCxX5JdaeyZQm9IGxva8TMGMj3dIfFpHbJPMv89pQ&_nc_zt=24&_nc_ht=scontent-iad6-1.xx&edm=AJdBtusEAAAA&_nc_gid=IMsO3ZCX9DsXemlBkjCevQ&_nc_tpa=Q5bMBQJBvzhsIqvJ-9dGMfwOvpgF0V3x2pRPk9QHC09lxCORVsL4hcgTYPjmn2JY0zR4BFFTybh1BySTCQ&oh=00_AQNPy964Jmed55U36E43WG15zOtgBl_p7upYMpDMD97VfA&oe=6AE58C2B",
+    "ultima_actualizacion": "2026-10-26T18:49:01.218Z"
   },
   "resumen_kpis": {
     "total_seguidores": 28,
     "seguidores_detalle": "28 seguidores • 3 seguidos",
     "crecimiento_semanal": "+35%",
     "seguidores_nuevos_semana": 7,
-    "personas_hablando": 18,
+    "personas_hablando": 14,
     "alcance_estimado": 504,
     "interacciones_totales": 0,
     "reacciones_totales": 0,
@@ -68,6 +68,17 @@
     }
   ],
   "ultimos_posts_publicados": [
+    {
+      "id": "1367888553074849_122096595015507613",
+      "url": "https://www.facebook.com/1367888553074849_122096595015507613",
+      "mensaje": "«Muchos cruzaban de vereda cuando lo veían venir por culpa de los prejuicios sobre su raza... 🌸🐾🐕\n\nZeus es un pitbull rescatado de 3 años",
+      "fecha": "2026-10-26T13:00:30+0000",
+      "reacciones": 0,
+      "comentarios": 0,
+      "compartidos": 0,
+      "tipo": "post",
+      "estado": "publicado"
+    },
     {
       "id": "1367888553074849_122096594961507613",
       "url": "https://www.facebook.com/1367888553074849_122096594961507613",
@@ -331,20 +342,30 @@
       "compartidos": 0,
       "tipo": "post",
       "estado": "publicado"
-    },
-    {
-      "id": "1367888553074849_122096592525507613",
-      "url": "https://www.facebook.com/1367888553074849_122096592525507613",
-      "mensaje": "«A veces escucho a personas decir: '¿Por qué lloras tanto? Tranquilo, al final es solo un perro'... 💔\n\nClaramente nunca han sabido lo que e",
-      "fecha": "2026-10-15T23:30:04+0000",
-      "reacciones": 0,
-      "comentarios": 0,
-      "compartidos": 0,
-      "tipo": "post",
-      "estado": "publicado"
     }
   ],
   "proximos_programados_meta": [
+    {
+      "id": "1367888553074849_122111273577507613",
+      "url": "https://www.facebook.com/1367888553074849_122111273577507613",
+      "mensaje": "«Tienes poder sobre tu mente, no sobre los acontecimientos. Date cuenta de esto y encontrarás la fuerza». — Marco Aurelio 🏛️⚔️\n\nHoy te vas ",
+      "fecha_programada": "2026-11-23T17:30:00.000Z",
+      "estado": "programado_en_meta"
+    },
+    {
+      "id": "1367888553074849_122111273517507613",
+      "url": "https://www.facebook.com/1367888553074849_122111273517507613",
+      "mensaje": "Don Marcos llamó al nuevo dueño del taller mecánico que acababa de quebrar. Una voz apresurada le contestó que se estaban llevando la maquin",
+      "fecha_programada": "2026-11-23T12:30:00.000Z",
+      "estado": "programado_en_meta"
+    },
+    {
+      "id": "1367888553074849_122111273427507613",
+      "url": "https://www.facebook.com/1367888553074849_122111273427507613",
+      "mensaje": "«No tenemos poco tiempo, sino que perdemos mucho». — Séneca (Sobre la brevedad de la vida) ⏳🏛️\n\nNos quejamos constantemente de que la vida ",
+      "fecha_programada": "2026-11-23T08:00:00.000Z",
+      "estado": "programado_en_meta"
+    },
     {
       "id": "1367888553074849_122110829271507613",
       "url": "https://www.facebook.com/1367888553074849_122110829271507613",
@@ -1023,27 +1044,6 @@
       "mensaje": "«Es el último día de octubre y queremos hablar de una injusticia real: el 'Síndrome del Perro Negro'. 🖤🐾\n\nEn los refugios de todo el mundo",
       "fecha_programada": "2026-10-31T13:00:00.000Z",
       "estado": "programado_en_meta"
-    },
-    {
-      "id": "1367888553074849_122096595987507613",
-      "url": "https://www.facebook.com/1367888553074849_122096595987507613",
-      "mensaje": "«Los truenos y los fuegos artificiales de fin de mes siempre asustan a los perritos sin hogar en los refugios... 🎆😰🐾\n\nEl refugio 'Huellit",
-      "fecha_programada": "2026-10-30T23:30:00.000Z",
-      "estado": "programado_en_meta"
-    },
-    {
-      "id": "1367888553074849_122096595915507613",
-      "url": "https://www.facebook.com/1367888553074849_122096595915507613",
-      "mensaje": "«En el barrio todos esperaban disfraces terroríficos... hasta que apareció el conde 'Drácula' más dulce de la historia. 🎃🧛‍♂️🐶\n\nSus dueño",
-      "fecha_programada": "2026-10-30T13:00:00.000Z",
-      "estado": "programado_en_meta"
-    },
-    {
-      "id": "1367888553074849_122096595777507613",
-      "url": "https://www.facebook.com/1367888553074849_122096595777507613",
-      "mensaje": "«Don Alberto pasó seis meses sentado en su sillón sin querer salir de casa tras perder a su esposa de toda la vida... 🛋️🥀\n\nSus hijos sabía",
-      "fecha_programada": "2026-10-29T23:30:00.000Z",
-      "estado": "programado_en_meta"
     }
   ],
   "instagram": {
@@ -1052,7 +1052,7 @@
     "name": "Huellas con propósito",
     "followers": 1,
     "media_count": 14,
-    "picture": "https://scontent-iad3-1.xx.fbcdn.net/v/t51.82787-15/846964896_18127515184894503_9206256640984781246_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=7d201b&_nc_ohc=vi2oFQqEDEMQ7kNvwGsOEPw&_nc_oc=AdrXrQ1yBXohaxy_J2EMTbxeEj_P_sx3tMYEp0rMhYdYK8xG2c9vo1cEeQcIzgciES4&_nc_zt=23&_nc_ht=scontent-iad3-1.xx&edm=AL-3X8kEAAAA&_nc_gid=d7IdStjLdiqMqVSbiB_-HA&oh=00_AQNzyc1shtJLy5Xqe1wjVpQQ-Pc73yE70XbQ3WlkT4ibWQ&oe=6AE4B62E"
+    "picture": "https://scontent-iad3-2.xx.fbcdn.net/v/t51.82787-15/846964896_18127515184894503_9206256640984781246_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=7d201b&_nc_ohc=vi2oFQqEDEMQ7kNvwGkfQI9&_nc_oc=Ado7TSiRPBzCYcM_BY5uz8Dezj0hux5CbdqaTEV7VMLUqnqvbk2Lp5cC73QJtYiZsqs&_nc_zt=23&_nc_ht=scontent-iad3-2.xx&edm=AJ-jyNUEAAAA&_nc_gid=16QzKQ3G4ISR9ht2TuvLPQ&oh=00_AQPIuq4R9GyF2A8nxJvbXbXNrSXkEU9NZ_8kKgMevTVFGQ&oe=6AE55EEE"
   },
   "paginas": {
     "1367888553074849": {
@@ -1062,16 +1062,16 @@
         "categoria": "Animals & Pets",
         "seguidores": 28,
         "seguidos": 3,
-        "personas_hablando": 18,
-        "foto_perfil": "https://scontent-iad3-1.xx.fbcdn.net/v/t39.30808-1/825286629_28604489712564817_7866327839881392565_n.jpg?stp=dst-jpg_s200x200_tt6&_nc_cat=110&ccb=1-7&_nc_sid=f907e8&_nc_ohc=yFV5O-x73UsQ7kNvwHSrPsV&_nc_oc=AdrfKU4cWEZKHZT6V9u4hifWw_CsxnuwR_YjcM6TYUtUiAY2LW5Jc60ssGnO-24sVGY&_nc_zt=24&_nc_ht=scontent-iad3-1.xx&edm=AJdBtusEAAAA&_nc_gid=9CLcz2TQhgElrj9ZQAViMA&_nc_tpa=Q5bMBQINePJXvtbaM3rDvSjsirpa5BTOwHWCnIvfYz89r1bc27kJqtYwvv-5GyEqTK4nx07P4Q3_F9rqzg&oh=00_AQOtlGEPNLtmpCzPS4iXddh6QfAThGdsU4OW1k7MfoMvQA&oe=6AE4E36B",
-        "ultima_actualizacion": "2026-10-26T06:52:28.030Z"
+        "personas_hablando": 14,
+        "foto_perfil": "https://scontent-iad6-1.xx.fbcdn.net/v/t39.30808-1/825286629_28604489712564817_7866327839881392565_n.jpg?stp=dst-jpg_s200x200_tt6&_nc_cat=110&ccb=1-7&_nc_sid=f907e8&_nc_ohc=yFV5O-x73UsQ7kNvwFe1lvE&_nc_oc=AdpYpvkWcetnP4AytFooONzIdGMCxX5JdaeyZQm9IGxva8TMGMj3dIfFpHbJPMv89pQ&_nc_zt=24&_nc_ht=scontent-iad6-1.xx&edm=AJdBtusEAAAA&_nc_gid=IMsO3ZCX9DsXemlBkjCevQ&_nc_tpa=Q5bMBQJBvzhsIqvJ-9dGMfwOvpgF0V3x2pRPk9QHC09lxCORVsL4hcgTYPjmn2JY0zR4BFFTybh1BySTCQ&oh=00_AQNPy964Jmed55U36E43WG15zOtgBl_p7upYMpDMD97VfA&oe=6AE58C2B",
+        "ultima_actualizacion": "2026-10-26T18:49:01.218Z"
       },
       "resumen_kpis": {
         "total_seguidores": 28,
         "seguidores_detalle": "28 seguidores • 3 seguidos",
         "crecimiento_semanal": "+35%",
         "seguidores_nuevos_semana": 7,
-        "personas_hablando": 18,
+        "personas_hablando": 14,
         "alcance_estimado": 504,
         "interacciones_totales": 0,
         "reacciones_totales": 0,
@@ -1125,6 +1125,17 @@
         }
       ],
       "ultimos_posts_publicados": [
+        {
+          "id": "1367888553074849_122096595015507613",
+          "url": "https://www.facebook.com/1367888553074849_122096595015507613",
+          "mensaje": "«Muchos cruzaban de vereda cuando lo veían venir por culpa de los prejuicios sobre su raza... 🌸🐾🐕\n\nZeus es un pitbull rescatado de 3 años",
+          "fecha": "2026-10-26T13:00:30+0000",
+          "reacciones": 0,
+          "comentarios": 0,
+          "compartidos": 0,
+          "tipo": "post",
+          "estado": "publicado"
+        },
         {
           "id": "1367888553074849_122096594961507613",
           "url": "https://www.facebook.com/1367888553074849_122096594961507613",
@@ -1388,20 +1399,30 @@
           "compartidos": 0,
           "tipo": "post",
           "estado": "publicado"
-        },
-        {
-          "id": "1367888553074849_122096592525507613",
-          "url": "https://www.facebook.com/1367888553074849_122096592525507613",
-          "mensaje": "«A veces escucho a personas decir: '¿Por qué lloras tanto? Tranquilo, al final es solo un perro'... 💔\n\nClaramente nunca han sabido lo que e",
-          "fecha": "2026-10-15T23:30:04+0000",
-          "reacciones": 0,
-          "comentarios": 0,
-          "compartidos": 0,
-          "tipo": "post",
-          "estado": "publicado"
         }
       ],
       "proximos_programados_meta": [
+        {
+          "id": "1367888553074849_122111273577507613",
+          "url": "https://www.facebook.com/1367888553074849_122111273577507613",
+          "mensaje": "«Tienes poder sobre tu mente, no sobre los acontecimientos. Date cuenta de esto y encontrarás la fuerza». — Marco Aurelio 🏛️⚔️\n\nHoy te vas ",
+          "fecha_programada": "2026-11-23T17:30:00.000Z",
+          "estado": "programado_en_meta"
+        },
+        {
+          "id": "1367888553074849_122111273517507613",
+          "url": "https://www.facebook.com/1367888553074849_122111273517507613",
+          "mensaje": "Don Marcos llamó al nuevo dueño del taller mecánico que acababa de quebrar. Una voz apresurada le contestó que se estaban llevando la maquin",
+          "fecha_programada": "2026-11-23T12:30:00.000Z",
+          "estado": "programado_en_meta"
+        },
+        {
+          "id": "1367888553074849_122111273427507613",
+          "url": "https://www.facebook.com/1367888553074849_122111273427507613",
+          "mensaje": "«No tenemos poco tiempo, sino que perdemos mucho». — Séneca (Sobre la brevedad de la vida) ⏳🏛️\n\nNos quejamos constantemente de que la vida ",
+          "fecha_programada": "2026-11-23T08:00:00.000Z",
+          "estado": "programado_en_meta"
+        },
         {
           "id": "1367888553074849_122110829271507613",
           "url": "https://www.facebook.com/1367888553074849_122110829271507613",
@@ -2080,27 +2101,6 @@
           "mensaje": "«Es el último día de octubre y queremos hablar de una injusticia real: el 'Síndrome del Perro Negro'. 🖤🐾\n\nEn los refugios de todo el mundo",
           "fecha_programada": "2026-10-31T13:00:00.000Z",
           "estado": "programado_en_meta"
-        },
-        {
-          "id": "1367888553074849_122096595987507613",
-          "url": "https://www.facebook.com/1367888553074849_122096595987507613",
-          "mensaje": "«Los truenos y los fuegos artificiales de fin de mes siempre asustan a los perritos sin hogar en los refugios... 🎆😰🐾\n\nEl refugio 'Huellit",
-          "fecha_programada": "2026-10-30T23:30:00.000Z",
-          "estado": "programado_en_meta"
-        },
-        {
-          "id": "1367888553074849_122096595915507613",
-          "url": "https://www.facebook.com/1367888553074849_122096595915507613",
-          "mensaje": "«En el barrio todos esperaban disfraces terroríficos... hasta que apareció el conde 'Drácula' más dulce de la historia. 🎃🧛‍♂️🐶\n\nSus dueño",
-          "fecha_programada": "2026-10-30T13:00:00.000Z",
-          "estado": "programado_en_meta"
-        },
-        {
-          "id": "1367888553074849_122096595777507613",
-          "url": "https://www.facebook.com/1367888553074849_122096595777507613",
-          "mensaje": "«Don Alberto pasó seis meses sentado en su sillón sin querer salir de casa tras perder a su esposa de toda la vida... 🛋️🥀\n\nSus hijos sabía",
-          "fecha_programada": "2026-10-29T23:30:00.000Z",
-          "estado": "programado_en_meta"
         }
       ],
       "instagram": {
@@ -2109,7 +2109,7 @@
         "name": "Huellas con propósito",
         "followers": 1,
         "media_count": 14,
-        "picture": "https://scontent-iad3-1.xx.fbcdn.net/v/t51.82787-15/846964896_18127515184894503_9206256640984781246_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=7d201b&_nc_ohc=vi2oFQqEDEMQ7kNvwGsOEPw&_nc_oc=AdrXrQ1yBXohaxy_J2EMTbxeEj_P_sx3tMYEp0rMhYdYK8xG2c9vo1cEeQcIzgciES4&_nc_zt=23&_nc_ht=scontent-iad3-1.xx&edm=AL-3X8kEAAAA&_nc_gid=d7IdStjLdiqMqVSbiB_-HA&oh=00_AQNzyc1shtJLy5Xqe1wjVpQQ-Pc73yE70XbQ3WlkT4ibWQ&oe=6AE4B62E"
+        "picture": "https://scontent-iad3-2.xx.fbcdn.net/v/t51.82787-15/846964896_18127515184894503_9206256640984781246_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=7d201b&_nc_ohc=vi2oFQqEDEMQ7kNvwGkfQI9&_nc_oc=Ado7TSiRPBzCYcM_BY5uz8Dezj0hux5CbdqaTEV7VMLUqnqvbk2Lp5cC73QJtYiZsqs&_nc_zt=23&_nc_ht=scontent-iad3-2.xx&edm=AJ-jyNUEAAAA&_nc_gid=16QzKQ3G4ISR9ht2TuvLPQ&oh=00_AQPIuq4R9GyF2A8nxJvbXbXNrSXkEU9NZ_8kKgMevTVFGQ&oe=6AE55EEE"
       }
     },
     "1375923958937880": {
@@ -2121,7 +2121,7 @@
         "seguidos": 0,
         "personas_hablando": 0,
         "foto_perfil": "",
-        "ultima_actualizacion": "2026-10-26T06:52:28.198Z"
+        "ultima_actualizacion": "2026-10-26T18:49:01.312Z"
       },
       "resumen_kpis": {
         "total_seguidores": 7,
