@@ -5,16 +5,16 @@
     "categoria": "Animals & Pets",
     "seguidores": 28,
     "seguidos": 3,
-    "personas_hablando": 17,
-    "foto_perfil": "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.30808-1/825286629_28604489712564817_7866327839881392565_n.jpg?stp=dst-jpg_s200x200_tt6&_nc_cat=110&ccb=1-7&_nc_sid=f907e8&_nc_ohc=yFV5O-x73UsQ7kNvwE65_Bt&_nc_oc=AdqpGVBOyZW6T4pmqG5SRUEBxSL1lByd5k-brcp_AQ3ghGu_TLol1q1zgXm3Gq5hqwE&_nc_zt=24&_nc_ht=scontent-sjc3-1.xx&edm=AJdBtusEAAAA&_nc_gid=MZyDngKxSthe-xq14x7u9w&_nc_tpa=Q5bMBQKSi0n0FlWZr6r1c4gKVrtUqX-7iE-Bv6SAvKAjsCDRzLNqYDgPunlVUa6V7FK_DpAxvlQzHYLeCA&oh=00_AQO0feL6-eDAPTvfidggemF88KpSleMuq5XhBMrmzTf6aw&oe=6AE472EB",
-    "ultima_actualizacion": "2026-10-25T22:44:38.825Z"
+    "personas_hablando": 18,
+    "foto_perfil": "https://scontent-iad3-1.xx.fbcdn.net/v/t39.30808-1/825286629_28604489712564817_7866327839881392565_n.jpg?stp=dst-jpg_s200x200_tt6&_nc_cat=110&ccb=1-7&_nc_sid=f907e8&_nc_ohc=yFV5O-x73UsQ7kNvwG-O3mi&_nc_oc=AdrgefAt77i9e05AOI4oYdG1vYlKzUyyYYX8otiVP4kJL5K-YT2qpSm2RMw-ZMJzjYQ&_nc_zt=24&_nc_ht=scontent-iad3-1.xx&edm=AJdBtusEAAAA&_nc_gid=Ss64SDQMX2Nqm9qm08j0-A&_nc_tpa=Q5bMBQKiwNpKtyQT-u1KSbM_7p2_3E5slfFnjGFMnpiqY1fWpuoAu-4NkdEBA-xMCErczojEgNeRZlycVw&oh=00_AQMiqGBNTl02iXkZ60857-fUVUm9k7GuTQ7ZptWAq98VPw&oe=6AE472EB",
+    "ultima_actualizacion": "2026-10-26T01:29:28.709Z"
   },
   "resumen_kpis": {
     "total_seguidores": 28,
     "seguidores_detalle": "28 seguidores • 3 seguidos",
     "crecimiento_semanal": "+35%",
     "seguidores_nuevos_semana": 7,
-    "personas_hablando": 17,
+    "personas_hablando": 18,
     "alcance_estimado": 504,
     "interacciones_totales": 0,
     "reacciones_totales": 0,
@@ -68,6 +68,17 @@
     }
   ],
   "ultimos_posts_publicados": [
+    {
+      "id": "1367888553074849_122096594961507613",
+      "url": "https://www.facebook.com/1367888553074849_122096594961507613",
+      "mensaje": "«Los perros no entienden todas nuestras palabras, pero son los mayores expertos del planeta en leer nuestra energía y tono de voz... 🗣️❤️🐕",
+      "fecha": "2026-10-25T23:30:01+0000",
+      "reacciones": 0,
+      "comentarios": 0,
+      "compartidos": 0,
+      "tipo": "post",
+      "estado": "publicado"
+    },
     {
       "id": "1367888553074849_122110695429507613",
       "url": "https://www.facebook.com/1367888553074849_122110695429507613",
@@ -326,17 +337,6 @@
       "url": "https://www.facebook.com/1367888553074849_122096592525507613",
       "mensaje": "«A veces escucho a personas decir: '¿Por qué lloras tanto? Tranquilo, al final es solo un perro'... 💔\n\nClaramente nunca han sabido lo que e",
       "fecha": "2026-10-15T23:30:04+0000",
-      "reacciones": 0,
-      "comentarios": 0,
-      "compartidos": 0,
-      "tipo": "post",
-      "estado": "publicado"
-    },
-    {
-      "id": "1367888553074849_122102939373507613",
-      "url": "https://www.facebook.com/1367888553074849_122102939373507613",
-      "mensaje": "Publicación",
-      "fecha": "2026-10-15T13:55:56+0000",
       "reacciones": 0,
       "comentarios": 0,
       "compartidos": 0,
@@ -1052,7 +1052,7 @@
     "name": "Huellas con propósito",
     "followers": 1,
     "media_count": 14,
-    "picture": "https://scontent-sjc6-1.xx.fbcdn.net/v/t51.82787-15/846964896_18127515184894503_9206256640984781246_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=7d201b&_nc_ohc=vi2oFQqEDEMQ7kNvwE0sZhN&_nc_oc=AdrbEFkTF61m4n7zTJ6ukm8CVOElalkU2kqr5GHhV8jfGMBgfy_puc0ARFZIzfezdeY&_nc_zt=23&_nc_ht=scontent-sjc6-1.xx&edm=AJ-jyNUEAAAA&_nc_gid=ns91Vx8jeWDkb9FcuUwJCQ&oh=00_AQOmuwa7r6TsGsPDBmRVpWPJBsUvR-c8GMocuyw890h6sQ&oe=6AE445AE"
+    "picture": "https://scontent-iad3-1.xx.fbcdn.net/v/t51.82787-15/846964896_18127515184894503_9206256640984781246_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=7d201b&_nc_ohc=vi2oFQqEDEMQ7kNvwE4icTj&_nc_oc=Adod8Cg8sRPyl_Dms5hJbm2Oa2NTPcs9RwG09_fyF8nNcioNtBG7kCqwhBXFO2wAwU0&_nc_zt=23&_nc_ht=scontent-iad3-1.xx&edm=AJ-jyNUEAAAA&_nc_gid=9qTsS01erLFeUPQP8qb59w&oh=00_AQOWkWIugh35QFc-04of7m4seGFzAyBMsTl_YWX_wJVOPw&oe=6AE47DEE"
   },
   "paginas": {
     "1367888553074849": {
@@ -1062,16 +1062,16 @@
         "categoria": "Animals & Pets",
         "seguidores": 28,
         "seguidos": 3,
-        "personas_hablando": 17,
-        "foto_perfil": "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.30808-1/825286629_28604489712564817_7866327839881392565_n.jpg?stp=dst-jpg_s200x200_tt6&_nc_cat=110&ccb=1-7&_nc_sid=f907e8&_nc_ohc=yFV5O-x73UsQ7kNvwE65_Bt&_nc_oc=AdqpGVBOyZW6T4pmqG5SRUEBxSL1lByd5k-brcp_AQ3ghGu_TLol1q1zgXm3Gq5hqwE&_nc_zt=24&_nc_ht=scontent-sjc3-1.xx&edm=AJdBtusEAAAA&_nc_gid=MZyDngKxSthe-xq14x7u9w&_nc_tpa=Q5bMBQKSi0n0FlWZr6r1c4gKVrtUqX-7iE-Bv6SAvKAjsCDRzLNqYDgPunlVUa6V7FK_DpAxvlQzHYLeCA&oh=00_AQO0feL6-eDAPTvfidggemF88KpSleMuq5XhBMrmzTf6aw&oe=6AE472EB",
-        "ultima_actualizacion": "2026-10-25T22:44:38.825Z"
+        "personas_hablando": 18,
+        "foto_perfil": "https://scontent-iad3-1.xx.fbcdn.net/v/t39.30808-1/825286629_28604489712564817_7866327839881392565_n.jpg?stp=dst-jpg_s200x200_tt6&_nc_cat=110&ccb=1-7&_nc_sid=f907e8&_nc_ohc=yFV5O-x73UsQ7kNvwG-O3mi&_nc_oc=AdrgefAt77i9e05AOI4oYdG1vYlKzUyyYYX8otiVP4kJL5K-YT2qpSm2RMw-ZMJzjYQ&_nc_zt=24&_nc_ht=scontent-iad3-1.xx&edm=AJdBtusEAAAA&_nc_gid=Ss64SDQMX2Nqm9qm08j0-A&_nc_tpa=Q5bMBQKiwNpKtyQT-u1KSbM_7p2_3E5slfFnjGFMnpiqY1fWpuoAu-4NkdEBA-xMCErczojEgNeRZlycVw&oh=00_AQMiqGBNTl02iXkZ60857-fUVUm9k7GuTQ7ZptWAq98VPw&oe=6AE472EB",
+        "ultima_actualizacion": "2026-10-26T01:29:28.709Z"
       },
       "resumen_kpis": {
         "total_seguidores": 28,
         "seguidores_detalle": "28 seguidores • 3 seguidos",
         "crecimiento_semanal": "+35%",
         "seguidores_nuevos_semana": 7,
-        "personas_hablando": 17,
+        "personas_hablando": 18,
         "alcance_estimado": 504,
         "interacciones_totales": 0,
         "reacciones_totales": 0,
@@ -1125,6 +1125,17 @@
         }
       ],
       "ultimos_posts_publicados": [
+        {
+          "id": "1367888553074849_122096594961507613",
+          "url": "https://www.facebook.com/1367888553074849_122096594961507613",
+          "mensaje": "«Los perros no entienden todas nuestras palabras, pero son los mayores expertos del planeta en leer nuestra energía y tono de voz... 🗣️❤️🐕",
+          "fecha": "2026-10-25T23:30:01+0000",
+          "reacciones": 0,
+          "comentarios": 0,
+          "compartidos": 0,
+          "tipo": "post",
+          "estado": "publicado"
+        },
         {
           "id": "1367888553074849_122110695429507613",
           "url": "https://www.facebook.com/1367888553074849_122110695429507613",
@@ -1383,17 +1394,6 @@
           "url": "https://www.facebook.com/1367888553074849_122096592525507613",
           "mensaje": "«A veces escucho a personas decir: '¿Por qué lloras tanto? Tranquilo, al final es solo un perro'... 💔\n\nClaramente nunca han sabido lo que e",
           "fecha": "2026-10-15T23:30:04+0000",
-          "reacciones": 0,
-          "comentarios": 0,
-          "compartidos": 0,
-          "tipo": "post",
-          "estado": "publicado"
-        },
-        {
-          "id": "1367888553074849_122102939373507613",
-          "url": "https://www.facebook.com/1367888553074849_122102939373507613",
-          "mensaje": "Publicación",
-          "fecha": "2026-10-15T13:55:56+0000",
           "reacciones": 0,
           "comentarios": 0,
           "compartidos": 0,
@@ -2109,7 +2109,7 @@
         "name": "Huellas con propósito",
         "followers": 1,
         "media_count": 14,
-        "picture": "https://scontent-sjc6-1.xx.fbcdn.net/v/t51.82787-15/846964896_18127515184894503_9206256640984781246_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=7d201b&_nc_ohc=vi2oFQqEDEMQ7kNvwE0sZhN&_nc_oc=AdrbEFkTF61m4n7zTJ6ukm8CVOElalkU2kqr5GHhV8jfGMBgfy_puc0ARFZIzfezdeY&_nc_zt=23&_nc_ht=scontent-sjc6-1.xx&edm=AJ-jyNUEAAAA&_nc_gid=ns91Vx8jeWDkb9FcuUwJCQ&oh=00_AQOmuwa7r6TsGsPDBmRVpWPJBsUvR-c8GMocuyw890h6sQ&oe=6AE445AE"
+        "picture": "https://scontent-iad3-1.xx.fbcdn.net/v/t51.82787-15/846964896_18127515184894503_9206256640984781246_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=7d201b&_nc_ohc=vi2oFQqEDEMQ7kNvwE4icTj&_nc_oc=Adod8Cg8sRPyl_Dms5hJbm2Oa2NTPcs9RwG09_fyF8nNcioNtBG7kCqwhBXFO2wAwU0&_nc_zt=23&_nc_ht=scontent-iad3-1.xx&edm=AJ-jyNUEAAAA&_nc_gid=9qTsS01erLFeUPQP8qb59w&oh=00_AQOWkWIugh35QFc-04of7m4seGFzAyBMsTl_YWX_wJVOPw&oe=6AE47DEE"
       }
     },
     "1375923958937880": {
@@ -2121,7 +2121,7 @@
         "seguidos": 0,
         "personas_hablando": 0,
         "foto_perfil": "",
-        "ultima_actualizacion": "2026-10-25T22:44:38.991Z"
+        "ultima_actualizacion": "2026-10-26T01:29:29.161Z"
       },
       "resumen_kpis": {
         "total_seguidores": 7,
