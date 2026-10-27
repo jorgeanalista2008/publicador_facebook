@@ -3,23 +3,23 @@
     "id": "1367888553074849",
     "nombre": "Huellas con Propósito",
     "categoria": "Animals & Pets",
-    "seguidores": 29,
+    "seguidores": 36,
     "seguidos": 3,
-    "personas_hablando": 17,
-    "foto_perfil": "https://scontent-iad6-1.xx.fbcdn.net/v/t39.30808-1/825286629_28604489712564817_7866327839881392565_n.jpg?stp=dst-jpg_s200x200_tt6&_nc_cat=110&ccb=1-7&_nc_sid=f907e8&_nc_ohc=yFV5O-x73UsQ7kNvwEtXvL-&_nc_oc=AdryQM3whrqtkRoLVuyfCEokaNdp45AFFoHKuwm9n5ZJntYMrRuOMUA7N-R_-9E_wbA&_nc_zt=24&_nc_ht=scontent-iad6-1.xx&edm=AJdBtusEAAAA&_nc_gid=uGWpOSwpvs_hZpNE8B5nrA&_nc_tpa=Q5bMBQLMNYk6nsKxvQd9-HNiZWYyV4E_F0PpGMMzI8AL0WjrxYiobxZsdU7G88qjdB9-objlDJ0ezhiESg&oh=00_AQMjl8ommiKFcwRKEo-TNXswsakD5H93ikabEFdVcO9lsw&oe=6AE634EB",
-    "ultima_actualizacion": "2026-10-27T06:37:19.410Z"
+    "personas_hablando": 25,
+    "foto_perfil": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.30808-1/825286629_28604489712564817_7866327839881392565_n.jpg?stp=dst-jpg_s200x200_tt6&_nc_cat=110&ccb=1-7&_nc_sid=f907e8&_nc_ohc=aUBm3Uu1RzQQ7kNvwE9cVfq&_nc_oc=Adq90TCwabNfZh8UxbWQcOrPnQGQUpiNF5p3H1SHIWke2zjK9U-sMSqEPdrOfwrRbQw&_nc_zt=24&_nc_ht=scontent-ord5-2.xx&edm=AJdBtusEAAAA&_nc_gid=-OPs-Ahi13ud4a-59favdg&_nc_tpa=Q5bMBQL4ykRIXq0KcHO5TSxXlvx7OY1z_98UaxrE2am9Vhgj99H_lh7I1pHI1zL3G2IyRYOJN-RZZvYwdA&oh=00_AQOz0aoNy8XDuVxISDuMGDGHYG-x8a_iCvqbbF6RwfXzzw&oe=6AE6A56B",
+    "ultima_actualizacion": "2026-10-27T18:11:31.135Z"
   },
   "resumen_kpis": {
-    "total_seguidores": 29,
-    "seguidores_detalle": "29 seguidores • 3 seguidos",
+    "total_seguidores": 36,
+    "seguidores_detalle": "36 seguidores • 3 seguidos",
     "crecimiento_semanal": "+35%",
     "seguidores_nuevos_semana": 7,
-    "personas_hablando": 17,
-    "alcance_estimado": 522,
-    "interacciones_totales": 2,
-    "reacciones_totales": 0,
+    "personas_hablando": 25,
+    "alcance_estimado": 648,
+    "interacciones_totales": 1,
+    "reacciones_totales": 1,
     "comentarios_totales": 0,
-    "compartidos_totales": 2,
+    "compartidos_totales": 0,
     "programados_en_servidores_meta": 100,
     "total_publicaciones_sistema": 120
   },
@@ -64,10 +64,21 @@
     },
     {
       "fecha": "12 Oct",
-      "seguidores": 29
+      "seguidores": 36
     }
   ],
   "ultimos_posts_publicados": [
+    {
+      "id": "1367888553074849_122096595285507613",
+      "url": "https://www.facebook.com/1367888553074849_122096595285507613",
+      "mensaje": "«A sus 14 años la artritis lo hacía caminar despacio y pasar la mayor parte del día durmiendo... 🏖️🌊👴🐶\n\nPero el fin de semana pasado sus",
+      "fecha": "2026-10-27T13:00:02+0000",
+      "reacciones": 0,
+      "comentarios": 0,
+      "compartidos": 0,
+      "tipo": "post",
+      "estado": "publicado"
+    },
     {
       "id": "1367888553074849_122096595135507613",
       "url": "https://www.facebook.com/1367888553074849_122096595135507613",
@@ -273,7 +284,7 @@
       "fecha": "2026-10-19T12:33:34+0000",
       "reacciones": 0,
       "comentarios": 0,
-      "compartidos": 1,
+      "compartidos": 0,
       "tipo": "post",
       "estado": "publicado"
     },
@@ -293,9 +304,9 @@
       "url": "https://www.facebook.com/1367888553074849_122105702055507613",
       "mensaje": "Sun Tzu observó a un general que estaba a punto de ser rodeado. Sus enemigos eran más numerosos, ruidosos y atacaban desde todos los flancos",
       "fecha": "2026-10-18T13:57:21+0000",
-      "reacciones": 0,
+      "reacciones": 1,
       "comentarios": 0,
-      "compartidos": 1,
+      "compartidos": 0,
       "tipo": "post",
       "estado": "publicado"
     },
@@ -331,20 +342,30 @@
       "compartidos": 0,
       "tipo": "post",
       "estado": "publicado"
-    },
-    {
-      "id": "1367888553074849_122096592873507613",
-      "url": "https://www.facebook.com/1367888553074849_122096592873507613",
-      "mensaje": "«Todos los días a las 5:30 de la tarde, 'Manchitas' se sienta en la parada del autobús número 42... 🚌🐕\n\nDurante 8 años, Don Rogelio tomaba",
-      "fecha": "2026-10-16T23:30:06+0000",
-      "reacciones": 0,
-      "comentarios": 0,
-      "compartidos": 0,
-      "tipo": "post",
-      "estado": "publicado"
     }
   ],
   "proximos_programados_meta": [
+    {
+      "id": "1367888553074849_122111722155507613",
+      "url": "https://www.facebook.com/1367888553074849_122111722155507613",
+      "mensaje": "«No nos afecta lo que nos sucede, sino el juicio que nos formamos de lo que nos sucede». — Epicteto 🏛️🛡️\n\nEpicteto nació esclavo, soportó ",
+      "fecha_programada": "2026-11-24T17:30:00.000Z",
+      "estado": "programado_en_meta"
+    },
+    {
+      "id": "1367888553074849_122111722107507613",
+      "url": "https://www.facebook.com/1367888553074849_122111722107507613",
+      "mensaje": "Don Aurelio vio cómo cerraron la maderería para siempre y pusieron cinta amarilla de clausura. Al guardia de seguridad le liquidaron su suel",
+      "fecha_programada": "2026-11-24T12:30:00.000Z",
+      "estado": "programado_en_meta"
+    },
+    {
+      "id": "1367888553074849_122111722035507613",
+      "url": "https://www.facebook.com/1367888553074849_122111722035507613",
+      "mensaje": "«Sufrimos más a menudo por la imaginación que por la realidad». — Séneca 🏛️📜\n\n¿Cuántas noches te has quedado despierto creando escenarios ",
+      "fecha_programada": "2026-11-24T08:00:00.000Z",
+      "estado": "programado_en_meta"
+    },
     {
       "id": "1367888553074849_122111386389507613",
       "url": "https://www.facebook.com/1367888553074849_122111386389507613",
@@ -1023,27 +1044,6 @@
       "mensaje": "«Sufrimos más a menudo por la imaginación que por la realidad». — Séneca 🏛️📜\n\n¿Cuántas noches te has quedado despierto creando escenarios ",
       "fecha_programada": "2026-11-01T21:30:00.000Z",
       "estado": "programado_en_meta"
-    },
-    {
-      "id": "1367888553074849_122097373671507613",
-      "url": "https://www.facebook.com/1367888553074849_122097373671507613",
-      "mensaje": "Doña Beatriz subió a tender ropa y escuchó un llanto seco en la azotea de enfrente. La casa llevaba dos semanas deshabitada con el letrero d",
-      "fecha_programada": "2026-11-01T16:30:00.000Z",
-      "estado": "programado_en_meta"
-    },
-    {
-      "id": "1367888553074849_122097380439507613",
-      "url": "https://www.facebook.com/1367888553074849_122097380439507613",
-      "mensaje": "«Tienes poder sobre tu mente, no sobre los acontecimientos. Date cuenta de esto y encontrarás la fuerza». — Marco Aurelio 🏛️⚔️\n\nHoy te vas ",
-      "fecha_programada": "2026-11-01T12:00:00.000Z",
-      "estado": "programado_en_meta"
-    },
-    {
-      "id": "1367888553074849_122096596233507613",
-      "url": "https://www.facebook.com/1367888553074849_122096596233507613",
-      "mensaje": "«Termina un mes más y yo solo quiero darte las gracias por seguir aquí a mi lado... 🍂🍁🐾\n\nGracias por los paseos en las mañanas frías, por",
-      "fecha_programada": "2026-10-31T23:30:00.000Z",
-      "estado": "programado_en_meta"
     }
   ],
   "instagram": {
@@ -1052,7 +1052,7 @@
     "name": "Huellas con propósito",
     "followers": 1,
     "media_count": 14,
-    "picture": "https://scontent-iad3-2.xx.fbcdn.net/v/t51.82787-15/846964896_18127515184894503_9206256640984781246_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=7d201b&_nc_ohc=vi2oFQqEDEMQ7kNvwHudNpX&_nc_oc=AdruSNkJBaj_yP-iQfYhoPSaXPipKwKURrissTgiQAX_bZIYmx-41pJPn8WFmD0v7HY&_nc_zt=23&_nc_ht=scontent-iad3-2.xx&edm=AJ-jyNUEAAAA&_nc_gid=KBTxL4Yl15F574Jiqx-fvw&oh=00_AQPj0uh9XB2mE_XgMY0clfwjtBlspswwVFJt-RLMAoNX3Q&oe=6AE607AE"
+    "picture": "https://scontent-ord5-2.xx.fbcdn.net/v/t51.82787-15/846964896_18127515184894503_9206256640984781246_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=7d201b&_nc_ohc=_U9edduStfIQ7kNvwGXwg2v&_nc_oc=AdqJO87JPPC8Own-itNQN0OSIYBr-IQhMFQzMY3lQVbPUlfuaNDIdrP0uyWu6Ex8if4&_nc_zt=23&_nc_ht=scontent-ord5-2.xx&edm=AJ-jyNUEAAAA&_nc_gid=DaIDmrfqFpHyTXYBUZJfVQ&oh=00_AQNGPIC3EPdYJGKbYXxRkgX4e4q6ArRjlGroJTnDP2j-cw&oe=6AE6B06E"
   },
   "paginas": {
     "1367888553074849": {
@@ -1060,23 +1060,23 @@
         "id": "1367888553074849",
         "nombre": "Huellas con Propósito",
         "categoria": "Animals & Pets",
-        "seguidores": 29,
+        "seguidores": 36,
         "seguidos": 3,
-        "personas_hablando": 17,
-        "foto_perfil": "https://scontent-iad6-1.xx.fbcdn.net/v/t39.30808-1/825286629_28604489712564817_7866327839881392565_n.jpg?stp=dst-jpg_s200x200_tt6&_nc_cat=110&ccb=1-7&_nc_sid=f907e8&_nc_ohc=yFV5O-x73UsQ7kNvwEtXvL-&_nc_oc=AdryQM3whrqtkRoLVuyfCEokaNdp45AFFoHKuwm9n5ZJntYMrRuOMUA7N-R_-9E_wbA&_nc_zt=24&_nc_ht=scontent-iad6-1.xx&edm=AJdBtusEAAAA&_nc_gid=uGWpOSwpvs_hZpNE8B5nrA&_nc_tpa=Q5bMBQLMNYk6nsKxvQd9-HNiZWYyV4E_F0PpGMMzI8AL0WjrxYiobxZsdU7G88qjdB9-objlDJ0ezhiESg&oh=00_AQMjl8ommiKFcwRKEo-TNXswsakD5H93ikabEFdVcO9lsw&oe=6AE634EB",
-        "ultima_actualizacion": "2026-10-27T06:37:19.410Z"
+        "personas_hablando": 25,
+        "foto_perfil": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.30808-1/825286629_28604489712564817_7866327839881392565_n.jpg?stp=dst-jpg_s200x200_tt6&_nc_cat=110&ccb=1-7&_nc_sid=f907e8&_nc_ohc=aUBm3Uu1RzQQ7kNvwE9cVfq&_nc_oc=Adq90TCwabNfZh8UxbWQcOrPnQGQUpiNF5p3H1SHIWke2zjK9U-sMSqEPdrOfwrRbQw&_nc_zt=24&_nc_ht=scontent-ord5-2.xx&edm=AJdBtusEAAAA&_nc_gid=-OPs-Ahi13ud4a-59favdg&_nc_tpa=Q5bMBQL4ykRIXq0KcHO5TSxXlvx7OY1z_98UaxrE2am9Vhgj99H_lh7I1pHI1zL3G2IyRYOJN-RZZvYwdA&oh=00_AQOz0aoNy8XDuVxISDuMGDGHYG-x8a_iCvqbbF6RwfXzzw&oe=6AE6A56B",
+        "ultima_actualizacion": "2026-10-27T18:11:31.135Z"
       },
       "resumen_kpis": {
-        "total_seguidores": 29,
-        "seguidores_detalle": "29 seguidores • 3 seguidos",
+        "total_seguidores": 36,
+        "seguidores_detalle": "36 seguidores • 3 seguidos",
         "crecimiento_semanal": "+35%",
         "seguidores_nuevos_semana": 7,
-        "personas_hablando": 17,
-        "alcance_estimado": 522,
-        "interacciones_totales": 2,
-        "reacciones_totales": 0,
+        "personas_hablando": 25,
+        "alcance_estimado": 648,
+        "interacciones_totales": 1,
+        "reacciones_totales": 1,
         "comentarios_totales": 0,
-        "compartidos_totales": 2,
+        "compartidos_totales": 0,
         "programados_en_servidores_meta": 100,
         "total_publicaciones_sistema": 120
       },
@@ -1121,10 +1121,21 @@
         },
         {
           "fecha": "12 Oct",
-          "seguidores": 29
+          "seguidores": 36
         }
       ],
       "ultimos_posts_publicados": [
+        {
+          "id": "1367888553074849_122096595285507613",
+          "url": "https://www.facebook.com/1367888553074849_122096595285507613",
+          "mensaje": "«A sus 14 años la artritis lo hacía caminar despacio y pasar la mayor parte del día durmiendo... 🏖️🌊👴🐶\n\nPero el fin de semana pasado sus",
+          "fecha": "2026-10-27T13:00:02+0000",
+          "reacciones": 0,
+          "comentarios": 0,
+          "compartidos": 0,
+          "tipo": "post",
+          "estado": "publicado"
+        },
         {
           "id": "1367888553074849_122096595135507613",
           "url": "https://www.facebook.com/1367888553074849_122096595135507613",
@@ -1330,7 +1341,7 @@
           "fecha": "2026-10-19T12:33:34+0000",
           "reacciones": 0,
           "comentarios": 0,
-          "compartidos": 1,
+          "compartidos": 0,
           "tipo": "post",
           "estado": "publicado"
         },
@@ -1350,9 +1361,9 @@
           "url": "https://www.facebook.com/1367888553074849_122105702055507613",
           "mensaje": "Sun Tzu observó a un general que estaba a punto de ser rodeado. Sus enemigos eran más numerosos, ruidosos y atacaban desde todos los flancos",
           "fecha": "2026-10-18T13:57:21+0000",
-          "reacciones": 0,
+          "reacciones": 1,
           "comentarios": 0,
-          "compartidos": 1,
+          "compartidos": 0,
           "tipo": "post",
           "estado": "publicado"
         },
@@ -1388,20 +1399,30 @@
           "compartidos": 0,
           "tipo": "post",
           "estado": "publicado"
-        },
-        {
-          "id": "1367888553074849_122096592873507613",
-          "url": "https://www.facebook.com/1367888553074849_122096592873507613",
-          "mensaje": "«Todos los días a las 5:30 de la tarde, 'Manchitas' se sienta en la parada del autobús número 42... 🚌🐕\n\nDurante 8 años, Don Rogelio tomaba",
-          "fecha": "2026-10-16T23:30:06+0000",
-          "reacciones": 0,
-          "comentarios": 0,
-          "compartidos": 0,
-          "tipo": "post",
-          "estado": "publicado"
         }
       ],
       "proximos_programados_meta": [
+        {
+          "id": "1367888553074849_122111722155507613",
+          "url": "https://www.facebook.com/1367888553074849_122111722155507613",
+          "mensaje": "«No nos afecta lo que nos sucede, sino el juicio que nos formamos de lo que nos sucede». — Epicteto 🏛️🛡️\n\nEpicteto nació esclavo, soportó ",
+          "fecha_programada": "2026-11-24T17:30:00.000Z",
+          "estado": "programado_en_meta"
+        },
+        {
+          "id": "1367888553074849_122111722107507613",
+          "url": "https://www.facebook.com/1367888553074849_122111722107507613",
+          "mensaje": "Don Aurelio vio cómo cerraron la maderería para siempre y pusieron cinta amarilla de clausura. Al guardia de seguridad le liquidaron su suel",
+          "fecha_programada": "2026-11-24T12:30:00.000Z",
+          "estado": "programado_en_meta"
+        },
+        {
+          "id": "1367888553074849_122111722035507613",
+          "url": "https://www.facebook.com/1367888553074849_122111722035507613",
+          "mensaje": "«Sufrimos más a menudo por la imaginación que por la realidad». — Séneca 🏛️📜\n\n¿Cuántas noches te has quedado despierto creando escenarios ",
+          "fecha_programada": "2026-11-24T08:00:00.000Z",
+          "estado": "programado_en_meta"
+        },
         {
           "id": "1367888553074849_122111386389507613",
           "url": "https://www.facebook.com/1367888553074849_122111386389507613",
@@ -2080,27 +2101,6 @@
           "mensaje": "«Sufrimos más a menudo por la imaginación que por la realidad». — Séneca 🏛️📜\n\n¿Cuántas noches te has quedado despierto creando escenarios ",
           "fecha_programada": "2026-11-01T21:30:00.000Z",
           "estado": "programado_en_meta"
-        },
-        {
-          "id": "1367888553074849_122097373671507613",
-          "url": "https://www.facebook.com/1367888553074849_122097373671507613",
-          "mensaje": "Doña Beatriz subió a tender ropa y escuchó un llanto seco en la azotea de enfrente. La casa llevaba dos semanas deshabitada con el letrero d",
-          "fecha_programada": "2026-11-01T16:30:00.000Z",
-          "estado": "programado_en_meta"
-        },
-        {
-          "id": "1367888553074849_122097380439507613",
-          "url": "https://www.facebook.com/1367888553074849_122097380439507613",
-          "mensaje": "«Tienes poder sobre tu mente, no sobre los acontecimientos. Date cuenta de esto y encontrarás la fuerza». — Marco Aurelio 🏛️⚔️\n\nHoy te vas ",
-          "fecha_programada": "2026-11-01T12:00:00.000Z",
-          "estado": "programado_en_meta"
-        },
-        {
-          "id": "1367888553074849_122096596233507613",
-          "url": "https://www.facebook.com/1367888553074849_122096596233507613",
-          "mensaje": "«Termina un mes más y yo solo quiero darte las gracias por seguir aquí a mi lado... 🍂🍁🐾\n\nGracias por los paseos en las mañanas frías, por",
-          "fecha_programada": "2026-10-31T23:30:00.000Z",
-          "estado": "programado_en_meta"
         }
       ],
       "instagram": {
@@ -2109,7 +2109,7 @@
         "name": "Huellas con propósito",
         "followers": 1,
         "media_count": 14,
-        "picture": "https://scontent-iad3-2.xx.fbcdn.net/v/t51.82787-15/846964896_18127515184894503_9206256640984781246_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=7d201b&_nc_ohc=vi2oFQqEDEMQ7kNvwHudNpX&_nc_oc=AdruSNkJBaj_yP-iQfYhoPSaXPipKwKURrissTgiQAX_bZIYmx-41pJPn8WFmD0v7HY&_nc_zt=23&_nc_ht=scontent-iad3-2.xx&edm=AJ-jyNUEAAAA&_nc_gid=KBTxL4Yl15F574Jiqx-fvw&oh=00_AQPj0uh9XB2mE_XgMY0clfwjtBlspswwVFJt-RLMAoNX3Q&oe=6AE607AE"
+        "picture": "https://scontent-ord5-2.xx.fbcdn.net/v/t51.82787-15/846964896_18127515184894503_9206256640984781246_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=7d201b&_nc_ohc=_U9edduStfIQ7kNvwGXwg2v&_nc_oc=AdqJO87JPPC8Own-itNQN0OSIYBr-IQhMFQzMY3lQVbPUlfuaNDIdrP0uyWu6Ex8if4&_nc_zt=23&_nc_ht=scontent-ord5-2.xx&edm=AJ-jyNUEAAAA&_nc_gid=DaIDmrfqFpHyTXYBUZJfVQ&oh=00_AQNGPIC3EPdYJGKbYXxRkgX4e4q6ArRjlGroJTnDP2j-cw&oe=6AE6B06E"
       }
     },
     "1375923958937880": {
@@ -2121,7 +2121,7 @@
         "seguidos": 0,
         "personas_hablando": 0,
         "foto_perfil": "",
-        "ultima_actualizacion": "2026-10-27T06:37:19.560Z"
+        "ultima_actualizacion": "2026-10-27T18:11:31.242Z"
       },
       "resumen_kpis": {
         "total_seguidores": 7,
