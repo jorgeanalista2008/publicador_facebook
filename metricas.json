@@ -5,19 +5,19 @@
     "categoria": "Animals & Pets",
     "seguidores": 41,
     "seguidos": 3,
-    "personas_hablando": 28,
-    "foto_perfil": "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.30808-1/825286629_28604489712564817_7866327839881392565_n.jpg?stp=dst-jpg_s200x200_tt6&_nc_cat=110&ccb=1-7&_nc_sid=f907e8&_nc_ohc=aUBm3Uu1RzQQ7kNvwHIpnvD&_nc_oc=Adq-ynpoSGg6635Xy-6hv_w1mwVRBOYzLyGxMnfGZuNk94ZA5pdtKjhb38O_5qTTSnw&_nc_zt=24&_nc_ht=scontent-sjc3-1.xx&edm=AJdBtusEAAAA&_nc_gid=5QPBNEwPHhJ8PXe9_xS-uQ&_nc_tpa=Q5bMBQKWaKhwTm8FtS-3xPhEbdvjMdWIFtWXsE7IfTfLcGY_iLyv3xBNjhpxBGjxQ68bpMxAwQ0BY33ngw&oh=00_AQTdnje44gLUNOjHm5qnIViGTDkmOavGC7YhloXjRVvr0w&oe=6AE8D7EB",
-    "ultima_actualizacion": "2026-10-29T07:30:15.661Z"
+    "personas_hablando": 29,
+    "foto_perfil": "https://scontent-iad3-1.xx.fbcdn.net/v/t39.30808-1/825286629_28604489712564817_7866327839881392565_n.jpg?stp=dst-jpg_s200x200_tt6&_nc_cat=110&ccb=1-7&_nc_sid=f907e8&_nc_ohc=aUBm3Uu1RzQQ7kNvwFuOhdo&_nc_oc=AdqzzwJRqcSZHByQ6lndwXAyfbiaucON5z7k8rHYQ-5tgqnYsxolBPxdZa3LJopDOQs&_nc_zt=24&_nc_ht=scontent-iad3-1.xx&edm=AJdBtusEAAAA&_nc_gid=XB32dYzq3zYgRs8-9vSITQ&_nc_tpa=Q5bMBQKRtaxbdi0aIeD2GinsHs8iZBPfadqnvKNKr1TSslxeSvhVD7KcruA0N6xtRwDC2sUrZl5a23UX3g&oh=00_AQRYkxzFN1NlODO1eNHykfa-oMzHjCv-gwWwW96Pi8aeDg&oe=6AE980AB",
+    "ultima_actualizacion": "2026-10-29T18:37:17.271Z"
   },
   "resumen_kpis": {
     "total_seguidores": 41,
     "seguidores_detalle": "41 seguidores • 3 seguidos",
     "crecimiento_semanal": "+35%",
     "seguidores_nuevos_semana": 7,
-    "personas_hablando": 28,
+    "personas_hablando": 29,
     "alcance_estimado": 738,
-    "interacciones_totales": 1,
-    "reacciones_totales": 1,
+    "interacciones_totales": 0,
+    "reacciones_totales": 0,
     "comentarios_totales": 0,
     "compartidos_totales": 0,
     "programados_en_servidores_meta": 100,
@@ -68,6 +68,28 @@
     }
   ],
   "ultimos_posts_publicados": [
+    {
+      "id": "1367888553074849_122112592713507613",
+      "url": "https://www.facebook.com/1367888553074849_122112592713507613",
+      "mensaje": "Publicación",
+      "fecha": "2026-10-29T17:33:28+0000",
+      "reacciones": 0,
+      "comentarios": 0,
+      "compartidos": 0,
+      "tipo": "post",
+      "estado": "publicado"
+    },
+    {
+      "id": "1367888553074849_122096595669507613",
+      "url": "https://www.facebook.com/1367888553074849_122096595669507613",
+      "mensaje": "«Estuvo tres semanas internado luchando contra el parvovirus. Los doctores dieron todo por él y hoy... ¡HOY SE FUE A CASA! 🏥🎉🐶\n\nPaco lleg",
+      "fecha": "2026-10-29T13:00:03+0000",
+      "reacciones": 0,
+      "comentarios": 0,
+      "compartidos": 0,
+      "tipo": "post",
+      "estado": "publicado"
+    },
     {
       "id": "1367888553074849_122096595597507613",
       "url": "https://www.facebook.com/1367888553074849_122096595597507613",
@@ -320,31 +342,30 @@
       "compartidos": 0,
       "tipo": "post",
       "estado": "publicado"
-    },
-    {
-      "id": "1367888553074849_122096593527507613",
-      "url": "https://www.facebook.com/1367888553074849_122096593527507613",
-      "mensaje": "«Si tu perro pudiera hablar por un minuto antes de apagar la luz, esto es lo que te diría... 🌙🐾\n\n1. 'Gracias por volver a casa hoy. Aunque",
-      "fecha": "2026-10-18T23:30:03+0000",
-      "reacciones": 0,
-      "comentarios": 0,
-      "compartidos": 0,
-      "tipo": "post",
-      "estado": "publicado"
-    },
-    {
-      "id": "1367888553074849_122105702055507613",
-      "url": "https://www.facebook.com/1367888553074849_122105702055507613",
-      "mensaje": "Sun Tzu observó a un general que estaba a punto de ser rodeado. Sus enemigos eran más numerosos, ruidosos y atacaban desde todos los flancos",
-      "fecha": "2026-10-18T13:57:21+0000",
-      "reacciones": 1,
-      "comentarios": 0,
-      "compartidos": 0,
-      "tipo": "post",
-      "estado": "publicado"
     }
   ],
   "proximos_programados_meta": [
+    {
+      "id": "1367888553074849_122112612189507613",
+      "url": "https://www.facebook.com/1367888553074849_122112612189507613",
+      "mensaje": "«Sufrimos más a menudo por la imaginación que por la realidad». — Séneca 🏛️📜\n\n¿Cuántas noches te has quedado despierto creando escenarios ",
+      "fecha_programada": "2026-11-26T17:30:00.000Z",
+      "estado": "programado_en_meta"
+    },
+    {
+      "id": "1367888553074849_122112612129507613",
+      "url": "https://www.facebook.com/1367888553074849_122112612129507613",
+      "mensaje": "Doña Beatriz subió a tender ropa y escuchó un llanto seco en la azotea de enfrente. La casa llevaba dos semanas deshabitada con el letrero d",
+      "fecha_programada": "2026-11-26T12:30:00.000Z",
+      "estado": "programado_en_meta"
+    },
+    {
+      "id": "1367888553074849_122112611979507613",
+      "url": "https://www.facebook.com/1367888553074849_122112611979507613",
+      "mensaje": "«Tienes poder sobre tu mente, no sobre los acontecimientos. Date cuenta de esto y encontrarás la fuerza». — Marco Aurelio 🏛️⚔️\n\nHoy te vas ",
+      "fecha_programada": "2026-11-26T08:00:00.000Z",
+      "estado": "programado_en_meta"
+    },
     {
       "id": "1367888553074849_122112272283507613",
       "url": "https://www.facebook.com/1367888553074849_122112272283507613",
@@ -1023,27 +1044,6 @@
       "mensaje": "«Tienes poder sobre tu mente, no sobre los acontecimientos. Date cuenta de esto y encontrarás la fuerza». — Marco Aurelio 🏛️⚔️\n\nHoy te vas ",
       "fecha_programada": "2026-11-03T21:30:00.000Z",
       "estado": "programado_en_meta"
-    },
-    {
-      "id": "1367888553074849_122097374595507613",
-      "url": "https://www.facebook.com/1367888553074849_122097374595507613",
-      "mensaje": "Don Marcos llamó al nuevo dueño del taller mecánico que acababa de quebrar. Una voz apresurada le contestó que se estaban llevando la maquin",
-      "fecha_programada": "2026-11-03T16:30:00.000Z",
-      "estado": "programado_en_meta"
-    },
-    {
-      "id": "1367888553074849_122097380841507613",
-      "url": "https://www.facebook.com/1367888553074849_122097380841507613",
-      "mensaje": "«No tenemos poco tiempo, sino que perdemos mucho». — Séneca (Sobre la brevedad de la vida) ⏳🏛️\n\nNos quejamos constantemente de que la vida ",
-      "fecha_programada": "2026-11-03T12:00:00.000Z",
-      "estado": "programado_en_meta"
-    },
-    {
-      "id": "1367888553074849_122097374331507613",
-      "url": "https://www.facebook.com/1367888553074849_122097374331507613",
-      "mensaje": "Eran las 6:30 de la mañana cuando el doctor Fernando llegó a abrir la clínica veterinaria. Atado a la aldaba metálica de la entrada había un",
-      "fecha_programada": "2026-11-03T00:30:00.000Z",
-      "estado": "programado_en_meta"
     }
   ],
   "instagram": {
@@ -1052,7 +1052,7 @@
     "name": "Huellas con propósito",
     "followers": 1,
     "media_count": 14,
-    "picture": "https://scontent-sjc6-1.xx.fbcdn.net/v/t51.82787-15/846964896_18127515184894503_9206256640984781246_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=7d201b&_nc_ohc=_U9edduStfIQ7kNvwGDc1YY&_nc_oc=AdoOQNUAkOj2raMAyPM_QTc1atOQRhK4ZCk5ucvbk3rOTCy_v-GQTdVYeiAFi2orK0U&_nc_zt=23&_nc_ht=scontent-sjc6-1.xx&edm=AJ-jyNUEAAAA&_nc_gid=4M9n6GJo7gIPa3vQBkjerw&oh=00_AQRrYIjaNtJjix_8f83YtmGrxenPa3RosNp60hwMfQ8JIg&oe=6AE8E2EE"
+    "picture": "https://scontent-iad3-1.xx.fbcdn.net/v/t51.82787-15/846964896_18127515184894503_9206256640984781246_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=7d201b&_nc_ohc=_U9edduStfIQ7kNvwEqnuk1&_nc_oc=Adpl-eH52YxpRgARuWbHbqFZ79VbnITrt9FKJcoHVfZtsQS9WyRzJc26NMHILASfWCU&_nc_zt=23&_nc_ht=scontent-iad3-1.xx&edm=AJ-jyNUEAAAA&_nc_gid=gEQpfEu-R8DS2pm1KWHRDQ&oh=00_AQRZ4WkLH1Ep0YGvIbYHDzsby6LDUvHoiXP63llcUK4oFQ&oe=6AE9536E"
   },
   "paginas": {
     "1367888553074849": {
@@ -1062,19 +1062,19 @@
         "categoria": "Animals & Pets",
         "seguidores": 41,
         "seguidos": 3,
-        "personas_hablando": 28,
-        "foto_perfil": "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.30808-1/825286629_28604489712564817_7866327839881392565_n.jpg?stp=dst-jpg_s200x200_tt6&_nc_cat=110&ccb=1-7&_nc_sid=f907e8&_nc_ohc=aUBm3Uu1RzQQ7kNvwHIpnvD&_nc_oc=Adq-ynpoSGg6635Xy-6hv_w1mwVRBOYzLyGxMnfGZuNk94ZA5pdtKjhb38O_5qTTSnw&_nc_zt=24&_nc_ht=scontent-sjc3-1.xx&edm=AJdBtusEAAAA&_nc_gid=5QPBNEwPHhJ8PXe9_xS-uQ&_nc_tpa=Q5bMBQKWaKhwTm8FtS-3xPhEbdvjMdWIFtWXsE7IfTfLcGY_iLyv3xBNjhpxBGjxQ68bpMxAwQ0BY33ngw&oh=00_AQTdnje44gLUNOjHm5qnIViGTDkmOavGC7YhloXjRVvr0w&oe=6AE8D7EB",
-        "ultima_actualizacion": "2026-10-29T07:30:15.661Z"
+        "personas_hablando": 29,
+        "foto_perfil": "https://scontent-iad3-1.xx.fbcdn.net/v/t39.30808-1/825286629_28604489712564817_7866327839881392565_n.jpg?stp=dst-jpg_s200x200_tt6&_nc_cat=110&ccb=1-7&_nc_sid=f907e8&_nc_ohc=aUBm3Uu1RzQQ7kNvwFuOhdo&_nc_oc=AdqzzwJRqcSZHByQ6lndwXAyfbiaucON5z7k8rHYQ-5tgqnYsxolBPxdZa3LJopDOQs&_nc_zt=24&_nc_ht=scontent-iad3-1.xx&edm=AJdBtusEAAAA&_nc_gid=XB32dYzq3zYgRs8-9vSITQ&_nc_tpa=Q5bMBQKRtaxbdi0aIeD2GinsHs8iZBPfadqnvKNKr1TSslxeSvhVD7KcruA0N6xtRwDC2sUrZl5a23UX3g&oh=00_AQRYkxzFN1NlODO1eNHykfa-oMzHjCv-gwWwW96Pi8aeDg&oe=6AE980AB",
+        "ultima_actualizacion": "2026-10-29T18:37:17.271Z"
       },
       "resumen_kpis": {
         "total_seguidores": 41,
         "seguidores_detalle": "41 seguidores • 3 seguidos",
         "crecimiento_semanal": "+35%",
         "seguidores_nuevos_semana": 7,
-        "personas_hablando": 28,
+        "personas_hablando": 29,
         "alcance_estimado": 738,
-        "interacciones_totales": 1,
-        "reacciones_totales": 1,
+        "interacciones_totales": 0,
+        "reacciones_totales": 0,
         "comentarios_totales": 0,
         "compartidos_totales": 0,
         "programados_en_servidores_meta": 100,
@@ -1125,6 +1125,28 @@
         }
       ],
       "ultimos_posts_publicados": [
+        {
+          "id": "1367888553074849_122112592713507613",
+          "url": "https://www.facebook.com/1367888553074849_122112592713507613",
+          "mensaje": "Publicación",
+          "fecha": "2026-10-29T17:33:28+0000",
+          "reacciones": 0,
+          "comentarios": 0,
+          "compartidos": 0,
+          "tipo": "post",
+          "estado": "publicado"
+        },
+        {
+          "id": "1367888553074849_122096595669507613",
+          "url": "https://www.facebook.com/1367888553074849_122096595669507613",
+          "mensaje": "«Estuvo tres semanas internado luchando contra el parvovirus. Los doctores dieron todo por él y hoy... ¡HOY SE FUE A CASA! 🏥🎉🐶\n\nPaco lleg",
+          "fecha": "2026-10-29T13:00:03+0000",
+          "reacciones": 0,
+          "comentarios": 0,
+          "compartidos": 0,
+          "tipo": "post",
+          "estado": "publicado"
+        },
         {
           "id": "1367888553074849_122096595597507613",
           "url": "https://www.facebook.com/1367888553074849_122096595597507613",
@@ -1377,31 +1399,30 @@
           "compartidos": 0,
           "tipo": "post",
           "estado": "publicado"
-        },
-        {
-          "id": "1367888553074849_122096593527507613",
-          "url": "https://www.facebook.com/1367888553074849_122096593527507613",
-          "mensaje": "«Si tu perro pudiera hablar por un minuto antes de apagar la luz, esto es lo que te diría... 🌙🐾\n\n1. 'Gracias por volver a casa hoy. Aunque",
-          "fecha": "2026-10-18T23:30:03+0000",
-          "reacciones": 0,
-          "comentarios": 0,
-          "compartidos": 0,
-          "tipo": "post",
-          "estado": "publicado"
-        },
-        {
-          "id": "1367888553074849_122105702055507613",
-          "url": "https://www.facebook.com/1367888553074849_122105702055507613",
-          "mensaje": "Sun Tzu observó a un general que estaba a punto de ser rodeado. Sus enemigos eran más numerosos, ruidosos y atacaban desde todos los flancos",
-          "fecha": "2026-10-18T13:57:21+0000",
-          "reacciones": 1,
-          "comentarios": 0,
-          "compartidos": 0,
-          "tipo": "post",
-          "estado": "publicado"
         }
       ],
       "proximos_programados_meta": [
+        {
+          "id": "1367888553074849_122112612189507613",
+          "url": "https://www.facebook.com/1367888553074849_122112612189507613",
+          "mensaje": "«Sufrimos más a menudo por la imaginación que por la realidad». — Séneca 🏛️📜\n\n¿Cuántas noches te has quedado despierto creando escenarios ",
+          "fecha_programada": "2026-11-26T17:30:00.000Z",
+          "estado": "programado_en_meta"
+        },
+        {
+          "id": "1367888553074849_122112612129507613",
+          "url": "https://www.facebook.com/1367888553074849_122112612129507613",
+          "mensaje": "Doña Beatriz subió a tender ropa y escuchó un llanto seco en la azotea de enfrente. La casa llevaba dos semanas deshabitada con el letrero d",
+          "fecha_programada": "2026-11-26T12:30:00.000Z",
+          "estado": "programado_en_meta"
+        },
+        {
+          "id": "1367888553074849_122112611979507613",
+          "url": "https://www.facebook.com/1367888553074849_122112611979507613",
+          "mensaje": "«Tienes poder sobre tu mente, no sobre los acontecimientos. Date cuenta de esto y encontrarás la fuerza». — Marco Aurelio 🏛️⚔️\n\nHoy te vas ",
+          "fecha_programada": "2026-11-26T08:00:00.000Z",
+          "estado": "programado_en_meta"
+        },
         {
           "id": "1367888553074849_122112272283507613",
           "url": "https://www.facebook.com/1367888553074849_122112272283507613",
@@ -2080,27 +2101,6 @@
           "mensaje": "«Tienes poder sobre tu mente, no sobre los acontecimientos. Date cuenta de esto y encontrarás la fuerza». — Marco Aurelio 🏛️⚔️\n\nHoy te vas ",
           "fecha_programada": "2026-11-03T21:30:00.000Z",
           "estado": "programado_en_meta"
-        },
-        {
-          "id": "1367888553074849_122097374595507613",
-          "url": "https://www.facebook.com/1367888553074849_122097374595507613",
-          "mensaje": "Don Marcos llamó al nuevo dueño del taller mecánico que acababa de quebrar. Una voz apresurada le contestó que se estaban llevando la maquin",
-          "fecha_programada": "2026-11-03T16:30:00.000Z",
-          "estado": "programado_en_meta"
-        },
-        {
-          "id": "1367888553074849_122097380841507613",
-          "url": "https://www.facebook.com/1367888553074849_122097380841507613",
-          "mensaje": "«No tenemos poco tiempo, sino que perdemos mucho». — Séneca (Sobre la brevedad de la vida) ⏳🏛️\n\nNos quejamos constantemente de que la vida ",
-          "fecha_programada": "2026-11-03T12:00:00.000Z",
-          "estado": "programado_en_meta"
-        },
-        {
-          "id": "1367888553074849_122097374331507613",
-          "url": "https://www.facebook.com/1367888553074849_122097374331507613",
-          "mensaje": "Eran las 6:30 de la mañana cuando el doctor Fernando llegó a abrir la clínica veterinaria. Atado a la aldaba metálica de la entrada había un",
-          "fecha_programada": "2026-11-03T00:30:00.000Z",
-          "estado": "programado_en_meta"
         }
       ],
       "instagram": {
@@ -2109,7 +2109,7 @@
         "name": "Huellas con propósito",
         "followers": 1,
         "media_count": 14,
-        "picture": "https://scontent-sjc6-1.xx.fbcdn.net/v/t51.82787-15/846964896_18127515184894503_9206256640984781246_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=7d201b&_nc_ohc=_U9edduStfIQ7kNvwGDc1YY&_nc_oc=AdoOQNUAkOj2raMAyPM_QTc1atOQRhK4ZCk5ucvbk3rOTCy_v-GQTdVYeiAFi2orK0U&_nc_zt=23&_nc_ht=scontent-sjc6-1.xx&edm=AJ-jyNUEAAAA&_nc_gid=4M9n6GJo7gIPa3vQBkjerw&oh=00_AQRrYIjaNtJjix_8f83YtmGrxenPa3RosNp60hwMfQ8JIg&oe=6AE8E2EE"
+        "picture": "https://scontent-iad3-1.xx.fbcdn.net/v/t51.82787-15/846964896_18127515184894503_9206256640984781246_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=7d201b&_nc_ohc=_U9edduStfIQ7kNvwEqnuk1&_nc_oc=Adpl-eH52YxpRgARuWbHbqFZ79VbnITrt9FKJcoHVfZtsQS9WyRzJc26NMHILASfWCU&_nc_zt=23&_nc_ht=scontent-iad3-1.xx&edm=AJ-jyNUEAAAA&_nc_gid=gEQpfEu-R8DS2pm1KWHRDQ&oh=00_AQRZ4WkLH1Ep0YGvIbYHDzsby6LDUvHoiXP63llcUK4oFQ&oe=6AE9536E"
       }
     },
     "1375923958937880": {
@@ -2121,7 +2121,7 @@
         "seguidos": 0,
         "personas_hablando": 0,
         "foto_perfil": "",
-        "ultima_actualizacion": "2026-10-29T07:30:15.886Z"
+        "ultima_actualizacion": "2026-10-29T18:37:17.508Z"
       },
       "resumen_kpis": {
         "total_seguidores": 7,
