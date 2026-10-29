@@ -5,16 +5,16 @@
     "categoria": "Animals & Pets",
     "seguidores": 40,
     "seguidos": 3,
-    "personas_hablando": 29,
-    "foto_perfil": "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.30808-1/825286629_28604489712564817_7866327839881392565_n.jpg?stp=dst-jpg_s200x200_tt6&_nc_cat=110&ccb=1-7&_nc_sid=f907e8&_nc_ohc=aUBm3Uu1RzQQ7kNvwGK6TKJ&_nc_oc=AdoR2K_zgJOV7EpEpPKDZwoMbGLTGj984IWpvNfs0cMoTGvhEpKAWMYDbMBTFm82ogY&_nc_zt=24&_nc_ht=scontent-sjc3-1.xx&edm=AJdBtusEAAAA&_nc_gid=c1FnTgRfVPtGWKLTY-Bz8Q&_nc_tpa=Q5bMBQL68MPlH_GsnJP8LL0_0PAn__Xp4qBmCmxbrGuZx8XDlcqJ2uRJ0eRDfVRBhCp95j8irkLGXMfh5g&oh=00_AQRYWVGEpkIPavs6PjZ3nCUQl5gdZ0xOxLhNBqJMyOnukA&oe=6AE7F6EB",
-    "ultima_actualizacion": "2026-10-28T18:28:03.640Z"
+    "personas_hablando": 30,
+    "foto_perfil": "https://scontent-lga3-1.xx.fbcdn.net/v/t39.30808-1/825286629_28604489712564817_7866327839881392565_n.jpg?stp=dst-jpg_s200x200_tt6&_nc_cat=110&ccb=1-7&_nc_sid=f907e8&_nc_ohc=aUBm3Uu1RzQQ7kNvwF2cWbS&_nc_oc=AdpOXDR3yS45Ak1TUeNc8j8IWATmoMKa5bp-3_gMlJUrS1X9DeBMCPtKrnm81WrwfyU&_nc_zt=24&_nc_ht=scontent-lga3-1.xx&edm=AJdBtusEAAAA&_nc_gid=btBNFO_RAUWBmFWbW__1yw&_nc_tpa=Q5bMBQLpYIkQTNfTyWg6KCiSkDLJ43ryy_DqfsVQvMr388NcOeXOqcxl45ifkTuCL6KsyEEKkHgLzTQ0_w&oh=00_AQRgaxt9j4zToNsBySUPBOtQywduIEIiMsEvc069RRSpDQ&oe=6AE8676B",
+    "ultima_actualizacion": "2026-10-29T00:12:33.472Z"
   },
   "resumen_kpis": {
     "total_seguidores": 40,
     "seguidores_detalle": "40 seguidores • 3 seguidos",
     "crecimiento_semanal": "+35%",
     "seguidores_nuevos_semana": 7,
-    "personas_hablando": 29,
+    "personas_hablando": 30,
     "alcance_estimado": 720,
     "interacciones_totales": 1,
     "reacciones_totales": 1,
@@ -68,6 +68,17 @@
     }
   ],
   "ultimos_posts_publicados": [
+    {
+      "id": "1367888553074849_122096595597507613",
+      "url": "https://www.facebook.com/1367888553074849_122096595597507613",
+      "mensaje": "«A veces creemos que para hacer feliz a un perro hay que comprarle juguetes caros o comida gourmet... nada más lejos de la verdad. 🐾💖\n\nLo ",
+      "fecha": "2026-10-28T23:30:00+0000",
+      "reacciones": 0,
+      "comentarios": 0,
+      "compartidos": 0,
+      "tipo": "post",
+      "estado": "publicado"
+    },
     {
       "id": "1367888553074849_122096595531507613",
       "url": "https://www.facebook.com/1367888553074849_122096595531507613",
@@ -331,20 +342,16 @@
       "compartidos": 0,
       "tipo": "post",
       "estado": "publicado"
-    },
-    {
-      "id": "1367888553074849_122096593407507613",
-      "url": "https://www.facebook.com/1367888553074849_122096593407507613",
-      "mensaje": "«Muchos perros le ladran al camión de la basura... pero Pirata espera ansioso cada martes y jueves por sus mejores amigos. 🚛🐕👋\n\nTodo empe",
-      "fecha": "2026-10-18T13:00:02+0000",
-      "reacciones": 0,
-      "comentarios": 0,
-      "compartidos": 0,
-      "tipo": "post",
-      "estado": "publicado"
     }
   ],
   "proximos_programados_meta": [
+    {
+      "id": "1367888553074849_122112272283507613",
+      "url": "https://www.facebook.com/1367888553074849_122112272283507613",
+      "mensaje": "Don Marcos llamó al nuevo dueño del taller mecánico que acababa de quebrar. Una voz apresurada le contestó que se estaban llevando la maquin",
+      "fecha_programada": "2026-11-25T20:30:00.000Z",
+      "estado": "programado_en_meta"
+    },
     {
       "id": "1367888553074849_122112172845507613",
       "url": "https://www.facebook.com/1367888553074849_122112172845507613",
@@ -1037,13 +1044,6 @@
       "mensaje": "Eran las 6:30 de la mañana cuando el doctor Fernando llegó a abrir la clínica veterinaria. Atado a la aldaba metálica de la entrada había un",
       "fecha_programada": "2026-11-03T00:30:00.000Z",
       "estado": "programado_en_meta"
-    },
-    {
-      "id": "1367888553074849_122097380727507613",
-      "url": "https://www.facebook.com/1367888553074849_122097380727507613",
-      "mensaje": "«La mejor venganza es no ser como tu enemigo». — Marco Aurelio 🏛️⚖️\n\nCuando alguien te traiciona, te miente o te trata con desprecio, tu pr",
-      "fecha_programada": "2026-11-02T21:30:00.000Z",
-      "estado": "programado_en_meta"
     }
   ],
   "instagram": {
@@ -1052,7 +1052,7 @@
     "name": "Huellas con propósito",
     "followers": 1,
     "media_count": 14,
-    "picture": "https://scontent-sjc6-1.xx.fbcdn.net/v/t51.82787-15/846964896_18127515184894503_9206256640984781246_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=7d201b&_nc_ohc=_U9edduStfIQ7kNvwFtRAPp&_nc_oc=AdqbEi7YjbVisZHfoXMAjEw7pmCE4bljuZsWFZlF7w5ybEZKzWknvPGe1m2l2t_IduI&_nc_zt=23&_nc_ht=scontent-sjc6-1.xx&edm=AJ-jyNUEAAAA&_nc_gid=pbnkAYEDoan0coPsPievOg&oh=00_AQRRSWyHnZ1zpYyllDI0qkLAI3S8l7TJzM5c9GVuUdTAxw&oe=6AE801EE"
+    "picture": "https://scontent-lga3-3.xx.fbcdn.net/v/t51.82787-15/846964896_18127515184894503_9206256640984781246_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=7d201b&_nc_ohc=_U9edduStfIQ7kNvwFgOzcb&_nc_oc=Adq_-Bq6KOhJnfLJA1YVvCesgh2IwUET7m04lZNT9AccFGRgrDKKfEKG57SWRnqEQMY&_nc_zt=23&_nc_ht=scontent-lga3-3.xx&edm=AJ-jyNUEAAAA&_nc_gid=OEoy4A3RvfGLST0gob-ycw&oh=00_AQQRfrB0osjjJZlNj_nfzI2m9R4iJOjz5YAaYLZch0JPMg&oe=6AE8726E"
   },
   "paginas": {
     "1367888553074849": {
@@ -1062,16 +1062,16 @@
         "categoria": "Animals & Pets",
         "seguidores": 40,
         "seguidos": 3,
-        "personas_hablando": 29,
-        "foto_perfil": "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.30808-1/825286629_28604489712564817_7866327839881392565_n.jpg?stp=dst-jpg_s200x200_tt6&_nc_cat=110&ccb=1-7&_nc_sid=f907e8&_nc_ohc=aUBm3Uu1RzQQ7kNvwGK6TKJ&_nc_oc=AdoR2K_zgJOV7EpEpPKDZwoMbGLTGj984IWpvNfs0cMoTGvhEpKAWMYDbMBTFm82ogY&_nc_zt=24&_nc_ht=scontent-sjc3-1.xx&edm=AJdBtusEAAAA&_nc_gid=c1FnTgRfVPtGWKLTY-Bz8Q&_nc_tpa=Q5bMBQL68MPlH_GsnJP8LL0_0PAn__Xp4qBmCmxbrGuZx8XDlcqJ2uRJ0eRDfVRBhCp95j8irkLGXMfh5g&oh=00_AQRYWVGEpkIPavs6PjZ3nCUQl5gdZ0xOxLhNBqJMyOnukA&oe=6AE7F6EB",
-        "ultima_actualizacion": "2026-10-28T18:28:03.640Z"
+        "personas_hablando": 30,
+        "foto_perfil": "https://scontent-lga3-1.xx.fbcdn.net/v/t39.30808-1/825286629_28604489712564817_7866327839881392565_n.jpg?stp=dst-jpg_s200x200_tt6&_nc_cat=110&ccb=1-7&_nc_sid=f907e8&_nc_ohc=aUBm3Uu1RzQQ7kNvwF2cWbS&_nc_oc=AdpOXDR3yS45Ak1TUeNc8j8IWATmoMKa5bp-3_gMlJUrS1X9DeBMCPtKrnm81WrwfyU&_nc_zt=24&_nc_ht=scontent-lga3-1.xx&edm=AJdBtusEAAAA&_nc_gid=btBNFO_RAUWBmFWbW__1yw&_nc_tpa=Q5bMBQLpYIkQTNfTyWg6KCiSkDLJ43ryy_DqfsVQvMr388NcOeXOqcxl45ifkTuCL6KsyEEKkHgLzTQ0_w&oh=00_AQRgaxt9j4zToNsBySUPBOtQywduIEIiMsEvc069RRSpDQ&oe=6AE8676B",
+        "ultima_actualizacion": "2026-10-29T00:12:33.472Z"
       },
       "resumen_kpis": {
         "total_seguidores": 40,
         "seguidores_detalle": "40 seguidores • 3 seguidos",
         "crecimiento_semanal": "+35%",
         "seguidores_nuevos_semana": 7,
-        "personas_hablando": 29,
+        "personas_hablando": 30,
         "alcance_estimado": 720,
         "interacciones_totales": 1,
         "reacciones_totales": 1,
@@ -1125,6 +1125,17 @@
         }
       ],
       "ultimos_posts_publicados": [
+        {
+          "id": "1367888553074849_122096595597507613",
+          "url": "https://www.facebook.com/1367888553074849_122096595597507613",
+          "mensaje": "«A veces creemos que para hacer feliz a un perro hay que comprarle juguetes caros o comida gourmet... nada más lejos de la verdad. 🐾💖\n\nLo ",
+          "fecha": "2026-10-28T23:30:00+0000",
+          "reacciones": 0,
+          "comentarios": 0,
+          "compartidos": 0,
+          "tipo": "post",
+          "estado": "publicado"
+        },
         {
           "id": "1367888553074849_122096595531507613",
           "url": "https://www.facebook.com/1367888553074849_122096595531507613",
@@ -1388,20 +1399,16 @@
           "compartidos": 0,
           "tipo": "post",
           "estado": "publicado"
-        },
-        {
-          "id": "1367888553074849_122096593407507613",
-          "url": "https://www.facebook.com/1367888553074849_122096593407507613",
-          "mensaje": "«Muchos perros le ladran al camión de la basura... pero Pirata espera ansioso cada martes y jueves por sus mejores amigos. 🚛🐕👋\n\nTodo empe",
-          "fecha": "2026-10-18T13:00:02+0000",
-          "reacciones": 0,
-          "comentarios": 0,
-          "compartidos": 0,
-          "tipo": "post",
-          "estado": "publicado"
         }
       ],
       "proximos_programados_meta": [
+        {
+          "id": "1367888553074849_122112272283507613",
+          "url": "https://www.facebook.com/1367888553074849_122112272283507613",
+          "mensaje": "Don Marcos llamó al nuevo dueño del taller mecánico que acababa de quebrar. Una voz apresurada le contestó que se estaban llevando la maquin",
+          "fecha_programada": "2026-11-25T20:30:00.000Z",
+          "estado": "programado_en_meta"
+        },
         {
           "id": "1367888553074849_122112172845507613",
           "url": "https://www.facebook.com/1367888553074849_122112172845507613",
@@ -2094,13 +2101,6 @@
           "mensaje": "Eran las 6:30 de la mañana cuando el doctor Fernando llegó a abrir la clínica veterinaria. Atado a la aldaba metálica de la entrada había un",
           "fecha_programada": "2026-11-03T00:30:00.000Z",
           "estado": "programado_en_meta"
-        },
-        {
-          "id": "1367888553074849_122097380727507613",
-          "url": "https://www.facebook.com/1367888553074849_122097380727507613",
-          "mensaje": "«La mejor venganza es no ser como tu enemigo». — Marco Aurelio 🏛️⚖️\n\nCuando alguien te traiciona, te miente o te trata con desprecio, tu pr",
-          "fecha_programada": "2026-11-02T21:30:00.000Z",
-          "estado": "programado_en_meta"
         }
       ],
       "instagram": {
@@ -2109,7 +2109,7 @@
         "name": "Huellas con propósito",
         "followers": 1,
         "media_count": 14,
-        "picture": "https://scontent-sjc6-1.xx.fbcdn.net/v/t51.82787-15/846964896_18127515184894503_9206256640984781246_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=7d201b&_nc_ohc=_U9edduStfIQ7kNvwFtRAPp&_nc_oc=AdqbEi7YjbVisZHfoXMAjEw7pmCE4bljuZsWFZlF7w5ybEZKzWknvPGe1m2l2t_IduI&_nc_zt=23&_nc_ht=scontent-sjc6-1.xx&edm=AJ-jyNUEAAAA&_nc_gid=pbnkAYEDoan0coPsPievOg&oh=00_AQRRSWyHnZ1zpYyllDI0qkLAI3S8l7TJzM5c9GVuUdTAxw&oe=6AE801EE"
+        "picture": "https://scontent-lga3-3.xx.fbcdn.net/v/t51.82787-15/846964896_18127515184894503_9206256640984781246_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=7d201b&_nc_ohc=_U9edduStfIQ7kNvwFgOzcb&_nc_oc=Adq_-Bq6KOhJnfLJA1YVvCesgh2IwUET7m04lZNT9AccFGRgrDKKfEKG57SWRnqEQMY&_nc_zt=23&_nc_ht=scontent-lga3-3.xx&edm=AJ-jyNUEAAAA&_nc_gid=OEoy4A3RvfGLST0gob-ycw&oh=00_AQQRfrB0osjjJZlNj_nfzI2m9R4iJOjz5YAaYLZch0JPMg&oe=6AE8726E"
       }
     },
     "1375923958937880": {
@@ -2121,7 +2121,7 @@
         "seguidos": 0,
         "personas_hablando": 0,
         "foto_perfil": "",
-        "ultima_actualizacion": "2026-10-28T18:28:03.798Z"
+        "ultima_actualizacion": "2026-10-29T00:12:33.621Z"
       },
       "resumen_kpis": {
         "total_seguidores": 7,
@@ -2134,7 +2134,7 @@
         "reacciones_totales": 3,
         "comentarios_totales": 0,
         "compartidos_totales": 1,
-        "programados_en_servidores_meta": 13,
+        "programados_en_servidores_meta": 12,
         "total_publicaciones_sistema": 52
       },
       "rendimiento_por_horario": [
@@ -2390,16 +2390,20 @@
           "compartidos": 0,
           "tipo": "post",
           "estado": "publicado"
-        }
-      ],
-      "proximos_programados_meta": [
+        },
         {
           "id": "122095715997512707",
           "url": "https://www.facebook.com/122095715997512707",
-          "mensaje": "⏰ [Programado 2026-10-28 19:00] Mentalidad Errónea: EL HUIDOR DEL DOLOR vs Mentalidad de Acero",
-          "fecha_programada": "2026-10-28T19:00:00Z",
-          "estado": "programado_en_meta"
-        },
+          "mensaje": "Mentalidad Errónea: EL HUIDOR DEL DOLOR vs Mentalidad de Acero: \"EL DOLOR QUE EVITAS HOY ES LA DEBILIDAD QUE TE APLASTARÁ MAÑANA.\"  El éxito es para los que asumen el 100% de responsab...",
+          "fecha": "2026-10-28T19:00:00.000Z",
+          "reacciones": 0,
+          "comentarios": 0,
+          "compartidos": 0,
+          "tipo": "post",
+          "estado": "publicado"
+        }
+      ],
+      "proximos_programados_meta": [
         {
           "id": "122095716087512707",
           "url": "https://www.facebook.com/122095716087512707",
