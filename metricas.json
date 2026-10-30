@@ -5,16 +5,16 @@
     "categoria": "Animals & Pets",
     "seguidores": 42,
     "seguidos": 3,
-    "personas_hablando": 30,
-    "foto_perfil": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.30808-1/825286629_28604489712564817_7866327839881392565_n.jpg?stp=dst-jpg_s200x200_tt6&_nc_cat=110&ccb=1-7&_nc_sid=f907e8&_nc_ohc=aUBm3Uu1RzQQ7kNvwHK8QEu&_nc_oc=AdrpVTGYku5LPK8frgSO0-ASqBbe0os6OQMFRtoPh3LmVeiTl-f0__e25VBznpQME1I&_nc_zt=24&_nc_ht=scontent-ord5-2.xx&edm=AJdBtusEAAAA&_nc_gid=-TH2NuQ0rxCxFaDy-Ocx9w&_nc_tpa=Q5bMBQIy8R_Kz_M2HcUx-FNU4W3hIHG7KHcN1cBOGqLQxBsNakGleGfcJkvbOzvapYop6JC1wya8IlvZOQ&oh=00_AQROZz3iZthnULPp0DRsWnmR3FXa2LOC38sofQu39Tt9jQ&oe=6AEA296B",
-    "ultima_actualizacion": "2026-10-30T07:32:47.479Z"
+    "personas_hablando": 31,
+    "foto_perfil": "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.30808-1/825286629_28604489712564817_7866327839881392565_n.jpg?stp=dst-jpg_s200x200_tt6&_nc_cat=110&ccb=1-7&_nc_sid=f907e8&_nc_ohc=qq1TePgPYQIQ7kNvwEB41zn&_nc_oc=Adr-Fhq-zXQ4WXVEBl4woj3nBtRYw-oRaI6qLbRjXpxRfTRm8tedz-JAAFEbCOW0UA4&_nc_zt=24&_nc_ht=scontent-sjc3-1.xx&edm=AJdBtusEAAAA&_nc_gid=n93OYgaFJ_2EenE9gRLE7w&_nc_tpa=Q5bMBQIPunAEJRhBMZUFaHGXADA1cv9ObCbe_o2oEaGEvBr4pF4kHxTBBKOnmywMKIlfyxLA3XRZC2VBvQ&oh=00_AQQmUsJs31EjHogidFyBdAHHf8ORt-gGQUXq0dVdp4_Mdg&oe=6AEA99EB",
+    "ultima_actualizacion": "2026-10-30T18:09:24.536Z"
   },
   "resumen_kpis": {
     "total_seguidores": 42,
     "seguidores_detalle": "42 seguidores • 3 seguidos",
     "crecimiento_semanal": "+35%",
     "seguidores_nuevos_semana": 7,
-    "personas_hablando": 30,
+    "personas_hablando": 31,
     "alcance_estimado": 756,
     "interacciones_totales": 0,
     "reacciones_totales": 0,
@@ -68,6 +68,17 @@
     }
   ],
   "ultimos_posts_publicados": [
+    {
+      "id": "1367888553074849_122096595915507613",
+      "url": "https://www.facebook.com/1367888553074849_122096595915507613",
+      "mensaje": "«En el barrio todos esperaban disfraces terroríficos... hasta que apareció el conde 'Drácula' más dulce de la historia. 🎃🧛‍♂️🐶\n\nSus dueño",
+      "fecha": "2026-10-30T13:00:06+0000",
+      "reacciones": 0,
+      "comentarios": 0,
+      "compartidos": 0,
+      "tipo": "post",
+      "estado": "publicado"
+    },
     {
       "id": "1367888553074849_122096595777507613",
       "url": "https://www.facebook.com/1367888553074849_122096595777507613",
@@ -331,20 +342,30 @@
       "compartidos": 0,
       "tipo": "post",
       "estado": "publicado"
-    },
-    {
-      "id": "1367888553074849_122096593629507613",
-      "url": "https://www.facebook.com/1367888553074849_122096593629507613",
-      "mensaje": "«Estaba en los huesos, sin pelo por la sarna y con la mirada completamente apagada. Muchos decían que era mejor dormirlo... 💔➡️💖\n\nPero una",
-      "fecha": "2026-10-19T13:00:12+0000",
-      "reacciones": 0,
-      "comentarios": 0,
-      "compartidos": 0,
-      "tipo": "post",
-      "estado": "publicado"
     }
   ],
   "proximos_programados_meta": [
+    {
+      "id": "1367888553074849_122113030155507613",
+      "url": "https://www.facebook.com/1367888553074849_122113030155507613",
+      "mensaje": "«La mejor venganza es no ser como tu enemigo». — Marco Aurelio 🏛️⚖️\n\nCuando alguien te traiciona, te miente o te trata con desprecio, tu pr",
+      "fecha_programada": "2026-11-27T17:30:00.000Z",
+      "estado": "programado_en_meta"
+    },
+    {
+      "id": "1367888553074849_122113030095507613",
+      "url": "https://www.facebook.com/1367888553074849_122113030095507613",
+      "mensaje": "La señora Carmela vio salir el camión de mudanza a toda velocidad. Diez minutos después, una cachorrita peluda y blanca salió corriendo del ",
+      "fecha_programada": "2026-11-27T12:30:00.000Z",
+      "estado": "programado_en_meta"
+    },
+    {
+      "id": "1367888553074849_122113029957507613",
+      "url": "https://www.facebook.com/1367888553074849_122113029957507613",
+      "mensaje": "«No nos afecta lo que nos sucede, sino el juicio que nos formamos de lo que nos sucede». — Epicteto 🏛️🛡️\n\nEpicteto nació esclavo, soportó ",
+      "fecha_programada": "2026-11-27T08:00:00.000Z",
+      "estado": "programado_en_meta"
+    },
     {
       "id": "1367888553074849_122112714543507613",
       "url": "https://www.facebook.com/1367888553074849_122112714543507613",
@@ -1023,27 +1044,6 @@
       "mensaje": "«No nos afecta lo que nos sucede, sino el juicio que nos formamos de lo que nos sucede». — Epicteto 🏛️🛡️\n\nEpicteto nació esclavo, soportó ",
       "fecha_programada": "2026-11-04T21:30:00.000Z",
       "estado": "programado_en_meta"
-    },
-    {
-      "id": "1367888553074849_122097375081507613",
-      "url": "https://www.facebook.com/1367888553074849_122097375081507613",
-      "mensaje": "Don Aurelio vio cómo cerraron la maderería para siempre y pusieron cinta amarilla de clausura. Al guardia de seguridad le liquidaron su suel",
-      "fecha_programada": "2026-11-04T16:30:00.000Z",
-      "estado": "programado_en_meta"
-    },
-    {
-      "id": "1367888553074849_122097381195507613",
-      "url": "https://www.facebook.com/1367888553074849_122097381195507613",
-      "mensaje": "«Sufrimos más a menudo por la imaginación que por la realidad». — Séneca 🏛️📜\n\n¿Cuántas noches te has quedado despierto creando escenarios ",
-      "fecha_programada": "2026-11-04T12:00:00.000Z",
-      "estado": "programado_en_meta"
-    },
-    {
-      "id": "1367888553074849_122097374823507613",
-      "url": "https://www.facebook.com/1367888553074849_122097374823507613",
-      "mensaje": "Doña Beatriz subió a tender ropa y escuchó un llanto seco en la azotea de enfrente. La casa llevaba dos semanas deshabitada con el letrero d",
-      "fecha_programada": "2026-11-04T00:30:00.000Z",
-      "estado": "programado_en_meta"
     }
   ],
   "instagram": {
@@ -1052,7 +1052,7 @@
     "name": "Huellas con propósito",
     "followers": 1,
     "media_count": 14,
-    "picture": "https://scontent-ord5-2.xx.fbcdn.net/v/t51.82787-15/846964896_18127515184894503_9206256640984781246_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=7d201b&_nc_ohc=_U9edduStfIQ7kNvwEgzIXu&_nc_oc=AdqIFb126edg4HfZNxL5OGvygEA9OuOXL9pLO_1tPwSNQ1k08l_rzOkjANhzl8QixMY&_nc_zt=23&_nc_ht=scontent-ord5-2.xx&edm=AJ-jyNUEAAAA&_nc_gid=FN2RaEg-L-pdozv9w65A6A&oh=00_AQQpDMKRjf2A_wM2HSvhwQsiP_EhkGDRAbGU3ibq_dKTGA&oe=6AEA346E"
+    "picture": "https://scontent-sjc6-1.xx.fbcdn.net/v/t51.82787-15/846964896_18127515184894503_9206256640984781246_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=7d201b&_nc_ohc=U8YO4DQrrQkQ7kNvwGfaKVr&_nc_oc=AdogCtvVJ6g5aOGGAsk4mEpt06DLgfsbnTddGvN36WVgNbKwhaIyuW_OrPw9aYxR7N4&_nc_zt=23&_nc_ht=scontent-sjc6-1.xx&edm=AJ-jyNUEAAAA&_nc_gid=LNjmweq9ZpH7vQOZbWvcOQ&oh=00_AQRF6lT0HAfoCexaoO1wzu6IrZyPLCrojnWLa9f3KBtmpw&oe=6AEAA4EE"
   },
   "paginas": {
     "1367888553074849": {
@@ -1062,16 +1062,16 @@
         "categoria": "Animals & Pets",
         "seguidores": 42,
         "seguidos": 3,
-        "personas_hablando": 30,
-        "foto_perfil": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.30808-1/825286629_28604489712564817_7866327839881392565_n.jpg?stp=dst-jpg_s200x200_tt6&_nc_cat=110&ccb=1-7&_nc_sid=f907e8&_nc_ohc=aUBm3Uu1RzQQ7kNvwHK8QEu&_nc_oc=AdrpVTGYku5LPK8frgSO0-ASqBbe0os6OQMFRtoPh3LmVeiTl-f0__e25VBznpQME1I&_nc_zt=24&_nc_ht=scontent-ord5-2.xx&edm=AJdBtusEAAAA&_nc_gid=-TH2NuQ0rxCxFaDy-Ocx9w&_nc_tpa=Q5bMBQIy8R_Kz_M2HcUx-FNU4W3hIHG7KHcN1cBOGqLQxBsNakGleGfcJkvbOzvapYop6JC1wya8IlvZOQ&oh=00_AQROZz3iZthnULPp0DRsWnmR3FXa2LOC38sofQu39Tt9jQ&oe=6AEA296B",
-        "ultima_actualizacion": "2026-10-30T07:32:47.479Z"
+        "personas_hablando": 31,
+        "foto_perfil": "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.30808-1/825286629_28604489712564817_7866327839881392565_n.jpg?stp=dst-jpg_s200x200_tt6&_nc_cat=110&ccb=1-7&_nc_sid=f907e8&_nc_ohc=qq1TePgPYQIQ7kNvwEB41zn&_nc_oc=Adr-Fhq-zXQ4WXVEBl4woj3nBtRYw-oRaI6qLbRjXpxRfTRm8tedz-JAAFEbCOW0UA4&_nc_zt=24&_nc_ht=scontent-sjc3-1.xx&edm=AJdBtusEAAAA&_nc_gid=n93OYgaFJ_2EenE9gRLE7w&_nc_tpa=Q5bMBQIPunAEJRhBMZUFaHGXADA1cv9ObCbe_o2oEaGEvBr4pF4kHxTBBKOnmywMKIlfyxLA3XRZC2VBvQ&oh=00_AQQmUsJs31EjHogidFyBdAHHf8ORt-gGQUXq0dVdp4_Mdg&oe=6AEA99EB",
+        "ultima_actualizacion": "2026-10-30T18:09:24.536Z"
       },
       "resumen_kpis": {
         "total_seguidores": 42,
         "seguidores_detalle": "42 seguidores • 3 seguidos",
         "crecimiento_semanal": "+35%",
         "seguidores_nuevos_semana": 7,
-        "personas_hablando": 30,
+        "personas_hablando": 31,
         "alcance_estimado": 756,
         "interacciones_totales": 0,
         "reacciones_totales": 0,
@@ -1125,6 +1125,17 @@
         }
       ],
       "ultimos_posts_publicados": [
+        {
+          "id": "1367888553074849_122096595915507613",
+          "url": "https://www.facebook.com/1367888553074849_122096595915507613",
+          "mensaje": "«En el barrio todos esperaban disfraces terroríficos... hasta que apareció el conde 'Drácula' más dulce de la historia. 🎃🧛‍♂️🐶\n\nSus dueño",
+          "fecha": "2026-10-30T13:00:06+0000",
+          "reacciones": 0,
+          "comentarios": 0,
+          "compartidos": 0,
+          "tipo": "post",
+          "estado": "publicado"
+        },
         {
           "id": "1367888553074849_122096595777507613",
           "url": "https://www.facebook.com/1367888553074849_122096595777507613",
@@ -1388,20 +1399,30 @@
           "compartidos": 0,
           "tipo": "post",
           "estado": "publicado"
-        },
-        {
-          "id": "1367888553074849_122096593629507613",
-          "url": "https://www.facebook.com/1367888553074849_122096593629507613",
-          "mensaje": "«Estaba en los huesos, sin pelo por la sarna y con la mirada completamente apagada. Muchos decían que era mejor dormirlo... 💔➡️💖\n\nPero una",
-          "fecha": "2026-10-19T13:00:12+0000",
-          "reacciones": 0,
-          "comentarios": 0,
-          "compartidos": 0,
-          "tipo": "post",
-          "estado": "publicado"
         }
       ],
       "proximos_programados_meta": [
+        {
+          "id": "1367888553074849_122113030155507613",
+          "url": "https://www.facebook.com/1367888553074849_122113030155507613",
+          "mensaje": "«La mejor venganza es no ser como tu enemigo». — Marco Aurelio 🏛️⚖️\n\nCuando alguien te traiciona, te miente o te trata con desprecio, tu pr",
+          "fecha_programada": "2026-11-27T17:30:00.000Z",
+          "estado": "programado_en_meta"
+        },
+        {
+          "id": "1367888553074849_122113030095507613",
+          "url": "https://www.facebook.com/1367888553074849_122113030095507613",
+          "mensaje": "La señora Carmela vio salir el camión de mudanza a toda velocidad. Diez minutos después, una cachorrita peluda y blanca salió corriendo del ",
+          "fecha_programada": "2026-11-27T12:30:00.000Z",
+          "estado": "programado_en_meta"
+        },
+        {
+          "id": "1367888553074849_122113029957507613",
+          "url": "https://www.facebook.com/1367888553074849_122113029957507613",
+          "mensaje": "«No nos afecta lo que nos sucede, sino el juicio que nos formamos de lo que nos sucede». — Epicteto 🏛️🛡️\n\nEpicteto nació esclavo, soportó ",
+          "fecha_programada": "2026-11-27T08:00:00.000Z",
+          "estado": "programado_en_meta"
+        },
         {
           "id": "1367888553074849_122112714543507613",
           "url": "https://www.facebook.com/1367888553074849_122112714543507613",
@@ -2080,27 +2101,6 @@
           "mensaje": "«No nos afecta lo que nos sucede, sino el juicio que nos formamos de lo que nos sucede». — Epicteto 🏛️🛡️\n\nEpicteto nació esclavo, soportó ",
           "fecha_programada": "2026-11-04T21:30:00.000Z",
           "estado": "programado_en_meta"
-        },
-        {
-          "id": "1367888553074849_122097375081507613",
-          "url": "https://www.facebook.com/1367888553074849_122097375081507613",
-          "mensaje": "Don Aurelio vio cómo cerraron la maderería para siempre y pusieron cinta amarilla de clausura. Al guardia de seguridad le liquidaron su suel",
-          "fecha_programada": "2026-11-04T16:30:00.000Z",
-          "estado": "programado_en_meta"
-        },
-        {
-          "id": "1367888553074849_122097381195507613",
-          "url": "https://www.facebook.com/1367888553074849_122097381195507613",
-          "mensaje": "«Sufrimos más a menudo por la imaginación que por la realidad». — Séneca 🏛️📜\n\n¿Cuántas noches te has quedado despierto creando escenarios ",
-          "fecha_programada": "2026-11-04T12:00:00.000Z",
-          "estado": "programado_en_meta"
-        },
-        {
-          "id": "1367888553074849_122097374823507613",
-          "url": "https://www.facebook.com/1367888553074849_122097374823507613",
-          "mensaje": "Doña Beatriz subió a tender ropa y escuchó un llanto seco en la azotea de enfrente. La casa llevaba dos semanas deshabitada con el letrero d",
-          "fecha_programada": "2026-11-04T00:30:00.000Z",
-          "estado": "programado_en_meta"
         }
       ],
       "instagram": {
@@ -2109,7 +2109,7 @@
         "name": "Huellas con propósito",
         "followers": 1,
         "media_count": 14,
-        "picture": "https://scontent-ord5-2.xx.fbcdn.net/v/t51.82787-15/846964896_18127515184894503_9206256640984781246_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=7d201b&_nc_ohc=_U9edduStfIQ7kNvwEgzIXu&_nc_oc=AdqIFb126edg4HfZNxL5OGvygEA9OuOXL9pLO_1tPwSNQ1k08l_rzOkjANhzl8QixMY&_nc_zt=23&_nc_ht=scontent-ord5-2.xx&edm=AJ-jyNUEAAAA&_nc_gid=FN2RaEg-L-pdozv9w65A6A&oh=00_AQQpDMKRjf2A_wM2HSvhwQsiP_EhkGDRAbGU3ibq_dKTGA&oe=6AEA346E"
+        "picture": "https://scontent-sjc6-1.xx.fbcdn.net/v/t51.82787-15/846964896_18127515184894503_9206256640984781246_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=7d201b&_nc_ohc=U8YO4DQrrQkQ7kNvwGfaKVr&_nc_oc=AdogCtvVJ6g5aOGGAsk4mEpt06DLgfsbnTddGvN36WVgNbKwhaIyuW_OrPw9aYxR7N4&_nc_zt=23&_nc_ht=scontent-sjc6-1.xx&edm=AJ-jyNUEAAAA&_nc_gid=LNjmweq9ZpH7vQOZbWvcOQ&oh=00_AQRF6lT0HAfoCexaoO1wzu6IrZyPLCrojnWLa9f3KBtmpw&oe=6AEAA4EE"
       }
     },
     "1375923958937880": {
@@ -2121,7 +2121,7 @@
         "seguidos": 0,
         "personas_hablando": 0,
         "foto_perfil": "",
-        "ultima_actualizacion": "2026-10-30T07:32:47.586Z"
+        "ultima_actualizacion": "2026-10-30T18:09:24.906Z"
       },
       "resumen_kpis": {
         "total_seguidores": 7,
