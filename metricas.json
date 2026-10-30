@@ -3,19 +3,19 @@
     "id": "1367888553074849",
     "nombre": "Huellas con Propósito",
     "categoria": "Animals & Pets",
-    "seguidores": 42,
+    "seguidores": 43,
     "seguidos": 3,
-    "personas_hablando": 31,
-    "foto_perfil": "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.30808-1/825286629_28604489712564817_7866327839881392565_n.jpg?stp=dst-jpg_s200x200_tt6&_nc_cat=110&ccb=1-7&_nc_sid=f907e8&_nc_ohc=qq1TePgPYQIQ7kNvwEB41zn&_nc_oc=Adr-Fhq-zXQ4WXVEBl4woj3nBtRYw-oRaI6qLbRjXpxRfTRm8tedz-JAAFEbCOW0UA4&_nc_zt=24&_nc_ht=scontent-sjc3-1.xx&edm=AJdBtusEAAAA&_nc_gid=n93OYgaFJ_2EenE9gRLE7w&_nc_tpa=Q5bMBQIPunAEJRhBMZUFaHGXADA1cv9ObCbe_o2oEaGEvBr4pF4kHxTBBKOnmywMKIlfyxLA3XRZC2VBvQ&oh=00_AQQmUsJs31EjHogidFyBdAHHf8ORt-gGQUXq0dVdp4_Mdg&oe=6AEA99EB",
-    "ultima_actualizacion": "2026-10-30T18:09:24.536Z"
+    "personas_hablando": 33,
+    "foto_perfil": "https://scontent-iad3-1.xx.fbcdn.net/v/t39.30808-1/825286629_28604489712564817_7866327839881392565_n.jpg?stp=dst-jpg_s200x200_tt6&_nc_cat=110&ccb=1-7&_nc_sid=f907e8&_nc_ohc=qq1TePgPYQIQ7kNvwFqcnHA&_nc_oc=Adpvnw44_8uKDtmPgC93gsXdfQ_ISb2n7I3ofM1JnYdlz_4vZzoxHe3HrhZzUYahGKI&_nc_zt=24&_nc_ht=scontent-iad3-1.xx&edm=AJdBtusEAAAA&_nc_gid=DYlnDdOmaZCcD-w-Avkjig&_nc_tpa=Q5bMBQKQuoEfazgLEsV_26CSATir18hWELhjXgOPXcCeC0iy25ZQ5FUve1FQiDJGsBTss_GIY-uWhu0MGA&oh=00_AQQPPhvL2naNPeyHp9iNeoupTJNf046RTU-ti_o0PBOK8A&oe=6AEB0A6B",
+    "ultima_actualizacion": "2026-10-30T23:58:04.206Z"
   },
   "resumen_kpis": {
-    "total_seguidores": 42,
-    "seguidores_detalle": "42 seguidores • 3 seguidos",
+    "total_seguidores": 43,
+    "seguidores_detalle": "43 seguidores • 3 seguidos",
     "crecimiento_semanal": "+35%",
     "seguidores_nuevos_semana": 7,
-    "personas_hablando": 31,
-    "alcance_estimado": 756,
+    "personas_hablando": 33,
+    "alcance_estimado": 774,
     "interacciones_totales": 0,
     "reacciones_totales": 0,
     "comentarios_totales": 0,
@@ -64,10 +64,21 @@
     },
     {
       "fecha": "12 Oct",
-      "seguidores": 42
+      "seguidores": 43
     }
   ],
   "ultimos_posts_publicados": [
+    {
+      "id": "1367888553074849_122096595987507613",
+      "url": "https://www.facebook.com/1367888553074849_122096595987507613",
+      "mensaje": "«Los truenos y los fuegos artificiales de fin de mes siempre asustan a los perritos sin hogar en los refugios... 🎆😰🐾\n\nEl refugio 'Huellit",
+      "fecha": "2026-10-30T23:30:01+0000",
+      "reacciones": 0,
+      "comentarios": 0,
+      "compartidos": 0,
+      "tipo": "post",
+      "estado": "publicado"
+    },
     {
       "id": "1367888553074849_122096595915507613",
       "url": "https://www.facebook.com/1367888553074849_122096595915507613",
@@ -331,20 +342,16 @@
       "compartidos": 0,
       "tipo": "post",
       "estado": "publicado"
-    },
-    {
-      "id": "1367888553074849_122096593701507613",
-      "url": "https://www.facebook.com/1367888553074849_122096593701507613",
-      "mensaje": "«¿Creías que mover la cola siempre significa que tu perro está feliz? Cuidado, su cola habla más de lo que crees... 🐕🔍\n\nEstudios de etolog",
-      "fecha": "2026-10-19T23:30:01+0000",
-      "reacciones": 0,
-      "comentarios": 0,
-      "compartidos": 0,
-      "tipo": "post",
-      "estado": "publicado"
     }
   ],
   "proximos_programados_meta": [
+    {
+      "id": "1367888553074849_122113131117507613",
+      "url": "https://www.facebook.com/1367888553074849_122113131117507613",
+      "mensaje": "Eran las 6:30 de la mañana cuando el doctor Fernando llegó a abrir la clínica veterinaria. Atado a la aldaba metálica de la entrada había un",
+      "fecha_programada": "2026-11-27T20:30:00.000Z",
+      "estado": "programado_en_meta"
+    },
     {
       "id": "1367888553074849_122113030155507613",
       "url": "https://www.facebook.com/1367888553074849_122113030155507613",
@@ -1037,13 +1044,6 @@
       "mensaje": "La señora Carmela vio salir el camión de mudanza a toda velocidad. Diez minutos después, una cachorrita peluda y blanca salió corriendo del ",
       "fecha_programada": "2026-11-05T00:30:00.000Z",
       "estado": "programado_en_meta"
-    },
-    {
-      "id": "1367888553074849_122097381321507613",
-      "url": "https://www.facebook.com/1367888553074849_122097381321507613",
-      "mensaje": "«No nos afecta lo que nos sucede, sino el juicio que nos formamos de lo que nos sucede». — Epicteto 🏛️🛡️\n\nEpicteto nació esclavo, soportó ",
-      "fecha_programada": "2026-11-04T21:30:00.000Z",
-      "estado": "programado_en_meta"
     }
   ],
   "instagram": {
@@ -1052,7 +1052,7 @@
     "name": "Huellas con propósito",
     "followers": 1,
     "media_count": 14,
-    "picture": "https://scontent-sjc6-1.xx.fbcdn.net/v/t51.82787-15/846964896_18127515184894503_9206256640984781246_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=7d201b&_nc_ohc=U8YO4DQrrQkQ7kNvwGfaKVr&_nc_oc=AdogCtvVJ6g5aOGGAsk4mEpt06DLgfsbnTddGvN36WVgNbKwhaIyuW_OrPw9aYxR7N4&_nc_zt=23&_nc_ht=scontent-sjc6-1.xx&edm=AJ-jyNUEAAAA&_nc_gid=LNjmweq9ZpH7vQOZbWvcOQ&oh=00_AQRF6lT0HAfoCexaoO1wzu6IrZyPLCrojnWLa9f3KBtmpw&oe=6AEAA4EE"
+    "picture": "https://scontent-iad3-1.xx.fbcdn.net/v/t51.82787-15/846964896_18127515184894503_9206256640984781246_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=7d201b&_nc_ohc=U8YO4DQrrQkQ7kNvwGMFPzU&_nc_oc=AdoGn9O33c4xPiZK2CNALt11I4A5vPRYxoE8LysylInKBmhyqJ-PV9duXyJO39KVzOo&_nc_zt=23&_nc_ht=scontent-iad3-1.xx&edm=AJ-jyNUEAAAA&_nc_gid=z3XaEDw1trZsl1fHUkb17A&oh=00_AQSmHXPklllIZFEfMKaeL3eN3tUWeqbfkteb89J5z-oUfA&oe=6AEB156E"
   },
   "paginas": {
     "1367888553074849": {
@@ -1060,19 +1060,19 @@
         "id": "1367888553074849",
         "nombre": "Huellas con Propósito",
         "categoria": "Animals & Pets",
-        "seguidores": 42,
+        "seguidores": 43,
         "seguidos": 3,
-        "personas_hablando": 31,
-        "foto_perfil": "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.30808-1/825286629_28604489712564817_7866327839881392565_n.jpg?stp=dst-jpg_s200x200_tt6&_nc_cat=110&ccb=1-7&_nc_sid=f907e8&_nc_ohc=qq1TePgPYQIQ7kNvwEB41zn&_nc_oc=Adr-Fhq-zXQ4WXVEBl4woj3nBtRYw-oRaI6qLbRjXpxRfTRm8tedz-JAAFEbCOW0UA4&_nc_zt=24&_nc_ht=scontent-sjc3-1.xx&edm=AJdBtusEAAAA&_nc_gid=n93OYgaFJ_2EenE9gRLE7w&_nc_tpa=Q5bMBQIPunAEJRhBMZUFaHGXADA1cv9ObCbe_o2oEaGEvBr4pF4kHxTBBKOnmywMKIlfyxLA3XRZC2VBvQ&oh=00_AQQmUsJs31EjHogidFyBdAHHf8ORt-gGQUXq0dVdp4_Mdg&oe=6AEA99EB",
-        "ultima_actualizacion": "2026-10-30T18:09:24.536Z"
+        "personas_hablando": 33,
+        "foto_perfil": "https://scontent-iad3-1.xx.fbcdn.net/v/t39.30808-1/825286629_28604489712564817_7866327839881392565_n.jpg?stp=dst-jpg_s200x200_tt6&_nc_cat=110&ccb=1-7&_nc_sid=f907e8&_nc_ohc=qq1TePgPYQIQ7kNvwFqcnHA&_nc_oc=Adpvnw44_8uKDtmPgC93gsXdfQ_ISb2n7I3ofM1JnYdlz_4vZzoxHe3HrhZzUYahGKI&_nc_zt=24&_nc_ht=scontent-iad3-1.xx&edm=AJdBtusEAAAA&_nc_gid=DYlnDdOmaZCcD-w-Avkjig&_nc_tpa=Q5bMBQKQuoEfazgLEsV_26CSATir18hWELhjXgOPXcCeC0iy25ZQ5FUve1FQiDJGsBTss_GIY-uWhu0MGA&oh=00_AQQPPhvL2naNPeyHp9iNeoupTJNf046RTU-ti_o0PBOK8A&oe=6AEB0A6B",
+        "ultima_actualizacion": "2026-10-30T23:58:04.206Z"
       },
       "resumen_kpis": {
-        "total_seguidores": 42,
-        "seguidores_detalle": "42 seguidores • 3 seguidos",
+        "total_seguidores": 43,
+        "seguidores_detalle": "43 seguidores • 3 seguidos",
         "crecimiento_semanal": "+35%",
         "seguidores_nuevos_semana": 7,
-        "personas_hablando": 31,
-        "alcance_estimado": 756,
+        "personas_hablando": 33,
+        "alcance_estimado": 774,
         "interacciones_totales": 0,
         "reacciones_totales": 0,
         "comentarios_totales": 0,
@@ -1121,10 +1121,21 @@
         },
         {
           "fecha": "12 Oct",
-          "seguidores": 42
+          "seguidores": 43
         }
       ],
       "ultimos_posts_publicados": [
+        {
+          "id": "1367888553074849_122096595987507613",
+          "url": "https://www.facebook.com/1367888553074849_122096595987507613",
+          "mensaje": "«Los truenos y los fuegos artificiales de fin de mes siempre asustan a los perritos sin hogar en los refugios... 🎆😰🐾\n\nEl refugio 'Huellit",
+          "fecha": "2026-10-30T23:30:01+0000",
+          "reacciones": 0,
+          "comentarios": 0,
+          "compartidos": 0,
+          "tipo": "post",
+          "estado": "publicado"
+        },
         {
           "id": "1367888553074849_122096595915507613",
           "url": "https://www.facebook.com/1367888553074849_122096595915507613",
@@ -1388,20 +1399,16 @@
           "compartidos": 0,
           "tipo": "post",
           "estado": "publicado"
-        },
-        {
-          "id": "1367888553074849_122096593701507613",
-          "url": "https://www.facebook.com/1367888553074849_122096593701507613",
-          "mensaje": "«¿Creías que mover la cola siempre significa que tu perro está feliz? Cuidado, su cola habla más de lo que crees... 🐕🔍\n\nEstudios de etolog",
-          "fecha": "2026-10-19T23:30:01+0000",
-          "reacciones": 0,
-          "comentarios": 0,
-          "compartidos": 0,
-          "tipo": "post",
-          "estado": "publicado"
         }
       ],
       "proximos_programados_meta": [
+        {
+          "id": "1367888553074849_122113131117507613",
+          "url": "https://www.facebook.com/1367888553074849_122113131117507613",
+          "mensaje": "Eran las 6:30 de la mañana cuando el doctor Fernando llegó a abrir la clínica veterinaria. Atado a la aldaba metálica de la entrada había un",
+          "fecha_programada": "2026-11-27T20:30:00.000Z",
+          "estado": "programado_en_meta"
+        },
         {
           "id": "1367888553074849_122113030155507613",
           "url": "https://www.facebook.com/1367888553074849_122113030155507613",
@@ -2094,13 +2101,6 @@
           "mensaje": "La señora Carmela vio salir el camión de mudanza a toda velocidad. Diez minutos después, una cachorrita peluda y blanca salió corriendo del ",
           "fecha_programada": "2026-11-05T00:30:00.000Z",
           "estado": "programado_en_meta"
-        },
-        {
-          "id": "1367888553074849_122097381321507613",
-          "url": "https://www.facebook.com/1367888553074849_122097381321507613",
-          "mensaje": "«No nos afecta lo que nos sucede, sino el juicio que nos formamos de lo que nos sucede». — Epicteto 🏛️🛡️\n\nEpicteto nació esclavo, soportó ",
-          "fecha_programada": "2026-11-04T21:30:00.000Z",
-          "estado": "programado_en_meta"
         }
       ],
       "instagram": {
@@ -2109,7 +2109,7 @@
         "name": "Huellas con propósito",
         "followers": 1,
         "media_count": 14,
-        "picture": "https://scontent-sjc6-1.xx.fbcdn.net/v/t51.82787-15/846964896_18127515184894503_9206256640984781246_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=7d201b&_nc_ohc=U8YO4DQrrQkQ7kNvwGfaKVr&_nc_oc=AdogCtvVJ6g5aOGGAsk4mEpt06DLgfsbnTddGvN36WVgNbKwhaIyuW_OrPw9aYxR7N4&_nc_zt=23&_nc_ht=scontent-sjc6-1.xx&edm=AJ-jyNUEAAAA&_nc_gid=LNjmweq9ZpH7vQOZbWvcOQ&oh=00_AQRF6lT0HAfoCexaoO1wzu6IrZyPLCrojnWLa9f3KBtmpw&oe=6AEAA4EE"
+        "picture": "https://scontent-iad3-1.xx.fbcdn.net/v/t51.82787-15/846964896_18127515184894503_9206256640984781246_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=7d201b&_nc_ohc=U8YO4DQrrQkQ7kNvwGMFPzU&_nc_oc=AdoGn9O33c4xPiZK2CNALt11I4A5vPRYxoE8LysylInKBmhyqJ-PV9duXyJO39KVzOo&_nc_zt=23&_nc_ht=scontent-iad3-1.xx&edm=AJ-jyNUEAAAA&_nc_gid=z3XaEDw1trZsl1fHUkb17A&oh=00_AQSmHXPklllIZFEfMKaeL3eN3tUWeqbfkteb89J5z-oUfA&oe=6AEB156E"
       }
     },
     "1375923958937880": {
@@ -2121,7 +2121,7 @@
         "seguidos": 0,
         "personas_hablando": 0,
         "foto_perfil": "",
-        "ultima_actualizacion": "2026-10-30T18:09:24.906Z"
+        "ultima_actualizacion": "2026-10-30T23:58:04.287Z"
       },
       "resumen_kpis": {
         "total_seguidores": 7,
@@ -2134,7 +2134,7 @@
         "reacciones_totales": 3,
         "comentarios_totales": 0,
         "compartidos_totales": 1,
-        "programados_en_servidores_meta": 11,
+        "programados_en_servidores_meta": 10,
         "total_publicaciones_sistema": 52
       },
       "rendimiento_por_horario": [
@@ -2412,16 +2412,20 @@
           "compartidos": 0,
           "tipo": "post",
           "estado": "publicado"
-        }
-      ],
-      "proximos_programados_meta": [
+        },
         {
           "id": "122095716147512707",
           "url": "https://www.facebook.com/122095716147512707",
-          "mensaje": "⏰ [Programado 2026-10-30 19:00] Mentalidad Errónea: EL HIPÓCRITA DE LA PALABRA vs Mentalidad de Acero",
-          "fecha_programada": "2026-10-30T19:00:00Z",
-          "estado": "programado_en_meta"
-        },
+          "mensaje": "Mentalidad Errónea: EL HIPÓCRITA DE LA PALABRA vs Mentalidad de Acero: \"TUS ACCIONES HABLAN TAN FUERTE QUE NADIE PUEDE ESCUCHAR LO QUE DICES.\"  El éxito es para los que asumen el 100% de resp...",
+          "fecha": "2026-10-30T19:00:00.000Z",
+          "reacciones": 0,
+          "comentarios": 0,
+          "compartidos": 0,
+          "tipo": "post",
+          "estado": "publicado"
+        }
+      ],
+      "proximos_programados_meta": [
         {
           "id": "122095716309512707",
           "url": "https://www.facebook.com/122095716309512707",
