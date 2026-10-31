@@ -6,8 +6,8 @@
     "seguidores": 43,
     "seguidos": 3,
     "personas_hablando": 32,
-    "foto_perfil": "https://scontent-iad3-1.xx.fbcdn.net/v/t39.30808-1/825286629_28604489712564817_7866327839881392565_n.jpg?stp=dst-jpg_s200x200_tt6&_nc_cat=110&ccb=1-7&_nc_sid=f907e8&_nc_ohc=qq1TePgPYQIQ7kNvwG3k6xn&_nc_oc=AdoQ441r4rRqz6zIXlEzMKesyks1ugagR69iV1qA-yepl_tIDR6c3KqiIxPbDah0Enc&_nc_zt=24&_nc_ht=scontent-iad3-1.xx&edm=AJdBtusEAAAA&_nc_gid=bWPkS7cvi5F5LBVxooHwfg&_nc_tpa=Q5bMBQLlH93YMV24m9Y-oxmi1JHQB-1wq_FfK28m6tqq1-g9pqBabGnm51IfAQW2FQcK63eYdwVANTjiQA&oh=00_AQS7jjhd0uu643hRuum9CGE1B90mtj4H7JuP8lgafHnJDg&oe=6AEBEB6B",
-    "ultima_actualizacion": "2026-10-31T17:20:27.898Z"
+    "foto_perfil": "https://scontent-iad3-1.xx.fbcdn.net/v/t39.30808-1/825286629_28604489712564817_7866327839881392565_n.jpg?stp=dst-jpg_s200x200_tt6&_nc_cat=110&ccb=1-7&_nc_sid=f907e8&_nc_ohc=qq1TePgPYQIQ7kNvwH9otUO&_nc_oc=AdoupEAl-lOFmPA58GN3K48CZWLBlTDvH8QfuJCnsv5PJMDvsCcOF6lHZm7oMpnaZOA&_nc_zt=24&_nc_ht=scontent-iad3-1.xx&edm=AJdBtusEAAAA&_nc_gid=WkMGOXny4IkIOtJLXTXo1A&_nc_tpa=Q5bMBQL7-CCp6CErPC00tJKTXfrnUPxO5X0yUcUNfinhqaH1l-ayZHbSnNft4ckzGGKtf6GWrk8AaCZ2wg&oh=00_AQTOmGdeUzLWF3Es7w1xcGn9g1AA25fe7bwd2Gb5-vcxhA&oe=6AEC5BEB",
+    "ultima_actualizacion": "2026-10-31T23:33:24.565Z"
   },
   "resumen_kpis": {
     "total_seguidores": 43,
@@ -68,6 +68,17 @@
     }
   ],
   "ultimos_posts_publicados": [
+    {
+      "id": "1367888553074849_122096596233507613",
+      "url": "https://www.facebook.com/1367888553074849_122096596233507613",
+      "mensaje": "«Termina un mes más y yo solo quiero darte las gracias por seguir aquí a mi lado... 🍂🍁🐾\n\nGracias por los paseos en las mañanas frías, por",
+      "fecha": "2026-10-31T23:30:03+0000",
+      "reacciones": 0,
+      "comentarios": 0,
+      "compartidos": 0,
+      "tipo": "post",
+      "estado": "publicado"
+    },
     {
       "id": "1367888553074849_122096596113507613",
       "url": "https://www.facebook.com/1367888553074849_122096596113507613",
@@ -331,20 +342,23 @@
       "compartidos": 0,
       "tipo": "post",
       "estado": "publicado"
-    },
-    {
-      "id": "1367888553074849_122096593923507613",
-      "url": "https://www.facebook.com/1367888553074849_122096593923507613",
-      "mensaje": "«¿Tu perro tiene toda la cama disponible pero insiste en dormir pegado a tu espalda o encima de tus pies? Esta es la razón... 🛌🐶❤️\n\nEn est",
-      "fecha": "2026-10-20T23:30:02+0000",
-      "reacciones": 0,
-      "comentarios": 0,
-      "compartidos": 0,
-      "tipo": "post",
-      "estado": "publicado"
     }
   ],
   "proximos_programados_meta": [
+    {
+      "id": "1367888553074849_122113544049507613",
+      "url": "https://www.facebook.com/1367888553074849_122113544049507613",
+      "mensaje": "Doña Beatriz subió a tender ropa y escuchó un llanto seco en la azotea de enfrente. La casa llevaba dos semanas deshabitada con el letrero d",
+      "fecha_programada": "2026-11-28T20:30:00.000Z",
+      "estado": "programado_en_meta"
+    },
+    {
+      "id": "1367888553074849_122113543977507613",
+      "url": "https://www.facebook.com/1367888553074849_122113543977507613",
+      "mensaje": "«Tienes poder sobre tu mente, no sobre los acontecimientos. Date cuenta de esto y encontrarás la fuerza». — Marco Aurelio 🏛️⚔️\n\nHoy te vas ",
+      "fecha_programada": "2026-11-28T17:30:00.000Z",
+      "estado": "programado_en_meta"
+    },
     {
       "id": "1367888553074849_122113452123507613",
       "url": "https://www.facebook.com/1367888553074849_122113452123507613",
@@ -1030,20 +1044,6 @@
       "mensaje": "Don Marcos llamó al nuevo dueño del taller mecánico que acababa de quebrar. Una voz apresurada le contestó que se estaban llevando la maquin",
       "fecha_programada": "2026-11-06T00:30:00.000Z",
       "estado": "programado_en_meta"
-    },
-    {
-      "id": "1367888553074849_122097381729507613",
-      "url": "https://www.facebook.com/1367888553074849_122097381729507613",
-      "mensaje": "«No tenemos poco tiempo, sino que perdemos mucho». — Séneca (Sobre la brevedad de la vida) ⏳🏛️\n\nNos quejamos constantemente de que la vida ",
-      "fecha_programada": "2026-11-05T21:30:00.000Z",
-      "estado": "programado_en_meta"
-    },
-    {
-      "id": "1367888553074849_122097375531507613",
-      "url": "https://www.facebook.com/1367888553074849_122097375531507613",
-      "mensaje": "Eran las 6:30 de la mañana cuando el doctor Fernando llegó a abrir la clínica veterinaria. Atado a la aldaba metálica de la entrada había un",
-      "fecha_programada": "2026-11-05T16:30:00.000Z",
-      "estado": "programado_en_meta"
     }
   ],
   "instagram": {
@@ -1052,7 +1052,7 @@
     "name": "Huellas con propósito",
     "followers": 1,
     "media_count": 14,
-    "picture": "https://scontent-iad3-1.xx.fbcdn.net/v/t51.82787-15/846964896_18127515184894503_9206256640984781246_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=7d201b&_nc_ohc=U8YO4DQrrQkQ7kNvwGh65Zm&_nc_oc=Adoc2cLLTXaGO9XT1fFpMOXEMPzsFKOUVtx3vw9g0pns6TRuhQ1bFT0SznCeotEvy7Y&_nc_zt=23&_nc_ht=scontent-iad3-1.xx&edm=AJ-jyNUEAAAA&_nc_gid=2u0Xk8n4z03ytMq2CarOIQ&oh=00_AQQz64UI9SF3V4kN4Db4PuFO54qEGDkApE0-1ko4mZLvMw&oe=6AEBF66E"
+    "picture": "https://scontent-iad3-1.xx.fbcdn.net/v/t51.82787-15/846964896_18127515184894503_9206256640984781246_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=7d201b&_nc_ohc=U8YO4DQrrQkQ7kNvwFMTHoZ&_nc_oc=Adqsb0OWmpswT1GIVEzpatfNuWvt_2HGWHq8_OuX6yxTRVJUuCdtuURwr-s2puAQ8mc&_nc_zt=23&_nc_ht=scontent-iad3-1.xx&edm=AJ-jyNUEAAAA&_nc_gid=tQMXkoeiWYToDnc2Nv-NEw&oh=00_AQTo5hmdQIJp7YJhhsDCp_vmx1n9zNNXKikr6lQdnvZnFQ&oe=6AEC66EE"
   },
   "paginas": {
     "1367888553074849": {
@@ -1063,8 +1063,8 @@
         "seguidores": 43,
         "seguidos": 3,
         "personas_hablando": 32,
-        "foto_perfil": "https://scontent-iad3-1.xx.fbcdn.net/v/t39.30808-1/825286629_28604489712564817_7866327839881392565_n.jpg?stp=dst-jpg_s200x200_tt6&_nc_cat=110&ccb=1-7&_nc_sid=f907e8&_nc_ohc=qq1TePgPYQIQ7kNvwG3k6xn&_nc_oc=AdoQ441r4rRqz6zIXlEzMKesyks1ugagR69iV1qA-yepl_tIDR6c3KqiIxPbDah0Enc&_nc_zt=24&_nc_ht=scontent-iad3-1.xx&edm=AJdBtusEAAAA&_nc_gid=bWPkS7cvi5F5LBVxooHwfg&_nc_tpa=Q5bMBQLlH93YMV24m9Y-oxmi1JHQB-1wq_FfK28m6tqq1-g9pqBabGnm51IfAQW2FQcK63eYdwVANTjiQA&oh=00_AQS7jjhd0uu643hRuum9CGE1B90mtj4H7JuP8lgafHnJDg&oe=6AEBEB6B",
-        "ultima_actualizacion": "2026-10-31T17:20:27.898Z"
+        "foto_perfil": "https://scontent-iad3-1.xx.fbcdn.net/v/t39.30808-1/825286629_28604489712564817_7866327839881392565_n.jpg?stp=dst-jpg_s200x200_tt6&_nc_cat=110&ccb=1-7&_nc_sid=f907e8&_nc_ohc=qq1TePgPYQIQ7kNvwH9otUO&_nc_oc=AdoupEAl-lOFmPA58GN3K48CZWLBlTDvH8QfuJCnsv5PJMDvsCcOF6lHZm7oMpnaZOA&_nc_zt=24&_nc_ht=scontent-iad3-1.xx&edm=AJdBtusEAAAA&_nc_gid=WkMGOXny4IkIOtJLXTXo1A&_nc_tpa=Q5bMBQL7-CCp6CErPC00tJKTXfrnUPxO5X0yUcUNfinhqaH1l-ayZHbSnNft4ckzGGKtf6GWrk8AaCZ2wg&oh=00_AQTOmGdeUzLWF3Es7w1xcGn9g1AA25fe7bwd2Gb5-vcxhA&oe=6AEC5BEB",
+        "ultima_actualizacion": "2026-10-31T23:33:24.565Z"
       },
       "resumen_kpis": {
         "total_seguidores": 43,
@@ -1125,6 +1125,17 @@
         }
       ],
       "ultimos_posts_publicados": [
+        {
+          "id": "1367888553074849_122096596233507613",
+          "url": "https://www.facebook.com/1367888553074849_122096596233507613",
+          "mensaje": "«Termina un mes más y yo solo quiero darte las gracias por seguir aquí a mi lado... 🍂🍁🐾\n\nGracias por los paseos en las mañanas frías, por",
+          "fecha": "2026-10-31T23:30:03+0000",
+          "reacciones": 0,
+          "comentarios": 0,
+          "compartidos": 0,
+          "tipo": "post",
+          "estado": "publicado"
+        },
         {
           "id": "1367888553074849_122096596113507613",
           "url": "https://www.facebook.com/1367888553074849_122096596113507613",
@@ -1388,20 +1399,23 @@
           "compartidos": 0,
           "tipo": "post",
           "estado": "publicado"
-        },
-        {
-          "id": "1367888553074849_122096593923507613",
-          "url": "https://www.facebook.com/1367888553074849_122096593923507613",
-          "mensaje": "«¿Tu perro tiene toda la cama disponible pero insiste en dormir pegado a tu espalda o encima de tus pies? Esta es la razón... 🛌🐶❤️\n\nEn est",
-          "fecha": "2026-10-20T23:30:02+0000",
-          "reacciones": 0,
-          "comentarios": 0,
-          "compartidos": 0,
-          "tipo": "post",
-          "estado": "publicado"
         }
       ],
       "proximos_programados_meta": [
+        {
+          "id": "1367888553074849_122113544049507613",
+          "url": "https://www.facebook.com/1367888553074849_122113544049507613",
+          "mensaje": "Doña Beatriz subió a tender ropa y escuchó un llanto seco en la azotea de enfrente. La casa llevaba dos semanas deshabitada con el letrero d",
+          "fecha_programada": "2026-11-28T20:30:00.000Z",
+          "estado": "programado_en_meta"
+        },
+        {
+          "id": "1367888553074849_122113543977507613",
+          "url": "https://www.facebook.com/1367888553074849_122113543977507613",
+          "mensaje": "«Tienes poder sobre tu mente, no sobre los acontecimientos. Date cuenta de esto y encontrarás la fuerza». — Marco Aurelio 🏛️⚔️\n\nHoy te vas ",
+          "fecha_programada": "2026-11-28T17:30:00.000Z",
+          "estado": "programado_en_meta"
+        },
         {
           "id": "1367888553074849_122113452123507613",
           "url": "https://www.facebook.com/1367888553074849_122113452123507613",
@@ -2087,20 +2101,6 @@
           "mensaje": "Don Marcos llamó al nuevo dueño del taller mecánico que acababa de quebrar. Una voz apresurada le contestó que se estaban llevando la maquin",
           "fecha_programada": "2026-11-06T00:30:00.000Z",
           "estado": "programado_en_meta"
-        },
-        {
-          "id": "1367888553074849_122097381729507613",
-          "url": "https://www.facebook.com/1367888553074849_122097381729507613",
-          "mensaje": "«No tenemos poco tiempo, sino que perdemos mucho». — Séneca (Sobre la brevedad de la vida) ⏳🏛️\n\nNos quejamos constantemente de que la vida ",
-          "fecha_programada": "2026-11-05T21:30:00.000Z",
-          "estado": "programado_en_meta"
-        },
-        {
-          "id": "1367888553074849_122097375531507613",
-          "url": "https://www.facebook.com/1367888553074849_122097375531507613",
-          "mensaje": "Eran las 6:30 de la mañana cuando el doctor Fernando llegó a abrir la clínica veterinaria. Atado a la aldaba metálica de la entrada había un",
-          "fecha_programada": "2026-11-05T16:30:00.000Z",
-          "estado": "programado_en_meta"
         }
       ],
       "instagram": {
@@ -2109,7 +2109,7 @@
         "name": "Huellas con propósito",
         "followers": 1,
         "media_count": 14,
-        "picture": "https://scontent-iad3-1.xx.fbcdn.net/v/t51.82787-15/846964896_18127515184894503_9206256640984781246_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=7d201b&_nc_ohc=U8YO4DQrrQkQ7kNvwGh65Zm&_nc_oc=Adoc2cLLTXaGO9XT1fFpMOXEMPzsFKOUVtx3vw9g0pns6TRuhQ1bFT0SznCeotEvy7Y&_nc_zt=23&_nc_ht=scontent-iad3-1.xx&edm=AJ-jyNUEAAAA&_nc_gid=2u0Xk8n4z03ytMq2CarOIQ&oh=00_AQQz64UI9SF3V4kN4Db4PuFO54qEGDkApE0-1ko4mZLvMw&oe=6AEBF66E"
+        "picture": "https://scontent-iad3-1.xx.fbcdn.net/v/t51.82787-15/846964896_18127515184894503_9206256640984781246_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=7d201b&_nc_ohc=U8YO4DQrrQkQ7kNvwFMTHoZ&_nc_oc=Adqsb0OWmpswT1GIVEzpatfNuWvt_2HGWHq8_OuX6yxTRVJUuCdtuURwr-s2puAQ8mc&_nc_zt=23&_nc_ht=scontent-iad3-1.xx&edm=AJ-jyNUEAAAA&_nc_gid=tQMXkoeiWYToDnc2Nv-NEw&oh=00_AQTo5hmdQIJp7YJhhsDCp_vmx1n9zNNXKikr6lQdnvZnFQ&oe=6AEC66EE"
       }
     },
     "1375923958937880": {
@@ -2121,7 +2121,7 @@
         "seguidos": 0,
         "personas_hablando": 0,
         "foto_perfil": "",
-        "ultima_actualizacion": "2026-10-31T17:20:27.980Z"
+        "ultima_actualizacion": "2026-10-31T23:33:24.759Z"
       },
       "resumen_kpis": {
         "total_seguidores": 7,
@@ -2134,7 +2134,7 @@
         "reacciones_totales": 3,
         "comentarios_totales": 0,
         "compartidos_totales": 1,
-        "programados_en_servidores_meta": 10,
+        "programados_en_servidores_meta": 9,
         "total_publicaciones_sistema": 52
       },
       "rendimiento_por_horario": [
@@ -2423,16 +2423,20 @@
           "compartidos": 0,
           "tipo": "post",
           "estado": "publicado"
-        }
-      ],
-      "proximos_programados_meta": [
+        },
         {
           "id": "122095716309512707",
           "url": "https://www.facebook.com/122095716309512707",
-          "mensaje": "⏰ [Programado 2026-10-31 19:00] Mentalidad Errónea: EL VENGATIVO RESENTIDO vs Mentalidad de Acero",
-          "fecha_programada": "2026-10-31T19:00:00Z",
-          "estado": "programado_en_meta"
-        },
+          "mensaje": "Mentalidad Errónea: EL VENGATIVO RESENTIDO vs Mentalidad de Acero: \"LA MEJOR VENGANZA NO ES EL ODIO, ES UN ÉXITO TAN MASIVO QUE RESUENE EN SILENCIO.\"  El éxito es para los que asumen el 1...",
+          "fecha": "2026-10-31T19:00:00.000Z",
+          "reacciones": 0,
+          "comentarios": 0,
+          "compartidos": 0,
+          "tipo": "post",
+          "estado": "publicado"
+        }
+      ],
+      "proximos_programados_meta": [
         {
           "id": "122095716417512707",
           "url": "https://www.facebook.com/122095716417512707",
