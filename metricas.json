@@ -5,16 +5,16 @@
     "categoria": "Animals & Pets",
     "seguidores": 43,
     "seguidos": 3,
-    "personas_hablando": 33,
-    "foto_perfil": "https://scontent-sea5-1.xx.fbcdn.net/v/t39.30808-1/825286629_28604489712564817_7866327839881392565_n.jpg?stp=dst-jpg_s200x200_tt6&_nc_cat=110&ccb=1-7&_nc_sid=f907e8&_nc_ohc=qq1TePgPYQIQ7kNvwGuBbaN&_nc_oc=AdqP-iz1TyiUYMjdZf9fSCQYcFuJ2PpR3VgnPJCqhLw7rcahVlG6CkTFkv9SyI0NS_4&_nc_zt=24&_nc_ht=scontent-sea5-1.xx&edm=AJdBtusEAAAA&_nc_gid=4dyDHG-rR63TcHC6bw7exw&_nc_tpa=Q5bMBQLRMHkRMnig0NmYxQT3xOU9gkt6paI_5Ot8BRSpNAnx0fYzU3FtlhFWEgu3KiM2DWKuC65Rfl9RFw&oh=00_AQRErm5-fVNV6Q1esfAIetjKW--4pbIQ9ciF-DfYKeOB6w&oe=6AED3CEB",
-    "ultima_actualizacion": "2026-11-01T18:03:02.119Z"
+    "personas_hablando": 34,
+    "foto_perfil": "https://scontent-iad3-1.xx.fbcdn.net/v/t39.30808-1/825286629_28604489712564817_7866327839881392565_n.jpg?stp=dst-jpg_s200x200_tt6&_nc_cat=110&ccb=1-7&_nc_sid=f907e8&_nc_ohc=qq1TePgPYQIQ7kNvwFVxwcC&_nc_oc=AdrwSoQGUXbb0bKzvlk7oaPzdivs06yE0AKRtlPE6p8FCnRYaUOqBv8r_5zsDw3N08U&_nc_zt=24&_nc_ht=scontent-iad3-1.xx&edm=AJdBtusEAAAA&_nc_gid=K9yKbM4u3lkHZU6ub5TPiQ&_nc_tpa=Q5bMBQJlBsyW59ucddK0Zz09mBkDEW-R0Txa2UCJ6kfnePBao67v9uQRfu90VI-BQy0XviJXK6SfeZlaTw&oh=00_AQTYRb272ZQrl0NgetzKG4cl4t2sDzLvavqv0ZN_6MCFIQ&oe=6AEDAD6B",
+    "ultima_actualizacion": "2026-11-01T23:46:38.062Z"
   },
   "resumen_kpis": {
     "total_seguidores": 43,
     "seguidores_detalle": "43 seguidores • 3 seguidos",
     "crecimiento_semanal": "+35%",
     "seguidores_nuevos_semana": 7,
-    "personas_hablando": 33,
+    "personas_hablando": 34,
     "alcance_estimado": 774,
     "interacciones_totales": 0,
     "reacciones_totales": 0,
@@ -68,6 +68,17 @@
     }
   ],
   "ultimos_posts_publicados": [
+    {
+      "id": "1367888553074849_122097380505507613",
+      "url": "https://www.facebook.com/1367888553074849_122097380505507613",
+      "mensaje": "«Sufrimos más a menudo por la imaginación que por la realidad». — Séneca 🏛️📜\n\n¿Cuántas noches te has quedado despierto creando escenarios ",
+      "fecha": "2026-11-01T21:30:02+0000",
+      "reacciones": 0,
+      "comentarios": 0,
+      "compartidos": 0,
+      "tipo": "post",
+      "estado": "publicado"
+    },
     {
       "id": "1367888553074849_122097373671507613",
       "url": "https://www.facebook.com/1367888553074849_122097373671507613",
@@ -331,20 +342,16 @@
       "compartidos": 0,
       "tipo": "post",
       "estado": "publicado"
-    },
-    {
-      "id": "1367888553074849_122096594319507613",
-      "url": "https://www.facebook.com/1367888553074849_122096594319507613",
-      "mensaje": "«Este no es un perro común; es Toby, el terapeuta que trabaja en la sala de oncología infantil. 🏥🧸🐶\n\nLos niños que esperan sus tratamient",
-      "fecha": "2026-10-22T13:00:03+0000",
-      "reacciones": 0,
-      "comentarios": 0,
-      "compartidos": 0,
-      "tipo": "post",
-      "estado": "publicado"
     }
   ],
   "proximos_programados_meta": [
+    {
+      "id": "1367888553074849_122114004549507613",
+      "url": "https://www.facebook.com/1367888553074849_122114004549507613",
+      "mensaje": "La señora Carmela vio salir el camión de mudanza a toda velocidad. Diez minutos después, una cachorrita peluda y blanca salió corriendo del ",
+      "fecha_programada": "2026-11-29T20:30:00.000Z",
+      "estado": "programado_en_meta"
+    },
     {
       "id": "1367888553074849_122113923339507613",
       "url": "https://www.facebook.com/1367888553074849_122113923339507613",
@@ -1037,13 +1044,6 @@
       "mensaje": "Don Aurelio vio cómo cerraron la maderería para siempre y pusieron cinta amarilla de clausura. Al guardia de seguridad le liquidaron su suel",
       "fecha_programada": "2026-11-07T00:30:00.000Z",
       "estado": "programado_en_meta"
-    },
-    {
-      "id": "1367888553074849_122097382077507613",
-      "url": "https://www.facebook.com/1367888553074849_122097382077507613",
-      "mensaje": "«Sufrimos más a menudo por la imaginación que por la realidad». — Séneca 🏛️📜\n\n¿Cuántas noches te has quedado despierto creando escenarios ",
-      "fecha_programada": "2026-11-06T21:30:00.000Z",
-      "estado": "programado_en_meta"
     }
   ],
   "instagram": {
@@ -1052,7 +1052,7 @@
     "name": "Huellas con propósito",
     "followers": 1,
     "media_count": 14,
-    "picture": "https://scontent-sea5-1.xx.fbcdn.net/v/t51.82787-15/846964896_18127515184894503_9206256640984781246_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=7d201b&_nc_ohc=U8YO4DQrrQkQ7kNvwFDFrmo&_nc_oc=AdpL6ecAlVLAaX1iy4LrNNYVNnVLyQUBPvGDoNgGwXY1pGi-IUzNz1AGbcksxdIas7M&_nc_zt=23&_nc_ht=scontent-sea5-1.xx&edm=AJ-jyNUEAAAA&_nc_gid=IA_SQNUPEeSJiZJM0URBXQ&oh=00_AQRvprjUyRX0DrWq9zjh1-70tJKs-m-BERr6RomjhgaBjg&oe=6AED47EE"
+    "picture": "https://scontent-iad3-1.xx.fbcdn.net/v/t51.82787-15/846964896_18127515184894503_9206256640984781246_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=7d201b&_nc_ohc=U8YO4DQrrQkQ7kNvwH0_ZBq&_nc_oc=Adolku1HUoBomEVGmQ3lrJSL7wsMheUB5c-C_OD-QbzstNDQu2UyR0mpzkAL1U5dZ_E&_nc_zt=23&_nc_ht=scontent-iad3-1.xx&edm=AJ-jyNUEAAAA&_nc_gid=tBQAMvarTvFDTdy36wNDFw&oh=00_AQRKV2q-024U9FxfZHJATHTLrtzoYGNlr2J36_6wgwnupA&oe=6AEDB86E"
   },
   "paginas": {
     "1367888553074849": {
@@ -1062,16 +1062,16 @@
         "categoria": "Animals & Pets",
         "seguidores": 43,
         "seguidos": 3,
-        "personas_hablando": 33,
-        "foto_perfil": "https://scontent-sea5-1.xx.fbcdn.net/v/t39.30808-1/825286629_28604489712564817_7866327839881392565_n.jpg?stp=dst-jpg_s200x200_tt6&_nc_cat=110&ccb=1-7&_nc_sid=f907e8&_nc_ohc=qq1TePgPYQIQ7kNvwGuBbaN&_nc_oc=AdqP-iz1TyiUYMjdZf9fSCQYcFuJ2PpR3VgnPJCqhLw7rcahVlG6CkTFkv9SyI0NS_4&_nc_zt=24&_nc_ht=scontent-sea5-1.xx&edm=AJdBtusEAAAA&_nc_gid=4dyDHG-rR63TcHC6bw7exw&_nc_tpa=Q5bMBQLRMHkRMnig0NmYxQT3xOU9gkt6paI_5Ot8BRSpNAnx0fYzU3FtlhFWEgu3KiM2DWKuC65Rfl9RFw&oh=00_AQRErm5-fVNV6Q1esfAIetjKW--4pbIQ9ciF-DfYKeOB6w&oe=6AED3CEB",
-        "ultima_actualizacion": "2026-11-01T18:03:02.119Z"
+        "personas_hablando": 34,
+        "foto_perfil": "https://scontent-iad3-1.xx.fbcdn.net/v/t39.30808-1/825286629_28604489712564817_7866327839881392565_n.jpg?stp=dst-jpg_s200x200_tt6&_nc_cat=110&ccb=1-7&_nc_sid=f907e8&_nc_ohc=qq1TePgPYQIQ7kNvwFVxwcC&_nc_oc=AdrwSoQGUXbb0bKzvlk7oaPzdivs06yE0AKRtlPE6p8FCnRYaUOqBv8r_5zsDw3N08U&_nc_zt=24&_nc_ht=scontent-iad3-1.xx&edm=AJdBtusEAAAA&_nc_gid=K9yKbM4u3lkHZU6ub5TPiQ&_nc_tpa=Q5bMBQJlBsyW59ucddK0Zz09mBkDEW-R0Txa2UCJ6kfnePBao67v9uQRfu90VI-BQy0XviJXK6SfeZlaTw&oh=00_AQTYRb272ZQrl0NgetzKG4cl4t2sDzLvavqv0ZN_6MCFIQ&oe=6AEDAD6B",
+        "ultima_actualizacion": "2026-11-01T23:46:38.062Z"
       },
       "resumen_kpis": {
         "total_seguidores": 43,
         "seguidores_detalle": "43 seguidores • 3 seguidos",
         "crecimiento_semanal": "+35%",
         "seguidores_nuevos_semana": 7,
-        "personas_hablando": 33,
+        "personas_hablando": 34,
         "alcance_estimado": 774,
         "interacciones_totales": 0,
         "reacciones_totales": 0,
@@ -1125,6 +1125,17 @@
         }
       ],
       "ultimos_posts_publicados": [
+        {
+          "id": "1367888553074849_122097380505507613",
+          "url": "https://www.facebook.com/1367888553074849_122097380505507613",
+          "mensaje": "«Sufrimos más a menudo por la imaginación que por la realidad». — Séneca 🏛️📜\n\n¿Cuántas noches te has quedado despierto creando escenarios ",
+          "fecha": "2026-11-01T21:30:02+0000",
+          "reacciones": 0,
+          "comentarios": 0,
+          "compartidos": 0,
+          "tipo": "post",
+          "estado": "publicado"
+        },
         {
           "id": "1367888553074849_122097373671507613",
           "url": "https://www.facebook.com/1367888553074849_122097373671507613",
@@ -1388,20 +1399,16 @@
           "compartidos": 0,
           "tipo": "post",
           "estado": "publicado"
-        },
-        {
-          "id": "1367888553074849_122096594319507613",
-          "url": "https://www.facebook.com/1367888553074849_122096594319507613",
-          "mensaje": "«Este no es un perro común; es Toby, el terapeuta que trabaja en la sala de oncología infantil. 🏥🧸🐶\n\nLos niños que esperan sus tratamient",
-          "fecha": "2026-10-22T13:00:03+0000",
-          "reacciones": 0,
-          "comentarios": 0,
-          "compartidos": 0,
-          "tipo": "post",
-          "estado": "publicado"
         }
       ],
       "proximos_programados_meta": [
+        {
+          "id": "1367888553074849_122114004549507613",
+          "url": "https://www.facebook.com/1367888553074849_122114004549507613",
+          "mensaje": "La señora Carmela vio salir el camión de mudanza a toda velocidad. Diez minutos después, una cachorrita peluda y blanca salió corriendo del ",
+          "fecha_programada": "2026-11-29T20:30:00.000Z",
+          "estado": "programado_en_meta"
+        },
         {
           "id": "1367888553074849_122113923339507613",
           "url": "https://www.facebook.com/1367888553074849_122113923339507613",
@@ -2094,13 +2101,6 @@
           "mensaje": "Don Aurelio vio cómo cerraron la maderería para siempre y pusieron cinta amarilla de clausura. Al guardia de seguridad le liquidaron su suel",
           "fecha_programada": "2026-11-07T00:30:00.000Z",
           "estado": "programado_en_meta"
-        },
-        {
-          "id": "1367888553074849_122097382077507613",
-          "url": "https://www.facebook.com/1367888553074849_122097382077507613",
-          "mensaje": "«Sufrimos más a menudo por la imaginación que por la realidad». — Séneca 🏛️📜\n\n¿Cuántas noches te has quedado despierto creando escenarios ",
-          "fecha_programada": "2026-11-06T21:30:00.000Z",
-          "estado": "programado_en_meta"
         }
       ],
       "instagram": {
@@ -2109,7 +2109,7 @@
         "name": "Huellas con propósito",
         "followers": 1,
         "media_count": 14,
-        "picture": "https://scontent-sea5-1.xx.fbcdn.net/v/t51.82787-15/846964896_18127515184894503_9206256640984781246_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=7d201b&_nc_ohc=U8YO4DQrrQkQ7kNvwFDFrmo&_nc_oc=AdpL6ecAlVLAaX1iy4LrNNYVNnVLyQUBPvGDoNgGwXY1pGi-IUzNz1AGbcksxdIas7M&_nc_zt=23&_nc_ht=scontent-sea5-1.xx&edm=AJ-jyNUEAAAA&_nc_gid=IA_SQNUPEeSJiZJM0URBXQ&oh=00_AQRvprjUyRX0DrWq9zjh1-70tJKs-m-BERr6RomjhgaBjg&oe=6AED47EE"
+        "picture": "https://scontent-iad3-1.xx.fbcdn.net/v/t51.82787-15/846964896_18127515184894503_9206256640984781246_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=7d201b&_nc_ohc=U8YO4DQrrQkQ7kNvwH0_ZBq&_nc_oc=Adolku1HUoBomEVGmQ3lrJSL7wsMheUB5c-C_OD-QbzstNDQu2UyR0mpzkAL1U5dZ_E&_nc_zt=23&_nc_ht=scontent-iad3-1.xx&edm=AJ-jyNUEAAAA&_nc_gid=tBQAMvarTvFDTdy36wNDFw&oh=00_AQRKV2q-024U9FxfZHJATHTLrtzoYGNlr2J36_6wgwnupA&oe=6AEDB86E"
       }
     },
     "1375923958937880": {
@@ -2121,7 +2121,7 @@
         "seguidos": 0,
         "personas_hablando": 0,
         "foto_perfil": "",
-        "ultima_actualizacion": "2026-11-01T18:03:02.229Z"
+        "ultima_actualizacion": "2026-11-01T23:46:38.352Z"
       },
       "resumen_kpis": {
         "total_seguidores": 7,
@@ -2134,7 +2134,7 @@
         "reacciones_totales": 3,
         "comentarios_totales": 0,
         "compartidos_totales": 1,
-        "programados_en_servidores_meta": 9,
+        "programados_en_servidores_meta": 8,
         "total_publicaciones_sistema": 52
       },
       "rendimiento_por_horario": [
@@ -2434,16 +2434,20 @@
           "compartidos": 0,
           "tipo": "post",
           "estado": "publicado"
-        }
-      ],
-      "proximos_programados_meta": [
+        },
         {
           "id": "122095716417512707",
           "url": "https://www.facebook.com/122095716417512707",
-          "mensaje": "⏰ [Programado 2026-11-01 19:00] Mentalidad Errónea: EL DÉBIL MATUTINO vs Mentalidad de Acero",
-          "fecha_programada": "2026-11-01T19:00:00Z",
-          "estado": "programado_en_meta"
-        },
+          "mensaje": "Mentalidad Errónea: EL DÉBIL MATUTINO vs Mentalidad de Acero: \"SI NO PUEDES VENCER A TU ALMOHADA, ¿CÓMO PIENSAS SALIR A CONQUISTAR EL MUNDO?\"  El éxito es para los que asumen el 100%...",
+          "fecha": "2026-11-01T19:00:00.000Z",
+          "reacciones": 0,
+          "comentarios": 0,
+          "compartidos": 0,
+          "tipo": "post",
+          "estado": "publicado"
+        }
+      ],
+      "proximos_programados_meta": [
         {
           "id": "122095716501512707",
           "url": "https://www.facebook.com/122095716501512707",
