@@ -3,19 +3,19 @@
     "id": "1367888553074849",
     "nombre": "Huellas con Propósito",
     "categoria": "Animals & Pets",
-    "seguidores": 43,
+    "seguidores": 44,
     "seguidos": 3,
-    "personas_hablando": 34,
-    "foto_perfil": "https://scontent-iad3-1.xx.fbcdn.net/v/t39.30808-1/825286629_28604489712564817_7866327839881392565_n.jpg?stp=dst-jpg_s200x200_tt6&_nc_cat=110&ccb=1-7&_nc_sid=f907e8&_nc_ohc=qq1TePgPYQIQ7kNvwFVxwcC&_nc_oc=AdrwSoQGUXbb0bKzvlk7oaPzdivs06yE0AKRtlPE6p8FCnRYaUOqBv8r_5zsDw3N08U&_nc_zt=24&_nc_ht=scontent-iad3-1.xx&edm=AJdBtusEAAAA&_nc_gid=K9yKbM4u3lkHZU6ub5TPiQ&_nc_tpa=Q5bMBQJlBsyW59ucddK0Zz09mBkDEW-R0Txa2UCJ6kfnePBao67v9uQRfu90VI-BQy0XviJXK6SfeZlaTw&oh=00_AQTYRb272ZQrl0NgetzKG4cl4t2sDzLvavqv0ZN_6MCFIQ&oe=6AEDAD6B",
-    "ultima_actualizacion": "2026-11-01T23:46:38.062Z"
+    "personas_hablando": 36,
+    "foto_perfil": "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.30808-1/825286629_28604489712564817_7866327839881392565_n.jpg?stp=dst-jpg_s200x200_tt6&_nc_cat=110&ccb=1-7&_nc_sid=f907e8&_nc_ohc=qq1TePgPYQIQ7kNvwGTYFFM&_nc_oc=AdqChxM9dG14gbGMfN6NNDRP5m3Zql9EA4oMqnQ6PAvovkETehU-O-lR1G912pI1fmg&_nc_zt=24&_nc_ht=scontent-sjc3-1.xx&edm=AJdBtusEAAAA&_nc_gid=ro6hQRPfkJ-OupuvhsljKA&_nc_tpa=Q5bMBQJeJXw0PWL1LPegesRSIhy0Wtsi4M3dM3Noaf2ZyAt34aJRrpGLiBt9f5hHNXNUEXBXI35uzfBgWA&oh=00_AQQdZ5DR7DDVXFXiP-96lmi1NXdGVXs3ax509d8tyPHihw&oe=6AEE1DEB",
+    "ultima_actualizacion": "2026-11-02T07:58:24.591Z"
   },
   "resumen_kpis": {
-    "total_seguidores": 43,
-    "seguidores_detalle": "43 seguidores • 3 seguidos",
+    "total_seguidores": 44,
+    "seguidores_detalle": "44 seguidores • 3 seguidos",
     "crecimiento_semanal": "+35%",
     "seguidores_nuevos_semana": 7,
-    "personas_hablando": 34,
-    "alcance_estimado": 774,
+    "personas_hablando": 36,
+    "alcance_estimado": 792,
     "interacciones_totales": 0,
     "reacciones_totales": 0,
     "comentarios_totales": 0,
@@ -64,10 +64,21 @@
     },
     {
       "fecha": "12 Oct",
-      "seguidores": 43
+      "seguidores": 44
     }
   ],
   "ultimos_posts_publicados": [
+    {
+      "id": "1367888553074849_122097373833507613",
+      "url": "https://www.facebook.com/1367888553074849_122097373833507613",
+      "mensaje": "Don Aurelio vio cómo cerraron la maderería para siempre y pusieron cinta amarilla de clausura. Al guardia de seguridad le liquidaron su suel",
+      "fecha": "2026-11-02T00:30:04+0000",
+      "reacciones": 0,
+      "comentarios": 0,
+      "compartidos": 0,
+      "tipo": "post",
+      "estado": "publicado"
+    },
     {
       "id": "1367888553074849_122097380505507613",
       "url": "https://www.facebook.com/1367888553074849_122097380505507613",
@@ -326,17 +337,6 @@
       "url": "https://www.facebook.com/1367888553074849_122109537375507613",
       "mensaje": "🐶🥩 El hígado en la comida de tu perro 🩺🦴\n\nEl hígado y las vísceras son auténticas joyas nutricionales en la alimentación canina. Conside",
       "fecha": "2026-10-23T11:45:23+0000",
-      "reacciones": 0,
-      "comentarios": 0,
-      "compartidos": 0,
-      "tipo": "post",
-      "estado": "publicado"
-    },
-    {
-      "id": "1367888553074849_122096594403507613",
-      "url": "https://www.facebook.com/1367888553074849_122096594403507613",
-      "mensaje": "«Ese gesto de ladear la cabecita cuando le dices: '¿Vamos al parque?' o '¿Quieres comidita?'... ¡es lo más tierno del mundo! 😍🐶 tilt\n\n¿Por",
-      "fecha": "2026-10-22T23:30:00+0000",
       "reacciones": 0,
       "comentarios": 0,
       "compartidos": 0,
@@ -1052,7 +1052,7 @@
     "name": "Huellas con propósito",
     "followers": 1,
     "media_count": 14,
-    "picture": "https://scontent-iad3-1.xx.fbcdn.net/v/t51.82787-15/846964896_18127515184894503_9206256640984781246_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=7d201b&_nc_ohc=U8YO4DQrrQkQ7kNvwH0_ZBq&_nc_oc=Adolku1HUoBomEVGmQ3lrJSL7wsMheUB5c-C_OD-QbzstNDQu2UyR0mpzkAL1U5dZ_E&_nc_zt=23&_nc_ht=scontent-iad3-1.xx&edm=AJ-jyNUEAAAA&_nc_gid=tBQAMvarTvFDTdy36wNDFw&oh=00_AQRKV2q-024U9FxfZHJATHTLrtzoYGNlr2J36_6wgwnupA&oe=6AEDB86E"
+    "picture": "https://scontent-sjc6-1.xx.fbcdn.net/v/t51.82787-15/846964896_18127515184894503_9206256640984781246_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=7d201b&_nc_ohc=U8YO4DQrrQkQ7kNvwHvwoKu&_nc_oc=AdrFnPVvgILLGnSmvRWjCsH5mnZ-C7Wkk_6e4InvXs-U6sZGTdO9hZDCGVMh-HhSB4Q&_nc_zt=23&_nc_ht=scontent-sjc6-1.xx&edm=AJ-jyNUEAAAA&_nc_gid=ustDGpxJ5ryDY3L_-1GOgw&oh=00_AQRUACIfjO_yAfsr7BanfH_4efNESb3a2f7kFK92rUl2Dg&oe=6AEE28EE"
   },
   "paginas": {
     "1367888553074849": {
@@ -1060,19 +1060,19 @@
         "id": "1367888553074849",
         "nombre": "Huellas con Propósito",
         "categoria": "Animals & Pets",
-        "seguidores": 43,
+        "seguidores": 44,
         "seguidos": 3,
-        "personas_hablando": 34,
-        "foto_perfil": "https://scontent-iad3-1.xx.fbcdn.net/v/t39.30808-1/825286629_28604489712564817_7866327839881392565_n.jpg?stp=dst-jpg_s200x200_tt6&_nc_cat=110&ccb=1-7&_nc_sid=f907e8&_nc_ohc=qq1TePgPYQIQ7kNvwFVxwcC&_nc_oc=AdrwSoQGUXbb0bKzvlk7oaPzdivs06yE0AKRtlPE6p8FCnRYaUOqBv8r_5zsDw3N08U&_nc_zt=24&_nc_ht=scontent-iad3-1.xx&edm=AJdBtusEAAAA&_nc_gid=K9yKbM4u3lkHZU6ub5TPiQ&_nc_tpa=Q5bMBQJlBsyW59ucddK0Zz09mBkDEW-R0Txa2UCJ6kfnePBao67v9uQRfu90VI-BQy0XviJXK6SfeZlaTw&oh=00_AQTYRb272ZQrl0NgetzKG4cl4t2sDzLvavqv0ZN_6MCFIQ&oe=6AEDAD6B",
-        "ultima_actualizacion": "2026-11-01T23:46:38.062Z"
+        "personas_hablando": 36,
+        "foto_perfil": "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.30808-1/825286629_28604489712564817_7866327839881392565_n.jpg?stp=dst-jpg_s200x200_tt6&_nc_cat=110&ccb=1-7&_nc_sid=f907e8&_nc_ohc=qq1TePgPYQIQ7kNvwGTYFFM&_nc_oc=AdqChxM9dG14gbGMfN6NNDRP5m3Zql9EA4oMqnQ6PAvovkETehU-O-lR1G912pI1fmg&_nc_zt=24&_nc_ht=scontent-sjc3-1.xx&edm=AJdBtusEAAAA&_nc_gid=ro6hQRPfkJ-OupuvhsljKA&_nc_tpa=Q5bMBQJeJXw0PWL1LPegesRSIhy0Wtsi4M3dM3Noaf2ZyAt34aJRrpGLiBt9f5hHNXNUEXBXI35uzfBgWA&oh=00_AQQdZ5DR7DDVXFXiP-96lmi1NXdGVXs3ax509d8tyPHihw&oe=6AEE1DEB",
+        "ultima_actualizacion": "2026-11-02T07:58:24.591Z"
       },
       "resumen_kpis": {
-        "total_seguidores": 43,
-        "seguidores_detalle": "43 seguidores • 3 seguidos",
+        "total_seguidores": 44,
+        "seguidores_detalle": "44 seguidores • 3 seguidos",
         "crecimiento_semanal": "+35%",
         "seguidores_nuevos_semana": 7,
-        "personas_hablando": 34,
-        "alcance_estimado": 774,
+        "personas_hablando": 36,
+        "alcance_estimado": 792,
         "interacciones_totales": 0,
         "reacciones_totales": 0,
         "comentarios_totales": 0,
@@ -1121,10 +1121,21 @@
         },
         {
           "fecha": "12 Oct",
-          "seguidores": 43
+          "seguidores": 44
         }
       ],
       "ultimos_posts_publicados": [
+        {
+          "id": "1367888553074849_122097373833507613",
+          "url": "https://www.facebook.com/1367888553074849_122097373833507613",
+          "mensaje": "Don Aurelio vio cómo cerraron la maderería para siempre y pusieron cinta amarilla de clausura. Al guardia de seguridad le liquidaron su suel",
+          "fecha": "2026-11-02T00:30:04+0000",
+          "reacciones": 0,
+          "comentarios": 0,
+          "compartidos": 0,
+          "tipo": "post",
+          "estado": "publicado"
+        },
         {
           "id": "1367888553074849_122097380505507613",
           "url": "https://www.facebook.com/1367888553074849_122097380505507613",
@@ -1383,17 +1394,6 @@
           "url": "https://www.facebook.com/1367888553074849_122109537375507613",
           "mensaje": "🐶🥩 El hígado en la comida de tu perro 🩺🦴\n\nEl hígado y las vísceras son auténticas joyas nutricionales en la alimentación canina. Conside",
           "fecha": "2026-10-23T11:45:23+0000",
-          "reacciones": 0,
-          "comentarios": 0,
-          "compartidos": 0,
-          "tipo": "post",
-          "estado": "publicado"
-        },
-        {
-          "id": "1367888553074849_122096594403507613",
-          "url": "https://www.facebook.com/1367888553074849_122096594403507613",
-          "mensaje": "«Ese gesto de ladear la cabecita cuando le dices: '¿Vamos al parque?' o '¿Quieres comidita?'... ¡es lo más tierno del mundo! 😍🐶 tilt\n\n¿Por",
-          "fecha": "2026-10-22T23:30:00+0000",
           "reacciones": 0,
           "comentarios": 0,
           "compartidos": 0,
@@ -2109,7 +2109,7 @@
         "name": "Huellas con propósito",
         "followers": 1,
         "media_count": 14,
-        "picture": "https://scontent-iad3-1.xx.fbcdn.net/v/t51.82787-15/846964896_18127515184894503_9206256640984781246_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=7d201b&_nc_ohc=U8YO4DQrrQkQ7kNvwH0_ZBq&_nc_oc=Adolku1HUoBomEVGmQ3lrJSL7wsMheUB5c-C_OD-QbzstNDQu2UyR0mpzkAL1U5dZ_E&_nc_zt=23&_nc_ht=scontent-iad3-1.xx&edm=AJ-jyNUEAAAA&_nc_gid=tBQAMvarTvFDTdy36wNDFw&oh=00_AQRKV2q-024U9FxfZHJATHTLrtzoYGNlr2J36_6wgwnupA&oe=6AEDB86E"
+        "picture": "https://scontent-sjc6-1.xx.fbcdn.net/v/t51.82787-15/846964896_18127515184894503_9206256640984781246_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=7d201b&_nc_ohc=U8YO4DQrrQkQ7kNvwHvwoKu&_nc_oc=AdrFnPVvgILLGnSmvRWjCsH5mnZ-C7Wkk_6e4InvXs-U6sZGTdO9hZDCGVMh-HhSB4Q&_nc_zt=23&_nc_ht=scontent-sjc6-1.xx&edm=AJ-jyNUEAAAA&_nc_gid=ustDGpxJ5ryDY3L_-1GOgw&oh=00_AQRUACIfjO_yAfsr7BanfH_4efNESb3a2f7kFK92rUl2Dg&oe=6AEE28EE"
       }
     },
     "1375923958937880": {
@@ -2121,7 +2121,7 @@
         "seguidos": 0,
         "personas_hablando": 0,
         "foto_perfil": "",
-        "ultima_actualizacion": "2026-11-01T23:46:38.352Z"
+        "ultima_actualizacion": "2026-11-02T07:58:24.706Z"
       },
       "resumen_kpis": {
         "total_seguidores": 7,
