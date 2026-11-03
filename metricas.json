@@ -5,16 +5,16 @@
     "categoria": "Animals & Pets",
     "seguidores": 45,
     "seguidos": 3,
-    "personas_hablando": 36,
-    "foto_perfil": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.30808-1/825286629_28604489712564817_7866327839881392565_n.jpg?stp=dst-jpg_s200x200_tt6&_nc_cat=110&ccb=1-7&_nc_sid=f907e8&_nc_ohc=2YCYE3uiMCIQ7kNvwEcwC1E&_nc_oc=Adoq5vcNiNY0fktm00bXDoVakjchOiszGH5kgTQGq13My6QaDs_H4iaEVOvRCHq9tq8&_nc_zt=24&_nc_ht=scontent-ord5-2.xx&edm=AJdBtusEAAAA&_nc_gid=C8ec3AHIPh4huqKe8lNdRQ&_nc_tpa=Q5bMBQJV_6h2gWP58DjuuKAk5QOmYLyUkBtxhr5VBLiF68FnD0TN-xCrNsCPrzS_jYnfymKaGDRIkRKTrw&oh=00_AQRujZr64GD2BUT8ZqVeLGp3jnav-mgq_Qmn7CKg6kmfCA&oe=6AEEC6AB",
-    "ultima_actualizacion": "2026-11-02T21:56:51.931Z"
+    "personas_hablando": 37,
+    "foto_perfil": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.30808-1/825286629_28604489712564817_7866327839881392565_n.jpg?stp=dst-jpg_s200x200_tt6&_nc_cat=110&ccb=1-7&_nc_sid=f907e8&_nc_ohc=2YCYE3uiMCIQ7kNvwEfLHP2&_nc_oc=AdqQ75zh505Da7XyVW__rT1uWC6aZ8xJjVFtWExQs4MnqqJ8zbYkleXPhNJ07CxR4nI&_nc_zt=24&_nc_ht=scontent-ord5-2.xx&edm=AJdBtusEAAAA&_nc_gid=XyWC568Dp7XwxkP864tPNA&_nc_tpa=Q5bMBQLZyYGo8YlnwitWEhbjOb1-VaZN8u8rbim7_stP9NieDuEiB_BYZR_43ZwAutZB_QBqYQbSwWcASA&oh=00_AQQ0ym3wR9hSC10TV7mrcZoOEDaVbmGCQI7Gimd7C9xmuQ&oe=6AEF372B",
+    "ultima_actualizacion": "2026-11-03T03:59:35.592Z"
   },
   "resumen_kpis": {
     "total_seguidores": 45,
     "seguidores_detalle": "45 seguidores • 3 seguidos",
     "crecimiento_semanal": "+35%",
     "seguidores_nuevos_semana": 7,
-    "personas_hablando": 36,
+    "personas_hablando": 37,
     "alcance_estimado": 810,
     "interacciones_totales": 0,
     "reacciones_totales": 0,
@@ -68,6 +68,17 @@
     }
   ],
   "ultimos_posts_publicados": [
+    {
+      "id": "1367888553074849_122097374331507613",
+      "url": "https://www.facebook.com/1367888553074849_122097374331507613",
+      "mensaje": "Eran las 6:30 de la mañana cuando el doctor Fernando llegó a abrir la clínica veterinaria. Atado a la aldaba metálica de la entrada había un",
+      "fecha": "2026-11-03T00:30:00+0000",
+      "reacciones": 0,
+      "comentarios": 0,
+      "compartidos": 0,
+      "tipo": "post",
+      "estado": "publicado"
+    },
     {
       "id": "1367888553074849_122097380727507613",
       "url": "https://www.facebook.com/1367888553074849_122097380727507613",
@@ -326,17 +337,6 @@
       "url": "https://www.facebook.com/1367888553074849_122096594787507613",
       "mensaje": "«Para un perro no eres un simple 'humano que le da de comer'... para él eres su verdadero progenitor. 🐶👨‍👩‍👧❤️\n\nFíjate si hace estas cos",
       "fecha": "2026-10-24T23:30:04+0000",
-      "reacciones": 0,
-      "comentarios": 0,
-      "compartidos": 0,
-      "tipo": "post",
-      "estado": "publicado"
-    },
-    {
-      "id": "1367888553074849_122096594709507613",
-      "url": "https://www.facebook.com/1367888553074849_122096594709507613",
-      "mensaje": "«Había perdido su casa por una tormenta, pero se negaba a soltar su único tesoro... 🧸⛈️🐾\n\nCuando los rescatistas llegaron a la zona afecta",
-      "fecha": "2026-10-24T13:00:21+0000",
       "reacciones": 0,
       "comentarios": 0,
       "compartidos": 0,
@@ -1052,7 +1052,7 @@
     "name": "Huellas con propósito",
     "followers": 1,
     "media_count": 14,
-    "picture": "https://scontent-ord5-2.xx.fbcdn.net/v/t51.82787-15/846964896_18127515184894503_9206256640984781246_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=7d201b&_nc_ohc=9MfKKOp3RuEQ7kNvwFIwxpS&_nc_oc=Ado9Aix15SIoFFn6Fk6Wyyz87PSdwvGkH3YWM1nRRI4-zBpmXBqgluYU3TZg8HcGSOw&_nc_zt=23&_nc_ht=scontent-ord5-2.xx&edm=AJ-jyNUEAAAA&_nc_gid=cr36K7pzQI9Yn17ikGzmRg&oh=00_AQSgXb1orZdVfiba190DUIZhmTSGEZbulyildKcm7ZSNaQ&oe=6AEED1AE"
+    "picture": "https://scontent-ord5-2.xx.fbcdn.net/v/t51.82787-15/846964896_18127515184894503_9206256640984781246_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=7d201b&_nc_ohc=9MfKKOp3RuEQ7kNvwG5UF8S&_nc_oc=Adrn50nt-55T1I9LTqo7uvjmfyff8q46ZLFkimyfbnOcUMsYiSZfRRN3TKmUtOtTljA&_nc_zt=23&_nc_ht=scontent-ord5-2.xx&edm=AJ-jyNUEAAAA&_nc_gid=-vXmf9NT3PJPZIRjQ8EPgA&oh=00_AQRopBfyoO-0gzWRNl1dQHVWPX-S-l7zcSiPZlARfX4hdw&oe=6AEF422E"
   },
   "paginas": {
     "1367888553074849": {
@@ -1062,16 +1062,16 @@
         "categoria": "Animals & Pets",
         "seguidores": 45,
         "seguidos": 3,
-        "personas_hablando": 36,
-        "foto_perfil": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.30808-1/825286629_28604489712564817_7866327839881392565_n.jpg?stp=dst-jpg_s200x200_tt6&_nc_cat=110&ccb=1-7&_nc_sid=f907e8&_nc_ohc=2YCYE3uiMCIQ7kNvwEcwC1E&_nc_oc=Adoq5vcNiNY0fktm00bXDoVakjchOiszGH5kgTQGq13My6QaDs_H4iaEVOvRCHq9tq8&_nc_zt=24&_nc_ht=scontent-ord5-2.xx&edm=AJdBtusEAAAA&_nc_gid=C8ec3AHIPh4huqKe8lNdRQ&_nc_tpa=Q5bMBQJV_6h2gWP58DjuuKAk5QOmYLyUkBtxhr5VBLiF68FnD0TN-xCrNsCPrzS_jYnfymKaGDRIkRKTrw&oh=00_AQRujZr64GD2BUT8ZqVeLGp3jnav-mgq_Qmn7CKg6kmfCA&oe=6AEEC6AB",
-        "ultima_actualizacion": "2026-11-02T21:56:51.931Z"
+        "personas_hablando": 37,
+        "foto_perfil": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.30808-1/825286629_28604489712564817_7866327839881392565_n.jpg?stp=dst-jpg_s200x200_tt6&_nc_cat=110&ccb=1-7&_nc_sid=f907e8&_nc_ohc=2YCYE3uiMCIQ7kNvwEfLHP2&_nc_oc=AdqQ75zh505Da7XyVW__rT1uWC6aZ8xJjVFtWExQs4MnqqJ8zbYkleXPhNJ07CxR4nI&_nc_zt=24&_nc_ht=scontent-ord5-2.xx&edm=AJdBtusEAAAA&_nc_gid=XyWC568Dp7XwxkP864tPNA&_nc_tpa=Q5bMBQLZyYGo8YlnwitWEhbjOb1-VaZN8u8rbim7_stP9NieDuEiB_BYZR_43ZwAutZB_QBqYQbSwWcASA&oh=00_AQQ0ym3wR9hSC10TV7mrcZoOEDaVbmGCQI7Gimd7C9xmuQ&oe=6AEF372B",
+        "ultima_actualizacion": "2026-11-03T03:59:35.592Z"
       },
       "resumen_kpis": {
         "total_seguidores": 45,
         "seguidores_detalle": "45 seguidores • 3 seguidos",
         "crecimiento_semanal": "+35%",
         "seguidores_nuevos_semana": 7,
-        "personas_hablando": 36,
+        "personas_hablando": 37,
         "alcance_estimado": 810,
         "interacciones_totales": 0,
         "reacciones_totales": 0,
@@ -1125,6 +1125,17 @@
         }
       ],
       "ultimos_posts_publicados": [
+        {
+          "id": "1367888553074849_122097374331507613",
+          "url": "https://www.facebook.com/1367888553074849_122097374331507613",
+          "mensaje": "Eran las 6:30 de la mañana cuando el doctor Fernando llegó a abrir la clínica veterinaria. Atado a la aldaba metálica de la entrada había un",
+          "fecha": "2026-11-03T00:30:00+0000",
+          "reacciones": 0,
+          "comentarios": 0,
+          "compartidos": 0,
+          "tipo": "post",
+          "estado": "publicado"
+        },
         {
           "id": "1367888553074849_122097380727507613",
           "url": "https://www.facebook.com/1367888553074849_122097380727507613",
@@ -1383,17 +1394,6 @@
           "url": "https://www.facebook.com/1367888553074849_122096594787507613",
           "mensaje": "«Para un perro no eres un simple 'humano que le da de comer'... para él eres su verdadero progenitor. 🐶👨‍👩‍👧❤️\n\nFíjate si hace estas cos",
           "fecha": "2026-10-24T23:30:04+0000",
-          "reacciones": 0,
-          "comentarios": 0,
-          "compartidos": 0,
-          "tipo": "post",
-          "estado": "publicado"
-        },
-        {
-          "id": "1367888553074849_122096594709507613",
-          "url": "https://www.facebook.com/1367888553074849_122096594709507613",
-          "mensaje": "«Había perdido su casa por una tormenta, pero se negaba a soltar su único tesoro... 🧸⛈️🐾\n\nCuando los rescatistas llegaron a la zona afecta",
-          "fecha": "2026-10-24T13:00:21+0000",
           "reacciones": 0,
           "comentarios": 0,
           "compartidos": 0,
@@ -2109,7 +2109,7 @@
         "name": "Huellas con propósito",
         "followers": 1,
         "media_count": 14,
-        "picture": "https://scontent-ord5-2.xx.fbcdn.net/v/t51.82787-15/846964896_18127515184894503_9206256640984781246_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=7d201b&_nc_ohc=9MfKKOp3RuEQ7kNvwFIwxpS&_nc_oc=Ado9Aix15SIoFFn6Fk6Wyyz87PSdwvGkH3YWM1nRRI4-zBpmXBqgluYU3TZg8HcGSOw&_nc_zt=23&_nc_ht=scontent-ord5-2.xx&edm=AJ-jyNUEAAAA&_nc_gid=cr36K7pzQI9Yn17ikGzmRg&oh=00_AQSgXb1orZdVfiba190DUIZhmTSGEZbulyildKcm7ZSNaQ&oe=6AEED1AE"
+        "picture": "https://scontent-ord5-2.xx.fbcdn.net/v/t51.82787-15/846964896_18127515184894503_9206256640984781246_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=7d201b&_nc_ohc=9MfKKOp3RuEQ7kNvwG5UF8S&_nc_oc=Adrn50nt-55T1I9LTqo7uvjmfyff8q46ZLFkimyfbnOcUMsYiSZfRRN3TKmUtOtTljA&_nc_zt=23&_nc_ht=scontent-ord5-2.xx&edm=AJ-jyNUEAAAA&_nc_gid=-vXmf9NT3PJPZIRjQ8EPgA&oh=00_AQRopBfyoO-0gzWRNl1dQHVWPX-S-l7zcSiPZlARfX4hdw&oe=6AEF422E"
       }
     },
     "1375923958937880": {
@@ -2121,7 +2121,7 @@
         "seguidos": 0,
         "personas_hablando": 0,
         "foto_perfil": "",
-        "ultima_actualizacion": "2026-11-02T21:56:52.012Z"
+        "ultima_actualizacion": "2026-11-03T03:59:35.728Z"
       },
       "resumen_kpis": {
         "total_seguidores": 7,
