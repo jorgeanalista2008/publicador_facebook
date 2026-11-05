@@ -5,16 +5,16 @@
     "categoria": "Animals & Pets",
     "seguidores": 45,
     "seguidos": 3,
-    "personas_hablando": 28,
-    "foto_perfil": "https://scontent-iad3-1.xx.fbcdn.net/v/t39.30808-1/825286629_28604489712564817_7866327839881392565_n.jpg?stp=dst-jpg_s200x200_tt6&_nc_cat=110&ccb=1-7&_nc_sid=f907e8&_nc_ohc=2YCYE3uiMCIQ7kNvwEazqOr&_nc_oc=Adq7v9Px_lB4fHstfa1vc_2RI-wo8rT3u00VywZhu1McLrllQjsvZ-n-Nb2ZYk7HV7M&_nc_zt=24&_nc_ht=scontent-iad3-1.xx&edm=AJdBtusEAAAA&_nc_gid=cCMq6CSE4O4SzcOjDTjR-Q&_nc_tpa=Q5bMBQI91Su44XzvU1QR6nlkZYOITWW8p-v80wdeQ0th2EWSuKt5hLzkupTqurCVgQ8zgNX_bEGGZIGMVQ&oh=00_AQTD94Sv1ITbDx3t_FLu4rgT0eINX6qWCX991YeWjQCrFQ&oe=6AF169AB",
-    "ultima_actualizacion": "2026-11-04T19:58:38.576Z"
+    "personas_hablando": 30,
+    "foto_perfil": "https://scontent-dfw6-2.xx.fbcdn.net/v/t39.30808-1/825286629_28604489712564817_7866327839881392565_n.jpg?stp=dst-jpg_s200x200_tt6&_nc_cat=110&ccb=1-7&_nc_sid=f907e8&_nc_ohc=2YCYE3uiMCIQ7kNvwHeIQDB&_nc_oc=AdrvrR91Mrma6M1vdkUQLqvfoI8v2WtqGdpQN1Ae_1zUMDJCrz6obK51jX_2WmgYYYg&_nc_zt=24&_nc_ht=scontent-dfw6-2.xx&edm=AJdBtusEAAAA&_nc_gid=eSrF3mDP19I8NGnXvZOHLA&_nc_tpa=Q5bMBQKHJVOqxQ5MZKErNRj3bM0FkyikzuCUEAfD0JP1Q3neHW8WiqFzZ_wHRSCTpQri6hYbtHbN7yvqkQ&oh=00_AQQzs2w1qKixmuWtC1YZhspQRCtzE2Bk3lAPmdOByzn6Vw&oe=6AF1A1EB",
+    "ultima_actualizacion": "2026-11-05T01:00:30.239Z"
   },
   "resumen_kpis": {
     "total_seguidores": 45,
     "seguidores_detalle": "45 seguidores • 3 seguidos",
     "crecimiento_semanal": "+35%",
     "seguidores_nuevos_semana": 7,
-    "personas_hablando": 28,
+    "personas_hablando": 30,
     "alcance_estimado": 810,
     "interacciones_totales": 0,
     "reacciones_totales": 0,
@@ -68,6 +68,28 @@
     }
   ],
   "ultimos_posts_publicados": [
+    {
+      "id": "1367888553074849_122097375243507613",
+      "url": "https://www.facebook.com/1367888553074849_122097375243507613",
+      "mensaje": "La señora Carmela vio salir el camión de mudanza a toda velocidad. Diez minutos después, una cachorrita peluda y blanca salió corriendo del ",
+      "fecha": "2026-11-05T00:30:01+0000",
+      "reacciones": 0,
+      "comentarios": 0,
+      "compartidos": 0,
+      "tipo": "post",
+      "estado": "publicado"
+    },
+    {
+      "id": "1367888553074849_122097381321507613",
+      "url": "https://www.facebook.com/1367888553074849_122097381321507613",
+      "mensaje": "«No nos afecta lo que nos sucede, sino el juicio que nos formamos de lo que nos sucede». — Epicteto 🏛️🛡️\n\nEpicteto nació esclavo, soportó ",
+      "fecha": "2026-11-04T21:30:02+0000",
+      "reacciones": 0,
+      "comentarios": 0,
+      "compartidos": 0,
+      "tipo": "post",
+      "estado": "publicado"
+    },
     {
       "id": "1367888553074849_122097375081507613",
       "url": "https://www.facebook.com/1367888553074849_122097375081507613",
@@ -315,28 +337,6 @@
       "url": "https://www.facebook.com/1367888553074849_122096595777507613",
       "mensaje": "«Don Alberto pasó seis meses sentado en su sillón sin querer salir de casa tras perder a su esposa de toda la vida... 🛋️🥀\n\nSus hijos sabía",
       "fecha": "2026-10-29T23:30:01+0000",
-      "reacciones": 0,
-      "comentarios": 0,
-      "compartidos": 0,
-      "tipo": "post",
-      "estado": "publicado"
-    },
-    {
-      "id": "1367888553074849_122112592713507613",
-      "url": "https://www.facebook.com/1367888553074849_122112592713507613",
-      "mensaje": "Publicación",
-      "fecha": "2026-10-29T17:33:28+0000",
-      "reacciones": 0,
-      "comentarios": 0,
-      "compartidos": 0,
-      "tipo": "post",
-      "estado": "publicado"
-    },
-    {
-      "id": "1367888553074849_122096595669507613",
-      "url": "https://www.facebook.com/1367888553074849_122096595669507613",
-      "mensaje": "«Estuvo tres semanas internado luchando contra el parvovirus. Los doctores dieron todo por él y hoy... ¡HOY SE FUE A CASA! 🏥🎉🐶\n\nPaco lleg",
-      "fecha": "2026-10-29T13:00:03+0000",
       "reacciones": 0,
       "comentarios": 0,
       "compartidos": 0,
@@ -1052,7 +1052,7 @@
     "name": "Huellas con propósito",
     "followers": 1,
     "media_count": 14,
-    "picture": "https://scontent-iad3-1.xx.fbcdn.net/v/t51.82787-15/846964896_18127515184894503_9206256640984781246_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=7d201b&_nc_ohc=9MfKKOp3RuEQ7kNvwHxC7X6&_nc_oc=Adr3BcgE8AlHnB1asdG-aCYEfQjMMckzgWomK6B07MIQWFVYSv_Lsz-gKO5za_wOqn0&_nc_zt=23&_nc_ht=scontent-iad3-1.xx&edm=AJ-jyNUEAAAA&_nc_gid=3y-kUlixIuILKiXgduywdw&oh=00_AQRtSHQbNKTGi5RvLJSKXNBnnTGkYIj4F49mb11YHqkblQ&oe=6AF174AE"
+    "picture": "https://scontent-dfw5-2.xx.fbcdn.net/v/t51.82787-15/846964896_18127515184894503_9206256640984781246_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=7d201b&_nc_ohc=9MfKKOp3RuEQ7kNvwF9Ka3-&_nc_oc=AdoZKP79HZX68lSFsnDOVpJyUksbsVd0-vwhxYJqIO1VHYLlAgM5MjqJkQ6AzL4vlGw&_nc_zt=23&_nc_ht=scontent-dfw5-2.xx&edm=AJ-jyNUEAAAA&_nc_gid=4HH7Wv3lXSgCA2qhbB-hXw&oh=00_AQQb09NWZrT4nUh0N0dl-3YyqnnIWZZYP9MnCs2wBp1O2w&oe=6AF1ACEE"
   },
   "paginas": {
     "1367888553074849": {
@@ -1062,16 +1062,16 @@
         "categoria": "Animals & Pets",
         "seguidores": 45,
         "seguidos": 3,
-        "personas_hablando": 28,
-        "foto_perfil": "https://scontent-iad3-1.xx.fbcdn.net/v/t39.30808-1/825286629_28604489712564817_7866327839881392565_n.jpg?stp=dst-jpg_s200x200_tt6&_nc_cat=110&ccb=1-7&_nc_sid=f907e8&_nc_ohc=2YCYE3uiMCIQ7kNvwEazqOr&_nc_oc=Adq7v9Px_lB4fHstfa1vc_2RI-wo8rT3u00VywZhu1McLrllQjsvZ-n-Nb2ZYk7HV7M&_nc_zt=24&_nc_ht=scontent-iad3-1.xx&edm=AJdBtusEAAAA&_nc_gid=cCMq6CSE4O4SzcOjDTjR-Q&_nc_tpa=Q5bMBQI91Su44XzvU1QR6nlkZYOITWW8p-v80wdeQ0th2EWSuKt5hLzkupTqurCVgQ8zgNX_bEGGZIGMVQ&oh=00_AQTD94Sv1ITbDx3t_FLu4rgT0eINX6qWCX991YeWjQCrFQ&oe=6AF169AB",
-        "ultima_actualizacion": "2026-11-04T19:58:38.576Z"
+        "personas_hablando": 30,
+        "foto_perfil": "https://scontent-dfw6-2.xx.fbcdn.net/v/t39.30808-1/825286629_28604489712564817_7866327839881392565_n.jpg?stp=dst-jpg_s200x200_tt6&_nc_cat=110&ccb=1-7&_nc_sid=f907e8&_nc_ohc=2YCYE3uiMCIQ7kNvwHeIQDB&_nc_oc=AdrvrR91Mrma6M1vdkUQLqvfoI8v2WtqGdpQN1Ae_1zUMDJCrz6obK51jX_2WmgYYYg&_nc_zt=24&_nc_ht=scontent-dfw6-2.xx&edm=AJdBtusEAAAA&_nc_gid=eSrF3mDP19I8NGnXvZOHLA&_nc_tpa=Q5bMBQKHJVOqxQ5MZKErNRj3bM0FkyikzuCUEAfD0JP1Q3neHW8WiqFzZ_wHRSCTpQri6hYbtHbN7yvqkQ&oh=00_AQQzs2w1qKixmuWtC1YZhspQRCtzE2Bk3lAPmdOByzn6Vw&oe=6AF1A1EB",
+        "ultima_actualizacion": "2026-11-05T01:00:30.239Z"
       },
       "resumen_kpis": {
         "total_seguidores": 45,
         "seguidores_detalle": "45 seguidores • 3 seguidos",
         "crecimiento_semanal": "+35%",
         "seguidores_nuevos_semana": 7,
-        "personas_hablando": 28,
+        "personas_hablando": 30,
         "alcance_estimado": 810,
         "interacciones_totales": 0,
         "reacciones_totales": 0,
@@ -1125,6 +1125,28 @@
         }
       ],
       "ultimos_posts_publicados": [
+        {
+          "id": "1367888553074849_122097375243507613",
+          "url": "https://www.facebook.com/1367888553074849_122097375243507613",
+          "mensaje": "La señora Carmela vio salir el camión de mudanza a toda velocidad. Diez minutos después, una cachorrita peluda y blanca salió corriendo del ",
+          "fecha": "2026-11-05T00:30:01+0000",
+          "reacciones": 0,
+          "comentarios": 0,
+          "compartidos": 0,
+          "tipo": "post",
+          "estado": "publicado"
+        },
+        {
+          "id": "1367888553074849_122097381321507613",
+          "url": "https://www.facebook.com/1367888553074849_122097381321507613",
+          "mensaje": "«No nos afecta lo que nos sucede, sino el juicio que nos formamos de lo que nos sucede». — Epicteto 🏛️🛡️\n\nEpicteto nació esclavo, soportó ",
+          "fecha": "2026-11-04T21:30:02+0000",
+          "reacciones": 0,
+          "comentarios": 0,
+          "compartidos": 0,
+          "tipo": "post",
+          "estado": "publicado"
+        },
         {
           "id": "1367888553074849_122097375081507613",
           "url": "https://www.facebook.com/1367888553074849_122097375081507613",
@@ -1372,28 +1394,6 @@
           "url": "https://www.facebook.com/1367888553074849_122096595777507613",
           "mensaje": "«Don Alberto pasó seis meses sentado en su sillón sin querer salir de casa tras perder a su esposa de toda la vida... 🛋️🥀\n\nSus hijos sabía",
           "fecha": "2026-10-29T23:30:01+0000",
-          "reacciones": 0,
-          "comentarios": 0,
-          "compartidos": 0,
-          "tipo": "post",
-          "estado": "publicado"
-        },
-        {
-          "id": "1367888553074849_122112592713507613",
-          "url": "https://www.facebook.com/1367888553074849_122112592713507613",
-          "mensaje": "Publicación",
-          "fecha": "2026-10-29T17:33:28+0000",
-          "reacciones": 0,
-          "comentarios": 0,
-          "compartidos": 0,
-          "tipo": "post",
-          "estado": "publicado"
-        },
-        {
-          "id": "1367888553074849_122096595669507613",
-          "url": "https://www.facebook.com/1367888553074849_122096595669507613",
-          "mensaje": "«Estuvo tres semanas internado luchando contra el parvovirus. Los doctores dieron todo por él y hoy... ¡HOY SE FUE A CASA! 🏥🎉🐶\n\nPaco lleg",
-          "fecha": "2026-10-29T13:00:03+0000",
           "reacciones": 0,
           "comentarios": 0,
           "compartidos": 0,
@@ -2109,7 +2109,7 @@
         "name": "Huellas con propósito",
         "followers": 1,
         "media_count": 14,
-        "picture": "https://scontent-iad3-1.xx.fbcdn.net/v/t51.82787-15/846964896_18127515184894503_9206256640984781246_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=7d201b&_nc_ohc=9MfKKOp3RuEQ7kNvwHxC7X6&_nc_oc=Adr3BcgE8AlHnB1asdG-aCYEfQjMMckzgWomK6B07MIQWFVYSv_Lsz-gKO5za_wOqn0&_nc_zt=23&_nc_ht=scontent-iad3-1.xx&edm=AJ-jyNUEAAAA&_nc_gid=3y-kUlixIuILKiXgduywdw&oh=00_AQRtSHQbNKTGi5RvLJSKXNBnnTGkYIj4F49mb11YHqkblQ&oe=6AF174AE"
+        "picture": "https://scontent-dfw5-2.xx.fbcdn.net/v/t51.82787-15/846964896_18127515184894503_9206256640984781246_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=7d201b&_nc_ohc=9MfKKOp3RuEQ7kNvwF9Ka3-&_nc_oc=AdoZKP79HZX68lSFsnDOVpJyUksbsVd0-vwhxYJqIO1VHYLlAgM5MjqJkQ6AzL4vlGw&_nc_zt=23&_nc_ht=scontent-dfw5-2.xx&edm=AJ-jyNUEAAAA&_nc_gid=4HH7Wv3lXSgCA2qhbB-hXw&oh=00_AQQb09NWZrT4nUh0N0dl-3YyqnnIWZZYP9MnCs2wBp1O2w&oe=6AF1ACEE"
       }
     },
     "1375923958937880": {
@@ -2121,7 +2121,7 @@
         "seguidos": 0,
         "personas_hablando": 0,
         "foto_perfil": "",
-        "ultima_actualizacion": "2026-11-04T19:58:38.861Z"
+        "ultima_actualizacion": "2026-11-05T01:00:30.357Z"
       },
       "resumen_kpis": {
         "total_seguidores": 7,
