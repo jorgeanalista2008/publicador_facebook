@@ -5,16 +5,16 @@
     "categoria": "Animals & Pets",
     "seguidores": 45,
     "seguidos": 3,
-    "personas_hablando": 28,
-    "foto_perfil": "https://scontent-iad3-1.xx.fbcdn.net/v/t39.30808-1/825286629_28604489712564817_7866327839881392565_n.jpg?stp=dst-jpg_s200x200_tt6&_nc_cat=110&ccb=1-7&_nc_sid=f907e8&_nc_ohc=uTTek8_G7XYQ7kNvwFBoldH&_nc_oc=Adr4sNME-JggqNOAjBRrAgW6IZEt9aFD6Ly4mfFr9auehUhEpXZlxBji5VvgnkNQnNw&_nc_zt=24&_nc_ht=scontent-iad3-1.xx&edm=AJdBtusEAAAA&_nc_gid=JCyuJldqyuZN21fMb6OlYw&_nc_tpa=Q5bMBQLOZUZpHhSsESEwhI50496DgIIPc66KzkhR2hfJkD8xKSoB0LvWgSUbD8bnSMJ3x3u2-G3EaquXKw&oh=00_AQQ-dsVJrb8Hb4SVwFiMYqf0UF2iSHCYYDM9qKQrTrxEEw&oe=6AF2BB2B",
-    "ultima_actualizacion": "2026-11-05T20:12:52.019Z"
+    "personas_hablando": 30,
+    "foto_perfil": "https://scontent-iad3-1.xx.fbcdn.net/v/t39.30808-1/825286629_28604489712564817_7866327839881392565_n.jpg?stp=dst-jpg_s200x200_tt6&_nc_cat=110&ccb=1-7&_nc_sid=f907e8&_nc_ohc=uTTek8_G7XYQ7kNvwGLrB5G&_nc_oc=Adq9rA3rptqRRlCzb69ychGfw8xqvbqUIA5vjgb77_4VLZI3A0n6HNkqqDCKTBLDQpk&_nc_zt=24&_nc_ht=scontent-iad3-1.xx&edm=AJdBtusEAAAA&_nc_gid=LzoO3Q7Mk5BvL6fADgMDww&_nc_tpa=Q5bMBQLz5k-SzcBJtwKZNifrSDDa5tN-KZh_xUakLkyaN9-JFW-gqhQIWQFHl2vDTAfhV7TTJ7JQtaC8HA&oh=00_AQTFq1hIea1cKmHdnRHYrMVYjA6nK9dM0wIJBDCeBlPLJQ&oe=6AF2F36B",
+    "ultima_actualizacion": "2026-11-06T01:03:25.426Z"
   },
   "resumen_kpis": {
     "total_seguidores": 45,
     "seguidores_detalle": "45 seguidores • 3 seguidos",
     "crecimiento_semanal": "+35%",
     "seguidores_nuevos_semana": 7,
-    "personas_hablando": 28,
+    "personas_hablando": 30,
     "alcance_estimado": 810,
     "interacciones_totales": 0,
     "reacciones_totales": 0,
@@ -68,6 +68,28 @@
     }
   ],
   "ultimos_posts_publicados": [
+    {
+      "id": "1367888553074849_122097375795507613",
+      "url": "https://www.facebook.com/1367888553074849_122097375795507613",
+      "mensaje": "Don Marcos llamó al nuevo dueño del taller mecánico que acababa de quebrar. Una voz apresurada le contestó que se estaban llevando la maquin",
+      "fecha": "2026-11-06T00:30:01+0000",
+      "reacciones": 0,
+      "comentarios": 0,
+      "compartidos": 0,
+      "tipo": "post",
+      "estado": "publicado"
+    },
+    {
+      "id": "1367888553074849_122097381729507613",
+      "url": "https://www.facebook.com/1367888553074849_122097381729507613",
+      "mensaje": "«No tenemos poco tiempo, sino que perdemos mucho». — Séneca (Sobre la brevedad de la vida) ⏳🏛️\n\nNos quejamos constantemente de que la vida ",
+      "fecha": "2026-11-05T21:30:01+0000",
+      "reacciones": 0,
+      "comentarios": 0,
+      "compartidos": 0,
+      "tipo": "post",
+      "estado": "publicado"
+    },
     {
       "id": "1367888553074849_122097375531507613",
       "url": "https://www.facebook.com/1367888553074849_122097375531507613",
@@ -315,28 +337,6 @@
       "url": "https://www.facebook.com/1367888553074849_122096596233507613",
       "mensaje": "«Termina un mes más y yo solo quiero darte las gracias por seguir aquí a mi lado... 🍂🍁🐾\n\nGracias por los paseos en las mañanas frías, por",
       "fecha": "2026-10-31T23:30:03+0000",
-      "reacciones": 0,
-      "comentarios": 0,
-      "compartidos": 0,
-      "tipo": "post",
-      "estado": "publicado"
-    },
-    {
-      "id": "1367888553074849_122096596113507613",
-      "url": "https://www.facebook.com/1367888553074849_122096596113507613",
-      "mensaje": "«Es el último día de octubre y queremos hablar de una injusticia real: el 'Síndrome del Perro Negro'. 🖤🐾\n\nEn los refugios de todo el mundo",
-      "fecha": "2026-10-31T13:00:01+0000",
-      "reacciones": 0,
-      "comentarios": 0,
-      "compartidos": 0,
-      "tipo": "post",
-      "estado": "publicado"
-    },
-    {
-      "id": "1367888553074849_122096595987507613",
-      "url": "https://www.facebook.com/1367888553074849_122096595987507613",
-      "mensaje": "«Los truenos y los fuegos artificiales de fin de mes siempre asustan a los perritos sin hogar en los refugios... 🎆😰🐾\n\nEl refugio 'Huellit",
-      "fecha": "2026-10-30T23:30:01+0000",
       "reacciones": 0,
       "comentarios": 0,
       "compartidos": 0,
@@ -1052,7 +1052,7 @@
     "name": "Huellas con propósito",
     "followers": 1,
     "media_count": 14,
-    "picture": "https://scontent-iad3-1.xx.fbcdn.net/v/t51.82787-15/846964896_18127515184894503_9206256640984781246_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=7d201b&_nc_ohc=39aheTbdUL0Q7kNvwHFYUY-&_nc_oc=AdpX4bhEvqtICUsWbTd9sGU9Uf1F6JCDVJaK50sX3WjUxi5eoOVTyY6DJjeavz3QOoM&_nc_zt=23&_nc_ht=scontent-iad3-1.xx&edm=AJ-jyNUEAAAA&_nc_gid=xnDMXwSbGb4NPyzmKh2JPA&oh=00_AQR05qiLECHyOedt0-vB-dGspfjWUUePDbLw_2e6lpyRKw&oe=6AF2C62E"
+    "picture": "https://scontent-iad3-1.xx.fbcdn.net/v/t51.82787-15/846964896_18127515184894503_9206256640984781246_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=7d201b&_nc_ohc=39aheTbdUL0Q7kNvwFV3pDd&_nc_oc=Adoi0UemusFbY0s_SiJ-ZaGlrO9tw228DpkcgWoYt_TYarwkydzyFFkNUdSXDJWJGx8&_nc_zt=23&_nc_ht=scontent-iad3-1.xx&edm=AJ-jyNUEAAAA&_nc_gid=9u6dnrUIpKr88sox_VEXlg&oh=00_AQTGtQCEVEY7HKULYmHxWIdkZpFruo4Xcy_7g1Um90L1HA&oe=6AF2FE6E"
   },
   "paginas": {
     "1367888553074849": {
@@ -1062,16 +1062,16 @@
         "categoria": "Animals & Pets",
         "seguidores": 45,
         "seguidos": 3,
-        "personas_hablando": 28,
-        "foto_perfil": "https://scontent-iad3-1.xx.fbcdn.net/v/t39.30808-1/825286629_28604489712564817_7866327839881392565_n.jpg?stp=dst-jpg_s200x200_tt6&_nc_cat=110&ccb=1-7&_nc_sid=f907e8&_nc_ohc=uTTek8_G7XYQ7kNvwFBoldH&_nc_oc=Adr4sNME-JggqNOAjBRrAgW6IZEt9aFD6Ly4mfFr9auehUhEpXZlxBji5VvgnkNQnNw&_nc_zt=24&_nc_ht=scontent-iad3-1.xx&edm=AJdBtusEAAAA&_nc_gid=JCyuJldqyuZN21fMb6OlYw&_nc_tpa=Q5bMBQLOZUZpHhSsESEwhI50496DgIIPc66KzkhR2hfJkD8xKSoB0LvWgSUbD8bnSMJ3x3u2-G3EaquXKw&oh=00_AQQ-dsVJrb8Hb4SVwFiMYqf0UF2iSHCYYDM9qKQrTrxEEw&oe=6AF2BB2B",
-        "ultima_actualizacion": "2026-11-05T20:12:52.019Z"
+        "personas_hablando": 30,
+        "foto_perfil": "https://scontent-iad3-1.xx.fbcdn.net/v/t39.30808-1/825286629_28604489712564817_7866327839881392565_n.jpg?stp=dst-jpg_s200x200_tt6&_nc_cat=110&ccb=1-7&_nc_sid=f907e8&_nc_ohc=uTTek8_G7XYQ7kNvwGLrB5G&_nc_oc=Adq9rA3rptqRRlCzb69ychGfw8xqvbqUIA5vjgb77_4VLZI3A0n6HNkqqDCKTBLDQpk&_nc_zt=24&_nc_ht=scontent-iad3-1.xx&edm=AJdBtusEAAAA&_nc_gid=LzoO3Q7Mk5BvL6fADgMDww&_nc_tpa=Q5bMBQLz5k-SzcBJtwKZNifrSDDa5tN-KZh_xUakLkyaN9-JFW-gqhQIWQFHl2vDTAfhV7TTJ7JQtaC8HA&oh=00_AQTFq1hIea1cKmHdnRHYrMVYjA6nK9dM0wIJBDCeBlPLJQ&oe=6AF2F36B",
+        "ultima_actualizacion": "2026-11-06T01:03:25.426Z"
       },
       "resumen_kpis": {
         "total_seguidores": 45,
         "seguidores_detalle": "45 seguidores • 3 seguidos",
         "crecimiento_semanal": "+35%",
         "seguidores_nuevos_semana": 7,
-        "personas_hablando": 28,
+        "personas_hablando": 30,
         "alcance_estimado": 810,
         "interacciones_totales": 0,
         "reacciones_totales": 0,
@@ -1125,6 +1125,28 @@
         }
       ],
       "ultimos_posts_publicados": [
+        {
+          "id": "1367888553074849_122097375795507613",
+          "url": "https://www.facebook.com/1367888553074849_122097375795507613",
+          "mensaje": "Don Marcos llamó al nuevo dueño del taller mecánico que acababa de quebrar. Una voz apresurada le contestó que se estaban llevando la maquin",
+          "fecha": "2026-11-06T00:30:01+0000",
+          "reacciones": 0,
+          "comentarios": 0,
+          "compartidos": 0,
+          "tipo": "post",
+          "estado": "publicado"
+        },
+        {
+          "id": "1367888553074849_122097381729507613",
+          "url": "https://www.facebook.com/1367888553074849_122097381729507613",
+          "mensaje": "«No tenemos poco tiempo, sino que perdemos mucho». — Séneca (Sobre la brevedad de la vida) ⏳🏛️\n\nNos quejamos constantemente de que la vida ",
+          "fecha": "2026-11-05T21:30:01+0000",
+          "reacciones": 0,
+          "comentarios": 0,
+          "compartidos": 0,
+          "tipo": "post",
+          "estado": "publicado"
+        },
         {
           "id": "1367888553074849_122097375531507613",
           "url": "https://www.facebook.com/1367888553074849_122097375531507613",
@@ -1372,28 +1394,6 @@
           "url": "https://www.facebook.com/1367888553074849_122096596233507613",
           "mensaje": "«Termina un mes más y yo solo quiero darte las gracias por seguir aquí a mi lado... 🍂🍁🐾\n\nGracias por los paseos en las mañanas frías, por",
           "fecha": "2026-10-31T23:30:03+0000",
-          "reacciones": 0,
-          "comentarios": 0,
-          "compartidos": 0,
-          "tipo": "post",
-          "estado": "publicado"
-        },
-        {
-          "id": "1367888553074849_122096596113507613",
-          "url": "https://www.facebook.com/1367888553074849_122096596113507613",
-          "mensaje": "«Es el último día de octubre y queremos hablar de una injusticia real: el 'Síndrome del Perro Negro'. 🖤🐾\n\nEn los refugios de todo el mundo",
-          "fecha": "2026-10-31T13:00:01+0000",
-          "reacciones": 0,
-          "comentarios": 0,
-          "compartidos": 0,
-          "tipo": "post",
-          "estado": "publicado"
-        },
-        {
-          "id": "1367888553074849_122096595987507613",
-          "url": "https://www.facebook.com/1367888553074849_122096595987507613",
-          "mensaje": "«Los truenos y los fuegos artificiales de fin de mes siempre asustan a los perritos sin hogar en los refugios... 🎆😰🐾\n\nEl refugio 'Huellit",
-          "fecha": "2026-10-30T23:30:01+0000",
           "reacciones": 0,
           "comentarios": 0,
           "compartidos": 0,
@@ -2109,7 +2109,7 @@
         "name": "Huellas con propósito",
         "followers": 1,
         "media_count": 14,
-        "picture": "https://scontent-iad3-1.xx.fbcdn.net/v/t51.82787-15/846964896_18127515184894503_9206256640984781246_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=7d201b&_nc_ohc=39aheTbdUL0Q7kNvwHFYUY-&_nc_oc=AdpX4bhEvqtICUsWbTd9sGU9Uf1F6JCDVJaK50sX3WjUxi5eoOVTyY6DJjeavz3QOoM&_nc_zt=23&_nc_ht=scontent-iad3-1.xx&edm=AJ-jyNUEAAAA&_nc_gid=xnDMXwSbGb4NPyzmKh2JPA&oh=00_AQR05qiLECHyOedt0-vB-dGspfjWUUePDbLw_2e6lpyRKw&oe=6AF2C62E"
+        "picture": "https://scontent-iad3-1.xx.fbcdn.net/v/t51.82787-15/846964896_18127515184894503_9206256640984781246_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=7d201b&_nc_ohc=39aheTbdUL0Q7kNvwFV3pDd&_nc_oc=Adoi0UemusFbY0s_SiJ-ZaGlrO9tw228DpkcgWoYt_TYarwkydzyFFkNUdSXDJWJGx8&_nc_zt=23&_nc_ht=scontent-iad3-1.xx&edm=AJ-jyNUEAAAA&_nc_gid=9u6dnrUIpKr88sox_VEXlg&oh=00_AQTGtQCEVEY7HKULYmHxWIdkZpFruo4Xcy_7g1Um90L1HA&oe=6AF2FE6E"
       }
     },
     "1375923958937880": {
@@ -2121,7 +2121,7 @@
         "seguidos": 0,
         "personas_hablando": 0,
         "foto_perfil": "",
-        "ultima_actualizacion": "2026-11-05T20:12:52.307Z"
+        "ultima_actualizacion": "2026-11-06T01:03:25.616Z"
       },
       "resumen_kpis": {
         "total_seguidores": 7,
