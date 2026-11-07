@@ -5,22 +5,22 @@
     "categoria": "Animals & Pets",
     "seguidores": 45,
     "seguidos": 3,
-    "personas_hablando": 31,
-    "foto_perfil": "https://scontent-dfw6-2.xx.fbcdn.net/v/t39.30808-1/825286629_28604489712564817_7866327839881392565_n.jpg?stp=dst-jpg_s200x200_tt6&_nc_cat=110&ccb=1-7&_nc_sid=f907e8&_nc_ohc=uTTek8_G7XYQ7kNvwGNedpY&_nc_oc=AdqJqNRI3V8kKSyIEXKQjT3QLC2--nNNr66NULDdHggzRWJxCCkn6doxHUoLVlQiD5A&_nc_zt=24&_nc_ht=scontent-dfw6-2.xx&edm=AJdBtusEAAAA&_nc_gid=XHcykpkp9ly3Oe-HGSmoTA&_nc_tpa=Q5bMBQLMX7SmKhw43z6AcCvmvMIyxc75v0Szc_W6qIXOBv4eG_Mf7bVOSs01KEEjMtMXkaYK9baXNrvqVg&oh=00_AQQUOOGhNZValhM1GYFsQevkBAMQtN5wjik9rwk6TPH1Cw&oe=6AF525EB",
-    "ultima_actualizacion": "2026-11-07T17:50:01.880Z"
+    "personas_hablando": 33,
+    "foto_perfil": "https://scontent-iad3-1.xx.fbcdn.net/v/t39.30808-1/825286629_28604489712564817_7866327839881392565_n.jpg?stp=dst-jpg_s200x200_tt6&_nc_cat=110&ccb=1-7&_nc_sid=f907e8&_nc_ohc=uTTek8_G7XYQ7kNvwGg_xiI&_nc_oc=Adrcd3L4TvgZsb6CIPUm44l-qwt25a5Qbg6ARCqnNfw05aqDmarv5oEzv8BZZqsbH04&_nc_zt=24&_nc_ht=scontent-iad3-1.xx&edm=AJdBtusEAAAA&_nc_gid=PVUQs3O9yN60RkxUPPrJXw&_nc_tpa=Q5bMBQKKtChdiANBGpEqT1ZYEntEUEM1jE4mY2Vrf_hhlTacuXyaCDHBTR9OgSWtFOAiziCrLTxg7yaSUQ&oh=00_AQSz-03BlwA9Nu2kPEkiEQBLAxGCRuJQX52lMReF8lpIlg&oe=6AF5966B",
+    "ultima_actualizacion": "2026-11-07T23:49:43.934Z"
   },
   "resumen_kpis": {
     "total_seguidores": 45,
     "seguidores_detalle": "45 seguidores • 3 seguidos",
     "crecimiento_semanal": "+35%",
     "seguidores_nuevos_semana": 7,
-    "personas_hablando": 31,
+    "personas_hablando": 33,
     "alcance_estimado": 810,
     "interacciones_totales": 0,
     "reacciones_totales": 0,
     "comentarios_totales": 0,
     "compartidos_totales": 0,
-    "programados_en_servidores_meta": 100,
+    "programados_en_servidores_meta": 99,
     "total_publicaciones_sistema": 120
   },
   "rendimiento_por_horario": [
@@ -68,6 +68,17 @@
     }
   ],
   "ultimos_posts_publicados": [
+    {
+      "id": "1367888553074849_122098093029507613",
+      "url": "https://www.facebook.com/1367888553074849_122098093029507613",
+      "mensaje": "Eran las 6:30 de la mañana cuando el doctor Fernando llegó a abrir la clínica veterinaria. Atado a la aldaba metálica de la entrada había un",
+      "fecha": "2026-11-07T20:30:01+0000",
+      "reacciones": 0,
+      "comentarios": 0,
+      "compartidos": 0,
+      "tipo": "post",
+      "estado": "publicado"
+    },
     {
       "id": "1367888553074849_122097895167507613",
       "url": "https://www.facebook.com/1367888553074849_122097895167507613",
@@ -326,17 +337,6 @@
       "url": "https://www.facebook.com/1367888553074849_122097374331507613",
       "mensaje": "Eran las 6:30 de la mañana cuando el doctor Fernando llegó a abrir la clínica veterinaria. Atado a la aldaba metálica de la entrada había un",
       "fecha": "2026-11-03T00:30:00+0000",
-      "reacciones": 0,
-      "comentarios": 0,
-      "compartidos": 0,
-      "tipo": "post",
-      "estado": "publicado"
-    },
-    {
-      "id": "1367888553074849_122097380727507613",
-      "url": "https://www.facebook.com/1367888553074849_122097380727507613",
-      "mensaje": "«La mejor venganza es no ser como tu enemigo». — Marco Aurelio 🏛️⚖️\n\nCuando alguien te traiciona, te miente o te trata con desprecio, tu pr",
-      "fecha": "2026-11-02T21:30:02+0000",
       "reacciones": 0,
       "comentarios": 0,
       "compartidos": 0,
@@ -1037,13 +1037,6 @@
       "mensaje": "«No tenemos poco tiempo, sino que perdemos mucho». — Séneca (Sobre la brevedad de la vida) ⏳🏛️\n\nNos quejamos constantemente de que la vida ",
       "fecha_programada": "2026-11-08T08:00:00.000Z",
       "estado": "programado_en_meta"
-    },
-    {
-      "id": "1367888553074849_122098093029507613",
-      "url": "https://www.facebook.com/1367888553074849_122098093029507613",
-      "mensaje": "Eran las 6:30 de la mañana cuando el doctor Fernando llegó a abrir la clínica veterinaria. Atado a la aldaba metálica de la entrada había un",
-      "fecha_programada": "2026-11-07T20:30:00.000Z",
-      "estado": "programado_en_meta"
     }
   ],
   "instagram": {
@@ -1052,7 +1045,7 @@
     "name": "Huellas con propósito",
     "followers": 1,
     "media_count": 14,
-    "picture": "https://scontent-dfw5-2.xx.fbcdn.net/v/t51.82787-15/846964896_18127515184894503_9206256640984781246_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=7d201b&_nc_ohc=39aheTbdUL0Q7kNvwEDMfCa&_nc_oc=AdoAbg8gEBxtb-JCisFJB8JxZTFuNidw3dJ-nzhkI_dLrO-qY-N0YMvZgHaclP_ooUk&_nc_zt=23&_nc_ht=scontent-dfw5-2.xx&edm=AJ-jyNUEAAAA&_nc_gid=3dNMEk-xklZMylVlAD6eXg&oh=00_AQSEZRPlOQQtYDdSA-JmOefkqiyRWHsGDyeH2uZ2eZrUEw&oe=6AF530EE"
+    "picture": "https://scontent-iad3-1.xx.fbcdn.net/v/t51.82787-15/846964896_18127515184894503_9206256640984781246_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=7d201b&_nc_ohc=39aheTbdUL0Q7kNvwGMN5M-&_nc_oc=AdqvMPNFGcdLErY5d2AyL6aWo3NeXNVIt5hUJloQsR-jhEL2mJNpnlxT3Vj6tGkrUqs&_nc_zt=23&_nc_ht=scontent-iad3-1.xx&edm=AJ-jyNUEAAAA&_nc_gid=ngZqlJOQ7XLe91tvQDgLUg&oh=00_AQSEMUXpueI3RrxDgIMrLJi6R7p6i1HcAKBlT_DbWun5Wg&oe=6AF5A16E"
   },
   "paginas": {
     "1367888553074849": {
@@ -1062,22 +1055,22 @@
         "categoria": "Animals & Pets",
         "seguidores": 45,
         "seguidos": 3,
-        "personas_hablando": 31,
-        "foto_perfil": "https://scontent-dfw6-2.xx.fbcdn.net/v/t39.30808-1/825286629_28604489712564817_7866327839881392565_n.jpg?stp=dst-jpg_s200x200_tt6&_nc_cat=110&ccb=1-7&_nc_sid=f907e8&_nc_ohc=uTTek8_G7XYQ7kNvwGNedpY&_nc_oc=AdqJqNRI3V8kKSyIEXKQjT3QLC2--nNNr66NULDdHggzRWJxCCkn6doxHUoLVlQiD5A&_nc_zt=24&_nc_ht=scontent-dfw6-2.xx&edm=AJdBtusEAAAA&_nc_gid=XHcykpkp9ly3Oe-HGSmoTA&_nc_tpa=Q5bMBQLMX7SmKhw43z6AcCvmvMIyxc75v0Szc_W6qIXOBv4eG_Mf7bVOSs01KEEjMtMXkaYK9baXNrvqVg&oh=00_AQQUOOGhNZValhM1GYFsQevkBAMQtN5wjik9rwk6TPH1Cw&oe=6AF525EB",
-        "ultima_actualizacion": "2026-11-07T17:50:01.880Z"
+        "personas_hablando": 33,
+        "foto_perfil": "https://scontent-iad3-1.xx.fbcdn.net/v/t39.30808-1/825286629_28604489712564817_7866327839881392565_n.jpg?stp=dst-jpg_s200x200_tt6&_nc_cat=110&ccb=1-7&_nc_sid=f907e8&_nc_ohc=uTTek8_G7XYQ7kNvwGg_xiI&_nc_oc=Adrcd3L4TvgZsb6CIPUm44l-qwt25a5Qbg6ARCqnNfw05aqDmarv5oEzv8BZZqsbH04&_nc_zt=24&_nc_ht=scontent-iad3-1.xx&edm=AJdBtusEAAAA&_nc_gid=PVUQs3O9yN60RkxUPPrJXw&_nc_tpa=Q5bMBQKKtChdiANBGpEqT1ZYEntEUEM1jE4mY2Vrf_hhlTacuXyaCDHBTR9OgSWtFOAiziCrLTxg7yaSUQ&oh=00_AQSz-03BlwA9Nu2kPEkiEQBLAxGCRuJQX52lMReF8lpIlg&oe=6AF5966B",
+        "ultima_actualizacion": "2026-11-07T23:49:43.934Z"
       },
       "resumen_kpis": {
         "total_seguidores": 45,
         "seguidores_detalle": "45 seguidores • 3 seguidos",
         "crecimiento_semanal": "+35%",
         "seguidores_nuevos_semana": 7,
-        "personas_hablando": 31,
+        "personas_hablando": 33,
         "alcance_estimado": 810,
         "interacciones_totales": 0,
         "reacciones_totales": 0,
         "comentarios_totales": 0,
         "compartidos_totales": 0,
-        "programados_en_servidores_meta": 100,
+        "programados_en_servidores_meta": 99,
         "total_publicaciones_sistema": 120
       },
       "rendimiento_por_horario": [
@@ -1125,6 +1118,17 @@
         }
       ],
       "ultimos_posts_publicados": [
+        {
+          "id": "1367888553074849_122098093029507613",
+          "url": "https://www.facebook.com/1367888553074849_122098093029507613",
+          "mensaje": "Eran las 6:30 de la mañana cuando el doctor Fernando llegó a abrir la clínica veterinaria. Atado a la aldaba metálica de la entrada había un",
+          "fecha": "2026-11-07T20:30:01+0000",
+          "reacciones": 0,
+          "comentarios": 0,
+          "compartidos": 0,
+          "tipo": "post",
+          "estado": "publicado"
+        },
         {
           "id": "1367888553074849_122097895167507613",
           "url": "https://www.facebook.com/1367888553074849_122097895167507613",
@@ -1383,17 +1387,6 @@
           "url": "https://www.facebook.com/1367888553074849_122097374331507613",
           "mensaje": "Eran las 6:30 de la mañana cuando el doctor Fernando llegó a abrir la clínica veterinaria. Atado a la aldaba metálica de la entrada había un",
           "fecha": "2026-11-03T00:30:00+0000",
-          "reacciones": 0,
-          "comentarios": 0,
-          "compartidos": 0,
-          "tipo": "post",
-          "estado": "publicado"
-        },
-        {
-          "id": "1367888553074849_122097380727507613",
-          "url": "https://www.facebook.com/1367888553074849_122097380727507613",
-          "mensaje": "«La mejor venganza es no ser como tu enemigo». — Marco Aurelio 🏛️⚖️\n\nCuando alguien te traiciona, te miente o te trata con desprecio, tu pr",
-          "fecha": "2026-11-02T21:30:02+0000",
           "reacciones": 0,
           "comentarios": 0,
           "compartidos": 0,
@@ -2094,13 +2087,6 @@
           "mensaje": "«No tenemos poco tiempo, sino que perdemos mucho». — Séneca (Sobre la brevedad de la vida) ⏳🏛️\n\nNos quejamos constantemente de que la vida ",
           "fecha_programada": "2026-11-08T08:00:00.000Z",
           "estado": "programado_en_meta"
-        },
-        {
-          "id": "1367888553074849_122098093029507613",
-          "url": "https://www.facebook.com/1367888553074849_122098093029507613",
-          "mensaje": "Eran las 6:30 de la mañana cuando el doctor Fernando llegó a abrir la clínica veterinaria. Atado a la aldaba metálica de la entrada había un",
-          "fecha_programada": "2026-11-07T20:30:00.000Z",
-          "estado": "programado_en_meta"
         }
       ],
       "instagram": {
@@ -2109,7 +2095,7 @@
         "name": "Huellas con propósito",
         "followers": 1,
         "media_count": 14,
-        "picture": "https://scontent-dfw5-2.xx.fbcdn.net/v/t51.82787-15/846964896_18127515184894503_9206256640984781246_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=7d201b&_nc_ohc=39aheTbdUL0Q7kNvwEDMfCa&_nc_oc=AdoAbg8gEBxtb-JCisFJB8JxZTFuNidw3dJ-nzhkI_dLrO-qY-N0YMvZgHaclP_ooUk&_nc_zt=23&_nc_ht=scontent-dfw5-2.xx&edm=AJ-jyNUEAAAA&_nc_gid=3dNMEk-xklZMylVlAD6eXg&oh=00_AQSEZRPlOQQtYDdSA-JmOefkqiyRWHsGDyeH2uZ2eZrUEw&oe=6AF530EE"
+        "picture": "https://scontent-iad3-1.xx.fbcdn.net/v/t51.82787-15/846964896_18127515184894503_9206256640984781246_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=7d201b&_nc_ohc=39aheTbdUL0Q7kNvwGMN5M-&_nc_oc=AdqvMPNFGcdLErY5d2AyL6aWo3NeXNVIt5hUJloQsR-jhEL2mJNpnlxT3Vj6tGkrUqs&_nc_zt=23&_nc_ht=scontent-iad3-1.xx&edm=AJ-jyNUEAAAA&_nc_gid=ngZqlJOQ7XLe91tvQDgLUg&oh=00_AQSEMUXpueI3RrxDgIMrLJi6R7p6i1HcAKBlT_DbWun5Wg&oe=6AF5A16E"
       }
     },
     "1375923958937880": {
@@ -2121,7 +2107,7 @@
         "seguidos": 0,
         "personas_hablando": 0,
         "foto_perfil": "",
-        "ultima_actualizacion": "2026-11-07T17:50:02.039Z"
+        "ultima_actualizacion": "2026-11-07T23:49:44.414Z"
       },
       "resumen_kpis": {
         "total_seguidores": 7,
@@ -2134,7 +2120,7 @@
         "reacciones_totales": 3,
         "comentarios_totales": 0,
         "compartidos_totales": 1,
-        "programados_en_servidores_meta": 3,
+        "programados_en_servidores_meta": 2,
         "total_publicaciones_sistema": 52
       },
       "rendimiento_por_horario": [
@@ -2500,16 +2486,20 @@
           "compartidos": 0,
           "tipo": "post",
           "estado": "publicado"
-        }
-      ],
-      "proximos_programados_meta": [
+        },
         {
           "id": "122095941465512707",
           "url": "https://www.facebook.com/122095941465512707",
-          "mensaje": "⏰ [Programado 2026-11-07 19:00] Mentalidad Errónea: EL DERROTADO POR LA PÉRDIDA vs Mentalidad de Acero",
-          "fecha_programada": "2026-11-07T19:00:00Z",
-          "estado": "programado_en_meta"
-        },
+          "mensaje": "Mentalidad Errónea: EL DERROTADO POR LA PÉRDIDA vs Mentalidad de Acero: \"A VECES SE GANA, A VECES SE APRENDE; PERO UN HOMBRE DE ACERO NUNCA SE DECLARA DERROTADO.\"  El éxito es para los que asu...",
+          "fecha": "2026-11-07T19:00:00.000Z",
+          "reacciones": 0,
+          "comentarios": 0,
+          "compartidos": 0,
+          "tipo": "post",
+          "estado": "publicado"
+        }
+      ],
+      "proximos_programados_meta": [
         {
           "id": "122096724003512707",
           "url": "https://www.facebook.com/122096724003512707",
