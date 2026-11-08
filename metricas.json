@@ -5,22 +5,22 @@
     "categoria": "Animals & Pets",
     "seguidores": 45,
     "seguidos": 3,
-    "personas_hablando": 33,
-    "foto_perfil": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.30808-1/825286629_28604489712564817_7866327839881392565_n.jpg?stp=dst-jpg_s200x200_tt6&_nc_cat=110&ccb=1-7&_nc_sid=f907e8&_nc_ohc=uTTek8_G7XYQ7kNvwExpLYU&_nc_oc=Adqr9K9rQlsjQlpcaLIkvsjr-ZW_19rdG0Uer5ae4Z5Tm3_31VDnsQG82e2MXIG5Czw&_nc_zt=24&_nc_ht=scontent-ord5-2.xx&edm=AJdBtusEAAAA&_nc_gid=Csm0AYw68SPFA97jo-ytDA&_nc_tpa=Q5bMBQJv9sWeI7rUHkzxFicVUX2tzlfsBcqjRsSODbIKbxjWLuZW1kO2B3GVXuJprJ9Ge2g-VLjSOGRP9A&oh=00_AQQNaU0SZfWIBzeKbK3-NRG9yMoppPCgZuNjWzoQ1Zk4IQ&oe=6AF606EB",
-    "ultima_actualizacion": "2026-11-08T07:44:56.285Z"
+    "personas_hablando": 31,
+    "foto_perfil": "https://scontent-iad3-1.xx.fbcdn.net/v/t39.30808-1/825286629_28604489712564817_7866327839881392565_n.jpg?stp=dst-jpg_s200x200_tt6&_nc_cat=110&ccb=1-7&_nc_sid=f907e8&_nc_ohc=dhQWZASdQFIQ7kNvwFw3F5p&_nc_oc=AdopzluD6h2e5N8mGiKYpn6v3GTNOefTQ83pW3HG8BXyWv2dC4lWRzKbicc9aW6OkW4&_nc_zt=24&_nc_ht=scontent-iad3-1.xx&edm=AJdBtusEAAAA&_nc_gid=6k5TvAPv5ml25ZECR4Y9dg&_nc_tpa=Q5bMBQL-NMPJYlasqmfESPnbh1IwUCmIVYYglnvBR61OfEKfug0vTgLA2qsVcUoSbMQIPetEOFeRyMjXTA&oh=00_AQQ_rVD67reBLxOUeY2WwtGB3jCOz5nM33h9W3wFPaPo9w&oe=6AF6776B",
+    "ultima_actualizacion": "2026-11-08T18:01:12.124Z"
   },
   "resumen_kpis": {
     "total_seguidores": 45,
     "seguidores_detalle": "45 seguidores • 3 seguidos",
     "crecimiento_semanal": "+35%",
     "seguidores_nuevos_semana": 7,
-    "personas_hablando": 33,
+    "personas_hablando": 31,
     "alcance_estimado": 810,
     "interacciones_totales": 0,
     "reacciones_totales": 0,
     "comentarios_totales": 0,
     "compartidos_totales": 0,
-    "programados_en_servidores_meta": 99,
+    "programados_en_servidores_meta": 96,
     "total_publicaciones_sistema": 120
   },
   "rendimiento_por_horario": [
@@ -68,6 +68,39 @@
     }
   ],
   "ultimos_posts_publicados": [
+    {
+      "id": "1367888553074849_122099626143507613",
+      "url": "https://www.facebook.com/1367888553074849_122099626143507613",
+      "mensaje": "«Tienes poder sobre tu mente, no sobre los acontecimientos. Date cuenta de esto y encontrarás la fuerza». — Marco Aurelio 🏛️⚔️\n\nHoy te vas ",
+      "fecha": "2026-11-08T17:30:00+0000",
+      "reacciones": 0,
+      "comentarios": 0,
+      "compartidos": 0,
+      "tipo": "post",
+      "estado": "publicado"
+    },
+    {
+      "id": "1367888553074849_122099396439507613",
+      "url": "https://www.facebook.com/1367888553074849_122099396439507613",
+      "mensaje": "Don Marcos llamó al nuevo dueño del taller mecánico que acababa de quebrar. Una voz apresurada le contestó que se estaban llevando la maquin",
+      "fecha": "2026-11-08T12:30:01+0000",
+      "reacciones": 0,
+      "comentarios": 0,
+      "compartidos": 0,
+      "tipo": "post",
+      "estado": "publicado"
+    },
+    {
+      "id": "1367888553074849_122098396479507613",
+      "url": "https://www.facebook.com/1367888553074849_122098396479507613",
+      "mensaje": "«No tenemos poco tiempo, sino que perdemos mucho». — Séneca (Sobre la brevedad de la vida) ⏳🏛️\n\nNos quejamos constantemente de que la vida ",
+      "fecha": "2026-11-08T08:00:08+0000",
+      "reacciones": 0,
+      "comentarios": 0,
+      "compartidos": 0,
+      "tipo": "post",
+      "estado": "publicado"
+    },
     {
       "id": "1367888553074849_122098093029507613",
       "url": "https://www.facebook.com/1367888553074849_122098093029507613",
@@ -304,39 +337,6 @@
       "url": "https://www.facebook.com/1367888553074849_122114629125507613",
       "mensaje": "Publicación",
       "fecha": "2026-11-03T10:43:44+0000",
-      "reacciones": 0,
-      "comentarios": 0,
-      "compartidos": 0,
-      "tipo": "post",
-      "estado": "publicado"
-    },
-    {
-      "id": "1367888553074849_122114628855507613",
-      "url": "https://www.facebook.com/1367888553074849_122114628855507613",
-      "mensaje": "Publicación",
-      "fecha": "2026-11-03T10:43:08+0000",
-      "reacciones": 0,
-      "comentarios": 0,
-      "compartidos": 0,
-      "tipo": "post",
-      "estado": "publicado"
-    },
-    {
-      "id": "1367888553074849_122114628777507613",
-      "url": "https://www.facebook.com/1367888553074849_122114628777507613",
-      "mensaje": "🔥 DEJA DE COMPARARTE CON OTROS: EL ÚNICO RIVAL DEL ESTOICO ERES TÚ DE AYER.\n\nMedir tu éxito o tu valía con el espejo ajeno es una trampa mo",
-      "fecha": "2026-11-03T10:43:01+0000",
-      "reacciones": 0,
-      "comentarios": 0,
-      "compartidos": 0,
-      "tipo": "post",
-      "estado": "publicado"
-    },
-    {
-      "id": "1367888553074849_122097374331507613",
-      "url": "https://www.facebook.com/1367888553074849_122097374331507613",
-      "mensaje": "Eran las 6:30 de la mañana cuando el doctor Fernando llegó a abrir la clínica veterinaria. Atado a la aldaba metálica de la entrada había un",
-      "fecha": "2026-11-03T00:30:00+0000",
       "reacciones": 0,
       "comentarios": 0,
       "compartidos": 0,
@@ -1016,27 +1016,6 @@
       "mensaje": "Doña Beatriz subió a tender ropa y escuchó un llanto seco en la azotea de enfrente. La casa llevaba dos semanas deshabitada con el letrero d",
       "fecha_programada": "2026-11-08T20:30:00.000Z",
       "estado": "programado_en_meta"
-    },
-    {
-      "id": "1367888553074849_122099626143507613",
-      "url": "https://www.facebook.com/1367888553074849_122099626143507613",
-      "mensaje": "«Tienes poder sobre tu mente, no sobre los acontecimientos. Date cuenta de esto y encontrarás la fuerza». — Marco Aurelio 🏛️⚔️\n\nHoy te vas ",
-      "fecha_programada": "2026-11-08T17:30:00.000Z",
-      "estado": "programado_en_meta"
-    },
-    {
-      "id": "1367888553074849_122099396439507613",
-      "url": "https://www.facebook.com/1367888553074849_122099396439507613",
-      "mensaje": "Don Marcos llamó al nuevo dueño del taller mecánico que acababa de quebrar. Una voz apresurada le contestó que se estaban llevando la maquin",
-      "fecha_programada": "2026-11-08T12:30:00.000Z",
-      "estado": "programado_en_meta"
-    },
-    {
-      "id": "1367888553074849_122098396479507613",
-      "url": "https://www.facebook.com/1367888553074849_122098396479507613",
-      "mensaje": "«No tenemos poco tiempo, sino que perdemos mucho». — Séneca (Sobre la brevedad de la vida) ⏳🏛️\n\nNos quejamos constantemente de que la vida ",
-      "fecha_programada": "2026-11-08T08:00:00.000Z",
-      "estado": "programado_en_meta"
     }
   ],
   "instagram": {
@@ -1045,7 +1024,7 @@
     "name": "Huellas con propósito",
     "followers": 1,
     "media_count": 14,
-    "picture": "https://scontent-ord5-2.xx.fbcdn.net/v/t51.82787-15/846964896_18127515184894503_9206256640984781246_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=7d201b&_nc_ohc=39aheTbdUL0Q7kNvwHLz__N&_nc_oc=AdrwpH0B9-l-bwgIJHROxejAsmEs3ibQOm68Uy4AKRd7tO3F33rnyEPL7hi9MjviLB0&_nc_zt=23&_nc_ht=scontent-ord5-2.xx&edm=AJ-jyNUEAAAA&_nc_gid=n1fMTVSpHu6FV8r1EXbR8w&oh=00_AQTM9l455vc2COOzP35iyX9QQIoK-mO1-yZR03dWou3tfw&oe=6AF611EE"
+    "picture": "https://scontent-iad3-1.xx.fbcdn.net/v/t51.82787-15/846964896_18127515184894503_9206256640984781246_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=7d201b&_nc_ohc=P6EBayS8qo4Q7kNvwHOx7xu&_nc_oc=AdqB2mouQoKgvGOwmChiFakq5l_uMpZiku1KnBG3tUTRv8fZU5bxKCsY2JLfh6JrHTs&_nc_zt=23&_nc_ht=scontent-iad3-1.xx&edm=AJ-jyNUEAAAA&_nc_gid=svrZIIbLL2uXulrcRMWeVA&oh=00_AQSzfVVTr-3-XiJeE5rlvalgSEGjivlTmXeSnHB6PG1DWw&oe=6AF6826E"
   },
   "paginas": {
     "1367888553074849": {
@@ -1055,22 +1034,22 @@
         "categoria": "Animals & Pets",
         "seguidores": 45,
         "seguidos": 3,
-        "personas_hablando": 33,
-        "foto_perfil": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.30808-1/825286629_28604489712564817_7866327839881392565_n.jpg?stp=dst-jpg_s200x200_tt6&_nc_cat=110&ccb=1-7&_nc_sid=f907e8&_nc_ohc=uTTek8_G7XYQ7kNvwExpLYU&_nc_oc=Adqr9K9rQlsjQlpcaLIkvsjr-ZW_19rdG0Uer5ae4Z5Tm3_31VDnsQG82e2MXIG5Czw&_nc_zt=24&_nc_ht=scontent-ord5-2.xx&edm=AJdBtusEAAAA&_nc_gid=Csm0AYw68SPFA97jo-ytDA&_nc_tpa=Q5bMBQJv9sWeI7rUHkzxFicVUX2tzlfsBcqjRsSODbIKbxjWLuZW1kO2B3GVXuJprJ9Ge2g-VLjSOGRP9A&oh=00_AQQNaU0SZfWIBzeKbK3-NRG9yMoppPCgZuNjWzoQ1Zk4IQ&oe=6AF606EB",
-        "ultima_actualizacion": "2026-11-08T07:44:56.285Z"
+        "personas_hablando": 31,
+        "foto_perfil": "https://scontent-iad3-1.xx.fbcdn.net/v/t39.30808-1/825286629_28604489712564817_7866327839881392565_n.jpg?stp=dst-jpg_s200x200_tt6&_nc_cat=110&ccb=1-7&_nc_sid=f907e8&_nc_ohc=dhQWZASdQFIQ7kNvwFw3F5p&_nc_oc=AdopzluD6h2e5N8mGiKYpn6v3GTNOefTQ83pW3HG8BXyWv2dC4lWRzKbicc9aW6OkW4&_nc_zt=24&_nc_ht=scontent-iad3-1.xx&edm=AJdBtusEAAAA&_nc_gid=6k5TvAPv5ml25ZECR4Y9dg&_nc_tpa=Q5bMBQL-NMPJYlasqmfESPnbh1IwUCmIVYYglnvBR61OfEKfug0vTgLA2qsVcUoSbMQIPetEOFeRyMjXTA&oh=00_AQQ_rVD67reBLxOUeY2WwtGB3jCOz5nM33h9W3wFPaPo9w&oe=6AF6776B",
+        "ultima_actualizacion": "2026-11-08T18:01:12.124Z"
       },
       "resumen_kpis": {
         "total_seguidores": 45,
         "seguidores_detalle": "45 seguidores • 3 seguidos",
         "crecimiento_semanal": "+35%",
         "seguidores_nuevos_semana": 7,
-        "personas_hablando": 33,
+        "personas_hablando": 31,
         "alcance_estimado": 810,
         "interacciones_totales": 0,
         "reacciones_totales": 0,
         "comentarios_totales": 0,
         "compartidos_totales": 0,
-        "programados_en_servidores_meta": 99,
+        "programados_en_servidores_meta": 96,
         "total_publicaciones_sistema": 120
       },
       "rendimiento_por_horario": [
@@ -1118,6 +1097,39 @@
         }
       ],
       "ultimos_posts_publicados": [
+        {
+          "id": "1367888553074849_122099626143507613",
+          "url": "https://www.facebook.com/1367888553074849_122099626143507613",
+          "mensaje": "«Tienes poder sobre tu mente, no sobre los acontecimientos. Date cuenta de esto y encontrarás la fuerza». — Marco Aurelio 🏛️⚔️\n\nHoy te vas ",
+          "fecha": "2026-11-08T17:30:00+0000",
+          "reacciones": 0,
+          "comentarios": 0,
+          "compartidos": 0,
+          "tipo": "post",
+          "estado": "publicado"
+        },
+        {
+          "id": "1367888553074849_122099396439507613",
+          "url": "https://www.facebook.com/1367888553074849_122099396439507613",
+          "mensaje": "Don Marcos llamó al nuevo dueño del taller mecánico que acababa de quebrar. Una voz apresurada le contestó que se estaban llevando la maquin",
+          "fecha": "2026-11-08T12:30:01+0000",
+          "reacciones": 0,
+          "comentarios": 0,
+          "compartidos": 0,
+          "tipo": "post",
+          "estado": "publicado"
+        },
+        {
+          "id": "1367888553074849_122098396479507613",
+          "url": "https://www.facebook.com/1367888553074849_122098396479507613",
+          "mensaje": "«No tenemos poco tiempo, sino que perdemos mucho». — Séneca (Sobre la brevedad de la vida) ⏳🏛️\n\nNos quejamos constantemente de que la vida ",
+          "fecha": "2026-11-08T08:00:08+0000",
+          "reacciones": 0,
+          "comentarios": 0,
+          "compartidos": 0,
+          "tipo": "post",
+          "estado": "publicado"
+        },
         {
           "id": "1367888553074849_122098093029507613",
           "url": "https://www.facebook.com/1367888553074849_122098093029507613",
@@ -1354,39 +1366,6 @@
           "url": "https://www.facebook.com/1367888553074849_122114629125507613",
           "mensaje": "Publicación",
           "fecha": "2026-11-03T10:43:44+0000",
-          "reacciones": 0,
-          "comentarios": 0,
-          "compartidos": 0,
-          "tipo": "post",
-          "estado": "publicado"
-        },
-        {
-          "id": "1367888553074849_122114628855507613",
-          "url": "https://www.facebook.com/1367888553074849_122114628855507613",
-          "mensaje": "Publicación",
-          "fecha": "2026-11-03T10:43:08+0000",
-          "reacciones": 0,
-          "comentarios": 0,
-          "compartidos": 0,
-          "tipo": "post",
-          "estado": "publicado"
-        },
-        {
-          "id": "1367888553074849_122114628777507613",
-          "url": "https://www.facebook.com/1367888553074849_122114628777507613",
-          "mensaje": "🔥 DEJA DE COMPARARTE CON OTROS: EL ÚNICO RIVAL DEL ESTOICO ERES TÚ DE AYER.\n\nMedir tu éxito o tu valía con el espejo ajeno es una trampa mo",
-          "fecha": "2026-11-03T10:43:01+0000",
-          "reacciones": 0,
-          "comentarios": 0,
-          "compartidos": 0,
-          "tipo": "post",
-          "estado": "publicado"
-        },
-        {
-          "id": "1367888553074849_122097374331507613",
-          "url": "https://www.facebook.com/1367888553074849_122097374331507613",
-          "mensaje": "Eran las 6:30 de la mañana cuando el doctor Fernando llegó a abrir la clínica veterinaria. Atado a la aldaba metálica de la entrada había un",
-          "fecha": "2026-11-03T00:30:00+0000",
           "reacciones": 0,
           "comentarios": 0,
           "compartidos": 0,
@@ -2066,27 +2045,6 @@
           "mensaje": "Doña Beatriz subió a tender ropa y escuchó un llanto seco en la azotea de enfrente. La casa llevaba dos semanas deshabitada con el letrero d",
           "fecha_programada": "2026-11-08T20:30:00.000Z",
           "estado": "programado_en_meta"
-        },
-        {
-          "id": "1367888553074849_122099626143507613",
-          "url": "https://www.facebook.com/1367888553074849_122099626143507613",
-          "mensaje": "«Tienes poder sobre tu mente, no sobre los acontecimientos. Date cuenta de esto y encontrarás la fuerza». — Marco Aurelio 🏛️⚔️\n\nHoy te vas ",
-          "fecha_programada": "2026-11-08T17:30:00.000Z",
-          "estado": "programado_en_meta"
-        },
-        {
-          "id": "1367888553074849_122099396439507613",
-          "url": "https://www.facebook.com/1367888553074849_122099396439507613",
-          "mensaje": "Don Marcos llamó al nuevo dueño del taller mecánico que acababa de quebrar. Una voz apresurada le contestó que se estaban llevando la maquin",
-          "fecha_programada": "2026-11-08T12:30:00.000Z",
-          "estado": "programado_en_meta"
-        },
-        {
-          "id": "1367888553074849_122098396479507613",
-          "url": "https://www.facebook.com/1367888553074849_122098396479507613",
-          "mensaje": "«No tenemos poco tiempo, sino que perdemos mucho». — Séneca (Sobre la brevedad de la vida) ⏳🏛️\n\nNos quejamos constantemente de que la vida ",
-          "fecha_programada": "2026-11-08T08:00:00.000Z",
-          "estado": "programado_en_meta"
         }
       ],
       "instagram": {
@@ -2095,7 +2053,7 @@
         "name": "Huellas con propósito",
         "followers": 1,
         "media_count": 14,
-        "picture": "https://scontent-ord5-2.xx.fbcdn.net/v/t51.82787-15/846964896_18127515184894503_9206256640984781246_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=7d201b&_nc_ohc=39aheTbdUL0Q7kNvwHLz__N&_nc_oc=AdrwpH0B9-l-bwgIJHROxejAsmEs3ibQOm68Uy4AKRd7tO3F33rnyEPL7hi9MjviLB0&_nc_zt=23&_nc_ht=scontent-ord5-2.xx&edm=AJ-jyNUEAAAA&_nc_gid=n1fMTVSpHu6FV8r1EXbR8w&oh=00_AQTM9l455vc2COOzP35iyX9QQIoK-mO1-yZR03dWou3tfw&oe=6AF611EE"
+        "picture": "https://scontent-iad3-1.xx.fbcdn.net/v/t51.82787-15/846964896_18127515184894503_9206256640984781246_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=7d201b&_nc_ohc=P6EBayS8qo4Q7kNvwHOx7xu&_nc_oc=AdqB2mouQoKgvGOwmChiFakq5l_uMpZiku1KnBG3tUTRv8fZU5bxKCsY2JLfh6JrHTs&_nc_zt=23&_nc_ht=scontent-iad3-1.xx&edm=AJ-jyNUEAAAA&_nc_gid=svrZIIbLL2uXulrcRMWeVA&oh=00_AQSzfVVTr-3-XiJeE5rlvalgSEGjivlTmXeSnHB6PG1DWw&oe=6AF6826E"
       }
     },
     "1375923958937880": {
@@ -2107,7 +2065,7 @@
         "seguidos": 0,
         "personas_hablando": 0,
         "foto_perfil": "",
-        "ultima_actualizacion": "2026-11-08T07:44:56.386Z"
+        "ultima_actualizacion": "2026-11-08T18:01:12.321Z"
       },
       "resumen_kpis": {
         "total_seguidores": 7,
