@@ -5,22 +5,22 @@
     "categoria": "Animals & Pets",
     "seguidores": 45,
     "seguidos": 3,
-    "personas_hablando": 28,
-    "foto_perfil": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.30808-1/825286629_28604489712564817_7866327839881392565_n.jpg?stp=dst-jpg_s200x200_tt6&_nc_cat=110&ccb=1-7&_nc_sid=f907e8&_nc_ohc=dhQWZASdQFIQ7kNvwFQWPYy&_nc_oc=AdpFUwqAqrH3oNrrH9wcsZLp5T75XCIDyuQ1ikAHFQolzUr4ev9OacIoK1YTTnhlXOM&_nc_zt=24&_nc_ht=scontent-ord5-2.xx&edm=AJdBtusEAAAA&_nc_gid=RzDTVYaJiMx8wXTcYMXhmQ&_nc_tpa=Q5bMBQKUZzaQEOV-ZRZPo-OngD1Zi8NuHhhG7nAwnssACU8hPYGNuZwGMBnR6SQfNYmQ5ErdG-LMPGWtVg&oh=00_AQRxvcQCtm7NC5hnYOKIg4Qu5-o5LbGgKQAnHpRUuhSp2A&oe=6AF98AEB",
-    "ultima_actualizacion": "2026-11-11T00:47:10.646Z"
+    "personas_hablando": 24,
+    "foto_perfil": "https://scontent-iad3-1.xx.fbcdn.net/v/t39.30808-1/825286629_28604489712564817_7866327839881392565_n.jpg?stp=dst-jpg_s200x200_tt6&_nc_cat=110&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=f907e8&_nc_ohc=dhQWZASdQFIQ7kNvwHiiNkK&_nc_oc=Adp-IpNAfpaZYKB_arXNBr4kLXAcACyyq134znB-lrPm0IVp9UNpza-50Gd936jFrYQ&_nc_zt=24&_nc_ht=scontent-iad3-1.xx&edm=AJdBtusEAAAA&_nc_gid=V6rLZFUoA2tFmtKjaec3ew&_nc_tpa=Q5bMBQJnC4x1QXga-1AGbMKiCR0ce9bHSE4n7IZ3SKqvhOSVe1xcYktPyAdbWjY49AgLwNxSr38VCYWW8w&oh=00_AQSmo9vm3PNeyH3mLGZoUVa5u5o1lA2oFSkO53GR5WMZug&oe=6AF9FB6B",
+    "ultima_actualizacion": "2026-11-11T08:02:57.684Z"
   },
   "resumen_kpis": {
     "total_seguidores": 45,
     "seguidores_detalle": "45 seguidores • 3 seguidos",
     "crecimiento_semanal": "+35%",
     "seguidores_nuevos_semana": 7,
-    "personas_hablando": 28,
+    "personas_hablando": 24,
     "alcance_estimado": 810,
     "interacciones_totales": 0,
     "reacciones_totales": 0,
     "comentarios_totales": 0,
     "compartidos_totales": 0,
-    "programados_en_servidores_meta": 80,
+    "programados_en_servidores_meta": 79,
     "total_publicaciones_sistema": 120
   },
   "rendimiento_por_horario": [
@@ -68,6 +68,17 @@
     }
   ],
   "ultimos_posts_publicados": [
+    {
+      "id": "1367888553074849_122102521305507613",
+      "url": "https://www.facebook.com/1367888553074849_122102521305507613",
+      "mensaje": "«Tienes poder sobre tu mente, no sobre los acontecimientos. Date cuenta de esto y encontrarás la fuerza». — Marco Aurelio 🏛️⚔️\n\nHoy te vas ",
+      "fecha": "2026-11-11T08:00:02+0000",
+      "reacciones": 0,
+      "comentarios": 0,
+      "compartidos": 0,
+      "tipo": "post",
+      "estado": "publicado"
+    },
     {
       "id": "1367888553074849_122101397901507613",
       "url": "https://www.facebook.com/1367888553074849_122101397901507613",
@@ -326,17 +337,6 @@
       "url": "https://www.facebook.com/1367888553074849_122097381573507613",
       "mensaje": "«La mejor venganza es no ser como tu enemigo». — Marco Aurelio 🏛️⚖️\n\nCuando alguien te traiciona, te miente o te trata con desprecio, tu pr",
       "fecha": "2026-11-05T12:00:01+0000",
-      "reacciones": 0,
-      "comentarios": 0,
-      "compartidos": 0,
-      "tipo": "post",
-      "estado": "publicado"
-    },
-    {
-      "id": "1367888553074849_122097375243507613",
-      "url": "https://www.facebook.com/1367888553074849_122097375243507613",
-      "mensaje": "La señora Carmela vio salir el camión de mudanza a toda velocidad. Diez minutos después, una cachorrita peluda y blanca salió corriendo del ",
-      "fecha": "2026-11-05T00:30:01+0000",
       "reacciones": 0,
       "comentarios": 0,
       "compartidos": 0,
@@ -897,13 +897,6 @@
       "mensaje": "Doña Beatriz subió a tender ropa y escuchó un llanto seco en la azotea de enfrente. La casa llevaba dos semanas deshabitada con el letrero d",
       "fecha_programada": "2026-11-11T12:30:00.000Z",
       "estado": "programado_en_meta"
-    },
-    {
-      "id": "1367888553074849_122102521305507613",
-      "url": "https://www.facebook.com/1367888553074849_122102521305507613",
-      "mensaje": "«Tienes poder sobre tu mente, no sobre los acontecimientos. Date cuenta de esto y encontrarás la fuerza». — Marco Aurelio 🏛️⚔️\n\nHoy te vas ",
-      "fecha_programada": "2026-11-11T08:00:00.000Z",
-      "estado": "programado_en_meta"
     }
   ],
   "instagram": {
@@ -912,7 +905,7 @@
     "name": "Huellas con propósito",
     "followers": 1,
     "media_count": 14,
-    "picture": "https://scontent-ord5-2.xx.fbcdn.net/v/t51.82787-15/846964896_18127515184894503_9206256640984781246_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=7d201b&_nc_ohc=P6EBayS8qo4Q7kNvwEdFVBL&_nc_oc=Adq9htfcLje0u26wRLlDK6YrbVYraJOODg7qzcaOsZhZ6ziq966erQlB3W34cnnqKV4&_nc_zt=23&_nc_ht=scontent-ord5-2.xx&edm=AJ-jyNUEAAAA&_nc_gid=52erlMlp7Yobn5PLwy0T7A&oh=00_AQTZNJkcTK6-3rt2uILcZDH4iZMJ25BkHXGtTaVQFtApxQ&oe=6AF995EE"
+    "picture": "https://scontent-iad3-2.xx.fbcdn.net/v/t51.82787-15/846964896_18127515184894503_9206256640984781246_n.jpg?_nc_cat=104&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=7d201b&_nc_ohc=P6EBayS8qo4Q7kNvwEMHu3e&_nc_oc=Ado-3uB6ALNYLL5uFVcXzjcTkNFSQvuo5gT5jVMro950_GcvDmTiMtIJAdqMomlYfgo&_nc_zt=23&_nc_ht=scontent-iad3-2.xx&edm=AJ-jyNUEAAAA&_nc_gid=CV0w5PNL_u1WZOiSg0GNgw&oh=00_AQTngHMyODmyPG6H8s5Y_iBc9QXPnGG9FxjM5UecHXngkg&oe=6AFA066E"
   },
   "paginas": {
     "1367888553074849": {
@@ -922,22 +915,22 @@
         "categoria": "Animals & Pets",
         "seguidores": 45,
         "seguidos": 3,
-        "personas_hablando": 28,
-        "foto_perfil": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.30808-1/825286629_28604489712564817_7866327839881392565_n.jpg?stp=dst-jpg_s200x200_tt6&_nc_cat=110&ccb=1-7&_nc_sid=f907e8&_nc_ohc=dhQWZASdQFIQ7kNvwFQWPYy&_nc_oc=AdpFUwqAqrH3oNrrH9wcsZLp5T75XCIDyuQ1ikAHFQolzUr4ev9OacIoK1YTTnhlXOM&_nc_zt=24&_nc_ht=scontent-ord5-2.xx&edm=AJdBtusEAAAA&_nc_gid=RzDTVYaJiMx8wXTcYMXhmQ&_nc_tpa=Q5bMBQKUZzaQEOV-ZRZPo-OngD1Zi8NuHhhG7nAwnssACU8hPYGNuZwGMBnR6SQfNYmQ5ErdG-LMPGWtVg&oh=00_AQRxvcQCtm7NC5hnYOKIg4Qu5-o5LbGgKQAnHpRUuhSp2A&oe=6AF98AEB",
-        "ultima_actualizacion": "2026-11-11T00:47:10.646Z"
+        "personas_hablando": 24,
+        "foto_perfil": "https://scontent-iad3-1.xx.fbcdn.net/v/t39.30808-1/825286629_28604489712564817_7866327839881392565_n.jpg?stp=dst-jpg_s200x200_tt6&_nc_cat=110&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=f907e8&_nc_ohc=dhQWZASdQFIQ7kNvwHiiNkK&_nc_oc=Adp-IpNAfpaZYKB_arXNBr4kLXAcACyyq134znB-lrPm0IVp9UNpza-50Gd936jFrYQ&_nc_zt=24&_nc_ht=scontent-iad3-1.xx&edm=AJdBtusEAAAA&_nc_gid=V6rLZFUoA2tFmtKjaec3ew&_nc_tpa=Q5bMBQJnC4x1QXga-1AGbMKiCR0ce9bHSE4n7IZ3SKqvhOSVe1xcYktPyAdbWjY49AgLwNxSr38VCYWW8w&oh=00_AQSmo9vm3PNeyH3mLGZoUVa5u5o1lA2oFSkO53GR5WMZug&oe=6AF9FB6B",
+        "ultima_actualizacion": "2026-11-11T08:02:57.684Z"
       },
       "resumen_kpis": {
         "total_seguidores": 45,
         "seguidores_detalle": "45 seguidores • 3 seguidos",
         "crecimiento_semanal": "+35%",
         "seguidores_nuevos_semana": 7,
-        "personas_hablando": 28,
+        "personas_hablando": 24,
         "alcance_estimado": 810,
         "interacciones_totales": 0,
         "reacciones_totales": 0,
         "comentarios_totales": 0,
         "compartidos_totales": 0,
-        "programados_en_servidores_meta": 80,
+        "programados_en_servidores_meta": 79,
         "total_publicaciones_sistema": 120
       },
       "rendimiento_por_horario": [
@@ -985,6 +978,17 @@
         }
       ],
       "ultimos_posts_publicados": [
+        {
+          "id": "1367888553074849_122102521305507613",
+          "url": "https://www.facebook.com/1367888553074849_122102521305507613",
+          "mensaje": "«Tienes poder sobre tu mente, no sobre los acontecimientos. Date cuenta de esto y encontrarás la fuerza». — Marco Aurelio 🏛️⚔️\n\nHoy te vas ",
+          "fecha": "2026-11-11T08:00:02+0000",
+          "reacciones": 0,
+          "comentarios": 0,
+          "compartidos": 0,
+          "tipo": "post",
+          "estado": "publicado"
+        },
         {
           "id": "1367888553074849_122101397901507613",
           "url": "https://www.facebook.com/1367888553074849_122101397901507613",
@@ -1243,17 +1247,6 @@
           "url": "https://www.facebook.com/1367888553074849_122097381573507613",
           "mensaje": "«La mejor venganza es no ser como tu enemigo». — Marco Aurelio 🏛️⚖️\n\nCuando alguien te traiciona, te miente o te trata con desprecio, tu pr",
           "fecha": "2026-11-05T12:00:01+0000",
-          "reacciones": 0,
-          "comentarios": 0,
-          "compartidos": 0,
-          "tipo": "post",
-          "estado": "publicado"
-        },
-        {
-          "id": "1367888553074849_122097375243507613",
-          "url": "https://www.facebook.com/1367888553074849_122097375243507613",
-          "mensaje": "La señora Carmela vio salir el camión de mudanza a toda velocidad. Diez minutos después, una cachorrita peluda y blanca salió corriendo del ",
-          "fecha": "2026-11-05T00:30:01+0000",
           "reacciones": 0,
           "comentarios": 0,
           "compartidos": 0,
@@ -1814,13 +1807,6 @@
           "mensaje": "Doña Beatriz subió a tender ropa y escuchó un llanto seco en la azotea de enfrente. La casa llevaba dos semanas deshabitada con el letrero d",
           "fecha_programada": "2026-11-11T12:30:00.000Z",
           "estado": "programado_en_meta"
-        },
-        {
-          "id": "1367888553074849_122102521305507613",
-          "url": "https://www.facebook.com/1367888553074849_122102521305507613",
-          "mensaje": "«Tienes poder sobre tu mente, no sobre los acontecimientos. Date cuenta de esto y encontrarás la fuerza». — Marco Aurelio 🏛️⚔️\n\nHoy te vas ",
-          "fecha_programada": "2026-11-11T08:00:00.000Z",
-          "estado": "programado_en_meta"
         }
       ],
       "instagram": {
@@ -1829,7 +1815,7 @@
         "name": "Huellas con propósito",
         "followers": 1,
         "media_count": 14,
-        "picture": "https://scontent-ord5-2.xx.fbcdn.net/v/t51.82787-15/846964896_18127515184894503_9206256640984781246_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=7d201b&_nc_ohc=P6EBayS8qo4Q7kNvwEdFVBL&_nc_oc=Adq9htfcLje0u26wRLlDK6YrbVYraJOODg7qzcaOsZhZ6ziq966erQlB3W34cnnqKV4&_nc_zt=23&_nc_ht=scontent-ord5-2.xx&edm=AJ-jyNUEAAAA&_nc_gid=52erlMlp7Yobn5PLwy0T7A&oh=00_AQTZNJkcTK6-3rt2uILcZDH4iZMJ25BkHXGtTaVQFtApxQ&oe=6AF995EE"
+        "picture": "https://scontent-iad3-2.xx.fbcdn.net/v/t51.82787-15/846964896_18127515184894503_9206256640984781246_n.jpg?_nc_cat=104&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=7d201b&_nc_ohc=P6EBayS8qo4Q7kNvwEMHu3e&_nc_oc=Ado-3uB6ALNYLL5uFVcXzjcTkNFSQvuo5gT5jVMro950_GcvDmTiMtIJAdqMomlYfgo&_nc_zt=23&_nc_ht=scontent-iad3-2.xx&edm=AJ-jyNUEAAAA&_nc_gid=CV0w5PNL_u1WZOiSg0GNgw&oh=00_AQTngHMyODmyPG6H8s5Y_iBc9QXPnGG9FxjM5UecHXngkg&oe=6AFA066E"
       }
     },
     "1375923958937880": {
@@ -1841,7 +1827,7 @@
         "seguidos": 0,
         "personas_hablando": 0,
         "foto_perfil": "",
-        "ultima_actualizacion": "2026-11-11T00:47:10.804Z"
+        "ultima_actualizacion": "2026-11-11T08:02:57.803Z"
       },
       "resumen_kpis": {
         "total_seguidores": 7,
