@@ -400,7 +400,7 @@
     "titulo": "Mentalidad Errónea: EL TRAIDOR DE SUS PROMESAS vs Mentalidad de Acero",
     "texto": "\"SI TE ROMPES UNA PROMESA A TI MISMO, YA PERDISTE EL RESPETO FRENTE AL ESPEJO.\"\n\nEl éxito es para los que asumen el 100% de responsabilidad y no se rinden jamás.\n\n#MentalidadDeAcero #Disciplina",
     "imagen": "mentalidad_de_acero/imagenes/post_32_el_traidor_de_sus_promesas.jpg",
-    "estado": "pendiente"
+    "estado": "publicado"
   },
   {
     "id": 33,
@@ -410,7 +410,7 @@
     "titulo": "Mentalidad Errónea: EL AMANTE DE LA RUTINA CÓMODA vs Mentalidad de Acero",
     "texto": "\"LA RUTINA SIN CRECIMIENTO ES UNA PRISIÓN CON PUERTAS ABIERTAS.\"\n\nEl éxito es para los que asumen el 100% de responsabilidad y no se rinden jamás.\n\n#MentalidadDeAcero #Disciplina",
     "imagen": "mentalidad_de_acero/imagenes/post_33_el_amante_de_la_rutina_comoda.jpg",
-    "estado": "pendiente"
+    "estado": "publicado"
   },
   {
     "id": 34,
@@ -420,7 +420,8 @@
     "titulo": "Mentalidad Errónea: EL RESENTIDO POR EL RECHAZO vs Mentalidad de Acero",
     "texto": "\"CADA PUERTA QUE TE CIERRAN EN LA CARA ES UN MOTIVO MÁS PARA CONSTRUIR TU PROPIO CASTILLO.\"\n\nEl éxito es para los que asumen el 100% de responsabilidad y no se rinden jamás.\n\n#MentalidadDeAcero #Disciplina",
     "imagen": "mentalidad_de_acero/imagenes/post_34_el_resentido_por_el_rechazo.jpg",
-    "estado": "pendiente"
+    "estado": "programado",
+    "meta_post_id": "122115941343512707"
   },
   {
     "id": 35,
@@ -430,7 +431,8 @@
     "titulo": "Mentalidad Errónea: EL REZAGADO POR INDECISIÓN vs Mentalidad de Acero",
     "texto": "\"LA INDECISIÓN ES EL LADRÓN SILENCIOSO QUE TE ROBA LOS MEJORES AÑOS DE TU VIDA.\"\n\nEl éxito es para los que asumen el 100% de responsabilidad y no se rinden jamás.\n\n#MentalidadDeAcero #Disciplina",
     "imagen": "mentalidad_de_acero/imagenes/post_35_el_rezagado_por_indecision.jpg",
-    "estado": "pendiente"
+    "estado": "programado",
+    "meta_post_id": "122115941415512707"
   },
   {
     "id": 36,
@@ -440,7 +442,8 @@
     "titulo": "Mentalidad Errónea: EL JUEZ DE LA VIDA AJENA vs Mentalidad de Acero",
     "texto": "\"CADA MINUTO QUE PASAS JUZGANDO A OTROS, ES UN MINUTO MENOS EN TU PROPIO IMPERIO.\"\n\nEl éxito es para los que asumen el 100% de responsabilidad y no se rinden jamás.\n\n#MentalidadDeAcero #Disciplina",
     "imagen": "mentalidad_de_acero/imagenes/post_36_el_juez_de_la_vida_ajena.jpg",
-    "estado": "pendiente"
+    "estado": "programado",
+    "meta_post_id": "122115941469512707"
   },
   {
     "id": 37,
@@ -450,7 +453,8 @@
     "titulo": "Mentalidad Errónea: EL DEPENDIENTE DEL APLAUSO vs Mentalidad de Acero",
     "texto": "\"SI DEPENDES DE QUE TE ALABEN PARA TRABAJAR, TE MORIRÁS DE HAMBRE EN EL PRIMER SILENCIO.\"\n\nEl éxito es para los que asumen el 100% de responsabilidad y no se rinden jamás.\n\n#MentalidadDeAcero #Disciplina",
     "imagen": "mentalidad_de_acero/imagenes/post_37_el_dependiente_del_aplauso.jpg",
-    "estado": "pendiente"
+    "estado": "programado",
+    "meta_post_id": "122115941535512707"
   },
   {
     "id": 38,
@@ -460,7 +464,8 @@
     "titulo": "Mentalidad Errónea: EL TEMEROSO AL SACRIFICIO vs Mentalidad de Acero",
     "texto": "\"TODO LO QUE QUIERES ESTÁ DEL OTRO LADO DEL SACRIFICIO QUE HOY NO TE ATREVES A HACER.\"\n\nEl éxito es para los que asumen el 100% de responsabilidad y no se rinden jamás.\n\n#MentalidadDeAcero #Disciplina",
     "imagen": "mentalidad_de_acero/imagenes/post_38_el_temeroso_al_sacrificio.jpg",
-    "estado": "pendiente"
+    "estado": "programado",
+    "meta_post_id": "122115941589512707"
   },
   {
     "id": 39,
@@ -470,7 +475,8 @@
     "titulo": "Mentalidad Errónea: EL MALDECIDOR DE SU DESTINO vs Mentalidad de Acero",
     "texto": "\"NO MALDIGAS LA LLUVIA QUE TE MOJA; APRENDE A PELEAR EN MEDIO DEL BARRO.\"\n\nEl éxito es para los que asumen el 100% de responsabilidad y no se rinden jamás.\n\n#MentalidadDeAcero #Disciplina",
     "imagen": "mentalidad_de_acero/imagenes/post_39_el_maldecidor_de_su_destino.jpg",
-    "estado": "pendiente"
+    "estado": "programado",
+    "meta_post_id": "122115941643512707"
   },
   {
     "id": 40,
@@ -480,7 +486,8 @@
     "titulo": "Mentalidad Errónea: EL REHEN DIGITAL vs Mentalidad de Acero",
     "texto": "\"EL SCROLL INFINITO TE ANESTESIA LA MENTE MIENTRAS TU COMPETENCIA CONQUISTA EL TERRENO.\"\n\nEl éxito es para los que asumen el 100% de responsabilidad y no se rinden jamás.\n\n#MentalidadDeAcero #Disciplina",
     "imagen": "mentalidad_de_acero/imagenes/post_40_el_rehen_digital.jpg",
-    "estado": "pendiente"
+    "estado": "programado",
+    "meta_post_id": "122115941727512707"
   },
   {
     "id": 41,
@@ -490,7 +497,8 @@
     "titulo": "Mentalidad Errónea: EL TRAIDOR DE SU CÍRCULO vs Mentalidad de Acero",
     "texto": "\"EL HOMBRE QUE TRAICIONA A SU CÍRCULO, TERMINA MURIENDO DE FRÍO EN LA SOLEDAD.\"\n\nEl éxito es para los que asumen el 100% de responsabilidad y no se rinden jamás.\n\n#MentalidadDeAcero #Disciplina",
     "imagen": "mentalidad_de_acero/imagenes/post_41_el_traidor_de_su_circulo.jpg",
-    "estado": "pendiente"
+    "estado": "programado",
+    "meta_post_id": "122115941793512707"
   },
   {
     "id": 42,
@@ -500,7 +508,8 @@
     "titulo": "Mentalidad Errónea: EL ARROGANTE PREMATURO vs Mentalidad de Acero",
     "texto": "\"LA HUMILDAD EN LA CONQUISTA ES PODER; LA ARROGANCIA TEMPRANA ES EL PRELUDIO DE LA CAÍDA.\"\n\nEl éxito es para los que asumen el 100% de responsabilidad y no se rinden jamás.\n\n#MentalidadDeAcero #Disciplina",
     "imagen": "mentalidad_de_acero/imagenes/post_42_el_arrogante_prematuro.jpg",
-    "estado": "pendiente"
+    "estado": "programado",
+    "meta_post_id": "122115941859512707"
   },
   {
     "id": 43,
@@ -510,7 +519,8 @@
     "titulo": "Mentalidad Errónea: EL APAGAFUEGOS REACTIVO vs Mentalidad de Acero",
     "texto": "\"NO VIVAS REACCIONANDO A LO QUE PASA; SÉ EL HOMBRE QUE CAUSA LO QUE TIENE QUE PASAR.\"\n\nEl éxito es para los que asumen el 100% de responsabilidad y no se rinden jamás.\n\n#MentalidadDeAcero #Disciplina",
     "imagen": "mentalidad_de_acero/imagenes/post_43_el_apagafuegos_reactivo.jpg",
-    "estado": "pendiente"
+    "estado": "programado",
+    "meta_post_id": "122115941943512707"
   },
   {
     "id": 44,
@@ -520,7 +530,8 @@
     "titulo": "Mentalidad Errónea: EL PEREZOSO DE FIN DE SEMANA vs Mentalidad de Acero",
     "texto": "\"TUS METAS NO SE TOMAN DÍAS LIBRES; SI DESCANSAS DE MÁS, TU SUEÑO SE DESVANECE.\"\n\nEl éxito es para los que asumen el 100% de responsabilidad y no se rinden jamás.\n\n#MentalidadDeAcero #Disciplina",
     "imagen": "mentalidad_de_acero/imagenes/post_44_el_perezoso_de_fin_de_semana.jpg",
-    "estado": "pendiente"
+    "estado": "programado",
+    "meta_post_id": "122115942015512707"
   },
   {
     "id": 45,
@@ -530,7 +541,8 @@
     "titulo": "Mentalidad Errónea: EL AVALADOR DE SUS MENTIRAS vs Mentalidad de Acero",
     "texto": "\"PUEDES ENGAÑAR A TODO EL MUNDO, PERO NO PUEDES ENGAÑAR A TUS PROPIOS RESULTADOS.\"\n\nEl éxito es para los que asumen el 100% de responsabilidad y no se rinden jamás.\n\n#MentalidadDeAcero #Disciplina",
     "imagen": "mentalidad_de_acero/imagenes/post_45_el_avalador_de_sus_mentiras.jpg",
-    "estado": "pendiente"
+    "estado": "programado",
+    "meta_post_id": "122115942129512707"
   },
   {
     "id": 46,
@@ -540,7 +552,8 @@
     "titulo": "Mentalidad Errónea: EL TIMORATO ANTE EL RIESGO vs Mentalidad de Acero",
     "texto": "\"EL RIESGO MÁS GRANDE EN ESTA VIDA ES PASARLA SIN HABER ARRIESGADO NADA.\"\n\nEl éxito es para los que asumen el 100% de responsabilidad y no se rinden jamás.\n\n#MentalidadDeAcero #Disciplina",
     "imagen": "mentalidad_de_acero/imagenes/post_46_el_timorato_ante_el_riesgo.jpg",
-    "estado": "pendiente"
+    "estado": "programado",
+    "meta_post_id": "122115942201512707"
   },
   {
     "id": 47,
@@ -550,7 +563,8 @@
     "titulo": "Mentalidad Errónea: EL QUEBRADO POR LA PRESIÓN vs Mentalidad de Acero",
     "texto": "\"LOS CARBONES SE DESINTEGRAN BAJO PRESIÓN; LOS DIAMANTES SE FORJAN EN ELLA.\"\n\nEl éxito es para los que asumen el 100% de responsabilidad y no se rinden jamás.\n\n#MentalidadDeAcero #Disciplina",
     "imagen": "mentalidad_de_acero/imagenes/post_47_el_quebrado_por_la_presion.jpg",
-    "estado": "pendiente"
+    "estado": "programado",
+    "meta_post_id": "122115942267512707"
   },
   {
     "id": 48,
@@ -560,7 +574,8 @@
     "titulo": "Mentalidad Errónea: EL RECLAMADOR DE DERECHOS vs Mentalidad de Acero",
     "texto": "\"NO PIDAS RESPETO POR HABER NACIDO; GÁNATE EL RESPETO CON TU CONDUCTA Y TU SUDOR.\"\n\nEl éxito es para los que asumen el 100% de responsabilidad y no se rinden jamás.\n\n#MentalidadDeAcero #Disciplina",
     "imagen": "mentalidad_de_acero/imagenes/post_48_el_reclamador_de_derechos.jpg",
-    "estado": "pendiente"
+    "estado": "programado",
+    "meta_post_id": "122115942339512707"
   },
   {
     "id": 49,
@@ -570,7 +585,8 @@
     "titulo": "Mentalidad Errónea: EL DORMIDO EN SUS LAURELES vs Mentalidad de Acero",
     "texto": "\"EL ÉXITO DE AYER NO TE DA DE COMER HOY; CADA AMANECER COMIENZAS DESDE CERO.\"\n\nEl éxito es para los que asumen el 100% de responsabilidad y no se rinden jamás.\n\n#MentalidadDeAcero #Disciplina",
     "imagen": "mentalidad_de_acero/imagenes/post_49_el_dormido_en_sus_laureles.jpg",
-    "estado": "pendiente"
+    "estado": "programado",
+    "meta_post_id": "122115942429512707"
   },
   {
     "id": 50,
@@ -580,7 +596,8 @@
     "titulo": "Mentalidad Errónea: EL PESIMISTA PROFESIONAL vs Mentalidad de Acero",
     "texto": "\"EL PESIMISTA VE EL PROBLEMA EN CADA OPORTUNIDAD; EL HOMBRE DE ACERO VE LA VICTORIA EN EL CAOS.\"\n\nEl éxito es para los que asumen el 100% de responsabilidad y no se rinden jamás.\n\n#MentalidadDeAcero #Disciplina",
     "imagen": "mentalidad_de_acero/imagenes/post_50_el_pesimista_profesional.jpg",
-    "estado": "pendiente"
+    "estado": "programado",
+    "meta_post_id": "122115942537512707"
   },
   {
     "id": 51,
@@ -590,7 +607,8 @@
     "titulo": "Mentalidad Errónea: EL RENUNCIANTE A MEDIO CAMINO vs Mentalidad de Acero",
     "texto": "\"LO MÁS TRISTE NO ES NO LLEGAR; ES RENUNCIAR CUANDO FALTABAN DIEZ METROS PARA LA CIMA.\"\n\nEl éxito es para los que asumen el 100% de responsabilidad y no se rinden jamás.\n\n#MentalidadDeAcero #Disciplina",
     "imagen": "mentalidad_de_acero/imagenes/post_51_el_renunciante_a_medio_camino.jpg",
-    "estado": "pendiente"
+    "estado": "programado",
+    "meta_post_id": "122115942621512707"
   },
   {
     "id": 52,
@@ -600,6 +618,7 @@
     "titulo": "Mentalidad Errónea: EL HOMBRE SIN PROPÓSITO vs Mentalidad de Acero",
     "texto": "\"UN HOMBRE SIN MISIÓN ES UNA HOJA AL VIENTO; UN HOMBRE DE ACERO ES LA ROCA QUE PARTE LA OLA.\"\n\nEl éxito es para los que asumen el 100% de responsabilidad y no se rinden jamás.\n\n#MentalidadDeAcero #Disciplina",
     "imagen": "mentalidad_de_acero/imagenes/post_52_el_hombre_sin_proposito.jpg",
-    "estado": "pendiente"
+    "estado": "programado",
+    "meta_post_id": "122115942675512707"
   }
 ]
