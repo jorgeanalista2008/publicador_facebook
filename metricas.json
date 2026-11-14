@@ -5,22 +5,22 @@
     "categoria": "Animals & Pets",
     "seguidores": 45,
     "seguidos": 3,
-    "personas_hablando": 29,
-    "foto_perfil": "https://scontent-iad3-1.xx.fbcdn.net/v/t39.30808-1/825286629_28604489712564817_7866327839881392565_n.jpg?stp=dst-jpg_s200x200_tt6&_nc_cat=110&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=f907e8&_nc_ohc=37IhN1THF38Q7kNvwGyA5Gs&_nc_oc=AdrO57ctrklth9ftSip8cnyIp63UqBxeFbFmkziG1-U1S5ZlMdZov5zQYosV1I-C11c&_nc_zt=24&_nc_ht=scontent-iad3-1.xx&edm=AJdBtusEAAAA&_nc_gid=ztpAC6NBoyat31F18B5D_w&_nc_tpa=Q5bMBQJL5wa7mxpq3fmMsNTjSySO4jFq_K_ux1XzquT9aKtlxckSFv1IcRFvTyTgomDRV66kyAeKR-KY7Q&oh=00_AQSoz6TWp8yIhnoICi9dO1wHmn1Ay0iE8wvJZ_Atw2Yn8Q&oe=6AFD472B",
-    "ultima_actualizacion": "2026-11-13T19:56:42.179Z"
+    "personas_hablando": 30,
+    "foto_perfil": "https://scontent-iad3-1.xx.fbcdn.net/v/t39.30808-1/825286629_28604489712564817_7866327839881392565_n.jpg?stp=dst-jpg_s200x200_tt6&_nc_cat=110&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=f907e8&_nc_ohc=37IhN1THF38Q7kNvwH4wMZ3&_nc_oc=AdrAqFi9ORgE0ZSAmykVriWQ9cjGuptFddPE5p6ZjJyCStqr3Mc5rOhAtBqdzfIAGrc&_nc_zt=24&_nc_ht=scontent-iad3-1.xx&edm=AJdBtusEAAAA&_nc_gid=r5aqEQTnMAZiU-F7E9BGdg&_nc_tpa=Q5bMBQIHjxRcXG9Rx1pj45dYLHKsDy0SlzMkM-00aN2qgPazxTdUKGNUE84XFPd-R3ZHOGU13dNAB1R-sA&oh=00_AQT2xwer6CPNN70gcFTR-4rG1enukQpj1B_t7-nykqTvXg&oe=6AFD7F6B",
+    "ultima_actualizacion": "2026-11-14T00:58:25.617Z"
   },
   "resumen_kpis": {
     "total_seguidores": 45,
     "seguidores_detalle": "45 seguidores • 3 seguidos",
     "crecimiento_semanal": "+35%",
     "seguidores_nuevos_semana": 7,
-    "personas_hablando": 29,
+    "personas_hablando": 30,
     "alcance_estimado": 810,
     "interacciones_totales": 0,
     "reacciones_totales": 0,
     "comentarios_totales": 0,
     "compartidos_totales": 0,
-    "programados_en_servidores_meta": 69,
+    "programados_en_servidores_meta": 68,
     "total_publicaciones_sistema": 120
   },
   "rendimiento_por_horario": [
@@ -68,6 +68,17 @@
     }
   ],
   "ultimos_posts_publicados": [
+    {
+      "id": "1367888553074849_122104276347507613",
+      "url": "https://www.facebook.com/1367888553074849_122104276347507613",
+      "mensaje": "Doña Beatriz subió a tender ropa y escuchó un llanto seco en la azotea de enfrente. La casa llevaba dos semanas deshabitada con el letrero d",
+      "fecha": "2026-11-13T20:30:01+0000",
+      "reacciones": 0,
+      "comentarios": 0,
+      "compartidos": 0,
+      "tipo": "post",
+      "estado": "publicado"
+    },
     {
       "id": "1367888553074849_122104276119507613",
       "url": "https://www.facebook.com/1367888553074849_122104276119507613",
@@ -326,17 +337,6 @@
       "url": "https://www.facebook.com/1367888553074849_122099396439507613",
       "mensaje": "Don Marcos llamó al nuevo dueño del taller mecánico que acababa de quebrar. Una voz apresurada le contestó que se estaban llevando la maquin",
       "fecha": "2026-11-08T12:30:01+0000",
-      "reacciones": 0,
-      "comentarios": 0,
-      "compartidos": 0,
-      "tipo": "post",
-      "estado": "publicado"
-    },
-    {
-      "id": "1367888553074849_122098396479507613",
-      "url": "https://www.facebook.com/1367888553074849_122098396479507613",
-      "mensaje": "«No tenemos poco tiempo, sino que perdemos mucho». — Séneca (Sobre la brevedad de la vida) ⏳🏛️\n\nNos quejamos constantemente de que la vida ",
-      "fecha": "2026-11-08T08:00:08+0000",
       "reacciones": 0,
       "comentarios": 0,
       "compartidos": 0,
@@ -820,13 +820,6 @@
       "mensaje": "«Sufrimos más a menudo por la imaginación que por la realidad». — Séneca 🏛️📜\n\n¿Cuántas noches te has quedado despierto creando escenarios ",
       "fecha_programada": "2026-11-14T08:00:00.000Z",
       "estado": "programado_en_meta"
-    },
-    {
-      "id": "1367888553074849_122104276347507613",
-      "url": "https://www.facebook.com/1367888553074849_122104276347507613",
-      "mensaje": "Doña Beatriz subió a tender ropa y escuchó un llanto seco en la azotea de enfrente. La casa llevaba dos semanas deshabitada con el letrero d",
-      "fecha_programada": "2026-11-13T20:30:00.000Z",
-      "estado": "programado_en_meta"
     }
   ],
   "instagram": {
@@ -835,7 +828,7 @@
     "name": "Huellas con propósito",
     "followers": 1,
     "media_count": 14,
-    "picture": "https://scontent-iad3-2.xx.fbcdn.net/v/t51.82787-15/846964896_18127515184894503_9206256640984781246_n.jpg?_nc_cat=104&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=7d201b&_nc_ohc=xHVZe1LBmNkQ7kNvwGhWdRk&_nc_oc=AdrA7ABMkk8yb340TuqJQBHv4LNoqb98t7oSYi-BYbI6yf6AzBXob3BOD7IFnUEZRi0&_nc_zt=23&_nc_ht=scontent-iad3-2.xx&edm=AJ-jyNUEAAAA&_nc_gid=Zn95nRcYgDlIPKBg1kMWrw&oh=00_AQRFavliIG8Rjgp1SSvFDDyVFDslqWPPAkESkPIFOXrvEw&oe=6AFD522E"
+    "picture": "https://scontent-iad3-2.xx.fbcdn.net/v/t51.82787-15/846964896_18127515184894503_9206256640984781246_n.jpg?_nc_cat=104&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=7d201b&_nc_ohc=xHVZe1LBmNkQ7kNvwFc6NGU&_nc_oc=AdriOK-iONgIMjeMm4eK-8UrnHqdMwM9NTW1Xa1RNc-3ifScNz7gWXFp6SsifqohHcs&_nc_zt=23&_nc_ht=scontent-iad3-2.xx&edm=AJ-jyNUEAAAA&_nc_gid=u3V268ON07-JVkAaXds7bg&oh=00_AQRqbkzlYWxP_0iHGxeUDkCBLwHxt5y9ExRhzZeHvZ7Y4w&oe=6AFD8A6E"
   },
   "paginas": {
     "1367888553074849": {
@@ -845,22 +838,22 @@
         "categoria": "Animals & Pets",
         "seguidores": 45,
         "seguidos": 3,
-        "personas_hablando": 29,
-        "foto_perfil": "https://scontent-iad3-1.xx.fbcdn.net/v/t39.30808-1/825286629_28604489712564817_7866327839881392565_n.jpg?stp=dst-jpg_s200x200_tt6&_nc_cat=110&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=f907e8&_nc_ohc=37IhN1THF38Q7kNvwGyA5Gs&_nc_oc=AdrO57ctrklth9ftSip8cnyIp63UqBxeFbFmkziG1-U1S5ZlMdZov5zQYosV1I-C11c&_nc_zt=24&_nc_ht=scontent-iad3-1.xx&edm=AJdBtusEAAAA&_nc_gid=ztpAC6NBoyat31F18B5D_w&_nc_tpa=Q5bMBQJL5wa7mxpq3fmMsNTjSySO4jFq_K_ux1XzquT9aKtlxckSFv1IcRFvTyTgomDRV66kyAeKR-KY7Q&oh=00_AQSoz6TWp8yIhnoICi9dO1wHmn1Ay0iE8wvJZ_Atw2Yn8Q&oe=6AFD472B",
-        "ultima_actualizacion": "2026-11-13T19:56:42.179Z"
+        "personas_hablando": 30,
+        "foto_perfil": "https://scontent-iad3-1.xx.fbcdn.net/v/t39.30808-1/825286629_28604489712564817_7866327839881392565_n.jpg?stp=dst-jpg_s200x200_tt6&_nc_cat=110&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=f907e8&_nc_ohc=37IhN1THF38Q7kNvwH4wMZ3&_nc_oc=AdrAqFi9ORgE0ZSAmykVriWQ9cjGuptFddPE5p6ZjJyCStqr3Mc5rOhAtBqdzfIAGrc&_nc_zt=24&_nc_ht=scontent-iad3-1.xx&edm=AJdBtusEAAAA&_nc_gid=r5aqEQTnMAZiU-F7E9BGdg&_nc_tpa=Q5bMBQIHjxRcXG9Rx1pj45dYLHKsDy0SlzMkM-00aN2qgPazxTdUKGNUE84XFPd-R3ZHOGU13dNAB1R-sA&oh=00_AQT2xwer6CPNN70gcFTR-4rG1enukQpj1B_t7-nykqTvXg&oe=6AFD7F6B",
+        "ultima_actualizacion": "2026-11-14T00:58:25.617Z"
       },
       "resumen_kpis": {
         "total_seguidores": 45,
         "seguidores_detalle": "45 seguidores • 3 seguidos",
         "crecimiento_semanal": "+35%",
         "seguidores_nuevos_semana": 7,
-        "personas_hablando": 29,
+        "personas_hablando": 30,
         "alcance_estimado": 810,
         "interacciones_totales": 0,
         "reacciones_totales": 0,
         "comentarios_totales": 0,
         "compartidos_totales": 0,
-        "programados_en_servidores_meta": 69,
+        "programados_en_servidores_meta": 68,
         "total_publicaciones_sistema": 120
       },
       "rendimiento_por_horario": [
@@ -908,6 +901,17 @@
         }
       ],
       "ultimos_posts_publicados": [
+        {
+          "id": "1367888553074849_122104276347507613",
+          "url": "https://www.facebook.com/1367888553074849_122104276347507613",
+          "mensaje": "Doña Beatriz subió a tender ropa y escuchó un llanto seco en la azotea de enfrente. La casa llevaba dos semanas deshabitada con el letrero d",
+          "fecha": "2026-11-13T20:30:01+0000",
+          "reacciones": 0,
+          "comentarios": 0,
+          "compartidos": 0,
+          "tipo": "post",
+          "estado": "publicado"
+        },
         {
           "id": "1367888553074849_122104276119507613",
           "url": "https://www.facebook.com/1367888553074849_122104276119507613",
@@ -1166,17 +1170,6 @@
           "url": "https://www.facebook.com/1367888553074849_122099396439507613",
           "mensaje": "Don Marcos llamó al nuevo dueño del taller mecánico que acababa de quebrar. Una voz apresurada le contestó que se estaban llevando la maquin",
           "fecha": "2026-11-08T12:30:01+0000",
-          "reacciones": 0,
-          "comentarios": 0,
-          "compartidos": 0,
-          "tipo": "post",
-          "estado": "publicado"
-        },
-        {
-          "id": "1367888553074849_122098396479507613",
-          "url": "https://www.facebook.com/1367888553074849_122098396479507613",
-          "mensaje": "«No tenemos poco tiempo, sino que perdemos mucho». — Séneca (Sobre la brevedad de la vida) ⏳🏛️\n\nNos quejamos constantemente de que la vida ",
-          "fecha": "2026-11-08T08:00:08+0000",
           "reacciones": 0,
           "comentarios": 0,
           "compartidos": 0,
@@ -1660,13 +1653,6 @@
           "mensaje": "«Sufrimos más a menudo por la imaginación que por la realidad». — Séneca 🏛️📜\n\n¿Cuántas noches te has quedado despierto creando escenarios ",
           "fecha_programada": "2026-11-14T08:00:00.000Z",
           "estado": "programado_en_meta"
-        },
-        {
-          "id": "1367888553074849_122104276347507613",
-          "url": "https://www.facebook.com/1367888553074849_122104276347507613",
-          "mensaje": "Doña Beatriz subió a tender ropa y escuchó un llanto seco en la azotea de enfrente. La casa llevaba dos semanas deshabitada con el letrero d",
-          "fecha_programada": "2026-11-13T20:30:00.000Z",
-          "estado": "programado_en_meta"
         }
       ],
       "instagram": {
@@ -1675,7 +1661,7 @@
         "name": "Huellas con propósito",
         "followers": 1,
         "media_count": 14,
-        "picture": "https://scontent-iad3-2.xx.fbcdn.net/v/t51.82787-15/846964896_18127515184894503_9206256640984781246_n.jpg?_nc_cat=104&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=7d201b&_nc_ohc=xHVZe1LBmNkQ7kNvwGhWdRk&_nc_oc=AdrA7ABMkk8yb340TuqJQBHv4LNoqb98t7oSYi-BYbI6yf6AzBXob3BOD7IFnUEZRi0&_nc_zt=23&_nc_ht=scontent-iad3-2.xx&edm=AJ-jyNUEAAAA&_nc_gid=Zn95nRcYgDlIPKBg1kMWrw&oh=00_AQRFavliIG8Rjgp1SSvFDDyVFDslqWPPAkESkPIFOXrvEw&oe=6AFD522E"
+        "picture": "https://scontent-iad3-2.xx.fbcdn.net/v/t51.82787-15/846964896_18127515184894503_9206256640984781246_n.jpg?_nc_cat=104&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=7d201b&_nc_ohc=xHVZe1LBmNkQ7kNvwFc6NGU&_nc_oc=AdriOK-iONgIMjeMm4eK-8UrnHqdMwM9NTW1Xa1RNc-3ifScNz7gWXFp6SsifqohHcs&_nc_zt=23&_nc_ht=scontent-iad3-2.xx&edm=AJ-jyNUEAAAA&_nc_gid=u3V268ON07-JVkAaXds7bg&oh=00_AQRqbkzlYWxP_0iHGxeUDkCBLwHxt5y9ExRhzZeHvZ7Y4w&oe=6AFD8A6E"
       }
     },
     "1375923958937880": {
@@ -1683,23 +1669,23 @@
         "id": "1375923958937880",
         "nombre": "Metalidad de Acero",
         "categoria": "Digital creator",
-        "seguidores": 451,
+        "seguidores": 465,
         "seguidos": 0,
         "personas_hablando": 304,
-        "foto_perfil": "https://scontent-iad6-1.xx.fbcdn.net/v/t39.30808-1/840874239_28641464222200699_8608299845012300889_n.jpg?stp=dst-jpg_s200x200_tt6&_nc_cat=100&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=f907e8&_nc_ohc=oDF-gInTJM0Q7kNvwE1Gycq&_nc_oc=AdqdE3GWe7KmHmnw14uTQX5Y69tfZDggRVgNi0-JFFZHCL_lLEpoDoyjT_3t1mLFZQw&_nc_zt=24&_nc_ht=scontent-iad6-1.xx&edm=AJdBtusEAAAA&_nc_gid=aJ6G0C2TYnDJSHpiOG2tYQ&_nc_tpa=Q5bMBQL8iSbRQO1Xvpfa29LZ9rOR5zTZDL_qktuFVcOe2-U2mxR_pOOsRKaADP2AeTCifzFUOxMNzB78jA&oh=00_AQROtsowqsZshsIbH-QOJ5eQ3g8--MJKqjvZ91o3BtJvTA&oe=6AFD480B",
-        "ultima_actualizacion": "2026-11-13T19:56:43.292Z"
+        "foto_perfil": "https://scontent-iad6-1.xx.fbcdn.net/v/t39.30808-1/840874239_28641464222200699_8608299845012300889_n.jpg?stp=dst-jpg_s200x200_tt6&_nc_cat=100&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=f907e8&_nc_ohc=Fm6V3NtGAuoQ7kNvwHdLXHN&_nc_oc=AdpAk4QNxY17YGVZ9KsyScP5f-0y10UH9ZRcnr-rPTE9wiu-NWa2dCNU-mlsPNhzkh8&_nc_zt=24&_nc_ht=scontent-iad6-1.xx&edm=AJdBtusEAAAA&_nc_gid=LUoe0Rn_XcfLmhx8lSliHQ&_nc_tpa=Q5bMBQKvpZsylmHpCLWzZpdeJWOc67KqO9k-bpVHubzRh9l4sei12gzIBjsI_X299rpcgaP_cIWqAmWTbg&oh=00_AQSVJNs3bgO6-TKVRfr3UvSbBW9HAMVQBL9MyVqW0wcv_w&oe=6AFD804B",
+        "ultima_actualizacion": "2026-11-14T00:58:26.593Z"
       },
       "resumen_kpis": {
-        "total_seguidores": 451,
-        "seguidores_detalle": "451 seguidores • 0 seguidos",
+        "total_seguidores": 465,
+        "seguidores_detalle": "465 seguidores • 0 seguidos",
         "crecimiento_semanal": "+100%",
-        "seguidores_nuevos_semana": 451,
+        "seguidores_nuevos_semana": 465,
         "personas_hablando": 304,
-        "alcance_estimado": 8118,
-        "interacciones_totales": 44,
+        "alcance_estimado": 8370,
+        "interacciones_totales": 43,
         "reacciones_totales": 33,
         "comentarios_totales": 0,
-        "compartidos_totales": 11,
+        "compartidos_totales": 10,
         "programados_en_servidores_meta": 61,
         "total_publicaciones_sistema": 176
       },
@@ -1744,10 +1730,21 @@
         },
         {
           "fecha": "12 Oct",
-          "seguidores": 451
+          "seguidores": 465
         }
       ],
       "ultimos_posts_publicados": [
+        {
+          "id": "1375923958937880_122115941415512707",
+          "url": "https://www.facebook.com/1375923958937880_122115941415512707",
+          "mensaje": "\"LA INDECISIÓN ES EL LADRÓN SILENCIOSO QUE TE ROBA LOS MEJORES AÑOS DE TU VIDA.\"\n\nEl éxito es para los que asumen el 100% de responsabilidad",
+          "fecha": "2026-11-13T23:00:13+0000",
+          "reacciones": 0,
+          "comentarios": 0,
+          "compartidos": 0,
+          "tipo": "post",
+          "estado": "publicado"
+        },
         {
           "id": "1375923958937880_122116495791512707",
           "url": "https://www.facebook.com/1375923958937880_122116495791512707",
@@ -1821,7 +1818,7 @@
           "fecha": "2026-11-12T20:56:44+0000",
           "reacciones": 1,
           "comentarios": 0,
-          "compartidos": 1,
+          "compartidos": 0,
           "tipo": "post",
           "estado": "publicado"
         },
@@ -2000,20 +1997,16 @@
           "compartidos": 0,
           "tipo": "post",
           "estado": "publicado"
-        },
-        {
-          "id": "1375923958937880_122095716651512707",
-          "url": "https://www.facebook.com/1375923958937880_122095716651512707",
-          "mensaje": "\"EL MIEDO AL QUÉ DIRÁN ES LA TUMBA DONDE MUEREN LOS HOMBRES SIN DESTINO.\"\n\nEl éxito es para los que asumen el 100% de responsabilidad y no s",
-          "fecha": "2026-11-04T23:00:03+0000",
-          "reacciones": 0,
-          "comentarios": 0,
-          "compartidos": 0,
-          "tipo": "post",
-          "estado": "publicado"
         }
       ],
       "proximos_programados_meta": [
+        {
+          "id": "1375923958937880_122116645743512707",
+          "url": "https://www.facebook.com/1375923958937880_122116645743512707",
+          "mensaje": "🌙 AUDITORÍA DE CIERRE DE DÍA 🌙\n\n\"¿CUIDASTE TU CUERPO CON COMIDA REAL Y ESFUERZO FÍSICO O LO INTOXICASTE CON PEREZA Y BASURA?\"\n\nLlegó la no",
+          "fecha_programada": "2026-12-11T21:30:00.000Z",
+          "estado": "programado_en_meta"
+        },
         {
           "id": "1375923958937880_122116597461512707",
           "url": "https://www.facebook.com/1375923958937880_122116597461512707",
@@ -2432,13 +2425,6 @@
           "url": "https://www.facebook.com/1375923958937880_122115941469512707",
           "mensaje": "\"CADA MINUTO QUE PASAS JUZGANDO A OTROS, ES UN MINUTO MENOS EN TU PROPIO IMPERIO.\"\n\nEl éxito es para los que asumen el 100% de responsabilid",
           "fecha_programada": "2026-11-14T23:00:00.000Z",
-          "estado": "programado_en_meta"
-        },
-        {
-          "id": "1375923958937880_122115941415512707",
-          "url": "https://www.facebook.com/1375923958937880_122115941415512707",
-          "mensaje": "\"LA INDECISIÓN ES EL LADRÓN SILENCIOSO QUE TE ROBA LOS MEJORES AÑOS DE TU VIDA.\"\n\nEl éxito es para los que asumen el 100% de responsabilidad",
-          "fecha_programada": "2026-11-13T23:00:00.000Z",
           "estado": "programado_en_meta"
         }
       ],
