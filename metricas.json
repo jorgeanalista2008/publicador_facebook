@@ -6,8 +6,8 @@
     "seguidores": 46,
     "seguidos": 3,
     "personas_hablando": 31,
-    "foto_perfil": "https://scontent-dfw5-1.xx.fbcdn.net/v/t39.30808-1/825286629_28604489712564817_7866327839881392565_n.jpg?stp=dst-jpg_s200x200_tt6&_nc_cat=110&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=f907e8&_nc_ohc=PNC46IxS4LQQ7kNvwGGPPBr&_nc_oc=AdorzWiV5efv3wT-YkBxwbCCoBLyq03Q3LEEdcSlv0eU6jnmCXBK7IRMs54YWymeIic&_nc_zt=24&_nc_ht=scontent-dfw5-1.xx&edm=AJdBtusEAAAA&_nc_gid=boJH1qgpp7Yqo4cf4WZMHw&_nc_tpa=Q5bMBQKhV2HZnBiCC7tPa8bp5MFboXQfx8NEnoswyKcflWlROOItUDpe3Si5g7i-5e3FYxoLFhmTNhfkJQ&oh=00_AQTvHejEkKbJ1npoDtnrzm-kmyOvyNFwYwJK0qPu_baBmQ&oe=6B013BAB",
-    "ultima_actualizacion": "2026-11-16T22:25:36.352Z"
+    "foto_perfil": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.30808-1/825286629_28604489712564817_7866327839881392565_n.jpg?stp=dst-jpg_s200x200_tt6&_nc_cat=110&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=f907e8&_nc_ohc=PNC46IxS4LQQ7kNvwEsgThL&_nc_oc=AdrjlsoS_d2c8wA7u3tac409dif0N9u0fIRliLYpOiPd6kI5WmzhOnEE9ME_s2JZWEI&_nc_zt=24&_nc_ht=scontent-ord5-2.xx&edm=AJdBtusEAAAA&_nc_gid=uDAkHmXsVoLwQ81Z9a7yyA&_nc_tpa=Q5bMBQLRjjO76VqQFGuROhznl--nRxYlTzQ4xkhV8Lmz9JghxA04RqZGD1yWf2sMJvacWhBeEfY1176r4Q&oh=00_AQS6KCkQn6TABv5wpxxZQOHbRjEUgYQzw7NA1TOrvxDw-Q&oe=6B01AC2B",
+    "ultima_actualizacion": "2026-11-17T05:10:53.008Z"
   },
   "resumen_kpis": {
     "total_seguidores": 46,
@@ -16,10 +16,10 @@
     "seguidores_nuevos_semana": 7,
     "personas_hablando": 31,
     "alcance_estimado": 828,
-    "interacciones_totales": 0,
+    "interacciones_totales": 1,
     "reacciones_totales": 0,
     "comentarios_totales": 0,
-    "compartidos_totales": 0,
+    "compartidos_totales": 1,
     "programados_en_servidores_meta": 56,
     "total_publicaciones_sistema": 120
   },
@@ -328,7 +328,7 @@
       "fecha": "2026-11-11T12:51:59+0000",
       "reacciones": 0,
       "comentarios": 0,
-      "compartidos": 0,
+      "compartidos": 1,
       "tipo": "post",
       "estado": "publicado"
     },
@@ -744,7 +744,7 @@
     "name": "Huellas con propósito",
     "followers": 1,
     "media_count": 14,
-    "picture": "https://scontent-dfw6-1.xx.fbcdn.net/v/t51.82787-15/846964896_18127515184894503_9206256640984781246_n.jpg?_nc_cat=104&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=7d201b&_nc_ohc=tWZS7pEyKjcQ7kNvwFw8hpV&_nc_oc=AdokJiejBSVwz0EwsS7LYGzMlr1cztHtvRffMjhvZUJ9pktjPBBkbngN9pb9xtqANyA&_nc_zt=23&_nc_ht=scontent-dfw6-1.xx&edm=AJ-jyNUEAAAA&_nc_gid=XE0qzwjUFaSUWkFsiUgaUA&oh=00_AQTHTRThxCHxA9_o32Kl8MlOmk31KnlXcnm445VuX8IQmw&oe=6B0146AE"
+    "picture": "https://scontent-ord5-2.xx.fbcdn.net/v/t51.82787-15/846964896_18127515184894503_9206256640984781246_n.jpg?_nc_cat=104&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=7d201b&_nc_ohc=tWZS7pEyKjcQ7kNvwEn3bX1&_nc_oc=Ado16Hxc5fEYYcoJlw39-o-ryc_gG9pbd2tJ3KfXWIALd3VOV9NtxvATOOOWkXOsusY&_nc_zt=23&_nc_ht=scontent-ord5-2.xx&edm=AJ-jyNUEAAAA&_nc_gid=vzV8V_aPSCTKiHmhImuhHg&oh=00_AQSG6vYEh0BGMs52w-WwWgh4zg00uyXMN55Gtm4kjxpBzg&oe=6B01B72E"
   },
   "paginas": {
     "1367888553074849": {
@@ -755,8 +755,8 @@
         "seguidores": 46,
         "seguidos": 3,
         "personas_hablando": 31,
-        "foto_perfil": "https://scontent-dfw5-1.xx.fbcdn.net/v/t39.30808-1/825286629_28604489712564817_7866327839881392565_n.jpg?stp=dst-jpg_s200x200_tt6&_nc_cat=110&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=f907e8&_nc_ohc=PNC46IxS4LQQ7kNvwGGPPBr&_nc_oc=AdorzWiV5efv3wT-YkBxwbCCoBLyq03Q3LEEdcSlv0eU6jnmCXBK7IRMs54YWymeIic&_nc_zt=24&_nc_ht=scontent-dfw5-1.xx&edm=AJdBtusEAAAA&_nc_gid=boJH1qgpp7Yqo4cf4WZMHw&_nc_tpa=Q5bMBQKhV2HZnBiCC7tPa8bp5MFboXQfx8NEnoswyKcflWlROOItUDpe3Si5g7i-5e3FYxoLFhmTNhfkJQ&oh=00_AQTvHejEkKbJ1npoDtnrzm-kmyOvyNFwYwJK0qPu_baBmQ&oe=6B013BAB",
-        "ultima_actualizacion": "2026-11-16T22:25:36.352Z"
+        "foto_perfil": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.30808-1/825286629_28604489712564817_7866327839881392565_n.jpg?stp=dst-jpg_s200x200_tt6&_nc_cat=110&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=f907e8&_nc_ohc=PNC46IxS4LQQ7kNvwEsgThL&_nc_oc=AdrjlsoS_d2c8wA7u3tac409dif0N9u0fIRliLYpOiPd6kI5WmzhOnEE9ME_s2JZWEI&_nc_zt=24&_nc_ht=scontent-ord5-2.xx&edm=AJdBtusEAAAA&_nc_gid=uDAkHmXsVoLwQ81Z9a7yyA&_nc_tpa=Q5bMBQLRjjO76VqQFGuROhznl--nRxYlTzQ4xkhV8Lmz9JghxA04RqZGD1yWf2sMJvacWhBeEfY1176r4Q&oh=00_AQS6KCkQn6TABv5wpxxZQOHbRjEUgYQzw7NA1TOrvxDw-Q&oe=6B01AC2B",
+        "ultima_actualizacion": "2026-11-17T05:10:53.008Z"
       },
       "resumen_kpis": {
         "total_seguidores": 46,
@@ -765,10 +765,10 @@
         "seguidores_nuevos_semana": 7,
         "personas_hablando": 31,
         "alcance_estimado": 828,
-        "interacciones_totales": 0,
+        "interacciones_totales": 1,
         "reacciones_totales": 0,
         "comentarios_totales": 0,
-        "compartidos_totales": 0,
+        "compartidos_totales": 1,
         "programados_en_servidores_meta": 56,
         "total_publicaciones_sistema": 120
       },
@@ -1077,7 +1077,7 @@
           "fecha": "2026-11-11T12:51:59+0000",
           "reacciones": 0,
           "comentarios": 0,
-          "compartidos": 0,
+          "compartidos": 1,
           "tipo": "post",
           "estado": "publicado"
         },
@@ -1493,7 +1493,7 @@
         "name": "Huellas con propósito",
         "followers": 1,
         "media_count": 14,
-        "picture": "https://scontent-dfw6-1.xx.fbcdn.net/v/t51.82787-15/846964896_18127515184894503_9206256640984781246_n.jpg?_nc_cat=104&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=7d201b&_nc_ohc=tWZS7pEyKjcQ7kNvwFw8hpV&_nc_oc=AdokJiejBSVwz0EwsS7LYGzMlr1cztHtvRffMjhvZUJ9pktjPBBkbngN9pb9xtqANyA&_nc_zt=23&_nc_ht=scontent-dfw6-1.xx&edm=AJ-jyNUEAAAA&_nc_gid=XE0qzwjUFaSUWkFsiUgaUA&oh=00_AQTHTRThxCHxA9_o32Kl8MlOmk31KnlXcnm445VuX8IQmw&oe=6B0146AE"
+        "picture": "https://scontent-ord5-2.xx.fbcdn.net/v/t51.82787-15/846964896_18127515184894503_9206256640984781246_n.jpg?_nc_cat=104&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=7d201b&_nc_ohc=tWZS7pEyKjcQ7kNvwEn3bX1&_nc_oc=Ado16Hxc5fEYYcoJlw39-o-ryc_gG9pbd2tJ3KfXWIALd3VOV9NtxvATOOOWkXOsusY&_nc_zt=23&_nc_ht=scontent-ord5-2.xx&edm=AJ-jyNUEAAAA&_nc_gid=vzV8V_aPSCTKiHmhImuhHg&oh=00_AQSG6vYEh0BGMs52w-WwWgh4zg00uyXMN55Gtm4kjxpBzg&oe=6B01B72E"
       }
     },
     "1375923958937880": {
@@ -1501,24 +1501,24 @@
         "id": "1375923958937880",
         "nombre": "Metalidad de Acero",
         "categoria": "Digital creator",
-        "seguidores": 559,
+        "seguidores": 573,
         "seguidos": 0,
-        "personas_hablando": 487,
-        "foto_perfil": "https://scontent-dfw5-1.xx.fbcdn.net/v/t39.30808-1/840874239_28641464222200699_8608299845012300889_n.jpg?stp=dst-jpg_s200x200_tt6&_nc_cat=100&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=f907e8&_nc_ohc=Fm6V3NtGAuoQ7kNvwHqt7fh&_nc_oc=Adq6xt-8y2z6YFt6Wv2Z_0CPtkbthA7ZC5tBPjjq-Z2Ltv1s7_c4ypHLmLUFHre8Qsg&_nc_zt=24&_nc_ht=scontent-dfw5-1.xx&edm=AJdBtusEAAAA&_nc_gid=g5CILUTsKfaWr5wK7qrWXA&_nc_tpa=Q5bMBQINq9Pw5NPSyh9yMQffkGxBNsHv_1gqFuD5smZARxSXSmI7rgDuDeyFhFux-PR7NbtEWGKQea8_YA&oh=00_AQREzFStLPz99ChbuBT0UiCYOB9iSpB39gDGhu4FlUAqEw&oe=6B013C8B",
-        "ultima_actualizacion": "2026-11-16T22:25:38.261Z"
+        "personas_hablando": 501,
+        "foto_perfil": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.30808-1/840874239_28641464222200699_8608299845012300889_n.jpg?stp=dst-jpg_s200x200_tt6&_nc_cat=100&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=f907e8&_nc_ohc=89GkEVCxljAQ7kNvwGo--hp&_nc_oc=Adoik_RVHNlYKWGika-AILNJfmbvUu66k43Jx50QxuIUb4hjvkCXq29iAKOGhncxPMk&_nc_zt=24&_nc_ht=scontent-ord5-1.xx&edm=AJdBtusEAAAA&_nc_gid=sk9EQG849nZXGJDZdiGWkQ&_nc_tpa=Q5bMBQK3ZWSxMYTflfrun6Tye-9SCCujcF25GFlfR3DG-aPHigf1DmydX2mdwmkOswuBUIJDmcaG95ibew&oh=00_AQSNbYYZox82gfw8CdYCc8ep02PXOkkq6xreZRvqZwL3Wg&oe=6B01AD0B",
+        "ultima_actualizacion": "2026-11-17T05:10:54.524Z"
       },
       "resumen_kpis": {
-        "total_seguidores": 559,
-        "seguidores_detalle": "559 seguidores • 0 seguidos",
+        "total_seguidores": 573,
+        "seguidores_detalle": "573 seguidores • 0 seguidos",
         "crecimiento_semanal": "+100%",
-        "seguidores_nuevos_semana": 559,
-        "personas_hablando": 487,
-        "alcance_estimado": 10062,
-        "interacciones_totales": 44,
+        "seguidores_nuevos_semana": 573,
+        "personas_hablando": 501,
+        "alcance_estimado": 10314,
+        "interacciones_totales": 46,
         "reacciones_totales": 34,
         "comentarios_totales": 0,
-        "compartidos_totales": 10,
-        "programados_en_servidores_meta": 71,
+        "compartidos_totales": 12,
+        "programados_en_servidores_meta": 70,
         "total_publicaciones_sistema": 176
       },
       "rendimiento_por_horario": [
@@ -1562,10 +1562,21 @@
         },
         {
           "fecha": "12 Oct",
-          "seguidores": 559
+          "seguidores": 573
         }
       ],
       "ultimos_posts_publicados": [
+        {
+          "id": "1375923958937880_122115941589512707",
+          "url": "https://www.facebook.com/1375923958937880_122115941589512707",
+          "mensaje": "\"TODO LO QUE QUIERES ESTÁ DEL OTRO LADO DEL SACRIFICIO QUE HOY NO TE ATREVES A HACER.\"\n\nEl éxito es para los que asumen el 100% de responsab",
+          "fecha": "2026-11-16T23:00:00+0000",
+          "reacciones": 0,
+          "comentarios": 0,
+          "compartidos": 0,
+          "tipo": "post",
+          "estado": "publicado"
+        },
         {
           "id": "1375923958937880_122117372457512707",
           "url": "https://www.facebook.com/1375923958937880_122117372457512707",
@@ -1617,7 +1628,7 @@
           "fecha": "2026-11-14T23:27:39+0000",
           "reacciones": 1,
           "comentarios": 0,
-          "compartidos": 0,
+          "compartidos": 1,
           "tipo": "post",
           "estado": "publicado"
         },
@@ -1738,7 +1749,7 @@
           "fecha": "2026-11-12T20:56:44+0000",
           "reacciones": 1,
           "comentarios": 0,
-          "compartidos": 0,
+          "compartidos": 1,
           "tipo": "post",
           "estado": "publicado"
         },
@@ -1825,17 +1836,6 @@
           "mensaje": "Publicación",
           "fecha": "2026-11-11T12:35:02+0000",
           "reacciones": 6,
-          "comentarios": 0,
-          "compartidos": 0,
-          "tipo": "post",
-          "estado": "publicado"
-        },
-        {
-          "id": "1375923958937880_122097449037512707",
-          "url": "https://www.facebook.com/1375923958937880_122097449037512707",
-          "mensaje": "\"ESTAR OCUPADO NO ES ESTAR AVANZANDO; EL MOVIMIENTO SIN IMPACTO ES SOLO ILUSIÓN.\"\n\nEl éxito es para los que asumen el 100% de responsabilida",
-          "fecha": "2026-11-09T19:00:23+0000",
-          "reacciones": 0,
           "comentarios": 0,
           "compartidos": 0,
           "tipo": "post",
@@ -2331,13 +2331,6 @@
           "url": "https://www.facebook.com/1375923958937880_122115941643512707",
           "mensaje": "\"NO MALDIGAS LA LLUVIA QUE TE MOJA; APRENDE A PELEAR EN MEDIO DEL BARRO.\"\n\nEl éxito es para los que asumen el 100% de responsabilidad y no s",
           "fecha_programada": "2026-11-17T23:00:00.000Z",
-          "estado": "programado_en_meta"
-        },
-        {
-          "id": "1375923958937880_122115941589512707",
-          "url": "https://www.facebook.com/1375923958937880_122115941589512707",
-          "mensaje": "\"TODO LO QUE QUIERES ESTÁ DEL OTRO LADO DEL SACRIFICIO QUE HOY NO TE ATREVES A HACER.\"\n\nEl éxito es para los que asumen el 100% de responsab",
-          "fecha_programada": "2026-11-16T23:00:00.000Z",
           "estado": "programado_en_meta"
         }
       ],
