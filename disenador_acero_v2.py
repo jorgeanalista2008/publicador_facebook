@@ -53,20 +53,19 @@ def preparar_lienzo_base(bg_path, ancho=1080, alto=1350, oscuridad=0.75):
     else:
         canvas = Image.new("RGBA", (ancho, alto), (15, 17, 22, 255))
 
-    # Capa de oscurecimiento y degradado cinemático
+    # Capa de oscurecimiento y degradado cinemático (sin cortes bruscos)
     overlay = Image.new("RGBA", (ancho, alto), (0, 0, 0, 0))
     d_ov = ImageDraw.Draw(overlay)
+    base_alpha = int(255 * oscuridad)
 
-    # Base oscura
-    d_ov.rectangle([(0, 0), (ancho, alto)], fill=(8, 10, 15, int(255 * oscuridad)))
-
-    # Viñeta suave en bordes
-    for y in range(250):
-        alpha = int(180 * (1 - (y / 250.0) ** 1.3))
-        d_ov.line([(0, y), (ancho, y)], fill=(0, 0, 0, alpha))
-    for y in range(alto - 250, alto):
-        alpha = int(220 * (((y - (alto - 250)) / 250.0) ** 1.2))
-        d_ov.line([(0, y), (ancho, y)], fill=(0, 0, 0, alpha))
+    for y in range(alto):
+        extra = 0
+        if y < 280:
+            extra = int(60 * (1 - (y / 280.0)) ** 1.5)
+        elif y > alto - 280:
+            extra = int(75 * ((y - (alto - 280)) / 280.0) ** 1.5)
+        a = min(255, base_alpha + extra)
+        d_ov.line([(0, y), (ancho, y)], fill=(8, 10, 15, a))
 
     return Image.alpha_composite(canvas, overlay)
 
@@ -80,7 +79,7 @@ def generar_imagen_despertador(bg_path, numero_ley, frase_principal, frase_secun
 
     # 1. Badge Superior
     f_badge = get_font("segoeuib.ttf", 26)
-    badge_txt = f"⚔️  REGLA INQUEBRANTABLE #{numero_ley:02d}  ⚔️"
+    badge_txt = f"◆  REGLA INQUEBRANTABLE #{numero_ley:02d}  ◆"
     bbox_b = draw.textbbox((0, 0), badge_txt, font=f_badge)
     bw = bbox_b[2] - bbox_b[0]
     bx = (ancho - bw) // 2
@@ -237,7 +236,7 @@ def generar_imagen_estrategia(bg_path, titulo_ley, regla_principal, tres_princip
 
     # Badge Superior
     f_badge = get_font("segoeuib.ttf", 24)
-    badge_txt = f"🏛️  {titulo_ley.upper()}  🏛️"
+    badge_txt = f"◆  {titulo_ley.upper()}  ◆"
     bbox_b = draw.textbbox((0, 0), badge_txt, font=f_badge)
     bw = bbox_b[2] - bbox_b[0]
     draw.rounded_rectangle([(ancho - bw) // 2 - 20, 110, (ancho + bw) // 2 + 20, 155], radius=8, fill=(18, 22, 30, 240), outline=(212, 160, 23, 200), width=2)
@@ -304,7 +303,7 @@ def generar_imagen_auditoria(bg_path, pregunta_central, desafio, output_path):
 
     # 1. Badge Superior
     f_badge = get_font("segoeuib.ttf", 26)
-    badge_txt = "🌙  AUDITORÍA DE CIERRE DE DÍA  🌙"
+    badge_txt = "◆  AUDITORÍA DE CIERRE DE DÍA  ◆"
     bbox_b = draw.textbbox((0, 0), badge_txt, font=f_badge)
     bw = bbox_b[2] - bbox_b[0]
     bx = (ancho - bw) // 2
@@ -355,7 +354,7 @@ def generar_imagen_auditoria(bg_path, pregunta_central, desafio, output_path):
 
     # Pie
     f_com = get_font("segoeuib.ttf", 24)
-    com_txt = "Responde con la verdad en los comentarios.  👇"
+    com_txt = "Responde con la verdad en los comentarios."
     bbox_c = draw.textbbox((0, 0), com_txt, font=f_com)
     draw.text(((ancho - (bbox_c[2] - bbox_c[0])) // 2, box_y + box_h + 60), com_txt, font=f_com, fill=(203, 213, 225, 255))
 
