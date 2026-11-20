@@ -1,0 +1,57 @@
+name: Publicador En Vivo al Muro — Metalidad de Acero (3x Diario)
+
+on:
+  schedule:
+    # 3 publicaciones en vivo al día (Hora local UTC-4: 09:00 AM, 02:00 PM, 08:00 PM)
+    # Equivalente en UTC: 13:00, 18:00 y 00:00
+    - cron: '0 0,13,18 * * *'
+  workflow_dispatch:
+    inputs:
+      modo:
+        description: 'Formato de publicación en vivo'
+        required: false
+        default: 'auto'
+        type: choice
+        options:
+          - auto
+          - foto
+          - texto
+
+permissions:
+  contents: write
+
+jobs:
+  publicar_muro_en_vivo:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Clonar repositorio
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Configurar Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+
+      - name: Configurar Python y Pillow (para diseños V2)
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Instalar Pillow
+        run: pip install --quiet pillow
+
+      - name: ⚡ Publicar EN VIVO en el muro de Metalidad de Acero
+        env:
+          META_ACCESS_TOKEN_ACERO: ${{ secrets.META_ACCESS_TOKEN_ACERO }}
+          PAGE_ID_ACERO: ${{ secrets.PAGE_ID_ACERO }}
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+        run: node publicador_muro_acero.js --modo=${{ github.event.inputs.modo || 'auto' }}
+
+      - name: 💾 Guardar historial de publicaciones en vivo
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "chore: registrar publicacion en vivo en muro de Metalidad de Acero [skip ci]"
+          file_pattern: "mentalidad_de_acero/historial_muro_vivo.json"

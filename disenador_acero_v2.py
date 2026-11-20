@@ -8,13 +8,24 @@ if sys.platform == "win32":
     sys.stderr.reconfigure(encoding='utf-8')
 
 def get_font(name, size):
+    is_serif = "georgia" in name.lower() or "serif" in name.lower()
     paths = [
         f"C:\\Windows\\Fonts\\{name}",
-        f"C:\\Windows\\Fonts\\segoeuib.ttf",
-        f"C:\\Windows\\Fonts\\ariblk.ttf",
-        f"C:\\Windows\\Fonts\\arialbd.ttf",
-        f"C:\\Windows\\Fonts\\impact.ttf"
+        "C:\\Windows\\Fonts\\segoeuib.ttf",
+        "C:\\Windows\\Fonts\\ariblk.ttf",
+        "C:\\Windows\\Fonts\\arialbd.ttf",
+        "C:\\Windows\\Fonts\\impact.ttf",
     ]
+    if is_serif:
+        paths.extend([
+            "/usr/share/fonts/truetype/dejavu/DejaVuSerif-Bold.ttf",
+            "/usr/share/fonts/truetype/liberation/LiberationSerif-Bold.ttf",
+        ])
+    paths.extend([
+        "/usr/share/fonts/truetype/dejavu/DejaVuSans-Bold.ttf",
+        "/usr/share/fonts/truetype/liberation/LiberationSans-Bold.ttf",
+        "/usr/share/fonts/truetype/freefont/FreeSansBold.ttf",
+    ])
     for p in paths:
         if os.path.exists(p):
             try:
