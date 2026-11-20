@@ -210,6 +210,7 @@ async function llamarGeminiJSON(prompt, apiKey) {
       const res = await fetch(url, {
         method: 'POST',
         headers: { 'Content-Type': 'application/json' },
+        signal: AbortSignal.timeout(20000),
         body: JSON.stringify({
           contents: [{ role: 'user', parts: [{ text: prompt }] }],
           generationConfig: {
@@ -392,6 +393,7 @@ async function main() {
   const modoArg =
     args.find(a => a.startsWith('--modo='))?.split('=')[1] ||
     (args.includes('--solo-texto') ? 'texto' : args.includes('--con-foto') ? 'foto' : 'auto');
+  const estiloArg = args.find(a => a.startsWith('--estilo='))?.split('=')[1] || null;
 
   console.log('='.repeat(70));
   console.log('⚡ PUBLICADOR EN VIVO AL MURO v2 — METALIDAD DE ACERO');
@@ -443,7 +445,7 @@ async function main() {
       };
     }
   } else {
-    const estilo = elegirEstiloFoto(pilar, historial);
+    const estilo = estiloArg || elegirEstiloFoto(pilar, historial);
     console.log(`🎨 Estilo gráfico V2 elegido: ${estilo.toUpperCase()}`);
     const contenido = await generarContenidoConFoto(pilar, numSerie, estilo, historial, geminiKey);
 
