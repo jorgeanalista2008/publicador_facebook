@@ -1,17 +1,23 @@
 /**
- * PUBLICADOR EN VIVO AL MURO — METALIDAD DE ACERO
- * -----------------------------------------------------------
+ * PUBLICADOR EN VIVO AL MURO — METALIDAD DE ACERO (v2 — Optimizado por Datos Reales)
+ * ----------------------------------------------------------------------------------
  * Publica contenido fresco y original DIRECTAMENTE EN EL MURO
  * (published: true — SIN planificar ni usar el programador de Meta).
  *
- * Características:
- * - Modo Mixto automático: alterna Foto con diseño V2 + Texto viral
- *   y publicaciones directas de Solo Texto de alto impacto.
- * - Impulsado por Google Gemini (con banco de respaldo integrado).
- * - Historial anti-repetición en mentalidad_de_acero/historial_muro_vivo.json.
+ * Estrategia basada en el rendimiento real de la página:
+ * - 40% Anécdotas reales de Sabios y Estrategas Antiguos (Confucio, Diógenes,
+ *   Sócrates, Sun Tzu, Marco Aurelio, Séneca, Maquiavelo, Musashi).
+ * - 40% Psicología Humana, Estrategia y Lectura de Personas (Carl Jung,
+ *   hipocresía, límites, respeto, silencio estratégico).
+ * - 20% Verdades Incómodas sobre la Sociedad Actual.
+ *
+ * Conversión de vistas a seguidores integrada en cada post:
+ * - Formato de Serie Numerada (efecto bucle abierto).
+ * - Pregunta polarizadora de respuesta rápida (SÍ/NO o 1/2/3) para activar comentarios.
+ * - Llamado directo a seguir la página con identidad y promesa de valor.
  *
  * Uso:
- *   node publicador_muro_acero.js                (automático alternado)
+ *   node publicador_muro_acero.js                (automático alternado foto <-> texto)
  *   node publicador_muro_acero.js --modo=texto   (forzar solo texto)
  *   node publicador_muro_acero.js --modo=foto    (forzar foto V2 + texto)
  *   node publicador_muro_acero.js --simular      (prueba sin publicar en Meta)
@@ -30,45 +36,97 @@ const CONFIG_PATH = path.join(__dirname, 'config.json');
 const HISTORIAL_PATH = path.join(__dirname, 'mentalidad_de_acero', 'historial_muro_vivo.json');
 const PYTHON_IMG_SCRIPT = path.join(__dirname, 'generar_imagen_viva_acero.py');
 
-const TEMAS_SEMILLA = [
-  'el precio invisible de la disciplina diaria',
-  'por qué callar tus planes te hace invencible',
-  'la trampa de esperar motivación para actuar',
-  'cómo el entorno mediocre te apaga sin que lo notes',
-  'respeto propio: cumplir lo que te prometes a solas',
-  'dominar tu mente cuando nadie te aplaude',
-  'dejar de ser víctima de tus circunstancias',
-  'el poder de entrenar el cuerpo para blindar la mente',
-  'decir NO sin culpa para proteger tu misión',
-  'por qué el confort es el enemigo silencioso del éxito',
-  'transformar el rechazo y las derrotas en combustible',
-  'vivir con estándares altos aunque te quedes solo',
-  'la diferencia entre estar ocupado y avanzar de verdad',
-  'cortar distracciones y dopamina barata',
-  'paciencia estratégica y constancia implacable',
-  'liderar con el ejemplo y no con discursos vacíos',
-  'control emocional bajo máxima presión',
-  'cerrar ciclos del pasado para conquistar el futuro'
+// Distribución 40% Sabios Antiguos | 40% Psicología y Estrategia | 20% Verdades Actuales
+const PILARES = [
+  {
+    clave: 'sabios_antiguos',
+    nombreSerie: 'Lecciones de Sabios Antiguos',
+    peso: 40,
+    estilosFoto: ['despertador', 'estrategia'],
+    semillas: [
+      'Diógenes y su respuesta brutal a Alejandro Magno sobre el verdadero poder',
+      'Confucio y por qué el hombre superior habla lento pero actúa rápido',
+      'Sócrates y el filtro de los 3 tamices contra el chisme y la hipocresía',
+      'Sun Tzu y cómo ganar una batalla antes de dar el primer golpe',
+      'Marco Aurelio gobernando un imperio mientras dominaba su propia ira',
+      'Séneca sobre cómo el miedo a sufrir nos hace sufrir dos veces',
+      'Epicteto, el esclavo que fue más libre que los emperadores de Roma',
+      'Miyamoto Musashi y la calma letal en medio del caos',
+      'Baltasar Gracián sobre no mostrar todas tus cartas ni depender de nadie',
+      'Maquiavelo sobre por qué es más seguro leer las acciones que las promesas',
+      'Arthur Schopenhauer sobre el precio de pensar diferente a la multitud',
+      'Aristóteles sobre cómo el carácter se revela en lo que repites en silencio'
+    ]
+  },
+  {
+    clave: 'psicologia_estrategia',
+    nombreSerie: 'Psicología & Estrategia',
+    peso: 40,
+    estilosFoto: ['estrategia', 'contraste'],
+    semillas: [
+      'Carl Jung sobre integrar tu sombra: ser inofensivo no es ser bueno',
+      'Cómo detectar a quien te adula de frente pero te envidia por la espalda',
+      'Tu problema no es que seas buena persona, es que no tienes estrategia ni límites',
+      'Por qué el silencio incómodo obliga a los manipuladores a revelar sus intenciones',
+      '3 señales psicológicas de que alguien te respeta de verdad (y no solo te utiliza)',
+      'Quien no se adapta se rompe: la flexibilidad estratégica del hombre sabio',
+      'Cómo reaccionar con frialdad cuando alguien intenta provocarte para hacerte quedar mal',
+      'Por qué contar tus planes antes de tiempo sabotea tu mente y despierta envidias',
+      'La diferencia entre ser amable por valor y ser complaciente por miedo al rechazo',
+      'Señales silenciosas de inteligencia emocional superior en medio de un conflicto',
+      'Por qué alejarte sin dar explicaciones es a veces la respuesta más poderosa',
+      'Cómo poner un límite firme en una sola frase sin perder la elegancia'
+    ]
+  },
+  {
+    clave: 'verdades_actuales',
+    nombreSerie: 'Verdades Incómodas',
+    peso: 20,
+    estilosFoto: ['auditoria', 'despertador'],
+    semillas: [
+      'Vivimos en una época donde la gente consume miles de videos pero ya no lee ni analiza',
+      'Todos quieren lealtad de película, pero nadie está dispuesto a ser leal cuando incomoda',
+      'La mayoría no quiere mejorar su vida, solo quiere distraerse lo suficiente para no sentirla',
+      'Hoy se premia aparentar éxito en redes más que construir paz y patrimonio en silencio',
+      'La gente confunde estar ocupado todo el día con estar avanzando hacia algo real',
+      'Nos enseñaron a evitar cualquier incomodidad y terminamos creando mentes frágiles'
+    ]
+  }
+];
+
+const CTAS_SEGUIMIENTO = [
+  'Si valoras la psicología real y la sabiduría antigua sin adornos, sigue a Metalidad de Acero para recibir una lección diaria que te abra los ojos.',
+  'Guarda este post para releerlo cuando lo necesites y sigue a Metalidad de Acero si prefieres la verdad cruda antes que las frases vacías.',
+  'Cada día compartimos historias de sabios y estrategias de psicología humana. Sigue a Metalidad de Acero para no perderte la siguiente parte de la serie.',
+  'Si eres de los pocos que eligen pensar con estrategia y profundidad, sigue a Metalidad de Acero — nos leemos en la próxima lección.'
 ];
 
 const FALLBACK_SOLO_TEXTO = [
   {
-    tema: 'disciplina en silencio',
-    texto: `Nadie va a venir a salvarte.\n\nNo va a llegar un golpe de suerte, ni el momento perfecto, ni la motivación mágica un lunes por la mañana.\n\nLo único que cambia tu vida es cumplir lo que prometiste hacer, exactamente el día en que menos ganas tienes.\n\nLa disciplina en silencio construye lo que las excusas destruyen en voz alta.\n\n¿Qué acción difícil vas a completar hoy sin poner un solo pretexto? Te leo abajo. ⚔️\n\n#MentalidadDeAcero #Disciplina #SinExcusas #CrecimientoPersonal #Enfoque`
+    pilar: 'sabios_antiguos',
+    tema: 'Diógenes y el verdadero poder',
+    texto: `Lecciones de Sabios Antiguos #01 🏛️\n\nAlejandro Magno, el hombre más poderoso del mundo, viajó a conocer a Diógenes y le dijo: «Pídeme lo que quieras».\n\nDiógenes, sentado en el suelo sin una sola moneda, lo miró tranquilo y le respondió: «Apártate, que me tapas el sol».\n\nLos generales se burlaron, pero Alejandro guardó silencio y dijo: «Si yo no fuera Alejandro, querría ser Diógenes».\n\n¿Por qué un conquistador admiró a un hombre que no tenía nada?\n\nPorque el hombre más peligroso e invencible no es el que más posee, sino aquel a quien nadie puede comprar ni intimidar.\n\n¿Qué pesa más en tu vida hoy: la libertad o la aprobación de otros? Responde en 1 palabra abajo. 👇\n\nSi valoras la sabiduría antigua sin adornos, sigue a Metalidad de Acero para no perderte la siguiente lección diaria.\n\n#MentalidadDeAcero #Filosofia #Diogenes #Estoicismo #PsicologiaHumana`
   },
   {
-    tema: 'respeto propio',
-    texto: `El respeto de los demás empieza el día en que dejas de negociar contigo mismo.\n\nCada vez que pospones la alarma, cada vez que rompes tu palabra en privado, tu mente registra que no eres de fiar.\n\nCumple una promesa pequeña hoy. Luego otra mañana. Así se forja una confianza que nadie puede quebrar.\n\nComenta un 🛡️ si hoy tu palabra se cumple sí o sí.\n\n#MentalidadDeAcero #Autodisciplina #FuerzaMental #HabitosDeAcero #Superacion`
+    pilar: 'psicologia_estrategia',
+    tema: 'Detectar la adulación falsa',
+    texto: `Psicología & Estrategia #01 ♟️\n\nDesconfía más de quien te aplaude todo sin criterio que de quien te dice una verdad incómoda de frente.\n\nLa adulación exagerada rara vez nace de la admiración. Casi siempre es una herramienta para bajar tu guardia y obtener algo de ti.\n\n3 señales de que alguien te adula por interés:\n1. Te elogia en público, pero desaparece cuando necesitas ayuda real.\n2. Cambia de opinión según quién esté en la habitación.\n3. Se incomoda en silencio cuando realmente te va mejor que a él.\n\n¿Alguna vez te traicionó alguien que te adulaba de frente? Responde SÍ o NO abajo. 👇\n\nSi te gusta aprender a leer a las personas con claridad, sigue a Metalidad de Acero para recibir la próxima entrega de la serie.\n\n#MentalidadDeAcero #PsicologiaHumana #Estrategia #InteligenciaEmocional #Sabiduria`
   }
 ];
 
 const FALLBACK_FOTO = [
   {
-    tema: 'estándares innegociables',
-    estilo: 'despertador',
-    frase_principal: 'NO NEGOCIES CON LA MEDIOCRIDAD EN TU CABEZA',
-    frase_secundaria: 'Tu estándar diario decide tu destino.',
-    texto: `⚔️ "NO NEGOCIES CON LA MEDIOCRIDAD EN TU CABEZA" ⚔️\n\n¡DESPIERTA!\n\nEl hombre común negocia con su cansancio, negocia con la alarma y negocia con sus excusas. Al final del año se pregunta por qué su vida sigue exactamente igual.\n\nEl Hombre de Acero no discute con su pereza: la ejecuta a golpe de acción diaria.\n\n🔥 3 REGLAS PARA HOY:\n1. Haz primero lo que más estás evitando.\n2. Habla menos de tus metas y demuéstralas con hechos.\n3. No termines el día sin haber ganado al menos una batalla difícil.\n\nGuarda este post y comenta un ⚔️ si hoy vas por todo.\n\n#MentalidadDeAcero #Disciplina #SinExcusas #Enfoque #HombresDeAcero`
+    pilar: 'psicologia_estrategia',
+    tema: 'Estrategia sobre ingenuidad',
+    estilo: 'estrategia',
+    titulo_ley: 'PSICOLOGÍA & ESTRATEGIA',
+    regla_principal: 'TU PROBLEMA NO ES SER BUENO, ES NO TENER ESTRATEGIA',
+    principios: [
+      { titulo: 'OBSERVA HECHOS', detalle: 'Las promesas no cuestan nada; los actos revelan todo.' },
+      { titulo: 'PON LÍMITES', detalle: 'Sin límites claros, tu bondad será usada en tu contra.' },
+      { titulo: 'CALLA TUS PLANES', detalle: 'El silencio protege tus movimientos de la envidia.' }
+    ],
+    texto: `Psicología & Estrategia #01 ♟️\n\nSer buena persona sin límites ni estrategia no es virtud: es dejarte a merced de quien no tiene escrúpulos.\n\nCarl Jung advertía que una persona incapaz de defenderse no es «buena», simplemente es inofensiva. La verdadera nobleza consiste en tener fuerza, criterio y estrategia, y elegir usarlos con justicia.\n\n3 reglas para proteger tu paz:\n1. Observa patrones repetidos, no disculpas bonitas.\n2. Di NO a tiempo sin sentir culpa.\n3. Protege tus planes en silencio hasta que sean hechos.\n\n¿Cuál de estas 3 reglas te costó más aprender? Escribe 1, 2 o 3 abajo. 👇\n\nGuarda este post y sigue a Metalidad de Acero para no perderte la siguiente entrega de la serie.\n\n#MentalidadDeAcero #PsicologiaHumana #CarlJung #Estrategia #Estoicismo`
   }
 ];
 
@@ -125,10 +183,21 @@ function decidirTipoPublicacion(modoArg, historial) {
   return ultimoTipo === 'foto' ? 'texto' : 'foto';
 }
 
-function elegirEstiloFoto(historial) {
-  const estilos = ['despertador', 'contraste', 'estrategia', 'auditoria'];
-  const fotosPrevias = historial.filter(h => h.tipo === 'foto');
-  return estilos[fotosPrevias.length % estilos.length];
+function elegirPilar(historial) {
+  // Rotación ponderada determinista: 40% sabios, 40% psicologia, 20% verdades
+  // Patron de 5: sabios, psicologia, sabios, psicologia, verdades
+  const secuencia = ['sabios_antiguos', 'psicologia_estrategia', 'sabios_antiguos', 'psicologia_estrategia', 'verdades_actuales'];
+  const clave = secuencia[historial.length % secuencia.length];
+  return PILARES.find(p => p.clave === clave) || PILARES[0];
+}
+
+function numeroSeriePilar(pilarClave, historial) {
+  return historial.filter(h => h.pilar === pilarClave).length + 1;
+}
+
+function elegirEstiloFoto(pilar, historial) {
+  const fotosEnPilar = historial.filter(h => h.tipo === 'foto' && h.pilar === pilar.clave).length;
+  return pilar.estilosFoto[fotosEnPilar % pilar.estilosFoto.length];
 }
 
 async function llamarGeminiJSON(prompt, apiKey) {
@@ -165,25 +234,31 @@ async function llamarGeminiJSON(prompt, apiKey) {
   return null;
 }
 
-async function generarContenidoSoloTexto(historial, apiKey) {
-  const temasRecientes = historial.slice(-15).map(h => h.tema).filter(Boolean);
-  const semilla = TEMAS_SEMILLA[Math.floor(Math.random() * TEMAS_SEMILLA.length)];
+async function generarContenidoSoloTexto(pilar, numSerie, historial, apiKey) {
+  const temasRecientes = historial.slice(-18).map(h => h.tema).filter(Boolean);
+  const semilla = pilar.semillas[Math.floor(Math.random() * pilar.semillas.length)];
+  const ctaSeguir = CTAS_SEGUIMIENTO[historial.length % CTAS_SEGUIMIENTO.length];
+  const etiquetaSerie = `${pilar.nombreSerie} #${String(numSerie).padStart(2, '0')}`;
 
-  const prompt = `Eres el redactor principal de la página de Facebook "Metalidad de Acero" (disciplina, estoicismo moderno, superación personal, carácter implacable).
+  const prompt = `Eres el estratega editorial de la página de Facebook "Metalidad de Acero" (filosofía práctica, sabios antiguos, psicología humana y estrategia vital).
+Tu estilo es inteligente, narrativo, sereno pero afilado — NUNCA uses gritos cliché tipo "¡DESPIERTA!" ni motivación barata.
 
 Redacta una publicación DIRECTA DE SOLO TEXTO para publicar en vivo en el muro de Facebook (sin imagen).
-Debe ser magnética, fácil de leer en móvil, con párrafos de 1 a 2 líneas, tono firme, directo y inspirador (sin groserías ni odio, enfocado en responsabilidad personal y fuerza mental).
 
-Tema sugerido: ${semilla}
+Serie y número obligatorio en la primera línea: "${etiquetaSerie}"
+Pilar editorial: ${pilar.clave}
+Semilla / inspiración: ${semilla}
 Evita repetir estos temas recientes: ${temasRecientes.join(', ') || 'ninguno'}.
 
-Reglas del texto:
-- Empieza con una primera frase brutal que detenga el scroll.
-- Desarrollo corto y contundente (entre 80 y 150 palabras).
-- Cierra con una pregunta directa que invite a comentar.
-- Agrega al final 4 o 5 hashtags relevantes (#MentalidadDeAcero #Disciplina ...).
+Reglas obligatorias para maximizar alcance Y convertir lectores en SEGUIDORES:
+1. Primera línea: "${etiquetaSerie}" seguido de un emoji sobrio (🏛️, ♟️ o 🧠).
+2. Gancho narrativo en la segunda línea: si es sabios_antiguos, abre directo con la anécdota histórica real y un giro sorprendente; si es psicologia_estrategia o verdades_actuales, abre con una verdad psicológica aguda que detenga el scroll.
+3. Desarrollo limpio en párrafos cortos de 1 a 2 líneas (entre 100 y 170 palabras en total), fácil de leer en móvil.
+4. Incluye una PREGUNTA POLARIZADORA DE RESPUESTA RÁPIDA al final (que se pueda responder con SÍ/NO, 1 palabra, o eligiendo 1, 2 o 3) para provocar comentarios.
+5. Justo antes de los hashtags, incluye este llamado a seguir adaptado de forma natural: "${ctaSeguir}"
+6. Cierra con 4 o 5 hashtags precisos (#MentalidadDeAcero #PsicologiaHumana #Estoicismo ...).
 
-Devuelve EXCLUSIVAMENTE un objeto JSON válido con estas claves:
+Devuelve EXCLUSIVAMENTE un objeto JSON válido:
 {
   "tema": "resumen del tema en 3-5 palabras",
   "texto": "texto completo listo para publicar en Facebook"
@@ -191,70 +266,76 @@ Devuelve EXCLUSIVAMENTE un objeto JSON válido con estas claves:
 
   const generado = await llamarGeminiJSON(prompt, apiKey);
   if (generado?.texto) {
-    return generado;
+    return { ...generado, pilar: pilar.clave, serie: etiquetaSerie };
   }
 
-  return FALLBACK_SOLO_TEXTO[historial.length % FALLBACK_SOLO_TEXTO.length];
+  const fb = FALLBACK_SOLO_TEXTO[historial.length % FALLBACK_SOLO_TEXTO.length];
+  return { ...fb, serie: etiquetaSerie };
 }
 
-async function generarContenidoConFoto(estilo, historial, apiKey) {
-  const temasRecientes = historial.slice(-15).map(h => h.tema).filter(Boolean);
-  const semilla = TEMAS_SEMILLA[Math.floor(Math.random() * TEMAS_SEMILLA.length)];
-  const numeroLey = historial.filter(h => h.tipo === 'foto').length + 1;
+async function generarContenidoConFoto(pilar, numSerie, estilo, historial, apiKey) {
+  const temasRecientes = historial.slice(-18).map(h => h.tema).filter(Boolean);
+  const semilla = pilar.semillas[Math.floor(Math.random() * pilar.semillas.length)];
+  const ctaSeguir = CTAS_SEGUIMIENTO[historial.length % CTAS_SEGUIMIENTO.length];
+  const etiquetaSerie = `${pilar.nombreSerie} #${String(numSerie).padStart(2, '0')}`;
 
   let estructuraEspecifica = '';
   if (estilo === 'despertador') {
     estructuraEspecifica = `{
   "tema": "resumen en 3-5 palabras",
-  "frase_principal": "FRASE CORTA DE MAXIMO 9 PALABRAS EN MAYUSCULAS",
-  "frase_secundaria": "Frase secundaria de máximo 10 palabras",
-  "texto": "Copy viral completo para Facebook (120-180 palabras, gancho, 3 reglas numeradas con 🔥, CTA para comentar ⚔️ y 5 hashtags)"
+  "frase_principal": "FRASE CORTA E INTELIGENTE DE MAXIMO 9 PALABRAS EN MAYUSCULAS",
+  "frase_secundaria": "Subtítulo reflexivo de máximo 10 palabras",
+  "texto": "Copy completo (120-180 palabras): abre con '${etiquetaSerie}', cuenta la historia/lección psicológica con profundidad, cierra con pregunta rápida (SÍ/NO o 1/2/3), incluye '${ctaSeguir}' y 5 hashtags"
 }`;
   } else if (estilo === 'contraste') {
     estructuraEspecifica = `{
   "tema": "resumen en 3-5 palabras",
-  "arquetipo": "EL [NOMBRE CORTO DEL ARQUETIPO DEBIL, MAX 4 PALABRAS]",
-  "rasgos_debil": ["6 frases cortas max 3 palabras c/u"],
-  "rasgos_acero": ["6 frases cortas max 3 palabras c/u"],
-  "sentencia": "Frase sentencia final de máximo 14 palabras",
-  "texto": "Copy viral completo para Facebook contrastando ambas mentalidades, CTA para comentar 🛡️ y 5 hashtags"
+  "arquetipo": "NOMBRE CORTO DEL CONTRASTE (MAX 4 PALABRAS, SIN EMOJIS)",
+  "rasgos_debil": ["6 frases cortas max 3 palabras c/u sobre la ingenuidad/mentalidad débil"],
+  "rasgos_acero": ["6 frases cortas max 3 palabras c/u sobre la estrategia/mentalidad sabia"],
+  "sentencia": "Frase sentencia final de máximo 13 palabras",
+  "texto": "Copy completo (120-180 palabras): abre con '${etiquetaSerie}', desarrolla la lección psicológica, pregunta rápida (SÍ/NO o 1/2/3), incluye '${ctaSeguir}' y 5 hashtags"
 }`;
   } else if (estilo === 'estrategia') {
     estructuraEspecifica = `{
   "tema": "resumen en 3-5 palabras",
-  "titulo_ley": "LEY DE [MAX 4 PALABRAS]",
-  "regla_principal": "REGLA CONTUNDENTE DE MAXIMO 10 PALABRAS",
+  "titulo_ley": "TITULO CORTO DE LA SERIE O LEY (MAX 4 PALABRAS, SIN EMOJIS)",
+  "regla_principal": "IDEA CENTRAL DE MAXIMO 10 PALABRAS EN MAYUSCULAS",
   "principios": [
     {"titulo": "TITULO 1 (2-3 palabras)", "detalle": "Explicación breve max 9 palabras"},
     {"titulo": "TITULO 2 (2-3 palabras)", "detalle": "Explicación breve max 9 palabras"},
     {"titulo": "TITULO 3 (2-3 palabras)", "detalle": "Explicación breve max 9 palabras"}
   ],
-  "texto": "Copy viral completo para Facebook explicando estos 3 principios, CTA para comentar 🏛️ y 5 hashtags"
+  "texto": "Copy completo (120-180 palabras): abre con '${etiquetaSerie}', desarrolla la anécdota o principio psicológico, cierra con pregunta rápida (1, 2 o 3), incluye '${ctaSeguir}' y 5 hashtags"
 }`;
   } else {
     estructuraEspecifica = `{
   "tema": "resumen en 3-5 palabras",
-  "pregunta": "¿PREGUNTA DIRECTA DE CONFRONTACION DE MAXIMO 14 PALABRAS?",
-  "desafio": "Frase corta de reto (máximo 8 palabras)",
-  "texto": "Copy viral nocturno/reflexivo para Facebook invitando a una autoevaluación honesta en comentarios y 5 hashtags"
+  "pregunta": "¿PREGUNTA INCOMODA Y PROFUNDA DE MAXIMO 14 PALABRAS?",
+  "desafio": "Frase corta de reflexión (máximo 8 palabras)",
+  "texto": "Copy completo (110-160 palabras): abre con '${etiquetaSerie}', reflexiona con agudeza sobre la sociedad actual, pregunta directa de respuesta corta, incluye '${ctaSeguir}' y 5 hashtags"
 }`;
   }
 
-  const prompt = `Eres el director creativo de la página de Facebook "Metalidad de Acero" (disciplina, estoicismo moderno, superación personal).
-Crea una publicación NUEVA e INÉDITA con imagen estilo "${estilo}" para publicar en vivo en el muro.
+  const prompt = `Eres el director creativo de la página de Facebook "Metalidad de Acero" (sabios antiguos, psicología humana, estrategia y verdades incómodas).
+Tu tono es culto, afilado, psicológico y narrativo — evita gritos cliché tipo "¡DESPIERTA!".
 
-Tema sugerido: ${semilla}
+Crea una publicación NUEVA e INÉDITA con diseño gráfico "${estilo}" para publicar en vivo en el muro.
+Serie: "${etiquetaSerie}"
+Pilar editorial: ${pilar.clave}
+Semilla / inspiración: ${semilla}
 NO repitas estos temas recientes: ${temasRecientes.join(', ') || 'ninguno'}.
+IMPORTANTE: En los campos que van DENTRO de la imagen (frase_principal, arquetipo, titulo_ley, pregunta, etc.) NO pongas emojis.
 
 Devuelve EXCLUSIVAMENTE un JSON válido con exactamente esta estructura:
 ${estructuraEspecifica}`;
 
   const generado = await llamarGeminiJSON(prompt, apiKey);
   if (generado?.texto) {
-    return { ...generado, estilo, numero: numeroLey };
+    return { ...generado, estilo, numero: numSerie, pilar: pilar.clave, serie: etiquetaSerie };
   }
 
-  return { ...FALLBACK_FOTO[0], numero: numeroLey };
+  return { ...FALLBACK_FOTO[0], numero: numSerie, serie: etiquetaSerie };
 }
 
 function renderizarImagenV2(datosImagen, outputPath) {
@@ -312,10 +393,10 @@ async function main() {
     args.find(a => a.startsWith('--modo='))?.split('=')[1] ||
     (args.includes('--solo-texto') ? 'texto' : args.includes('--con-foto') ? 'foto' : 'auto');
 
-  console.log('='.repeat(68));
-  console.log('⚡ PUBLICADOR EN VIVO AL MURO — METALIDAD DE ACERO');
+  console.log('='.repeat(70));
+  console.log('⚡ PUBLICADOR EN VIVO AL MURO v2 — METALIDAD DE ACERO');
   console.log(`   Modo solicitado: ${modoArg} | Simulación: ${simular ? 'SÍ' : 'NO'}`);
-  console.log('='.repeat(68));
+  console.log('='.repeat(70));
 
   const { pageId, token, geminiKey } = cargarCredenciales();
   if (!token || !pageId) {
@@ -325,13 +406,16 @@ async function main() {
 
   const historial = cargarHistorial();
   const tipo = decidirTipoPublicacion(modoArg, historial);
-  console.log(`📌 Formato seleccionado para esta publicación en vivo: ${tipo.toUpperCase()}`);
+  const pilar = elegirPilar(historial);
+  const numSerie = numeroSeriePilar(pilar.clave, historial);
+
+  console.log(`📌 Formato: ${tipo.toUpperCase()} | Pilar: ${pilar.nombreSerie} #${String(numSerie).padStart(2, '0')}`);
 
   let resultado = null;
   let registro = null;
 
   if (tipo === 'texto') {
-    const contenido = await generarContenidoSoloTexto(historial, geminiKey);
+    const contenido = await generarContenidoSoloTexto(pilar, numSerie, historial, geminiKey);
     console.log(`\n📝 Tema: ${contenido.tema}`);
     console.log(`--- VISTA PREVIA TEXTO ---\n${contenido.texto}\n--------------------------`);
 
@@ -349,6 +433,8 @@ async function main() {
         id: historial.length + 1,
         fecha_utc: new Date().toISOString(),
         tipo: 'texto',
+        pilar: pilar.clave,
+        serie: contenido.serie,
         estilo: 'solo_texto',
         tema: contenido.tema,
         texto_preview: contenido.texto.substring(0, 140),
@@ -357,9 +443,9 @@ async function main() {
       };
     }
   } else {
-    const estilo = elegirEstiloFoto(historial);
+    const estilo = elegirEstiloFoto(pilar, historial);
     console.log(`🎨 Estilo gráfico V2 elegido: ${estilo.toUpperCase()}`);
-    const contenido = await generarContenidoConFoto(estilo, historial, geminiKey);
+    const contenido = await generarContenidoConFoto(pilar, numSerie, estilo, historial, geminiKey);
 
     const tmpImgPath = path.join(os.tmpdir(), `muro_acero_${Date.now()}.jpg`);
     renderizarImagenV2(contenido, tmpImgPath);
@@ -386,6 +472,8 @@ async function main() {
         id: historial.length + 1,
         fecha_utc: new Date().toISOString(),
         tipo: 'foto',
+        pilar: pilar.clave,
+        serie: contenido.serie,
         estilo,
         tema: contenido.tema,
         texto_preview: contenido.texto.substring(0, 140),
