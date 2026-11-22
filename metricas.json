@@ -5,22 +5,22 @@
     "categoria": "Animals & Pets",
     "seguidores": 46,
     "seguidos": 3,
-    "personas_hablando": 27,
-    "foto_perfil": "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.30808-1/825286629_28604489712564817_7866327839881392565_n.jpg?stp=dst-jpg_s200x200_tt6&_nc_cat=110&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=f907e8&_nc_ohc=MY3GgrlxWmgQ7kNvwElleEm&_nc_oc=Adpi84IbitZX_wi7vkUaiwQXeOf14x1VNtbuX_9xVTKRA0Kq5w7D78dYE2kHoeECo9M&_nc_zt=24&_nc_ht=scontent-sjc3-1.xx&edm=AJdBtusEAAAA&_nc_gid=oo2IKhwpj-T0Jj_8wRZlSw&_nc_tpa=Q5bMBQLXWXy_GL1swgWvzs5rGUuhW0aKqFZJMvsPZvZTX9kN6k3hR83OSLEQLN2qre-azje51MiOZeBuAw&oh=00_AQStXNliLskZG0E9UQ79AcM02AB0LA3cxuvQLlktQ5SGHA&oe=6B07D32B",
-    "ultima_actualizacion": "2026-11-21T19:39:08.169Z"
+    "personas_hablando": 28,
+    "foto_perfil": "https://scontent-iad3-1.xx.fbcdn.net/v/t39.30808-1/825286629_28604489712564817_7866327839881392565_n.jpg?stp=dst-jpg_s200x200_tt6&_nc_cat=110&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=f907e8&_nc_ohc=MY3GgrlxWmgQ7kNvwHpi-Aw&_nc_oc=Adqhy8IiBmsnctR7Oh_t1Eo6SVmrxj3hPMRfpnCVTWAJwI0bVFktdeipjS3D7YgJ_2s&_nc_zt=24&_nc_ht=scontent-iad3-1.xx&edm=AJdBtusEAAAA&_nc_gid=k_bLMEaQeMc0fLjDt7s1Xg&_nc_tpa=Q5bMBQKUuxPLirZIS8qNCu3-yrheKCufR3FZth1jioq-OLYeEHjPFp4kG87fDOJFwNFNwCi8_pwXycJRWw&oh=00_AQQOrit2JhV7ZCUk4qPm70_0JzSumRkzmycg4tVKinBeFQ&oe=6B080B6B",
+    "ultima_actualizacion": "2026-11-22T00:34:20.591Z"
   },
   "resumen_kpis": {
     "total_seguidores": 46,
     "seguidores_detalle": "46 seguidores • 3 seguidos",
     "crecimiento_semanal": "+35%",
     "seguidores_nuevos_semana": 7,
-    "personas_hablando": 27,
+    "personas_hablando": 28,
     "alcance_estimado": 828,
     "interacciones_totales": 0,
     "reacciones_totales": 0,
     "comentarios_totales": 0,
     "compartidos_totales": 0,
-    "programados_en_servidores_meta": 37,
+    "programados_en_servidores_meta": 36,
     "total_publicaciones_sistema": 120
   },
   "rendimiento_por_horario": [
@@ -68,6 +68,17 @@
     }
   ],
   "ultimos_posts_publicados": [
+    {
+      "id": "1367888553074849_122110364385507613",
+      "url": "https://www.facebook.com/1367888553074849_122110364385507613",
+      "mensaje": "Don Aurelio vio cómo cerraron la maderería para siempre y pusieron cinta amarilla de clausura. Al guardia de seguridad le liquidaron su suel",
+      "fecha": "2026-11-21T20:30:01+0000",
+      "reacciones": 0,
+      "comentarios": 0,
+      "compartidos": 0,
+      "tipo": "post",
+      "estado": "publicado"
+    },
     {
       "id": "1367888553074849_122110289085507613",
       "url": "https://www.facebook.com/1367888553074849_122110289085507613",
@@ -331,17 +342,6 @@
       "compartidos": 0,
       "tipo": "post",
       "estado": "publicado"
-    },
-    {
-      "id": "1367888553074849_122105904231507613",
-      "url": "https://www.facebook.com/1367888553074849_122105904231507613",
-      "mensaje": "«No tenemos poco tiempo, sino que perdemos mucho». — Séneca (Sobre la brevedad de la vida) ⏳🏛️\n\nNos quejamos constantemente de que la vida ",
-      "fecha": "2026-11-15T17:30:00+0000",
-      "reacciones": 0,
-      "comentarios": 0,
-      "compartidos": 0,
-      "tipo": "post",
-      "estado": "publicado"
     }
   ],
   "proximos_programados_meta": [
@@ -596,13 +596,6 @@
       "mensaje": "«No nos afecta lo que nos sucede, sino el juicio que nos formamos de lo que nos sucede». — Epicteto 🏛️🛡️\n\nEpicteto nació esclavo, soportó ",
       "fecha_programada": "2026-11-22T08:00:00.000Z",
       "estado": "programado_en_meta"
-    },
-    {
-      "id": "1367888553074849_122110364385507613",
-      "url": "https://www.facebook.com/1367888553074849_122110364385507613",
-      "mensaje": "Don Aurelio vio cómo cerraron la maderería para siempre y pusieron cinta amarilla de clausura. Al guardia de seguridad le liquidaron su suel",
-      "fecha_programada": "2026-11-21T20:30:00.000Z",
-      "estado": "programado_en_meta"
     }
   ],
   "instagram": {
@@ -611,7 +604,7 @@
     "name": "Huellas con propósito",
     "followers": 1,
     "media_count": 14,
-    "picture": "https://scontent-sjc3-1.xx.fbcdn.net/v/t51.82787-15/846964896_18127515184894503_9206256640984781246_n.jpg?_nc_cat=104&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=7d201b&_nc_ohc=WcCTmZpx8Y4Q7kNvwEBGIJY&_nc_oc=AdqzhG_caQikPgbpNfonQOlWMTgKVolw0DPJpEUomiIZ8Xa7RqeferlduUyndwipUIE&_nc_zt=23&_nc_ht=scontent-sjc3-1.xx&edm=AJ-jyNUEAAAA&_nc_gid=u75RzVfx0xrjlHxRTKsvfg&oh=00_AQQ4AVXKPRjR1IeQXXWc9msge1EQA-W0aaJa7fJ0bRLbng&oe=6B07DE2E"
+    "picture": "https://scontent-iad3-2.xx.fbcdn.net/v/t51.82787-15/846964896_18127515184894503_9206256640984781246_n.jpg?_nc_cat=104&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=7d201b&_nc_ohc=WcCTmZpx8Y4Q7kNvwHOU8yK&_nc_oc=Ado61AIR_G6X_gdZg4-bGcJLIHnHQt1LYaEYIYeQv6OwUYh-Y0THe03d2zpNba-n3qs&_nc_zt=23&_nc_ht=scontent-iad3-2.xx&edm=AJ-jyNUEAAAA&_nc_gid=txNSjkNCUVlEywil87FYQw&oh=00_AQSujXYNPbyk08p5ANL7fBkjrQWJsdB5TMvcCI9crdvMmg&oe=6B08166E"
   },
   "paginas": {
     "1367888553074849": {
@@ -621,22 +614,22 @@
         "categoria": "Animals & Pets",
         "seguidores": 46,
         "seguidos": 3,
-        "personas_hablando": 27,
-        "foto_perfil": "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.30808-1/825286629_28604489712564817_7866327839881392565_n.jpg?stp=dst-jpg_s200x200_tt6&_nc_cat=110&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=f907e8&_nc_ohc=MY3GgrlxWmgQ7kNvwElleEm&_nc_oc=Adpi84IbitZX_wi7vkUaiwQXeOf14x1VNtbuX_9xVTKRA0Kq5w7D78dYE2kHoeECo9M&_nc_zt=24&_nc_ht=scontent-sjc3-1.xx&edm=AJdBtusEAAAA&_nc_gid=oo2IKhwpj-T0Jj_8wRZlSw&_nc_tpa=Q5bMBQLXWXy_GL1swgWvzs5rGUuhW0aKqFZJMvsPZvZTX9kN6k3hR83OSLEQLN2qre-azje51MiOZeBuAw&oh=00_AQStXNliLskZG0E9UQ79AcM02AB0LA3cxuvQLlktQ5SGHA&oe=6B07D32B",
-        "ultima_actualizacion": "2026-11-21T19:39:08.169Z"
+        "personas_hablando": 28,
+        "foto_perfil": "https://scontent-iad3-1.xx.fbcdn.net/v/t39.30808-1/825286629_28604489712564817_7866327839881392565_n.jpg?stp=dst-jpg_s200x200_tt6&_nc_cat=110&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=f907e8&_nc_ohc=MY3GgrlxWmgQ7kNvwHpi-Aw&_nc_oc=Adqhy8IiBmsnctR7Oh_t1Eo6SVmrxj3hPMRfpnCVTWAJwI0bVFktdeipjS3D7YgJ_2s&_nc_zt=24&_nc_ht=scontent-iad3-1.xx&edm=AJdBtusEAAAA&_nc_gid=k_bLMEaQeMc0fLjDt7s1Xg&_nc_tpa=Q5bMBQKUuxPLirZIS8qNCu3-yrheKCufR3FZth1jioq-OLYeEHjPFp4kG87fDOJFwNFNwCi8_pwXycJRWw&oh=00_AQQOrit2JhV7ZCUk4qPm70_0JzSumRkzmycg4tVKinBeFQ&oe=6B080B6B",
+        "ultima_actualizacion": "2026-11-22T00:34:20.591Z"
       },
       "resumen_kpis": {
         "total_seguidores": 46,
         "seguidores_detalle": "46 seguidores • 3 seguidos",
         "crecimiento_semanal": "+35%",
         "seguidores_nuevos_semana": 7,
-        "personas_hablando": 27,
+        "personas_hablando": 28,
         "alcance_estimado": 828,
         "interacciones_totales": 0,
         "reacciones_totales": 0,
         "comentarios_totales": 0,
         "compartidos_totales": 0,
-        "programados_en_servidores_meta": 37,
+        "programados_en_servidores_meta": 36,
         "total_publicaciones_sistema": 120
       },
       "rendimiento_por_horario": [
@@ -684,6 +677,17 @@
         }
       ],
       "ultimos_posts_publicados": [
+        {
+          "id": "1367888553074849_122110364385507613",
+          "url": "https://www.facebook.com/1367888553074849_122110364385507613",
+          "mensaje": "Don Aurelio vio cómo cerraron la maderería para siempre y pusieron cinta amarilla de clausura. Al guardia de seguridad le liquidaron su suel",
+          "fecha": "2026-11-21T20:30:01+0000",
+          "reacciones": 0,
+          "comentarios": 0,
+          "compartidos": 0,
+          "tipo": "post",
+          "estado": "publicado"
+        },
         {
           "id": "1367888553074849_122110289085507613",
           "url": "https://www.facebook.com/1367888553074849_122110289085507613",
@@ -947,17 +951,6 @@
           "compartidos": 0,
           "tipo": "post",
           "estado": "publicado"
-        },
-        {
-          "id": "1367888553074849_122105904231507613",
-          "url": "https://www.facebook.com/1367888553074849_122105904231507613",
-          "mensaje": "«No tenemos poco tiempo, sino que perdemos mucho». — Séneca (Sobre la brevedad de la vida) ⏳🏛️\n\nNos quejamos constantemente de que la vida ",
-          "fecha": "2026-11-15T17:30:00+0000",
-          "reacciones": 0,
-          "comentarios": 0,
-          "compartidos": 0,
-          "tipo": "post",
-          "estado": "publicado"
         }
       ],
       "proximos_programados_meta": [
@@ -1212,13 +1205,6 @@
           "mensaje": "«No nos afecta lo que nos sucede, sino el juicio que nos formamos de lo que nos sucede». — Epicteto 🏛️🛡️\n\nEpicteto nació esclavo, soportó ",
           "fecha_programada": "2026-11-22T08:00:00.000Z",
           "estado": "programado_en_meta"
-        },
-        {
-          "id": "1367888553074849_122110364385507613",
-          "url": "https://www.facebook.com/1367888553074849_122110364385507613",
-          "mensaje": "Don Aurelio vio cómo cerraron la maderería para siempre y pusieron cinta amarilla de clausura. Al guardia de seguridad le liquidaron su suel",
-          "fecha_programada": "2026-11-21T20:30:00.000Z",
-          "estado": "programado_en_meta"
         }
       ],
       "instagram": {
@@ -1227,7 +1213,7 @@
         "name": "Huellas con propósito",
         "followers": 1,
         "media_count": 14,
-        "picture": "https://scontent-sjc3-1.xx.fbcdn.net/v/t51.82787-15/846964896_18127515184894503_9206256640984781246_n.jpg?_nc_cat=104&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=7d201b&_nc_ohc=WcCTmZpx8Y4Q7kNvwEBGIJY&_nc_oc=AdqzhG_caQikPgbpNfonQOlWMTgKVolw0DPJpEUomiIZ8Xa7RqeferlduUyndwipUIE&_nc_zt=23&_nc_ht=scontent-sjc3-1.xx&edm=AJ-jyNUEAAAA&_nc_gid=u75RzVfx0xrjlHxRTKsvfg&oh=00_AQQ4AVXKPRjR1IeQXXWc9msge1EQA-W0aaJa7fJ0bRLbng&oe=6B07DE2E"
+        "picture": "https://scontent-iad3-2.xx.fbcdn.net/v/t51.82787-15/846964896_18127515184894503_9206256640984781246_n.jpg?_nc_cat=104&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=7d201b&_nc_ohc=WcCTmZpx8Y4Q7kNvwHOU8yK&_nc_oc=Ado61AIR_G6X_gdZg4-bGcJLIHnHQt1LYaEYIYeQv6OwUYh-Y0THe03d2zpNba-n3qs&_nc_zt=23&_nc_ht=scontent-iad3-2.xx&edm=AJ-jyNUEAAAA&_nc_gid=txNSjkNCUVlEywil87FYQw&oh=00_AQSujXYNPbyk08p5ANL7fBkjrQWJsdB5TMvcCI9crdvMmg&oe=6B08166E"
       }
     },
     "1375923958937880": {
@@ -1235,23 +1221,23 @@
         "id": "1375923958937880",
         "nombre": "Metalidad de Acero",
         "categoria": "Digital creator",
-        "seguidores": 1313,
+        "seguidores": 1336,
         "seguidos": 0,
-        "personas_hablando": 860,
-        "foto_perfil": "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.30808-1/840874239_28641464222200699_8608299845012300889_n.jpg?stp=dst-jpg_s200x200_tt6&_nc_cat=100&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=f907e8&_nc_ohc=BhgRv5BGWpAQ7kNvwFborob&_nc_oc=Adqn3In5FsM80ARHippPWWrEF0Or5NjjgBlvY048z7UUEXbx9qNjg5B4H6o3uHe-28M&_nc_zt=24&_nc_ht=scontent-sjc6-1.xx&edm=AJdBtusEAAAA&_nc_gid=5Neh0jBsY9kOjczwOQaUqg&_nc_tpa=Q5bMBQIp1G9FDwDpsEytigMrqe9dE2z7vLPtomdoCCHzuC2P3FAmYHTZE80V0usyb7l59EvhyRdwkkf-0g&oh=00_AQSpmzFKsra9QIgQxqnOEoZhsgE1AxaHu4sYi0aaZHh0rQ&oe=6B07D40B",
-        "ultima_actualizacion": "2026-11-21T19:39:09.658Z"
+        "personas_hablando": 877,
+        "foto_perfil": "https://scontent-iad3-1.xx.fbcdn.net/v/t39.30808-1/840874239_28641464222200699_8608299845012300889_n.jpg?stp=dst-jpg_s200x200_tt6&_nc_cat=100&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=f907e8&_nc_ohc=BhgRv5BGWpAQ7kNvwGdOuLD&_nc_oc=AdrVqdJ21jN3s-GcrAMfDvipxua4FBstAJfdvyQl0J6trk3ghVnmhmL2BQ9G1Bx6Ylg&_nc_zt=24&_nc_ht=scontent-iad3-1.xx&edm=AJdBtusEAAAA&_nc_gid=HQZ6D9zQUEk5n9-Htuvzvg&_nc_tpa=Q5bMBQIImpeA0tw6HVu7LIeHrTDXROwZOZs6TxH-5bZ5ZqGk0BGakq1jlpEv005HqOSylwBLVt7ILeI6Fg&oh=00_AQTpELhG4y7waw_BtLukGGzMBNDGhBMFIhxkxcVH_HJH8g&oe=6B080C4B",
+        "ultima_actualizacion": "2026-11-22T00:34:21.708Z"
       },
       "resumen_kpis": {
-        "total_seguidores": 1313,
-        "seguidores_detalle": "1313 seguidores • 0 seguidos",
+        "total_seguidores": 1336,
+        "seguidores_detalle": "1336 seguidores • 0 seguidos",
         "crecimiento_semanal": "+100%",
-        "seguidores_nuevos_semana": 1313,
-        "personas_hablando": 860,
-        "alcance_estimado": 23634,
-        "interacciones_totales": 10,
+        "seguidores_nuevos_semana": 1336,
+        "personas_hablando": 877,
+        "alcance_estimado": 24048,
+        "interacciones_totales": 8,
         "reacciones_totales": 4,
         "comentarios_totales": 0,
-        "compartidos_totales": 6,
+        "compartidos_totales": 4,
         "programados_en_servidores_meta": 85,
         "total_publicaciones_sistema": 176
       },
@@ -1296,10 +1282,32 @@
         },
         {
           "fecha": "12 Oct",
-          "seguidores": 1313
+          "seguidores": 1336
         }
       ],
       "ultimos_posts_publicados": [
+        {
+          "id": "1375923958937880_122115941943512707",
+          "url": "https://www.facebook.com/1375923958937880_122115941943512707",
+          "mensaje": "\"NO VIVAS REACCIONANDO A LO QUE PASA; SÉ EL HOMBRE QUE CAUSA LO QUE TIENE QUE PASAR.\"\n\nEl éxito es para los que asumen el 100% de responsabi",
+          "fecha": "2026-11-21T23:00:00+0000",
+          "reacciones": 0,
+          "comentarios": 0,
+          "compartidos": 0,
+          "tipo": "post",
+          "estado": "publicado"
+        },
+        {
+          "id": "1375923958937880_122119401999512707",
+          "url": "https://www.facebook.com/1375923958937880_122119401999512707",
+          "mensaje": "Psicología & Estrategia #04. Existe una trampa neurológica llamada sustitución de identidad: cuando verbalizas tus metas, tu sistema límbico",
+          "fecha": "2026-11-21T19:53:42+0000",
+          "reacciones": 0,
+          "comentarios": 0,
+          "compartidos": 0,
+          "tipo": "post",
+          "estado": "publicado"
+        },
         {
           "id": "1375923958937880_122119390503512707",
           "url": "https://www.facebook.com/1375923958937880_122119390503512707",
@@ -1360,7 +1368,7 @@
           "url": "https://www.facebook.com/1375923958937880_122119264929512707",
           "mensaje": "Marco Aurelio caminaba entre las ruinas de un campamento enemigo. Todo lo que ayer era poderío, murallas y orgullo, hoy era solo escombro y ",
           "fecha": "2026-11-21T11:36:57+0000",
-          "reacciones": 0,
+          "reacciones": 1,
           "comentarios": 0,
           "compartidos": 0,
           "tipo": "post",
@@ -1552,31 +1560,16 @@
           "compartidos": 1,
           "tipo": "post",
           "estado": "publicado"
-        },
-        {
-          "id": "1375923958937880_122118770625512707",
-          "url": "https://www.facebook.com/1375923958937880_122118770625512707",
-          "mensaje": "Publicación",
-          "fecha": "2026-11-20T01:04:16+0000",
-          "reacciones": 0,
-          "comentarios": 0,
-          "compartidos": 1,
-          "tipo": "post",
-          "estado": "publicado"
-        },
-        {
-          "id": "1375923958937880_122118770103512707",
-          "url": "https://www.facebook.com/1375923958937880_122118770103512707",
-          "mensaje": "Publicación",
-          "fecha": "2026-11-20T01:04:06+0000",
-          "reacciones": 1,
-          "comentarios": 0,
-          "compartidos": 1,
-          "tipo": "post",
-          "estado": "publicado"
         }
       ],
       "proximos_programados_meta": [
+        {
+          "id": "1375923958937880_122119465791512707",
+          "url": "https://www.facebook.com/1375923958937880_122119465791512707",
+          "mensaje": "🌙 AUDITORÍA DE CIERRE DE DÍA 🌙\n\n\"¿GUARDAS RESENTIMIENTO CONTRA ALGUIEN EN ESTE MOMENTO O LIMPIASTE TU MENTE ANTES DE ACOSTARTE?\"\n\nLlegó la",
+          "fecha_programada": "2026-12-19T21:30:00.000Z",
+          "estado": "programado_en_meta"
+        },
         {
           "id": "1375923958937880_122119400127512707",
           "url": "https://www.facebook.com/1375923958937880_122119400127512707",
@@ -2163,13 +2156,6 @@
           "url": "https://www.facebook.com/1375923958937880_122115942015512707",
           "mensaje": "\"TUS METAS NO SE TOMAN DÍAS LIBRES; SI DESCANSAS DE MÁS, TU SUEÑO SE DESVANECE.\"\n\nEl éxito es para los que asumen el 100% de responsabilidad",
           "fecha_programada": "2026-11-22T23:00:00.000Z",
-          "estado": "programado_en_meta"
-        },
-        {
-          "id": "1375923958937880_122115941943512707",
-          "url": "https://www.facebook.com/1375923958937880_122115941943512707",
-          "mensaje": "\"NO VIVAS REACCIONANDO A LO QUE PASA; SÉ EL HOMBRE QUE CAUSA LO QUE TIENE QUE PASAR.\"\n\nEl éxito es para los que asumen el 100% de responsabi",
-          "fecha_programada": "2026-11-21T23:00:00.000Z",
           "estado": "programado_en_meta"
         }
       ],
