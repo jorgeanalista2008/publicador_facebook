@@ -5,22 +5,22 @@
     "categoria": "Animals & Pets",
     "seguidores": 46,
     "seguidos": 3,
-    "personas_hablando": 28,
-    "foto_perfil": "https://scontent-iad3-1.xx.fbcdn.net/v/t39.30808-1/825286629_28604489712564817_7866327839881392565_n.jpg?stp=dst-jpg_s200x200_tt6&_nc_cat=110&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=f907e8&_nc_ohc=MY3GgrlxWmgQ7kNvwHpi-Aw&_nc_oc=Adqhy8IiBmsnctR7Oh_t1Eo6SVmrxj3hPMRfpnCVTWAJwI0bVFktdeipjS3D7YgJ_2s&_nc_zt=24&_nc_ht=scontent-iad3-1.xx&edm=AJdBtusEAAAA&_nc_gid=k_bLMEaQeMc0fLjDt7s1Xg&_nc_tpa=Q5bMBQKUuxPLirZIS8qNCu3-yrheKCufR3FZth1jioq-OLYeEHjPFp4kG87fDOJFwNFNwCi8_pwXycJRWw&oh=00_AQQOrit2JhV7ZCUk4qPm70_0JzSumRkzmycg4tVKinBeFQ&oe=6B080B6B",
-    "ultima_actualizacion": "2026-11-22T00:34:20.591Z"
+    "personas_hablando": 25,
+    "foto_perfil": "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.30808-1/825286629_28604489712564817_7866327839881392565_n.jpg?stp=dst-jpg_s200x200_tt6&_nc_cat=110&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=f907e8&_nc_ohc=MY3GgrlxWmgQ7kNvwHVQLaj&_nc_oc=AdrLmLAS3EFfjy1U6G2_JewLfZX9h5b4fnntFMst7DaBXWUQ9rVbaDXTInmrV2yHGHU&_nc_zt=24&_nc_ht=scontent-sjc3-1.xx&edm=AJdBtusEAAAA&_nc_gid=vqfdmjVVlGbbxlG-0She0w&_nc_tpa=Q5bMBQIHyD7nUTzT4eEKtk3ixWxQdrI0-KFFDxjUlNUQ3VsR0x9cQsre-tXHL1OeO6E1ZIxZtSDP0j917Q&oh=00_AQRdYYfc9KEnd80PxSgzFh8wPo-O3n5cIHp105eGLj6S-Q&oe=6B087BEB",
+    "ultima_actualizacion": "2026-11-22T08:30:41.092Z"
   },
   "resumen_kpis": {
     "total_seguidores": 46,
     "seguidores_detalle": "46 seguidores • 3 seguidos",
     "crecimiento_semanal": "+35%",
     "seguidores_nuevos_semana": 7,
-    "personas_hablando": 28,
+    "personas_hablando": 25,
     "alcance_estimado": 828,
     "interacciones_totales": 0,
     "reacciones_totales": 0,
     "comentarios_totales": 0,
     "compartidos_totales": 0,
-    "programados_en_servidores_meta": 36,
+    "programados_en_servidores_meta": 35,
     "total_publicaciones_sistema": 120
   },
   "rendimiento_por_horario": [
@@ -68,6 +68,17 @@
     }
   ],
   "ultimos_posts_publicados": [
+    {
+      "id": "1367888553074849_122110729707507613",
+      "url": "https://www.facebook.com/1367888553074849_122110729707507613",
+      "mensaje": "«No nos afecta lo que nos sucede, sino el juicio que nos formamos de lo que nos sucede». — Epicteto 🏛️🛡️\n\nEpicteto nació esclavo, soportó ",
+      "fecha": "2026-11-22T08:00:03+0000",
+      "reacciones": 0,
+      "comentarios": 0,
+      "compartidos": 0,
+      "tipo": "post",
+      "estado": "publicado"
+    },
     {
       "id": "1367888553074849_122110364385507613",
       "url": "https://www.facebook.com/1367888553074849_122110364385507613",
@@ -331,17 +342,6 @@
       "compartidos": 0,
       "tipo": "post",
       "estado": "publicado"
-    },
-    {
-      "id": "1367888553074849_122106005517507613",
-      "url": "https://www.facebook.com/1367888553074849_122106005517507613",
-      "mensaje": "Don Marcos llamó al nuevo dueño del taller mecánico que acababa de quebrar. Una voz apresurada le contestó que se estaban llevando la maquin",
-      "fecha": "2026-11-15T20:30:00+0000",
-      "reacciones": 0,
-      "comentarios": 0,
-      "compartidos": 0,
-      "tipo": "post",
-      "estado": "publicado"
     }
   ],
   "proximos_programados_meta": [
@@ -589,13 +589,6 @@
       "mensaje": "La señora Carmela vio salir el camión de mudanza a toda velocidad. Diez minutos después, una cachorrita peluda y blanca salió corriendo del ",
       "fecha_programada": "2026-11-22T12:30:00.000Z",
       "estado": "programado_en_meta"
-    },
-    {
-      "id": "1367888553074849_122110729707507613",
-      "url": "https://www.facebook.com/1367888553074849_122110729707507613",
-      "mensaje": "«No nos afecta lo que nos sucede, sino el juicio que nos formamos de lo que nos sucede». — Epicteto 🏛️🛡️\n\nEpicteto nació esclavo, soportó ",
-      "fecha_programada": "2026-11-22T08:00:00.000Z",
-      "estado": "programado_en_meta"
     }
   ],
   "instagram": {
@@ -604,7 +597,7 @@
     "name": "Huellas con propósito",
     "followers": 1,
     "media_count": 14,
-    "picture": "https://scontent-iad3-2.xx.fbcdn.net/v/t51.82787-15/846964896_18127515184894503_9206256640984781246_n.jpg?_nc_cat=104&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=7d201b&_nc_ohc=WcCTmZpx8Y4Q7kNvwHOU8yK&_nc_oc=Ado61AIR_G6X_gdZg4-bGcJLIHnHQt1LYaEYIYeQv6OwUYh-Y0THe03d2zpNba-n3qs&_nc_zt=23&_nc_ht=scontent-iad3-2.xx&edm=AJ-jyNUEAAAA&_nc_gid=txNSjkNCUVlEywil87FYQw&oh=00_AQSujXYNPbyk08p5ANL7fBkjrQWJsdB5TMvcCI9crdvMmg&oe=6B08166E"
+    "picture": "https://scontent-sjc3-1.xx.fbcdn.net/v/t51.82787-15/846964896_18127515184894503_9206256640984781246_n.jpg?_nc_cat=104&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=7d201b&_nc_ohc=WcCTmZpx8Y4Q7kNvwFLu0y4&_nc_oc=AdpwVO7jdT0WSEqNlXVd-yU5k5PhS0PQWyyoPc_I_2BT9i3IuHPdfUKHBExzfNkgF84&_nc_zt=23&_nc_ht=scontent-sjc3-1.xx&edm=AJ-jyNUEAAAA&_nc_gid=4VR4-9fdWcCNhIme-JYIrw&oh=00_AQQgS9-7YkW7W01YRbuPW1wv8fzfzkMGUglcgWcTleHNLQ&oe=6B0886EE"
   },
   "paginas": {
     "1367888553074849": {
@@ -614,22 +607,22 @@
         "categoria": "Animals & Pets",
         "seguidores": 46,
         "seguidos": 3,
-        "personas_hablando": 28,
-        "foto_perfil": "https://scontent-iad3-1.xx.fbcdn.net/v/t39.30808-1/825286629_28604489712564817_7866327839881392565_n.jpg?stp=dst-jpg_s200x200_tt6&_nc_cat=110&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=f907e8&_nc_ohc=MY3GgrlxWmgQ7kNvwHpi-Aw&_nc_oc=Adqhy8IiBmsnctR7Oh_t1Eo6SVmrxj3hPMRfpnCVTWAJwI0bVFktdeipjS3D7YgJ_2s&_nc_zt=24&_nc_ht=scontent-iad3-1.xx&edm=AJdBtusEAAAA&_nc_gid=k_bLMEaQeMc0fLjDt7s1Xg&_nc_tpa=Q5bMBQKUuxPLirZIS8qNCu3-yrheKCufR3FZth1jioq-OLYeEHjPFp4kG87fDOJFwNFNwCi8_pwXycJRWw&oh=00_AQQOrit2JhV7ZCUk4qPm70_0JzSumRkzmycg4tVKinBeFQ&oe=6B080B6B",
-        "ultima_actualizacion": "2026-11-22T00:34:20.591Z"
+        "personas_hablando": 25,
+        "foto_perfil": "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.30808-1/825286629_28604489712564817_7866327839881392565_n.jpg?stp=dst-jpg_s200x200_tt6&_nc_cat=110&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=f907e8&_nc_ohc=MY3GgrlxWmgQ7kNvwHVQLaj&_nc_oc=AdrLmLAS3EFfjy1U6G2_JewLfZX9h5b4fnntFMst7DaBXWUQ9rVbaDXTInmrV2yHGHU&_nc_zt=24&_nc_ht=scontent-sjc3-1.xx&edm=AJdBtusEAAAA&_nc_gid=vqfdmjVVlGbbxlG-0She0w&_nc_tpa=Q5bMBQIHyD7nUTzT4eEKtk3ixWxQdrI0-KFFDxjUlNUQ3VsR0x9cQsre-tXHL1OeO6E1ZIxZtSDP0j917Q&oh=00_AQRdYYfc9KEnd80PxSgzFh8wPo-O3n5cIHp105eGLj6S-Q&oe=6B087BEB",
+        "ultima_actualizacion": "2026-11-22T08:30:41.092Z"
       },
       "resumen_kpis": {
         "total_seguidores": 46,
         "seguidores_detalle": "46 seguidores • 3 seguidos",
         "crecimiento_semanal": "+35%",
         "seguidores_nuevos_semana": 7,
-        "personas_hablando": 28,
+        "personas_hablando": 25,
         "alcance_estimado": 828,
         "interacciones_totales": 0,
         "reacciones_totales": 0,
         "comentarios_totales": 0,
         "compartidos_totales": 0,
-        "programados_en_servidores_meta": 36,
+        "programados_en_servidores_meta": 35,
         "total_publicaciones_sistema": 120
       },
       "rendimiento_por_horario": [
@@ -677,6 +670,17 @@
         }
       ],
       "ultimos_posts_publicados": [
+        {
+          "id": "1367888553074849_122110729707507613",
+          "url": "https://www.facebook.com/1367888553074849_122110729707507613",
+          "mensaje": "«No nos afecta lo que nos sucede, sino el juicio que nos formamos de lo que nos sucede». — Epicteto 🏛️🛡️\n\nEpicteto nació esclavo, soportó ",
+          "fecha": "2026-11-22T08:00:03+0000",
+          "reacciones": 0,
+          "comentarios": 0,
+          "compartidos": 0,
+          "tipo": "post",
+          "estado": "publicado"
+        },
         {
           "id": "1367888553074849_122110364385507613",
           "url": "https://www.facebook.com/1367888553074849_122110364385507613",
@@ -940,17 +944,6 @@
           "compartidos": 0,
           "tipo": "post",
           "estado": "publicado"
-        },
-        {
-          "id": "1367888553074849_122106005517507613",
-          "url": "https://www.facebook.com/1367888553074849_122106005517507613",
-          "mensaje": "Don Marcos llamó al nuevo dueño del taller mecánico que acababa de quebrar. Una voz apresurada le contestó que se estaban llevando la maquin",
-          "fecha": "2026-11-15T20:30:00+0000",
-          "reacciones": 0,
-          "comentarios": 0,
-          "compartidos": 0,
-          "tipo": "post",
-          "estado": "publicado"
         }
       ],
       "proximos_programados_meta": [
@@ -1198,13 +1191,6 @@
           "mensaje": "La señora Carmela vio salir el camión de mudanza a toda velocidad. Diez minutos después, una cachorrita peluda y blanca salió corriendo del ",
           "fecha_programada": "2026-11-22T12:30:00.000Z",
           "estado": "programado_en_meta"
-        },
-        {
-          "id": "1367888553074849_122110729707507613",
-          "url": "https://www.facebook.com/1367888553074849_122110729707507613",
-          "mensaje": "«No nos afecta lo que nos sucede, sino el juicio que nos formamos de lo que nos sucede». — Epicteto 🏛️🛡️\n\nEpicteto nació esclavo, soportó ",
-          "fecha_programada": "2026-11-22T08:00:00.000Z",
-          "estado": "programado_en_meta"
         }
       ],
       "instagram": {
@@ -1213,7 +1199,7 @@
         "name": "Huellas con propósito",
         "followers": 1,
         "media_count": 14,
-        "picture": "https://scontent-iad3-2.xx.fbcdn.net/v/t51.82787-15/846964896_18127515184894503_9206256640984781246_n.jpg?_nc_cat=104&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=7d201b&_nc_ohc=WcCTmZpx8Y4Q7kNvwHOU8yK&_nc_oc=Ado61AIR_G6X_gdZg4-bGcJLIHnHQt1LYaEYIYeQv6OwUYh-Y0THe03d2zpNba-n3qs&_nc_zt=23&_nc_ht=scontent-iad3-2.xx&edm=AJ-jyNUEAAAA&_nc_gid=txNSjkNCUVlEywil87FYQw&oh=00_AQSujXYNPbyk08p5ANL7fBkjrQWJsdB5TMvcCI9crdvMmg&oe=6B08166E"
+        "picture": "https://scontent-sjc3-1.xx.fbcdn.net/v/t51.82787-15/846964896_18127515184894503_9206256640984781246_n.jpg?_nc_cat=104&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=7d201b&_nc_ohc=WcCTmZpx8Y4Q7kNvwFLu0y4&_nc_oc=AdpwVO7jdT0WSEqNlXVd-yU5k5PhS0PQWyyoPc_I_2BT9i3IuHPdfUKHBExzfNkgF84&_nc_zt=23&_nc_ht=scontent-sjc3-1.xx&edm=AJ-jyNUEAAAA&_nc_gid=4VR4-9fdWcCNhIme-JYIrw&oh=00_AQQgS9-7YkW7W01YRbuPW1wv8fzfzkMGUglcgWcTleHNLQ&oe=6B0886EE"
       }
     },
     "1375923958937880": {
@@ -1221,24 +1207,24 @@
         "id": "1375923958937880",
         "nombre": "Metalidad de Acero",
         "categoria": "Digital creator",
-        "seguidores": 1336,
+        "seguidores": 1358,
         "seguidos": 0,
-        "personas_hablando": 877,
-        "foto_perfil": "https://scontent-iad3-1.xx.fbcdn.net/v/t39.30808-1/840874239_28641464222200699_8608299845012300889_n.jpg?stp=dst-jpg_s200x200_tt6&_nc_cat=100&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=f907e8&_nc_ohc=BhgRv5BGWpAQ7kNvwGdOuLD&_nc_oc=AdrVqdJ21jN3s-GcrAMfDvipxua4FBstAJfdvyQl0J6trk3ghVnmhmL2BQ9G1Bx6Ylg&_nc_zt=24&_nc_ht=scontent-iad3-1.xx&edm=AJdBtusEAAAA&_nc_gid=HQZ6D9zQUEk5n9-Htuvzvg&_nc_tpa=Q5bMBQIImpeA0tw6HVu7LIeHrTDXROwZOZs6TxH-5bZ5ZqGk0BGakq1jlpEv005HqOSylwBLVt7ILeI6Fg&oh=00_AQTpELhG4y7waw_BtLukGGzMBNDGhBMFIhxkxcVH_HJH8g&oe=6B080C4B",
-        "ultima_actualizacion": "2026-11-22T00:34:21.708Z"
+        "personas_hablando": 878,
+        "foto_perfil": "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.30808-1/840874239_28641464222200699_8608299845012300889_n.jpg?stp=dst-jpg_s200x200_tt6&_nc_cat=100&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=f907e8&_nc_ohc=BhgRv5BGWpAQ7kNvwEp-4m7&_nc_oc=AdqyQJJjnf9JbfNhXWKj-025hviMeDOU5O894T-3eHpUqOnMZeAgfVlK0l4ZAmh3FV4&_nc_zt=24&_nc_ht=scontent-sjc6-1.xx&edm=AJdBtusEAAAA&_nc_gid=xty44lfaJNEoor8tYBpdAg&_nc_tpa=Q5bMBQICj03yyOVeBFNL8uVRAyhkLf0qyMRCMTifLGd6x-wutGR3wuPEiZ5s0qssniy0A_me2butJIjTVg&oh=00_AQTcvun5_MaL-JskVuo1an1vhlob_Loy5IYarrtqvL0Xsg&oe=6B087CCB",
+        "ultima_actualizacion": "2026-11-22T08:30:44.052Z"
       },
       "resumen_kpis": {
-        "total_seguidores": 1336,
-        "seguidores_detalle": "1336 seguidores • 0 seguidos",
+        "total_seguidores": 1358,
+        "seguidores_detalle": "1358 seguidores • 0 seguidos",
         "crecimiento_semanal": "+100%",
-        "seguidores_nuevos_semana": 1336,
-        "personas_hablando": 877,
-        "alcance_estimado": 24048,
-        "interacciones_totales": 8,
-        "reacciones_totales": 4,
+        "seguidores_nuevos_semana": 1358,
+        "personas_hablando": 878,
+        "alcance_estimado": 24444,
+        "interacciones_totales": 9,
+        "reacciones_totales": 5,
         "comentarios_totales": 0,
         "compartidos_totales": 4,
-        "programados_en_servidores_meta": 85,
+        "programados_en_servidores_meta": 86,
         "total_publicaciones_sistema": 176
       },
       "rendimiento_por_horario": [
@@ -1282,10 +1268,21 @@
         },
         {
           "fecha": "12 Oct",
-          "seguidores": 1336
+          "seguidores": 1358
         }
       ],
       "ultimos_posts_publicados": [
+        {
+          "id": "1375923958937880_122119502319512707",
+          "url": "https://www.facebook.com/1375923958937880_122119502319512707",
+          "mensaje": "Verdades Incómodas #02 🏛️\n\nLa lealtad es el valor más exigido y el que menos se está dispuesto a ejercer cuando el precio a pagar es la pro",
+          "fecha": "2026-11-22T04:13:12+0000",
+          "reacciones": 0,
+          "comentarios": 0,
+          "compartidos": 0,
+          "tipo": "post",
+          "estado": "publicado"
+        },
         {
           "id": "1375923958937880_122115941943512707",
           "url": "https://www.facebook.com/1375923958937880_122115941943512707",
@@ -1368,7 +1365,7 @@
           "url": "https://www.facebook.com/1375923958937880_122119264929512707",
           "mensaje": "Marco Aurelio caminaba entre las ruinas de un campamento enemigo. Todo lo que ayer era poderío, murallas y orgullo, hoy era solo escombro y ",
           "fecha": "2026-11-21T11:36:57+0000",
-          "reacciones": 1,
+          "reacciones": 2,
           "comentarios": 0,
           "compartidos": 0,
           "tipo": "post",
@@ -1423,9 +1420,9 @@
           "url": "https://www.facebook.com/1375923958937880_122119026483512707",
           "mensaje": "Si no te haces respetar, te van a pisotear. Siempre 🥀\n\nUn hombre que no se hace respetar será pisoteado. Siempre. ⚔️\n\nEl mundo no es justo ",
           "fecha": "2026-11-20T18:17:07+0000",
-          "reacciones": 0,
+          "reacciones": 1,
           "comentarios": 0,
-          "compartidos": 0,
+          "compartidos": 1,
           "tipo": "post",
           "estado": "publicado"
         },
@@ -1549,20 +1546,16 @@
           "compartidos": 1,
           "tipo": "post",
           "estado": "publicado"
-        },
-        {
-          "id": "1375923958937880_122118770859512707",
-          "url": "https://www.facebook.com/1375923958937880_122118770859512707",
-          "mensaje": "Publicación",
-          "fecha": "2026-11-20T01:04:25+0000",
-          "reacciones": 1,
-          "comentarios": 0,
-          "compartidos": 1,
-          "tipo": "post",
-          "estado": "publicado"
         }
       ],
       "proximos_programados_meta": [
+        {
+          "id": "1375923958937880_122119548093512707",
+          "url": "https://www.facebook.com/1375923958937880_122119548093512707",
+          "mensaje": "⚔️ REGLA INQUEBRANTABLE #20: \"EL TIEMPO ES EL ÚNICO RECURSO QUE NUNCA RECUPERARÁS\" ⚔️\n\n¡DESPIERTA! Tu cama no es un refugio, es una trampa s",
+          "fecha_programada": "2026-12-20T07:00:00.000Z",
+          "estado": "programado_en_meta"
+        },
         {
           "id": "1375923958937880_122119465791512707",
           "url": "https://www.facebook.com/1375923958937880_122119465791512707",
