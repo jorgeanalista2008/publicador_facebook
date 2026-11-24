@@ -5,22 +5,22 @@
     "categoria": "Animals & Pets",
     "seguidores": 46,
     "seguidos": 3,
-    "personas_hablando": 28,
-    "foto_perfil": "https://scontent-iad3-1.xx.fbcdn.net/v/t39.30808-1/825286629_28604489712564817_7866327839881392565_n.jpg?stp=dst-jpg_s200x200_tt6&_nc_cat=110&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=f907e8&_nc_ohc=aaMWi7wRiigQ7kNvwHHFvE_&_nc_oc=AdpL0kxbleTN__BmS9dhOoXzlerKN2smdcwJ20NKi63GRSKbCkuSzVf_rtP-SkFK8JA&_nc_zt=24&_nc_ht=scontent-iad3-1.xx&edm=AJdBtusEAAAA&_nc_gid=QK39Lxj5T5dNLanwRIq6Ew&_nc_tpa=Q5bMBQKhXqJrTi9ap72P_W7352dfG4-Do2VPpFXkJglmwVaCbzx4ujxqkouesaapDxKpxvnhzfIPqf7Igw&oh=00_AQQo66UMVUCOqbDLELp8I1lTvjj-OfdsQ_1G8VBicnhuCQ&oe=6B0AAE6B",
-    "ultima_actualizacion": "2026-11-24T00:11:20.067Z"
+    "personas_hablando": 25,
+    "foto_perfil": "https://scontent-sea5-1.xx.fbcdn.net/v/t39.30808-1/825286629_28604489712564817_7866327839881392565_n.jpg?stp=dst-jpg_s200x200_tt6&_nc_cat=110&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=f907e8&_nc_ohc=aaMWi7wRiigQ7kNvwHSHXhQ&_nc_oc=AdozqleL6EoSMviQ27FlSkU3WPy2Q4RAYeMh1zLANJcR6HCw1TlIiHnUUVyJ78qB78I&_nc_zt=24&_nc_ht=scontent-sea5-1.xx&edm=AJdBtusEAAAA&_nc_gid=9xdqWLGVqwYb_y4n6ziCIw&_nc_tpa=Q5bMBQKfpbJ8J2Jo-O1qzXba981NpV_J9LnBvxxtdI8hRio5RmCOnwzFYuzdfsQMnSR-QZxtIPeLxPl8Ww&oh=00_AQQbPC9Tf0P8OAJtHEeYsNtbvvpl0OyGOvD6pNJkCQkvrA&oe=6B0B572B",
+    "ultima_actualizacion": "2026-11-24T11:25:04.289Z"
   },
   "resumen_kpis": {
     "total_seguidores": 46,
     "seguidores_detalle": "46 seguidores • 3 seguidos",
     "crecimiento_semanal": "+35%",
     "seguidores_nuevos_semana": 7,
-    "personas_hablando": 28,
+    "personas_hablando": 25,
     "alcance_estimado": 828,
     "interacciones_totales": 0,
     "reacciones_totales": 0,
     "comentarios_totales": 0,
     "compartidos_totales": 0,
-    "programados_en_servidores_meta": 28,
+    "programados_en_servidores_meta": 27,
     "total_publicaciones_sistema": 120
   },
   "rendimiento_por_horario": [
@@ -68,6 +68,17 @@
     }
   ],
   "ultimos_posts_publicados": [
+    {
+      "id": "1367888553074849_122111722035507613",
+      "url": "https://www.facebook.com/1367888553074849_122111722035507613",
+      "mensaje": "«Sufrimos más a menudo por la imaginación que por la realidad». — Séneca 🏛️📜\n\n¿Cuántas noches te has quedado despierto creando escenarios ",
+      "fecha": "2026-11-24T08:00:00+0000",
+      "reacciones": 0,
+      "comentarios": 0,
+      "compartidos": 0,
+      "tipo": "post",
+      "estado": "publicado"
+    },
     {
       "id": "1367888553074849_122111386389507613",
       "url": "https://www.facebook.com/1367888553074849_122111386389507613",
@@ -331,17 +342,6 @@
       "compartidos": 0,
       "tipo": "post",
       "estado": "publicado"
-    },
-    {
-      "id": "1367888553074849_122108065707507613",
-      "url": "https://www.facebook.com/1367888553074849_122108065707507613",
-      "mensaje": "Eran las 6:30 de la mañana cuando el doctor Fernando llegó a abrir la clínica veterinaria. Atado a la aldaba metálica de la entrada había un",
-      "fecha": "2026-11-17T20:30:01+0000",
-      "reacciones": 0,
-      "comentarios": 0,
-      "compartidos": 0,
-      "tipo": "post",
-      "estado": "publicado"
     }
   ],
   "proximos_programados_meta": [
@@ -533,13 +533,6 @@
       "mensaje": "Don Aurelio vio cómo cerraron la maderería para siempre y pusieron cinta amarilla de clausura. Al guardia de seguridad le liquidaron su suel",
       "fecha_programada": "2026-11-24T12:30:00.000Z",
       "estado": "programado_en_meta"
-    },
-    {
-      "id": "1367888553074849_122111722035507613",
-      "url": "https://www.facebook.com/1367888553074849_122111722035507613",
-      "mensaje": "«Sufrimos más a menudo por la imaginación que por la realidad». — Séneca 🏛️📜\n\n¿Cuántas noches te has quedado despierto creando escenarios ",
-      "fecha_programada": "2026-11-24T08:00:00.000Z",
-      "estado": "programado_en_meta"
     }
   ],
   "instagram": {
@@ -547,8 +540,8 @@
     "username": "huellasconproposito26",
     "name": "Huellas con propósito",
     "followers": 1,
-    "media_count": 14,
-    "picture": "https://scontent-iad3-2.xx.fbcdn.net/v/t51.82787-15/846964896_18127515184894503_9206256640984781246_n.jpg?_nc_cat=104&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=7d201b&_nc_ohc=wDddmPoyfE8Q7kNvwEqDRnM&_nc_oc=AdqwkuspnyvfAPHRXAnDzdvz0JnrRhOAkomb7laobq5XC4DhFwIUhZKqO0mdJFlq_xA&_nc_zt=23&_nc_ht=scontent-iad3-2.xx&edm=AJ-jyNUEAAAA&_nc_gid=iGCIILVnweui6zWeFcq3qA&oh=00_AQSBztS9LeAFMv2SgOHZj6ClWD0EltJE-wz-lBsDvv0qtQ&oe=6B0AB96E"
+    "media_count": 15,
+    "picture": "https://scontent-sea5-2.xx.fbcdn.net/v/t51.82787-15/846964896_18127515184894503_9206256640984781246_n.jpg?_nc_cat=104&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=7d201b&_nc_ohc=wDddmPoyfE8Q7kNvwF22qBz&_nc_oc=AdrCL-SN3nGX_M2mR5sF6FHPuzQ8Go0OYGcXlj51wwU69RpL4QA4fryTjMJu4aUL2lQ&_nc_zt=23&_nc_ht=scontent-sea5-2.xx&edm=AJ-jyNUEAAAA&_nc_gid=3J1lm_PRvC9ISjuXDWDoVg&oh=00_AQRV7bPapzjBPuQ4FQx7CjP_TOxgdmTI59ZpVkXmCP_kgw&oe=6B0B622E"
   },
   "paginas": {
     "1367888553074849": {
@@ -558,22 +551,22 @@
         "categoria": "Animals & Pets",
         "seguidores": 46,
         "seguidos": 3,
-        "personas_hablando": 28,
-        "foto_perfil": "https://scontent-iad3-1.xx.fbcdn.net/v/t39.30808-1/825286629_28604489712564817_7866327839881392565_n.jpg?stp=dst-jpg_s200x200_tt6&_nc_cat=110&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=f907e8&_nc_ohc=aaMWi7wRiigQ7kNvwHHFvE_&_nc_oc=AdpL0kxbleTN__BmS9dhOoXzlerKN2smdcwJ20NKi63GRSKbCkuSzVf_rtP-SkFK8JA&_nc_zt=24&_nc_ht=scontent-iad3-1.xx&edm=AJdBtusEAAAA&_nc_gid=QK39Lxj5T5dNLanwRIq6Ew&_nc_tpa=Q5bMBQKhXqJrTi9ap72P_W7352dfG4-Do2VPpFXkJglmwVaCbzx4ujxqkouesaapDxKpxvnhzfIPqf7Igw&oh=00_AQQo66UMVUCOqbDLELp8I1lTvjj-OfdsQ_1G8VBicnhuCQ&oe=6B0AAE6B",
-        "ultima_actualizacion": "2026-11-24T00:11:20.067Z"
+        "personas_hablando": 25,
+        "foto_perfil": "https://scontent-sea5-1.xx.fbcdn.net/v/t39.30808-1/825286629_28604489712564817_7866327839881392565_n.jpg?stp=dst-jpg_s200x200_tt6&_nc_cat=110&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=f907e8&_nc_ohc=aaMWi7wRiigQ7kNvwHSHXhQ&_nc_oc=AdozqleL6EoSMviQ27FlSkU3WPy2Q4RAYeMh1zLANJcR6HCw1TlIiHnUUVyJ78qB78I&_nc_zt=24&_nc_ht=scontent-sea5-1.xx&edm=AJdBtusEAAAA&_nc_gid=9xdqWLGVqwYb_y4n6ziCIw&_nc_tpa=Q5bMBQKfpbJ8J2Jo-O1qzXba981NpV_J9LnBvxxtdI8hRio5RmCOnwzFYuzdfsQMnSR-QZxtIPeLxPl8Ww&oh=00_AQQbPC9Tf0P8OAJtHEeYsNtbvvpl0OyGOvD6pNJkCQkvrA&oe=6B0B572B",
+        "ultima_actualizacion": "2026-11-24T11:25:04.289Z"
       },
       "resumen_kpis": {
         "total_seguidores": 46,
         "seguidores_detalle": "46 seguidores • 3 seguidos",
         "crecimiento_semanal": "+35%",
         "seguidores_nuevos_semana": 7,
-        "personas_hablando": 28,
+        "personas_hablando": 25,
         "alcance_estimado": 828,
         "interacciones_totales": 0,
         "reacciones_totales": 0,
         "comentarios_totales": 0,
         "compartidos_totales": 0,
-        "programados_en_servidores_meta": 28,
+        "programados_en_servidores_meta": 27,
         "total_publicaciones_sistema": 120
       },
       "rendimiento_por_horario": [
@@ -621,6 +614,17 @@
         }
       ],
       "ultimos_posts_publicados": [
+        {
+          "id": "1367888553074849_122111722035507613",
+          "url": "https://www.facebook.com/1367888553074849_122111722035507613",
+          "mensaje": "«Sufrimos más a menudo por la imaginación que por la realidad». — Séneca 🏛️📜\n\n¿Cuántas noches te has quedado despierto creando escenarios ",
+          "fecha": "2026-11-24T08:00:00+0000",
+          "reacciones": 0,
+          "comentarios": 0,
+          "compartidos": 0,
+          "tipo": "post",
+          "estado": "publicado"
+        },
         {
           "id": "1367888553074849_122111386389507613",
           "url": "https://www.facebook.com/1367888553074849_122111386389507613",
@@ -884,17 +888,6 @@
           "compartidos": 0,
           "tipo": "post",
           "estado": "publicado"
-        },
-        {
-          "id": "1367888553074849_122108065707507613",
-          "url": "https://www.facebook.com/1367888553074849_122108065707507613",
-          "mensaje": "Eran las 6:30 de la mañana cuando el doctor Fernando llegó a abrir la clínica veterinaria. Atado a la aldaba metálica de la entrada había un",
-          "fecha": "2026-11-17T20:30:01+0000",
-          "reacciones": 0,
-          "comentarios": 0,
-          "compartidos": 0,
-          "tipo": "post",
-          "estado": "publicado"
         }
       ],
       "proximos_programados_meta": [
@@ -1086,13 +1079,6 @@
           "mensaje": "Don Aurelio vio cómo cerraron la maderería para siempre y pusieron cinta amarilla de clausura. Al guardia de seguridad le liquidaron su suel",
           "fecha_programada": "2026-11-24T12:30:00.000Z",
           "estado": "programado_en_meta"
-        },
-        {
-          "id": "1367888553074849_122111722035507613",
-          "url": "https://www.facebook.com/1367888553074849_122111722035507613",
-          "mensaje": "«Sufrimos más a menudo por la imaginación que por la realidad». — Séneca 🏛️📜\n\n¿Cuántas noches te has quedado despierto creando escenarios ",
-          "fecha_programada": "2026-11-24T08:00:00.000Z",
-          "estado": "programado_en_meta"
         }
       ],
       "instagram": {
@@ -1100,8 +1086,8 @@
         "username": "huellasconproposito26",
         "name": "Huellas con propósito",
         "followers": 1,
-        "media_count": 14,
-        "picture": "https://scontent-iad3-2.xx.fbcdn.net/v/t51.82787-15/846964896_18127515184894503_9206256640984781246_n.jpg?_nc_cat=104&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=7d201b&_nc_ohc=wDddmPoyfE8Q7kNvwEqDRnM&_nc_oc=AdqwkuspnyvfAPHRXAnDzdvz0JnrRhOAkomb7laobq5XC4DhFwIUhZKqO0mdJFlq_xA&_nc_zt=23&_nc_ht=scontent-iad3-2.xx&edm=AJ-jyNUEAAAA&_nc_gid=iGCIILVnweui6zWeFcq3qA&oh=00_AQSBztS9LeAFMv2SgOHZj6ClWD0EltJE-wz-lBsDvv0qtQ&oe=6B0AB96E"
+        "media_count": 15,
+        "picture": "https://scontent-sea5-2.xx.fbcdn.net/v/t51.82787-15/846964896_18127515184894503_9206256640984781246_n.jpg?_nc_cat=104&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=7d201b&_nc_ohc=wDddmPoyfE8Q7kNvwF22qBz&_nc_oc=AdrCL-SN3nGX_M2mR5sF6FHPuzQ8Go0OYGcXlj51wwU69RpL4QA4fryTjMJu4aUL2lQ&_nc_zt=23&_nc_ht=scontent-sea5-2.xx&edm=AJ-jyNUEAAAA&_nc_gid=3J1lm_PRvC9ISjuXDWDoVg&oh=00_AQRV7bPapzjBPuQ4FQx7CjP_TOxgdmTI59ZpVkXmCP_kgw&oe=6B0B622E"
       }
     },
     "1375923958937880": {
@@ -1109,24 +1095,24 @@
         "id": "1375923958937880",
         "nombre": "Metalidad de Acero",
         "categoria": "Digital creator",
-        "seguidores": 1399,
+        "seguidores": 1421,
         "seguidos": 0,
-        "personas_hablando": 918,
-        "foto_perfil": "https://scontent-iad3-1.xx.fbcdn.net/v/t39.30808-1/840874239_28641464222200699_8608299845012300889_n.jpg?stp=dst-jpg_s200x200_tt6&_nc_cat=100&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=f907e8&_nc_ohc=tFpllgHj9BwQ7kNvwESrkDE&_nc_oc=AdoEAeIEt6hVrVTETltD4IMNJpWL3V8Hhepyi1DZ0xEkqWMgx-u13aYFbz-H6ncbGZU&_nc_zt=24&_nc_ht=scontent-iad3-1.xx&edm=AJdBtusEAAAA&_nc_gid=2_jr4s2FCDxomjXSSRNP8w&_nc_tpa=Q5bMBQK-S38Se4xgzWNZTZ-Uh3vw11EpwAr23GVbUk2esNXF0kZzhDhNdPGE-2SqPoPPk7Io-YF-le7rcQ&oh=00_AQQTXoSdTp5jcvoWPKX33zi4IVc-leuzDz8M3I09mbMXlQ&oe=6B0AAF4B",
-        "ultima_actualizacion": "2026-11-24T00:11:21.751Z"
+        "personas_hablando": 820,
+        "foto_perfil": "https://scontent-sea5-2.xx.fbcdn.net/v/t39.30808-1/840874239_28641464222200699_8608299845012300889_n.jpg?stp=dst-jpg_s200x200_tt6&_nc_cat=100&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=f907e8&_nc_ohc=tFpllgHj9BwQ7kNvwGYDxT6&_nc_oc=Adq-hAxUCG-YvSRA1saMw--l0pXNHAbBJNdw2Bmy9PibvyYeRnNAZ2kJbIWDrMwarh0&_nc_zt=24&_nc_ht=scontent-sea5-2.xx&edm=AJdBtusEAAAA&_nc_gid=2DztQxajE-hoDM77JaL_kA&_nc_tpa=Q5bMBQKwg1NdGB1WlST3uxGUtv6uuKjoE-uhsSXBSBwEqayP4BC46awCNE1uZgDukKd0AJ5Mra1qCnKnAA&oh=00_AQSROWuFbb0vd4Jjgr6kacfYprX355345DC9Jsne8K2mFQ&oe=6B0B580B",
+        "ultima_actualizacion": "2026-11-24T11:25:05.991Z"
       },
       "resumen_kpis": {
-        "total_seguidores": 1399,
-        "seguidores_detalle": "1399 seguidores • 0 seguidos",
+        "total_seguidores": 1421,
+        "seguidores_detalle": "1421 seguidores • 0 seguidos",
         "crecimiento_semanal": "+100%",
-        "seguidores_nuevos_semana": 1399,
-        "personas_hablando": 918,
-        "alcance_estimado": 25182,
-        "interacciones_totales": 16,
-        "reacciones_totales": 10,
+        "seguidores_nuevos_semana": 1421,
+        "personas_hablando": 820,
+        "alcance_estimado": 25578,
+        "interacciones_totales": 13,
+        "reacciones_totales": 9,
         "comentarios_totales": 0,
-        "compartidos_totales": 6,
-        "programados_en_servidores_meta": 91,
+        "compartidos_totales": 4,
+        "programados_en_servidores_meta": 92,
         "total_publicaciones_sistema": 176
       },
       "rendimiento_por_horario": [
@@ -1170,10 +1156,54 @@
         },
         {
           "fecha": "12 Oct",
-          "seguidores": 1399
+          "seguidores": 1421
         }
       ],
       "ultimos_posts_publicados": [
+        {
+          "id": "1375923958937880_122120116347512707",
+          "url": "https://www.facebook.com/1375923958937880_122120116347512707",
+          "mensaje": "Carl Jung pasó décadas escuchando a personas que buscaban respuestas en el mundo exterior. \n\nQuerían encontrar la felicidad en nuevas relaci",
+          "fecha": "2026-11-24T01:50:01+0000",
+          "reacciones": 0,
+          "comentarios": 0,
+          "compartidos": 0,
+          "tipo": "post",
+          "estado": "publicado"
+        },
+        {
+          "id": "1375923958937880_122120116143512707",
+          "url": "https://www.facebook.com/1375923958937880_122120116143512707",
+          "mensaje": "Carl Jung pasó décadas escuchando a personas que buscaban respuestas en el mundo exterior. \n\nQuerían encontrar la felicidad en nuevas relaci",
+          "fecha": "2026-11-24T01:49:15+0000",
+          "reacciones": 0,
+          "comentarios": 0,
+          "compartidos": 0,
+          "tipo": "post",
+          "estado": "publicado"
+        },
+        {
+          "id": "1375923958937880_122120095407512707",
+          "url": "https://www.facebook.com/1375923958937880_122120095407512707",
+          "mensaje": "Psicología & Estrategia #06 🧠\n\nLa rigidez es la forma más sofisticada de la derrota, porque el hombre que se niega a cambiar de ruta termin",
+          "fecha": "2026-11-24T01:14:10+0000",
+          "reacciones": 0,
+          "comentarios": 0,
+          "compartidos": 0,
+          "tipo": "post",
+          "estado": "publicado"
+        },
+        {
+          "id": "1375923958937880_122120087853512707",
+          "url": "https://www.facebook.com/1375923958937880_122120087853512707",
+          "mensaje": "Lecciones de Sabios Antiguos #05.\n\nUn conocido corrió hacia Sócrates afirmando tener noticias sobre un amigo. El filósofo detuvo el rumor co",
+          "fecha": "2026-11-24T00:30:13+0000",
+          "reacciones": 0,
+          "comentarios": 0,
+          "compartidos": 0,
+          "tipo": "post",
+          "estado": "publicado"
+        },
         {
           "id": "1375923958937880_122115942129512707",
           "url": "https://www.facebook.com/1375923958937880_122115942129512707",
@@ -1258,7 +1288,7 @@
           "fecha": "2026-11-22T11:18:39+0000",
           "reacciones": 1,
           "comentarios": 0,
-          "compartidos": 2,
+          "compartidos": 1,
           "tipo": "post",
           "estado": "publicado"
         },
@@ -1393,53 +1423,16 @@
           "compartidos": 0,
           "tipo": "post",
           "estado": "publicado"
-        },
-        {
-          "id": "1375923958937880_122119033569512707",
-          "url": "https://www.facebook.com/1375923958937880_122119033569512707",
-          "mensaje": "Lecciones de Sabios Antiguos #02 🏛️\n\nArthur Schopenhauer solía decir que la verdad suele tener un ciclo de vida breve: primero es ridiculiz",
-          "fecha": "2026-11-20T18:43:04+0000",
-          "reacciones": 0,
-          "comentarios": 0,
-          "compartidos": 0,
-          "tipo": "post",
-          "estado": "publicado"
-        },
-        {
-          "id": "1375923958937880_122119026483512707",
-          "url": "https://www.facebook.com/1375923958937880_122119026483512707",
-          "mensaje": "Si no te haces respetar, te van a pisotear. Siempre 🥀\n\nUn hombre que no se hace respetar será pisoteado. Siempre. ⚔️\n\nEl mundo no es justo ",
-          "fecha": "2026-11-20T18:17:07+0000",
-          "reacciones": 1,
-          "comentarios": 0,
-          "compartidos": 1,
-          "tipo": "post",
-          "estado": "publicado"
-        },
-        {
-          "id": "1375923958937880_122119026579512707",
-          "url": "https://www.facebook.com/1375923958937880_122119026579512707",
-          "mensaje": "Si no te haces respetar, te van a pisotear. Siempre 🥀\n\nUn hombre que no se hace respetar será pisoteado. Siempre. ⚔️\n\nEl mundo no es justo ",
-          "fecha": "2026-11-20T18:17:06+0000",
-          "reacciones": 0,
-          "comentarios": 0,
-          "compartidos": 0,
-          "tipo": "post",
-          "estado": "publicado"
-        },
-        {
-          "id": "1375923958937880_122119012377512707",
-          "url": "https://www.facebook.com/1375923958937880_122119012377512707",
-          "mensaje": "Si ayudas a alguien a crecer más que tú, estás cavando tu propia tumba ⚰️\n\nQuien ayuda a otro a hacerse poderoso, cava su propia tumba. 🕳️\n",
-          "fecha": "2026-11-20T17:02:59+0000",
-          "reacciones": 0,
-          "comentarios": 0,
-          "compartidos": 0,
-          "tipo": "post",
-          "estado": "publicado"
         }
       ],
       "proximos_programados_meta": [
+        {
+          "id": "1375923958937880_122120266035512707",
+          "url": "https://www.facebook.com/1375923958937880_122120266035512707",
+          "mensaje": "⚔️ REGLA INQUEBRANTABLE #22: \"LA PRESIÓN NO TE ROMPE, LA PRESIÓN REVELA DE QUÉ ESTÁS HECHO\" ⚔️\n\n¡DESPIERTA! Tu cama no es un refugio, es una",
+          "fecha_programada": "2026-12-22T07:00:00.000Z",
+          "estado": "programado_en_meta"
+        },
         {
           "id": "1375923958937880_122120085459512707",
           "url": "https://www.facebook.com/1375923958937880_122120085459512707",
