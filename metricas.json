@@ -6,8 +6,8 @@
     "seguidores": 46,
     "seguidos": 3,
     "personas_hablando": 28,
-    "foto_perfil": "https://scontent-iad3-1.xx.fbcdn.net/v/t39.30808-1/825286629_28604489712564817_7866327839881392565_n.jpg?stp=dst-jpg_s200x200_tt6&_nc_cat=110&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=f907e8&_nc_ohc=MY3GgrlxWmgQ7kNvwGjP1yR&_nc_oc=Ado7IIzS9xVKnOkqZ0LFFBEuQzCkys1n5dwIKo91Gahwdh-xQLZyEU-Dv6LLYmhozHc&_nc_zt=24&_nc_ht=scontent-iad3-1.xx&edm=AJdBtusEAAAA&_nc_gid=x6yP0_szRvZFXWTsPG2eJw&_nc_tpa=Q5bMBQLFYivs60kez3aeFjNKazFkm2RXJMSh6zu6nerjoHkwzTUGXKcfl_avrw5dAuPOx7Buk87QqiAa_w&oh=00_AQTL6BIOema0FCsF366oXLqCy8t-HU6p-BhgfNQLGFOEuw&oe=6B09CD6B",
-    "ultima_actualizacion": "2026-11-23T09:30:06.947Z"
+    "foto_perfil": "https://scontent-iad3-1.xx.fbcdn.net/v/t39.30808-1/825286629_28604489712564817_7866327839881392565_n.jpg?stp=dst-jpg_s200x200_tt6&_nc_cat=110&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=f907e8&_nc_ohc=aaMWi7wRiigQ7kNvwHHFvE_&_nc_oc=AdpL0kxbleTN__BmS9dhOoXzlerKN2smdcwJ20NKi63GRSKbCkuSzVf_rtP-SkFK8JA&_nc_zt=24&_nc_ht=scontent-iad3-1.xx&edm=AJdBtusEAAAA&_nc_gid=QK39Lxj5T5dNLanwRIq6Ew&_nc_tpa=Q5bMBQKhXqJrTi9ap72P_W7352dfG4-Do2VPpFXkJglmwVaCbzx4ujxqkouesaapDxKpxvnhzfIPqf7Igw&oh=00_AQQo66UMVUCOqbDLELp8I1lTvjj-OfdsQ_1G8VBicnhuCQ&oe=6B0AAE6B",
+    "ultima_actualizacion": "2026-11-24T00:11:20.067Z"
   },
   "resumen_kpis": {
     "total_seguidores": 46,
@@ -20,7 +20,7 @@
     "reacciones_totales": 0,
     "comentarios_totales": 0,
     "compartidos_totales": 0,
-    "programados_en_servidores_meta": 31,
+    "programados_en_servidores_meta": 28,
     "total_publicaciones_sistema": 120
   },
   "rendimiento_por_horario": [
@@ -68,6 +68,39 @@
     }
   ],
   "ultimos_posts_publicados": [
+    {
+      "id": "1367888553074849_122111386389507613",
+      "url": "https://www.facebook.com/1367888553074849_122111386389507613",
+      "mensaje": "Doña Beatriz subió a tender ropa y escuchó un llanto seco en la azotea de enfrente. La casa llevaba dos semanas deshabitada con el letrero d",
+      "fecha": "2026-11-23T20:30:00+0000",
+      "reacciones": 0,
+      "comentarios": 0,
+      "compartidos": 0,
+      "tipo": "post",
+      "estado": "publicado"
+    },
+    {
+      "id": "1367888553074849_122111273577507613",
+      "url": "https://www.facebook.com/1367888553074849_122111273577507613",
+      "mensaje": "«Tienes poder sobre tu mente, no sobre los acontecimientos. Date cuenta de esto y encontrarás la fuerza». — Marco Aurelio 🏛️⚔️\n\nHoy te vas ",
+      "fecha": "2026-11-23T17:30:00+0000",
+      "reacciones": 0,
+      "comentarios": 0,
+      "compartidos": 0,
+      "tipo": "post",
+      "estado": "publicado"
+    },
+    {
+      "id": "1367888553074849_122111273517507613",
+      "url": "https://www.facebook.com/1367888553074849_122111273517507613",
+      "mensaje": "Don Marcos llamó al nuevo dueño del taller mecánico que acababa de quebrar. Una voz apresurada le contestó que se estaban llevando la maquin",
+      "fecha": "2026-11-23T12:30:00+0000",
+      "reacciones": 0,
+      "comentarios": 0,
+      "compartidos": 0,
+      "tipo": "post",
+      "estado": "publicado"
+    },
     {
       "id": "1367888553074849_122111273427507613",
       "url": "https://www.facebook.com/1367888553074849_122111273427507613",
@@ -309,39 +342,6 @@
       "compartidos": 0,
       "tipo": "post",
       "estado": "publicado"
-    },
-    {
-      "id": "1367888553074849_122108065623507613",
-      "url": "https://www.facebook.com/1367888553074849_122108065623507613",
-      "mensaje": "«La mejor venganza es no ser como tu enemigo». — Marco Aurelio 🏛️⚖️\n\nCuando alguien te traiciona, te miente o te trata con desprecio, tu pr",
-      "fecha": "2026-11-17T17:30:01+0000",
-      "reacciones": 0,
-      "comentarios": 0,
-      "compartidos": 0,
-      "tipo": "post",
-      "estado": "publicado"
-    },
-    {
-      "id": "1367888553074849_122107866651507613",
-      "url": "https://www.facebook.com/1367888553074849_122107866651507613",
-      "mensaje": "La señora Carmela vio salir el camión de mudanza a toda velocidad. Diez minutos después, una cachorrita peluda y blanca salió corriendo del ",
-      "fecha": "2026-11-17T12:30:01+0000",
-      "reacciones": 0,
-      "comentarios": 0,
-      "compartidos": 0,
-      "tipo": "post",
-      "estado": "publicado"
-    },
-    {
-      "id": "1367888553074849_122107866549507613",
-      "url": "https://www.facebook.com/1367888553074849_122107866549507613",
-      "mensaje": "«No nos afecta lo que nos sucede, sino el juicio que nos formamos de lo que nos sucede». — Epicteto 🏛️🛡️\n\nEpicteto nació esclavo, soportó ",
-      "fecha": "2026-11-17T08:00:05+0000",
-      "reacciones": 0,
-      "comentarios": 0,
-      "compartidos": 0,
-      "tipo": "post",
-      "estado": "publicado"
     }
   ],
   "proximos_programados_meta": [
@@ -540,27 +540,6 @@
       "mensaje": "«Sufrimos más a menudo por la imaginación que por la realidad». — Séneca 🏛️📜\n\n¿Cuántas noches te has quedado despierto creando escenarios ",
       "fecha_programada": "2026-11-24T08:00:00.000Z",
       "estado": "programado_en_meta"
-    },
-    {
-      "id": "1367888553074849_122111386389507613",
-      "url": "https://www.facebook.com/1367888553074849_122111386389507613",
-      "mensaje": "Doña Beatriz subió a tender ropa y escuchó un llanto seco en la azotea de enfrente. La casa llevaba dos semanas deshabitada con el letrero d",
-      "fecha_programada": "2026-11-23T20:30:00.000Z",
-      "estado": "programado_en_meta"
-    },
-    {
-      "id": "1367888553074849_122111273577507613",
-      "url": "https://www.facebook.com/1367888553074849_122111273577507613",
-      "mensaje": "«Tienes poder sobre tu mente, no sobre los acontecimientos. Date cuenta de esto y encontrarás la fuerza». — Marco Aurelio 🏛️⚔️\n\nHoy te vas ",
-      "fecha_programada": "2026-11-23T17:30:00.000Z",
-      "estado": "programado_en_meta"
-    },
-    {
-      "id": "1367888553074849_122111273517507613",
-      "url": "https://www.facebook.com/1367888553074849_122111273517507613",
-      "mensaje": "Don Marcos llamó al nuevo dueño del taller mecánico que acababa de quebrar. Una voz apresurada le contestó que se estaban llevando la maquin",
-      "fecha_programada": "2026-11-23T12:30:00.000Z",
-      "estado": "programado_en_meta"
     }
   ],
   "instagram": {
@@ -569,7 +548,7 @@
     "name": "Huellas con propósito",
     "followers": 1,
     "media_count": 14,
-    "picture": "https://scontent-iad3-2.xx.fbcdn.net/v/t51.82787-15/846964896_18127515184894503_9206256640984781246_n.jpg?_nc_cat=104&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=7d201b&_nc_ohc=WcCTmZpx8Y4Q7kNvwEv1KXP&_nc_oc=AdoZemMxzrouiJtPfG62IrvqxG3sC5untdzCHU2doaQR-YU43pm0ReBwZBQrwLsbfN0&_nc_zt=23&_nc_ht=scontent-iad3-2.xx&edm=AJ-jyNUEAAAA&_nc_gid=q0oawSZR8tyeqNnGKkkZhw&oh=00_AQR8Pz9e9LM8Gim4un5IJ3DOcDQPpeeNLcxJGGst492BBQ&oe=6B09D86E"
+    "picture": "https://scontent-iad3-2.xx.fbcdn.net/v/t51.82787-15/846964896_18127515184894503_9206256640984781246_n.jpg?_nc_cat=104&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=7d201b&_nc_ohc=wDddmPoyfE8Q7kNvwEqDRnM&_nc_oc=AdqwkuspnyvfAPHRXAnDzdvz0JnrRhOAkomb7laobq5XC4DhFwIUhZKqO0mdJFlq_xA&_nc_zt=23&_nc_ht=scontent-iad3-2.xx&edm=AJ-jyNUEAAAA&_nc_gid=iGCIILVnweui6zWeFcq3qA&oh=00_AQSBztS9LeAFMv2SgOHZj6ClWD0EltJE-wz-lBsDvv0qtQ&oe=6B0AB96E"
   },
   "paginas": {
     "1367888553074849": {
@@ -580,8 +559,8 @@
         "seguidores": 46,
         "seguidos": 3,
         "personas_hablando": 28,
-        "foto_perfil": "https://scontent-iad3-1.xx.fbcdn.net/v/t39.30808-1/825286629_28604489712564817_7866327839881392565_n.jpg?stp=dst-jpg_s200x200_tt6&_nc_cat=110&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=f907e8&_nc_ohc=MY3GgrlxWmgQ7kNvwGjP1yR&_nc_oc=Ado7IIzS9xVKnOkqZ0LFFBEuQzCkys1n5dwIKo91Gahwdh-xQLZyEU-Dv6LLYmhozHc&_nc_zt=24&_nc_ht=scontent-iad3-1.xx&edm=AJdBtusEAAAA&_nc_gid=x6yP0_szRvZFXWTsPG2eJw&_nc_tpa=Q5bMBQLFYivs60kez3aeFjNKazFkm2RXJMSh6zu6nerjoHkwzTUGXKcfl_avrw5dAuPOx7Buk87QqiAa_w&oh=00_AQTL6BIOema0FCsF366oXLqCy8t-HU6p-BhgfNQLGFOEuw&oe=6B09CD6B",
-        "ultima_actualizacion": "2026-11-23T09:30:06.947Z"
+        "foto_perfil": "https://scontent-iad3-1.xx.fbcdn.net/v/t39.30808-1/825286629_28604489712564817_7866327839881392565_n.jpg?stp=dst-jpg_s200x200_tt6&_nc_cat=110&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=f907e8&_nc_ohc=aaMWi7wRiigQ7kNvwHHFvE_&_nc_oc=AdpL0kxbleTN__BmS9dhOoXzlerKN2smdcwJ20NKi63GRSKbCkuSzVf_rtP-SkFK8JA&_nc_zt=24&_nc_ht=scontent-iad3-1.xx&edm=AJdBtusEAAAA&_nc_gid=QK39Lxj5T5dNLanwRIq6Ew&_nc_tpa=Q5bMBQKhXqJrTi9ap72P_W7352dfG4-Do2VPpFXkJglmwVaCbzx4ujxqkouesaapDxKpxvnhzfIPqf7Igw&oh=00_AQQo66UMVUCOqbDLELp8I1lTvjj-OfdsQ_1G8VBicnhuCQ&oe=6B0AAE6B",
+        "ultima_actualizacion": "2026-11-24T00:11:20.067Z"
       },
       "resumen_kpis": {
         "total_seguidores": 46,
@@ -594,7 +573,7 @@
         "reacciones_totales": 0,
         "comentarios_totales": 0,
         "compartidos_totales": 0,
-        "programados_en_servidores_meta": 31,
+        "programados_en_servidores_meta": 28,
         "total_publicaciones_sistema": 120
       },
       "rendimiento_por_horario": [
@@ -642,6 +621,39 @@
         }
       ],
       "ultimos_posts_publicados": [
+        {
+          "id": "1367888553074849_122111386389507613",
+          "url": "https://www.facebook.com/1367888553074849_122111386389507613",
+          "mensaje": "Doña Beatriz subió a tender ropa y escuchó un llanto seco en la azotea de enfrente. La casa llevaba dos semanas deshabitada con el letrero d",
+          "fecha": "2026-11-23T20:30:00+0000",
+          "reacciones": 0,
+          "comentarios": 0,
+          "compartidos": 0,
+          "tipo": "post",
+          "estado": "publicado"
+        },
+        {
+          "id": "1367888553074849_122111273577507613",
+          "url": "https://www.facebook.com/1367888553074849_122111273577507613",
+          "mensaje": "«Tienes poder sobre tu mente, no sobre los acontecimientos. Date cuenta de esto y encontrarás la fuerza». — Marco Aurelio 🏛️⚔️\n\nHoy te vas ",
+          "fecha": "2026-11-23T17:30:00+0000",
+          "reacciones": 0,
+          "comentarios": 0,
+          "compartidos": 0,
+          "tipo": "post",
+          "estado": "publicado"
+        },
+        {
+          "id": "1367888553074849_122111273517507613",
+          "url": "https://www.facebook.com/1367888553074849_122111273517507613",
+          "mensaje": "Don Marcos llamó al nuevo dueño del taller mecánico que acababa de quebrar. Una voz apresurada le contestó que se estaban llevando la maquin",
+          "fecha": "2026-11-23T12:30:00+0000",
+          "reacciones": 0,
+          "comentarios": 0,
+          "compartidos": 0,
+          "tipo": "post",
+          "estado": "publicado"
+        },
         {
           "id": "1367888553074849_122111273427507613",
           "url": "https://www.facebook.com/1367888553074849_122111273427507613",
@@ -883,39 +895,6 @@
           "compartidos": 0,
           "tipo": "post",
           "estado": "publicado"
-        },
-        {
-          "id": "1367888553074849_122108065623507613",
-          "url": "https://www.facebook.com/1367888553074849_122108065623507613",
-          "mensaje": "«La mejor venganza es no ser como tu enemigo». — Marco Aurelio 🏛️⚖️\n\nCuando alguien te traiciona, te miente o te trata con desprecio, tu pr",
-          "fecha": "2026-11-17T17:30:01+0000",
-          "reacciones": 0,
-          "comentarios": 0,
-          "compartidos": 0,
-          "tipo": "post",
-          "estado": "publicado"
-        },
-        {
-          "id": "1367888553074849_122107866651507613",
-          "url": "https://www.facebook.com/1367888553074849_122107866651507613",
-          "mensaje": "La señora Carmela vio salir el camión de mudanza a toda velocidad. Diez minutos después, una cachorrita peluda y blanca salió corriendo del ",
-          "fecha": "2026-11-17T12:30:01+0000",
-          "reacciones": 0,
-          "comentarios": 0,
-          "compartidos": 0,
-          "tipo": "post",
-          "estado": "publicado"
-        },
-        {
-          "id": "1367888553074849_122107866549507613",
-          "url": "https://www.facebook.com/1367888553074849_122107866549507613",
-          "mensaje": "«No nos afecta lo que nos sucede, sino el juicio que nos formamos de lo que nos sucede». — Epicteto 🏛️🛡️\n\nEpicteto nació esclavo, soportó ",
-          "fecha": "2026-11-17T08:00:05+0000",
-          "reacciones": 0,
-          "comentarios": 0,
-          "compartidos": 0,
-          "tipo": "post",
-          "estado": "publicado"
         }
       ],
       "proximos_programados_meta": [
@@ -1114,27 +1093,6 @@
           "mensaje": "«Sufrimos más a menudo por la imaginación que por la realidad». — Séneca 🏛️📜\n\n¿Cuántas noches te has quedado despierto creando escenarios ",
           "fecha_programada": "2026-11-24T08:00:00.000Z",
           "estado": "programado_en_meta"
-        },
-        {
-          "id": "1367888553074849_122111386389507613",
-          "url": "https://www.facebook.com/1367888553074849_122111386389507613",
-          "mensaje": "Doña Beatriz subió a tender ropa y escuchó un llanto seco en la azotea de enfrente. La casa llevaba dos semanas deshabitada con el letrero d",
-          "fecha_programada": "2026-11-23T20:30:00.000Z",
-          "estado": "programado_en_meta"
-        },
-        {
-          "id": "1367888553074849_122111273577507613",
-          "url": "https://www.facebook.com/1367888553074849_122111273577507613",
-          "mensaje": "«Tienes poder sobre tu mente, no sobre los acontecimientos. Date cuenta de esto y encontrarás la fuerza». — Marco Aurelio 🏛️⚔️\n\nHoy te vas ",
-          "fecha_programada": "2026-11-23T17:30:00.000Z",
-          "estado": "programado_en_meta"
-        },
-        {
-          "id": "1367888553074849_122111273517507613",
-          "url": "https://www.facebook.com/1367888553074849_122111273517507613",
-          "mensaje": "Don Marcos llamó al nuevo dueño del taller mecánico que acababa de quebrar. Una voz apresurada le contestó que se estaban llevando la maquin",
-          "fecha_programada": "2026-11-23T12:30:00.000Z",
-          "estado": "programado_en_meta"
         }
       ],
       "instagram": {
@@ -1143,7 +1101,7 @@
         "name": "Huellas con propósito",
         "followers": 1,
         "media_count": 14,
-        "picture": "https://scontent-iad3-2.xx.fbcdn.net/v/t51.82787-15/846964896_18127515184894503_9206256640984781246_n.jpg?_nc_cat=104&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=7d201b&_nc_ohc=WcCTmZpx8Y4Q7kNvwEv1KXP&_nc_oc=AdoZemMxzrouiJtPfG62IrvqxG3sC5untdzCHU2doaQR-YU43pm0ReBwZBQrwLsbfN0&_nc_zt=23&_nc_ht=scontent-iad3-2.xx&edm=AJ-jyNUEAAAA&_nc_gid=q0oawSZR8tyeqNnGKkkZhw&oh=00_AQR8Pz9e9LM8Gim4un5IJ3DOcDQPpeeNLcxJGGst492BBQ&oe=6B09D86E"
+        "picture": "https://scontent-iad3-2.xx.fbcdn.net/v/t51.82787-15/846964896_18127515184894503_9206256640984781246_n.jpg?_nc_cat=104&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=7d201b&_nc_ohc=wDddmPoyfE8Q7kNvwEqDRnM&_nc_oc=AdqwkuspnyvfAPHRXAnDzdvz0JnrRhOAkomb7laobq5XC4DhFwIUhZKqO0mdJFlq_xA&_nc_zt=23&_nc_ht=scontent-iad3-2.xx&edm=AJ-jyNUEAAAA&_nc_gid=iGCIILVnweui6zWeFcq3qA&oh=00_AQSBztS9LeAFMv2SgOHZj6ClWD0EltJE-wz-lBsDvv0qtQ&oe=6B0AB96E"
       }
     },
     "1375923958937880": {
@@ -1151,24 +1109,24 @@
         "id": "1375923958937880",
         "nombre": "Metalidad de Acero",
         "categoria": "Digital creator",
-        "seguidores": 1394,
+        "seguidores": 1399,
         "seguidos": 0,
-        "personas_hablando": 910,
-        "foto_perfil": "https://scontent-iad3-1.xx.fbcdn.net/v/t39.30808-1/840874239_28641464222200699_8608299845012300889_n.jpg?stp=dst-jpg_s200x200_tt6&_nc_cat=100&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=f907e8&_nc_ohc=tFpllgHj9BwQ7kNvwE7q72H&_nc_oc=AdogOyxgZzhBKD9oiBZy8BA1DnEaYD22ioP9YbxIEDdxf5hoaY5X4nzh-iLgd1f7t4Y&_nc_zt=24&_nc_ht=scontent-iad3-1.xx&edm=AJdBtusEAAAA&_nc_gid=oySjVOzyQBnDoUEBFr3oBg&_nc_tpa=Q5bMBQLhWGG0kkY6-nCgR6pYeaWcKMxlOShksNQ-UYYIa7gVeH7ujcyI4jwZAOHQU0kU5RaJTuCqJnc9Pg&oh=00_AQQGhNnORsHI6s98UoYDPe9dQ6ZNbkx8HyTVgZgE8P_hPQ&oe=6B09CE4B",
-        "ultima_actualizacion": "2026-11-23T09:30:08.151Z"
+        "personas_hablando": 918,
+        "foto_perfil": "https://scontent-iad3-1.xx.fbcdn.net/v/t39.30808-1/840874239_28641464222200699_8608299845012300889_n.jpg?stp=dst-jpg_s200x200_tt6&_nc_cat=100&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=f907e8&_nc_ohc=tFpllgHj9BwQ7kNvwESrkDE&_nc_oc=AdoEAeIEt6hVrVTETltD4IMNJpWL3V8Hhepyi1DZ0xEkqWMgx-u13aYFbz-H6ncbGZU&_nc_zt=24&_nc_ht=scontent-iad3-1.xx&edm=AJdBtusEAAAA&_nc_gid=2_jr4s2FCDxomjXSSRNP8w&_nc_tpa=Q5bMBQK-S38Se4xgzWNZTZ-Uh3vw11EpwAr23GVbUk2esNXF0kZzhDhNdPGE-2SqPoPPk7Io-YF-le7rcQ&oh=00_AQQTXoSdTp5jcvoWPKX33zi4IVc-leuzDz8M3I09mbMXlQ&oe=6B0AAF4B",
+        "ultima_actualizacion": "2026-11-24T00:11:21.751Z"
       },
       "resumen_kpis": {
-        "total_seguidores": 1394,
-        "seguidores_detalle": "1394 seguidores • 0 seguidos",
+        "total_seguidores": 1399,
+        "seguidores_detalle": "1399 seguidores • 0 seguidos",
         "crecimiento_semanal": "+100%",
-        "seguidores_nuevos_semana": 1394,
-        "personas_hablando": 910,
-        "alcance_estimado": 25092,
+        "seguidores_nuevos_semana": 1399,
+        "personas_hablando": 918,
+        "alcance_estimado": 25182,
         "interacciones_totales": 16,
-        "reacciones_totales": 11,
+        "reacciones_totales": 10,
         "comentarios_totales": 0,
-        "compartidos_totales": 5,
-        "programados_en_servidores_meta": 89,
+        "compartidos_totales": 6,
+        "programados_en_servidores_meta": 91,
         "total_publicaciones_sistema": 176
       },
       "rendimiento_por_horario": [
@@ -1212,10 +1170,21 @@
         },
         {
           "fecha": "12 Oct",
-          "seguidores": 1394
+          "seguidores": 1399
         }
       ],
       "ultimos_posts_publicados": [
+        {
+          "id": "1375923958937880_122115942129512707",
+          "url": "https://www.facebook.com/1375923958937880_122115942129512707",
+          "mensaje": "\"PUEDES ENGAÑAR A TODO EL MUNDO, PERO NO PUEDES ENGAÑAR A TUS PROPIOS RESULTADOS.\"\n\nEl éxito es para los que asumen el 100% de responsabilid",
+          "fecha": "2026-11-23T23:00:00+0000",
+          "reacciones": 0,
+          "comentarios": 0,
+          "compartidos": 0,
+          "tipo": "post",
+          "estado": "publicado"
+        },
         {
           "id": "1375923958937880_122119837077512707",
           "url": "https://www.facebook.com/1375923958937880_122119837077512707",
@@ -1243,7 +1212,7 @@
           "url": "https://www.facebook.com/1375923958937880_122119788153512707",
           "mensaje": "¡Gracias por ser una de las personas que más interactuó esta semana y por estar en mi lista de participación semanal! 🎉 Albert Segura, Vict",
           "fecha": "2026-11-23T00:02:41+0000",
-          "reacciones": 2,
+          "reacciones": 1,
           "comentarios": 0,
           "compartidos": 0,
           "tipo": "post",
@@ -1289,7 +1258,7 @@
           "fecha": "2026-11-22T11:18:39+0000",
           "reacciones": 1,
           "comentarios": 0,
-          "compartidos": 1,
+          "compartidos": 2,
           "tipo": "post",
           "estado": "publicado"
         },
@@ -1468,20 +1437,30 @@
           "compartidos": 0,
           "tipo": "post",
           "estado": "publicado"
-        },
-        {
-          "id": "1375923958937880_122119011687512707",
-          "url": "https://www.facebook.com/1375923958937880_122119011687512707",
-          "mensaje": "Si ayudas a alguien a crecer más que tú, estás cavando tu propia tumba ⚰️\n\nQuien ayuda a otro a hacerse poderoso, cava su propia tumba. 🕳️\n",
-          "fecha": "2026-11-20T17:00:00+0000",
-          "reacciones": 0,
-          "comentarios": 0,
-          "compartidos": 0,
-          "tipo": "post",
-          "estado": "publicado"
         }
       ],
       "proximos_programados_meta": [
+        {
+          "id": "1375923958937880_122120085459512707",
+          "url": "https://www.facebook.com/1375923958937880_122120085459512707",
+          "mensaje": "🌙 AUDITORÍA DE CIERRE DE DÍA 🌙\n\n\"¿TE CONFORMASTE CON LO ACEPTABLE O BUSCASTE LA EXCELENCIA EN CADA DETALLE DE TU JORNADA?\"\n\nLlegó la noche",
+          "fecha_programada": "2026-12-21T21:30:00.000Z",
+          "estado": "programado_en_meta"
+        },
+        {
+          "id": "1375923958937880_122120085393512707",
+          "url": "https://www.facebook.com/1375923958937880_122120085393512707",
+          "mensaje": "🏛️ LEY DE LA GENEROSIDAD DEL FUERTE 🏛️\n\"EL PODER VERDADERO SE DEMUESTRA LEVANTANDO A OTROS, NO APLASTÁNDOLOS\"\n\nEn un mundo lleno de charla",
+          "fecha_programada": "2026-12-21T17:30:00.000Z",
+          "estado": "programado_en_meta"
+        },
+        {
+          "id": "1375923958937880_122120085339512707",
+          "url": "https://www.facebook.com/1375923958937880_122120085339512707",
+          "mensaje": "⚔️ MENTALIDAD ERRÓNEA: EL EGO INFLADO SIN BASE vs MENTALIDAD DE ACERO ⚔️\n\n\"EL EGO ES EL ANESTÉSICO QUE EMBRUTECE EL DOLOR DE TU PROPIA ESTUP",
+          "fecha_programada": "2026-12-21T12:30:00.000Z",
+          "estado": "programado_en_meta"
+        },
         {
           "id": "1375923958937880_122119880769512707",
           "url": "https://www.facebook.com/1375923958937880_122119880769512707",
@@ -2096,13 +2075,6 @@
           "url": "https://www.facebook.com/1375923958937880_122115942201512707",
           "mensaje": "\"EL RIESGO MÁS GRANDE EN ESTA VIDA ES PASARLA SIN HABER ARRIESGADO NADA.\"\n\nEl éxito es para los que asumen el 100% de responsabilidad y no s",
           "fecha_programada": "2026-11-24T23:00:00.000Z",
-          "estado": "programado_en_meta"
-        },
-        {
-          "id": "1375923958937880_122115942129512707",
-          "url": "https://www.facebook.com/1375923958937880_122115942129512707",
-          "mensaje": "\"PUEDES ENGAÑAR A TODO EL MUNDO, PERO NO PUEDES ENGAÑAR A TUS PROPIOS RESULTADOS.\"\n\nEl éxito es para los que asumen el 100% de responsabilid",
-          "fecha_programada": "2026-11-23T23:00:00.000Z",
           "estado": "programado_en_meta"
         }
       ],
